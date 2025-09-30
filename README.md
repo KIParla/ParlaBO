@@ -15,11 +15,6 @@ which can be freely queried through the [NoSketch Engine interface](https://kipa
 The ParlaBO corpus was compiled within the framework of “DiverSIta – Diversity in spoken Italian” project,
 funded by the Italian Ministry of University and Research (MUR) (PRIN 2022 PNRR Call).
 
-
-The ParlaBO corpus is part of the larger KIParla collection (www.kiparla.it), which can be freely queried through the NoSketch Engine interface. 
-
-The ParlaBO corpus has been created as part of the “DiverSIta – Diversity in spoken Italian” project, funded by the Italian Ministry of University and Research (MUR) (PRIN 2022 PNRR Call).
-
 It consists of over 65 hours of spoken data collected in Bologna and its province through
 semi-structured interviews. The interviews, conducted between 2021 and 2024, involved more than
 150 speakers with different origins, ages, education levels, and occupations and covered a variety
