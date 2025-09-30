@@ -1,0 +1,18 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Mauri"
+  given-names: "Caterina"
+  orcid: "https://orcid.org/0000-0002-8226-7846"
+- family-names: "Ballarè"
+  given-names: "Silvia"
+  orcid: "https://orcid.org/0000-0002-5568-1611"
+- family-names: "Zucchini"
+  given-names: "Eleonora"
+  orcid: "https://orcid.org/0000-0001-6497-7310"
+title: "Modulo ParlaBO"
+version: 1.0.0
+doi: https://doi.org/10.60760/unibo/parlabo
+date-released: 2025-10-01
+url: "https://github.com/KIParla/ParlaBO"
