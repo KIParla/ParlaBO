@@ -80,7 +80,7 @@ Metadata is to be interpreted as follows:
 Conversations are also available in a vertical, pseudo-tokenized version in [`tsv/`](./tsv/).
 Tokenization is obtained by validating the Jefferson transcription using custom [tools](https://github.com/LaboratorioSperimentale/kiparla-tools)and splitting on token boundaries: whitespaces, prosodic links (`=`), and apostrophes used for elision in Italian orthography. Each transcription-derived token is then documented on one row.
 
-Each token is represented as 12 columns, as follows:
+Each token is represented as 13 columns, as follows:
 
 1. `token_id`: unique token identifier within the conversation
 2. `speaker`: speaker `code` as it can be found in [`metadata/participants.tsv`](metadata/participants.tsv)
@@ -93,24 +93,25 @@ Each token is represented as 12 columns, as follows:
    - `shortpause` that identify pauses
    - `unknown` that identify unintelligible spans in transcription
    - `error` is a residual class to mark cases where the transcription is not well formed according to Jefferson format. Therefore, the token is not analyzed and transcription will be corrected in future releases.
-7. `jefferson_feats`: the column collects a list of word-level features derived from the transcription in Jefferson format. More specifically:
+7. `variation` encodes whether the transcription unit includes code mixing with dialects. In this case, all tokens in the unit have `some` as a value, otherwise `none` is used.
+8. `jefferson_feats`: the column collects a list of word-level features derived from the transcription in Jefferson format. More specifically:
    - `SpaceAfter=No`: no whitespace between this token and the next (e.g., `l'` in `l'anno`)
    - `ProsodicLink=Yes`: a prosodic link (=) to the following token,
    - `Intonation` can assume values `Falling`, `Rising` or `WeaklyRising` and translates word final punctuation sign in Jefferson transcriptions (i.e., `.`, `?` and `,` respectively)
    - `Interrupted=Yes`: words interrupted in speech, transcribed with final, transcribed with final `~`
    - `Truncated=Yes`: truncated forms (e.g., `anda'` for `andare`, common in some Italian varieties)
    - `Volume` can assume values `High` or `Low` and translated Jefferson's uppercase and `°` respectively
-8. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in milliseconds
-9. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
+9. `align`: alignment features for the first and last token of each TU, through `AlignBegin` and `AlignEnd` features expressed in milliseconds
+10. `prolongations`: positions of sound prolongations (colons `:`) within the word, encoded as a comma-separated list of `<char_id>x<count>` pairs
 	- `char_id` is the zero-based index of the character in the token's orthographic form.
 	- `count` is the number of consecutive colons immediately following that character in the original span
 	- example: for span = `ese::mpio:`, its orthographic form is `esempio` and the prolongations field would assume value `2x2,6x1` (the 3rd letter `e` has 2 colons; the 7th letter `o` has 1 colon).
-10. `pace`: marks whether the token participates in a fast or slow paced span within the word.
+11. `pace`: marks whether the token participates in a fast or slow paced span within the word.
 	- Format: `Fast=<char_id_start>-<char_id_end>` or `Slow=<char_id_start>-<char_id_end>`
 	- Indices are zero-based, inclusive, and refer to character positions in form
-11. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the Jefferson transcription).
+12. `guesses`: character span(s) transcribed as uncertain (i.e., in round brackets in the Jefferson transcription).
 	- Format: `<char_id_start>-<char_id_end>` (zero-based, inclusive, over form)
-12. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier.
+13. `overlaps`: comma-separated list of character spans participating in simultaneous speech, with an overlap group identifier.
 	- Format: `<char_id_start>-<char_id_end>(<overlap_id>)`, where indices are are zero-based, inclusive indices over form and `overlap_id` is the progressive number of the overlapping group within the TU
 	- Examples: the span `e[se]mp[i` would be encoded as `1-3(2),5-6(3)` meaning that characters from position one (inclusive) to three (exclusive) participate to span number 2 while the last character (with id 5) participates to the third overlapping span of the transcription unit. When the overlapping id was not decidable, a `?` is used
 
