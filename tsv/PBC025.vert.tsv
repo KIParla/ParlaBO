@@ -182,9 +182,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 38-0	BOI112	38	[no]	no	linguistic	none	_	Begin=78.999|End=79.252	_	_	_	0-2(5)
 39-0	BOI112	39	sono:	sono	linguistic	none	_	Begin=80.584	3x1	_	_	_
 39-1	BOI112	39	dieci	dieci	linguistic	none	_	_	_	_	_	_
-39-2	BOI112	39	<anni	anni	linguistic	none	_	_	_	Slow=0-4(0)	_	_
-39-3	BOI112	39	e	e	linguistic	none	_	_	_	Slow=0-1(0)	_	_
-39-4	BOI112	39	mezzo>	mezzo	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+39-2	BOI112	39	<anni	anni	linguistic	none	_	_	_	Slow=0-4	_	_
+39-3	BOI112	39	e	e	linguistic	none	_	_	_	Slow=0-1	_	_
+39-4	BOI112	39	mezzo>	mezzo	linguistic	none	_	_	_	Slow=0-5	_	_
 39-5	BOI112	39	che	che	linguistic	none	_	_	_	_	_	_
 39-6	BOI112	39	abito	abito	linguistic	none	_	_	_	_	_	_
 39-7	BOI112	39	qua,	qua	linguistic	none	Intonation=WeaklyRising	End=83.805	_	_	_	_
@@ -7719,7 +7719,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1320-2	BOI112	1320	tutto	tutto	linguistic	none	_	_	_	_	_	_
 1320-3	BOI112	1320	di	di	linguistic	none	_	_	_	_	_	_
 1320-4	BOI112	1320	riqualificazione	riqualificazione	linguistic	none	_	_	_	_	_	_
-1320-5	BOI112	1320	<anche>	anche	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+1320-5	BOI112	1320	<anche>	anche	linguistic	none	_	_	_	Slow=0-5	_	_
 1320-6	BOI112	1320	i	i	linguistic	none	_	_	_	_	_	_
 1320-7	BOI112	1320	giardini	giardini	linguistic	none	_	_	_	_	_	_
 1320-8	BOI112	1320	del	del	linguistic	none	_	_	_	_	_	_

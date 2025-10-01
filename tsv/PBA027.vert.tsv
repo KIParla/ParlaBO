@@ -95,7 +95,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 24-7	BOR036	24	hai	hai	linguistic	none	_	_	_	_	_	_
 24-8	BOR036	24	cambiat[o::]	cambiato	linguistic	none	_	End=36.091	7x2	_	_	7-8(7)
 25-0	BOI106	25	[sem]pre:	sempre	linguistic	none	_	Begin=35.916	5x1	_	_	0-3(7)
-25-1	BOI106	25	<vissuto>	vissuto	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+25-1	BOI106	25	<vissuto>	vissuto	linguistic	none	_	_	_	Slow=0-7	_	_
 25-2	BOI106	25	lì	lì	linguistic	none	_	_	_	_	_	_
 25-3	BOI106	25	a	a	linguistic	none	_	_	_	_	_	_
 25-4	BOI106	25	granarolo,	granarolo	linguistic	none	Intonation=WeaklyRising	End=38.106	_	_	_	_
@@ -2181,7 +2181,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 433-3	BOI106	433	in	in	linguistic	none	_	_	_	_	_	_
 433-4	BOI106	433	agenz[ia	agenzia	linguistic	none	_	_	_	_	_	5-7(105)
 433-5	BOI106	433	okay]	okay	linguistic	none	_	End=778.343	_	_	_	0-4(105)
-434-0	BOR036	434	[<est]erna>,	esterna	linguistic	none	Intonation=WeaklyRising	Begin=777.951|End=778.933	_	Slow=0-7(0)	_	0-3(105)
+434-0	BOR036	434	[<est]erna>,	esterna	linguistic	none	Intonation=WeaklyRising	Begin=777.951|End=778.933	_	Slow=0-7	_	0-3(105)
 435-0	BOR036	435	che	che	linguistic	none	_	Begin=779.207	_	_	_	_
 435-1	BOR036	435	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 435-2	BOR036	435	[vince	vince	linguistic	none	_	_	_	_	_	0-5(106)
@@ -2698,9 +2698,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 538-0	BOI106	538	sì.	sì	linguistic	none	Intonation=Falling	Begin=951.743	_	_	_	_
 538-1	BOI106	538	li	li	linguistic	none	_	_	_	_	_	_
 538-2	BOI106	538	fa:	fa	linguistic	none	_	_	1x1	_	_	_
-538-3	BOI106	538	<mia	mia	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-538-4	BOI106	538	mamma,	mamma	linguistic	none	Intonation=WeaklyRising	_	_	Slow=0-5(0)	_	_
-538-5	BOI106	538	con:>	con	linguistic	none	_	End=954.318	2x1	Slow=0-3(0)	_	_
+538-3	BOI106	538	<mia	mia	linguistic	none	_	_	_	Slow=0-3	_	_
+538-4	BOI106	538	mamma,	mamma	linguistic	none	Intonation=WeaklyRising	_	_	Slow=0-5	_	_
+538-5	BOI106	538	con:>	con	linguistic	none	_	End=954.318	2x1	Slow=0-3	_	_
 539-0	BOI106	539	adesso,	adesso	linguistic	none	Intonation=WeaklyRising	Begin=954.318	_	_	_	_
 539-1	BOI106	539	li	li	linguistic	none	_	_	_	_	_	_
 539-2	BOI106	539	fa	fa	linguistic	none	_	_	_	_	_	_
@@ -2865,9 +2865,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 566-5	BOI107	566	che	che	linguistic	none	_	_	_	_	_	_
 566-6	BOI107	566	ho	ho	linguistic	none	_	_	_	_	_	_
 566-7	BOI107	566	fatto	fatto	linguistic	none	_	_	_	_	_	_
-566-8	BOI107	566	<a	a	linguistic	none	_	_	_	Slow=0-1(0)	_	_
-566-9	BOI107	566	casa	casa	linguistic	none	_	_	_	Slow=0-4(0)	_	_
-566-10	BOI107	566	loro>,	loro	linguistic	none	Intonation=WeaklyRising	End=1006.093	_	Slow=0-4(0)	_	_
+566-8	BOI107	566	<a	a	linguistic	none	_	_	_	Slow=0-1	_	_
+566-9	BOI107	566	casa	casa	linguistic	none	_	_	_	Slow=0-4	_	_
+566-10	BOI107	566	loro>,	loro	linguistic	none	Intonation=WeaklyRising	End=1006.093	_	Slow=0-4	_	_
 567-0	BOI106	567	[sì	sì	linguistic	none	_	Begin=1003.456	_	_	_	0-2(146)
 567-1	BOI106	567	ah],	ah	linguistic	none	Intonation=WeaklyRising	End=1004.189	_	_	_	0-2(146)
 568-0	BOI106	568	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1006.117|End=1007.316	_	_	_	_
@@ -4010,7 +4010,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 771-6	BOI107	771	soprat[tutto]	soprattutto	linguistic	none	_	_	_	_	_	6-11(191)
 771-7	BOI107	771	nell'	nell'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 771-8	BOI107	771	ambito:	ambito	linguistic	none	_	_	5x1	_	_	_
-771-9	BOI107	771	<sanitario>	sanitario	linguistic	none	_	End=1417.525	_	Slow=0-9(0)	_	_
+771-9	BOI107	771	<sanitario>	sanitario	linguistic	none	_	End=1417.525	_	Slow=0-9	_	_
 772-0	BOI106	772	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1414.796	_	_	_	_
 772-1	BOI106	772	[esatto]	esatto	linguistic	none	_	End=1415.883	_	_	_	0-6(191)
 773-0	BOI107	773	ovvio	ovvio	linguistic	none	_	Begin=1417.736	_	_	_	_
@@ -4242,7 +4242,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 818-1	BOI106	818	hanno<	hanno	linguistic	none	_	_	_	Fast=0-5	_	_
 818-2	BOI106	818	mai	mai	linguistic	none	_	_	_	_	_	_
 818-3	BOI106	818	avuto:	avuto	linguistic	none	_	_	4x1	_	_	_
-818-4	BOI106	818	<troppo>	troppo	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+818-4	BOI106	818	<troppo>	troppo	linguistic	none	_	_	_	Slow=0-6	_	_
 818-5	BOI106	818	la	la	linguistic	none	_	_	_	_	_	_
 818-6	BOI106	818	c(io)è	cioè	linguistic	none	_	End=1506.905	_	_	1-3(0)	_
 819-0	BOI106	819	mai	mai	linguistic	none	_	Begin=1507.06	_	_	_	_
@@ -4298,7 +4298,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 827-6	BOR036	827	sì	sì	linguistic	none	_	End=1526.88	_	_	_	_
 828-0	BOI107	828	[chi	chi	linguistic	none	_	Begin=1524.646	_	_	_	0-3(?)
 828-1	BOI107	828	xxxx]	x	unknown	none	_	End=1525.625	_	_	_	0-4(?)
-829-0	BOI106	829	[<SAPREBBERO>],	saprebbero	linguistic	none	Intonation=WeaklyRising|Volume=High	Begin=1525.069|End=1526.329	_	Slow=0-10(0)	_	0-10(483)
+829-0	BOI106	829	[<SAPREBBERO>],	saprebbero	linguistic	none	Intonation=WeaklyRising|Volume=High	Begin=1525.069|End=1526.329	_	Slow=0-10	_	0-10(483)
 830-0	BOI107	830	[esa~]	esa~	linguistic	none	Interrupted=Yes	Begin=1526.346	_	_	_	0-4(205)
 830-1	BOI107	830	((ride))	((ride))	nonverbalbehavior	none	_	End=1526.65	_	_	_	_
 831-0	BOI106	831	sa[prei:,	saprei	linguistic	none	Intonation=WeaklyRising	Begin=1526.923	5x1	_	_	2-6(206)
@@ -4761,7 +4761,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 934-4	BOI107	934	e:	e	linguistic	none	_	End=1696.298	0x1	_	_	_
 935-0	BOI107	935	insegnassero:	insegnassero	linguistic	none	_	Begin=1696.3	11x1	_	_	_
 935-1	BOI107	935	anche:	anche	linguistic	none	_	_	4x1	_	_	_
-935-2	BOI107	935	<qualcosa>	qualcosa	linguistic	none	_	_	_	Slow=0-8(0)	_	_
+935-2	BOI107	935	<qualcosa>	qualcosa	linguistic	none	_	_	_	Slow=0-8	_	_
 935-3	BOI107	935	della	della	linguistic	none	_	_	_	_	_	_
 935-4	BOI107	935	loro	loro	linguistic	none	_	_	_	_	_	_
 935-5	BOI107	935	cultura	cultura	linguistic	none	_	_	_	_	_	_
@@ -4988,7 +4988,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 980-4	BOI107	980	(comunque)	comunque	linguistic	none	_	_	_	_	0-8(0)	_
 980-5	BOI107	980	aperto	aperto	linguistic	none	_	_	_	_	_	_
 980-6	BOI107	980	al	al	linguistic	none	_	End=1786.607	_	_	_	_
-981-0	BOI107	981	<molto>	molto	linguistic	none	_	Begin=1786.607	_	Slow=0-5(0)	_	_
+981-0	BOI107	981	<molto>	molto	linguistic	none	_	Begin=1786.607	_	Slow=0-5	_	_
 981-1	BOI107	981	aperti	aperti	linguistic	none	_	_	_	_	_	_
 981-2	BOI107	981	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 981-3	BOI107	981	altro.	altro	linguistic	none	Intonation=Falling	_	_	_	_	_
@@ -5155,8 +5155,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1011-1	BOI107	1011	volevo],	volevo	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-6(252)
 1011-2	BOI107	1011	an[che	anche	linguistic	none	_	_	_	_	_	2-5(253)
 1011-3	BOI107	1011	fare	fare	linguistic	none	_	_	_	_	_	0-4(253)
-1011-4	BOI107	1011	<col	col	linguistic	none	_	_	_	Slow=0-3(0)	_	0-3(253)
-1011-5	BOI107	1011	prosciutto>],	prosciutto	linguistic	none	Intonation=WeaklyRising	End=1842.151	_	Slow=0-10(0)	_	0-10(253)
+1011-4	BOI107	1011	<col	col	linguistic	none	_	_	_	Slow=0-3	_	0-3(253)
+1011-5	BOI107	1011	prosciutto>],	prosciutto	linguistic	none	Intonation=WeaklyRising	End=1842.151	_	Slow=0-10	_	0-10(253)
 1012-0	BOI106	1012	(im)panato	impanato	linguistic	none	_	Begin=1840.631	_	_	0-2(0)	_
 1012-1	BOI106	1012	fritto,	fritto	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 1012-2	BOI106	1012	poi:	poi	linguistic	none	_	_	2x1	_	_	_
@@ -5248,8 +5248,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1036-0	BOI106	1036	°e:h°	eh	linguistic	none	Volume=Low	Begin=1869.034|End=1870.333	0x1	_	_	_
 1037-0	BOI106	1037	secondo	secondo	linguistic	none	_	Begin=1870.934	_	_	_	_
 1037-1	BOI106	1037	[me,	me	linguistic	none	Intonation=WeaklyRising	_	_	_	_	0-2(267)
-1037-2	BOI106	1037	<in	in	linguistic	none	_	_	_	Slow=0-2(0)	_	0-2(267)
-1037-3	BOI106	1037	ge]nerale>	generale	linguistic	none	_	_	_	Slow=0-8(0)	_	0-2(267)
+1037-2	BOI106	1037	<in	in	linguistic	none	_	_	_	Slow=0-2	_	0-2(267)
+1037-3	BOI106	1037	ge]nerale>	generale	linguistic	none	_	_	_	Slow=0-8	_	0-2(267)
 1037-4	BOI106	1037	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1037-5	BOI106	1037	x	x	unknown	none	_	_	_	_	_	_
 1037-6	BOI106	1037	c(io)è	cioè	linguistic	none	_	End=1874.245	_	_	1-3(0)	_
@@ -5481,7 +5481,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1080-5	BOI106	1080	europea	europea	linguistic	none	_	_	_	_	_	_
 1080-6	BOI106	1080	[e	e	linguistic	none	_	_	_	_	_	0-1(278)
 1080-7	BOI106	1080	asiatica]?	asiatica	linguistic	none	Intonation=Rising	End=1956.614	_	_	_	0-8(278)
-1081-0	BOI107	1081	[<sì>]	sì	linguistic	none	_	Begin=1955.684	_	Slow=0-2(0)	_	0-2(278)
+1081-0	BOI107	1081	[<sì>]	sì	linguistic	none	_	Begin=1955.684	_	Slow=0-2	_	0-2(278)
 1081-1	BOI107	1081	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1081-2	BOI107	1081	sì	sì	linguistic	none	_	_	_	_	_	_
 1081-3	BOI107	1081	anche	anche	linguistic	none	_	_	_	_	_	_

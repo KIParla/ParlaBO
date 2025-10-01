@@ -5200,7 +5200,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 891-2	BOI067	891	come	come	linguistic	none	_	_	_	Fast=0-4	_	_
 891-3	BOI067	891	dire<	dire	linguistic	none	_	_	_	Fast=0-4	_	_
 891-4	BOI067	891	come	come	linguistic	none	_	_	_	_	_	_
-891-5	BOI067	891	<attenzione>	attenzione	linguistic	none	_	End=2119.528	_	Slow=0-10(0)	_	_
+891-5	BOI067	891	<attenzione>	attenzione	linguistic	none	_	End=2119.528	_	Slow=0-10	_	_
 892-0	BOI067	892	a	a	linguistic	none	_	Begin=2120.253	_	_	_	_
 892-1	BOI067	892	me	me	linguistic	none	_	End=2120.877	_	_	_	_
 893-0	BOI067	893	molto	molto	linguistic	none	_	Begin=2121.8	_	_	_	_
@@ -5963,7 +5963,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1027-0	BOI067	1027	il	il	linguistic	none	_	Begin=2445.944	_	_	_	_
 1027-1	BOI067	1027	che	che	linguistic	none	_	_	_	_	_	_
 1027-2	BOI067	1027	spacca	spacca	linguistic	none	_	End=2447.045	_	_	_	_
-1028-0	BOI067	1028	<sottolineato>	sottolineato	linguistic	none	_	Begin=2448.591	_	Slow=0-12(0)	_	_
+1028-0	BOI067	1028	<sottolineato>	sottolineato	linguistic	none	_	Begin=2448.591	_	Slow=0-12	_	_
 1028-1	BOI067	1028	((ride))	((ride))	nonverbalbehavior	none	_	End=2450.591	_	_	_	_
 1029-0	BOI067	1029	però	però	linguistic	none	_	Begin=2453.658	_	_	_	_
 1029-1	BOI067	1029	conto	conto	linguistic	none	_	_	_	_	_	_

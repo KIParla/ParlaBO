@@ -18,7 +18,7 @@ BOI013	questa è la dozza eh
 BOI012	però è quartiere corticella
 BOR005	no
 BOR005	ah okay
-BOI012	e  le scuole le avete frequentate qui o in altri quartieri in altre città
+BOI012	e le scuole le avete frequentate qui o in altri quartieri in altre città
 BOI013	altri quartieri
 BOR005	altri quartieri
 BOR005	ah okay
@@ -26,7 +26,7 @@ BOI013	e i vostri amici vivono ancora nei quartieri dove abitavate voi o si sono
 BOI012	no
 BOI013	alcuni sì alcuni no
 BOR005	no
-BOI013	e  vi piace questa zona
+BOI013	e vi piace questa zona
 BOI012	no
 BOI013	a me no a me no
 BOR005	
@@ -41,7 +41,7 @@ BOI012
 BOI013	e quant'altro così
 BOR005	chiuderei questa strada e la farei solamente per noi
 BOI013	
-BOI013	troppo trafficata di camion macchine  troppo
+BOI013	troppo trafficata di camion macchine troppo
 BOR005	non se~ si sta più
 BOI012	e oltre al traffico ci sono anche altri problemi
 BOI013	no eh no
@@ -55,20 +55,20 @@ BOR005	e
 BOR005	quan~ e nel
 BOR005	visto che comunque
 BOI013	quindi devi spostarti spesso per cercare tipo negozi
-BOR005	sì  per andare a far la spesa sì
+BOR005	sì per andare a far la spesa sì
 BOI012	ma li trovate qua nelle vicinanze o dovete spostarvi parecchio
 BOI012	sì
 BOI012	sì
 BOR005	nelle vicinanze ma necessita l'automobile comunque
 BOI013	ah
 BOR005	o la corriera
-BOI012	e  voi principalmente cove come mi vi muovete in città
+BOI012	e voi principalmente cove come mi vi muovete in città
 BOI013	in auto
 BOR005	autobus
 BOI013	e qua però ne passano pochi
-BOR005	sì  la linea azzurra
-BOI013	e quindi  mh la fermata più vicina qual è
-BOR005	no la vici~ la fermata è vicina  però ci sono gli orari
+BOR005	sì la linea azzurra
+BOI013	e quindi mh la fermata più vicina qual è
+BOR005	no la vici~ la fermata è vicina però ci sono gli orari
 BOI013	ah
 BOR005	se perdo un autobus poi devo s~ aspettare un'altra ora
 BOI013	ah okay quindi la mobilità è molto ridotta
@@ -77,12 +77,12 @@ BOR005	specialmente di domenica festivi
 BOR005	mh
 BOI012	invece in auto com'è spostarsi da qua
 BOI012	ah eh
-BOR005	ti sposti in auto come come da tutte le altre parti prendi la macchina  e vai dove devi andare cioè
+BOR005	ti sposti in auto come come da tutte le altre parti prendi la macchina e vai dove devi andare cioè
 BOR005	e
-BOR005	invece  parlando di bologna in generale
+BOR005	invece parlando di bologna in generale
 BOI013	pensate che la città sia cambiata molto negli ultimi anni
 BOI012	sì
-BOI013	mah  non so
+BOI013	mah non so
 BOI013	sì
 BOI013	sì
 BOR005	cioè per me sì
@@ -94,7 +94,7 @@ BOR005	cambiata che era più vivibile prima
 BOI013	quindi per te è cambiata in peggio
 BOR005	per me è cambiata in peggio
 BOI013	eh ma in che senso in peggio
-BOR005	eh in peggio perché non  prima c'era più sicurezza adesso è meno sicura bologna
+BOR005	eh in peggio perché non prima c'era più sicurezza adesso è meno sicura bologna
 BOI013	ma dici a~ i~ tipo in determinate zone o più in generale dappertutto
 BOI013	in ge~ no eh in determinate zone
 BOI013	prima era più tranquilla bologna
@@ -107,8 +107,8 @@ BOI013	mh
 BOI012	ma non c'entra u covid
 BOI013	ah eh
 BOI012	non centra
-BOI013	ah centra  c'entra
-BOR005	no la gente ha più paura di uscire  di sera
+BOI013	ah centra c'entra
+BOR005	no la gente ha più paura di uscire di sera
 BOI013	mh
 BOI012	ha più paura
 BOR005	ah io tutta sta paura non mh
@@ -117,7 +117,7 @@ BOI012	no
 BOI013	no
 BOI013	ah io mh
 BOI012	io abitavo in stazione centrale
-BOI013	xxx  traffico magari c'è più traffico
+BOI013	xxx traffico magari c'è più traffico
 BOI012	si nota
 BOI013	però cioè mh
 BOR005	la differenza enrico
@@ -125,7 +125,7 @@ BOI013	ma che in che senso questa differenza che non ho ben capito
 BOI012	che prima cioè e io abitavo e enri~ io abitavo in stazione centrale
 BOI013	mh
 BOI012	io tornavo a casa senza problemi
-BOR005	sì  poi hanno fatto esplodere una bomba gina è cambiato tutto
+BOR005	sì poi hanno fatto esplodere una bomba gina è cambiato tutto
 BOI013	
 BOI012	che cavolo dici
 BOI013	ah che cavolo dici
@@ -141,20 +141,20 @@ BOI013	l'ultima volta in centro
 BOI012	perché non vado in centro io
 BOI013	vabbè dire in questo
 BOI012	non vado in piazzola non vado in montagnola
-BOI013	beh va beh oh  punti di vista io non mh
+BOI013	beh va beh oh punti di vista io non mh
 BOI012	cioè vai sa~ vai sotto il sottopassaggio della all'autostazione
 BOI013	mh
 BOI013	che
 BOI013	che trovi sempre spacciatori che ti ve~
 BOI013	che ti danno della
 BOI013	uh vuole qualcosa signora
-BOI013	ne vuole ma ma sa vut  dalla vita
+BOI013	ne vuole ma ma sa vut dalla vita
 BOI012	cioè cio~ enrico tu il problema è che tu prendi là la macchina e non gir~
 BOI013	mh
 BOI013	io prendo la corriera l'autostazione
 BOI013	è piena piena piena
 BOR005	è brutto dirlo ma è così
-BOI013	ma secondo te questi problemi quindi di delinquenza di spaccio sono limitati ad alcune aree o  un po' in tutta bologna indistintamente
+BOI013	ma secondo te questi problemi quindi di delinquenza di spaccio sono limitati ad alcune aree o un po' in tutta bologna indistintamente
 BOI013	no io non è che poi conosco tutta la do~
 BOI013	cioè sicuramente la stazione l'autostazione ci sono
 BOI013	determinati punti che più
@@ -167,7 +167,7 @@ BOR005	io esco enrico
 BOI013	mh
 BOI013	cioè e si notano
 BOI013	le sige~ le persone proprio che
-BOI013	e  a~ dedite allo spaccio ma anche qui in piazza dell'unità
+BOI013	e a~ dedite allo spaccio ma anche qui in piazza dell'unità
 BOR005	sai quante volte
 BOI013	mh
 BOR005	vediamo bottigliate
@@ -194,14 +194,14 @@ BOI013	no no io
 BOR005	preferisco bologna di altre città
 BOI012	mh
 BOI013	non ho mai abitato in altre città non posso dirlo
-BOI012	bah a me non mi piacerebbe abitare a roma milano  torino
+BOI012	bah a me non mi piacerebbe abitare a roma milano torino
 BOI013	che ne sai io non ci so~ non ci sono
-BOI013	città  troppo grandi
+BOI013	città troppo grandi
 BOR005	bologna è
 BOI013	mh
 BOI013	è una città più piccola
 BOI012	di n~ proprio incontri
-BOI013	beh  ma è l'idea gina ma
+BOI013	beh ma è l'idea gina ma
 BOI013	sempre
 BOI012	è l'ambiente
 BOI013	non hai un termine di confronto perché non ci sei non ci sei mai abitata di fatto
@@ -223,8 +223,8 @@ BOI012	vabbè tu vieni da fuori bologna
 BOR005	io prima abitavo a pianoro ma ero sempre a bologna comunque cioè
 BOR005	mh
 BOR005	e
-BOR005	rispetto  cioè quindi prima a pianoro
-BOI012	comunque immagino sia un  piccolo comune
+BOR005	rispetto cioè quindi prima a pianoro
+BOI012	comunque immagino sia un piccolo comune
 BOI012	beh insomma piccolo neanche tanto insomma
 BOI012	è un bel comune
 BOI012	abbastanza grandino c'avrà non so
@@ -238,12 +238,12 @@ BOR005	mh
 BOR005	secondo voi vedendo
 BOR005	mh soprattutto tu gina che hai detto che comunque
 BOR005	ti capita di stare in centro
-BOR005	vi sembra che  i giovani di oggi  vivano la città
+BOR005	vi sembra che i giovani di oggi vivano la città
 BOI013	nello stesso modo in cui lo vivevate voi da giovani
 BOI012	ah io questo non lo so
 BOI013	non lo so sai i giovani io coi giovani non ho dei gran contatti molto
 BOI012	non non non lo so
-BOI013	non mh lo so cosa fanno i giovani  adesso
+BOI013	non mh lo so cosa fanno i giovani adesso
 BOR005	xx
 BOR005	ma
 BOR005	al mh
@@ -264,7 +264,7 @@ BOI012	tis~ ti ricordi ve
 BOI012	ah gina cioè io non c~
 BOR005	non son mai andato all'ultimo dell'anno in piazza maggiore cioè ho cominciato a andarci da quando
 BOI012	
-BOI013	stiamo as~ stiamo assieme  perché prima non si andava l'ultimo dell'anno in piazza maggiore
+BOI013	stiamo as~ stiamo assieme perché prima non si andava l'ultimo dell'anno in piazza maggiore
 BOI013	eh eh eh
 BOI012	e com'era l'ultimo che ci siamo andati
 BOI013	ma c'era una gran confusione ma si sa è logico
@@ -275,7 +275,7 @@ BOI013	la macchina che bruciava non me la ricordo
 BOR005	ah io invece sì perché io mi son presa paura
 BOI013	ah c'era una macchina bruciata
 BOI013	sì
-BOI012	e non so come facevano a andare in piazza maggiore con dei bambini  sulle spalle
+BOI012	e non so come facevano a andare in piazza maggiore con dei bambini sulle spalle
 BOI012	eh cioè è una piazza cioè voglio dire ci puoi andare con chi vuoi
 BOR005	cioè
 BOR005	invece
@@ -284,11 +284,11 @@ BOR005	e
 BOR005	voi avete in mente un qualche aneddoto particolare di un
 BOR005	qualcosa un'esperienza
 BOR005	che vi ricordate che vi è accaduta legata i portici
-BOR005	non  magari mentre vi passeggiavate
+BOR005	non magari mentre vi passeggiavate
 BOI013	alle scritte che ci sono scritte su i muri
 BOR005	i murales
 BOI013	mh
-BOI012	che ci sono  in alcuni portici
+BOI012	che ci sono in alcuni portici
 BOI012	no
 BOI013	niente di particolare a parte la gente che si fermava a suonare sotto i portici
 BOR005	di bologna
@@ -297,7 +297,7 @@ BOI013	in centro
 BOI013	ci sono delle z~ oppure ci sono dei murales adesso
 BOI012	hanno il coso di fare i murales
 BOI013	in centro sotto i portici
-BOI012	ci sono dei  sì so~
+BOI012	ci sono dei sì so~
 BOI013	non li ho mai visti
 BOR005	sì sì
 BOI013	mh
@@ -309,7 +309,7 @@ BOR005	mhmh
 BOR005	ma
 BOR005	questi musicisti in che
 BOI012	in che zona erano del centro
-BOR005	in centro  proprio in centro nelle zone via rizzoli
+BOR005	in centro proprio in centro nelle zone via rizzoli
 BOI012	ah okay
 BOI012	nei portici proprio quelli centrali
 BOI012	portico sì del il pavaglione quelli
@@ -334,12 +334,12 @@ BOI013	ah
 BOI013	beppe maniglia
 BOI012	
 BOR005	eh
-BOI013	che poi adesso i portici sono diventati patrimonio esatto  patrimonio dell'umanità
+BOI013	che poi adesso i portici sono diventati patrimonio esatto patrimonio dell'umanità
 BOR005	dell'unesco
-BOR005	invece  vi ricordate
+BOR005	invece vi ricordate
 BOI012	qual è stata la prima volta che siete stati a san luca
 BOI013	bah io non mi ric~
-BOI012	ah io sì  con mio padre
+BOI012	ah io sì con mio padre
 BOI013	mh bambino anch'io da piccolo con i miei genitori
 BOI013	era la classica passeggiata
 BOI013	fatta da via agucchi
@@ -370,24 +370,24 @@ BOI013	bene
 BOI012	no qualcosa ci doveva essere
 BOR005	contezza del tempo ma quello è
 BOI012	ma questa funivia cioè da mh da dove partiva
-BOR005	partiva  da da come si chiama via  porrettana mi sembra
+BOR005	partiva da da come si chiama via porrettana mi sembra
 BOI012	mhmh
 BOR005	di dopo lo stadio no
 BOI012	okay
 BOI012	cioè proprio
 BOR005	c'era la stazione della funivia e andava su fino a san luca
 BOR005	mhmh
-BOI013	e anche  tu l'hai presa mai
+BOI013	e anche tu l'hai presa mai
 BOR005	no no no no
 BOI013	però sapevi dell'esistenza della funivia
-BOI013	sì  sì sì sì
+BOI013	sì sì sì sì
 BOR005	vabbè sempre a piedi sono andata
 BOI012	
 BOI012	ma sì ma è s~
 BOR005	è un sacco di tempo che non c'è più
 BOI012	ah
-BOR005	ci son stato proprio da da piccolo  cioè
-BOR005	e  avete un ricordo
+BOR005	ci son stato proprio da da piccolo cioè
+BOR005	e avete un ricordo
 BOR005	particolare legato a san luca
 BOR005	un'esperienza
 BOI012	di cui vi ricordate particolarmente
@@ -397,7 +397,7 @@ BOI012	il mio parroco
 BOI012	no io mi ricordo mi ricordo com'è
 BOI012	la basilica dentro ma non
 BOI012	cioè in particolare no
-BOR005	non esperienze particolari no  cioè
+BOR005	non esperienze particolari no cioè
 BOI013	chi era di voi due che non voleva andarci prima del matrimonio
 BOI012	io
 BOI012	ah la gina
@@ -432,8 +432,8 @@ BOI013	che bo'
 BOI012	che bo'
 BOR005	sto sto ridendo
 BOR005	quindi
-BOI012	quindi  cioè soprattutto tu a san luca ci sei andato parecchie volte
-BOI012	eh  avoglia
+BOI012	quindi cioè soprattutto tu a san luca ci sei andato parecchie volte
+BOI012	eh avoglia
 BOR005	sì
 BOI012	ma c'andavi di più con la famiglia con gli amici con gina
 BOI013	son stato con la famiglia da bambino
@@ -452,7 +452,7 @@ BOI012	però c'era un mh posto che facevano panini
 BOI012	si beveva la birra
 BOR005	e un sacco di sere andavamo su
 BOI012	ma era proprio di fronte a san luca o
-BOI012	sì  sotto san luca proprio
+BOI012	sì sotto san luca proprio
 BOI012	nella strada proprio
 BOR005	davanti al piazzale praticamente
 BOR005	ah okay
@@ -475,16 +475,16 @@ BOR005	sì sì ci vuol l'ambulanza per me
 BOI013	levi ambulanza anzi
 BOR005	levi ambula~
 BOR005	e poi da lì c'è anche
-BOI013	da  diciamo dal  di lato c'è anche tutta la vista su tutta bologna
+BOI013	da diciamo dal di lato c'è anche tutta la vista su tutta bologna
 BOI012	no è bella
-BOR005	sì  sì sì
+BOR005	sì sì sì
 BOI013	che si vede anche l'aeroporto
 BOI012	sì
 BOR005	anche lo sta~ lo lo stadio vedi sì
 BOI012	e
-BOR005	beh  si chiama colle dell'osservanza per quello eh
-BOI012	ah  non sapevo si chiamasse colle dell'osservanza
-BOI012	guarda che  da san luca  sopra
+BOR005	beh si chiama colle dell'osservanza per quello eh
+BOI012	ah non sapevo si chiamasse colle dell'osservanza
+BOI012	guarda che da san luca sopra
 BOR005	c'è il camminamento
 BOI012	sì
 BOI012	vedi vedi un territorio sterminato
@@ -509,10 +509,10 @@ BOI012	credete che siano cambiati negli anni in meglio in peggio mh
 BOI012	beh un po' di degrado sì c'è stato però uhm bene o male son sempre
 BOR005	cioè la gente ci ha sempre tenuto abbastanza dietro insomma cioè
 BOR005	ah
-BOI012	quindi  non troppo degrado
+BOI012	quindi non troppo degrado
 BOR005	no no no
 BOI012	anche secondo te
-BOI012	il portico di san luca quantomeno no cioè  sicuramente
+BOI012	il portico di san luca quantomeno no cioè sicuramente
 BOI012	è molto vecchio e andrà ci saranno le ristrutturazioni
 BOI012	da fare del caso
 BOI012	nei vari momenti ma
@@ -550,12 +550,12 @@ BOI013	sì
 BOR005	se tu vedi la madonna di san luca
 BOI013	mhmh
 BOI012	è scura in faccia
-BOI012	sì l'icona è scura  la ritrae come
+BOI012	sì l'icona è scura la ritrae come
 BOR005	scura
 BOR005	che poi
-BOI012	pensandoci a cioè a bologna  i portici sono dappertutto
+BOI012	pensandoci a cioè a bologna i portici sono dappertutto
 BOR005	sì
-BOR005	e  quando  vi capita di andare  in altre città
+BOR005	e quando vi capita di andare in altre città
 BOI012	che effetto fa non vederli
 BOI012	beh è comunque in emilia romagna tutte le città hanno dei portici nei centri storici eh
 BOR005	non come bologna ma tutte le città li hanno
@@ -563,20 +563,20 @@ BOI013	sì
 BOI012	beh cioè enr~ siamo andati a roma i portici non c'erano
 BOI012	sì
 BOI012	roma
-BOI013	io sto parlando dell'emilia romagna  le città qua attorno
+BOI013	io sto parlando dell'emilia romagna le città qua attorno
 BOI012	xxx
 BOI012	a ferrara i portici ci sono a
 BOI012	a parma i portici ci sono
-BOI012	a piacenza i portici ci sono  cioè
+BOI012	a piacenza i portici ci sono cioè
 BOR005	non come qui ma i in tutte le città dell'emilia
 BOI013	mh
-BOR005	risparmi gli ombrelli  con i portici
+BOR005	risparmi gli ombrelli con i portici
 BOI012	mhmh
 BOR005	sì sì assolutamente sì
 BOR005	e infatti quando ecco quando capita
 BOR005	di andare
 BOI012	fuori appunto dall'emilia romagna che non ha i portici non fa un po' strano soprattutto quando piove
-BOI013	sì beh  quando piove
+BOI013	sì beh quando piove
 BOI012	sì perché è talmente io non compro
 BOR005	a torre melissa non ci sono i portici
 BOI013	
@@ -589,7 +589,7 @@ BOI013	e le valanghe
 BOR005	e valanghe che vengono giù
 BOR005	mhmh
 BOR005	che poi adesso che raccontavate un po' di queste storie di queste leggende
-BOI012	per caso voi sapete qual è  l'origine dei portici qual è il loro scopo
+BOI012	per caso voi sapete qual è l'origine dei portici qual è il loro scopo
 BOR005	l'origine dei portici
 BOR005	sì
 BOI013	se lo sapete eh se no
@@ -624,7 +624,7 @@ BOI013	eh va~ che pe~ penso che anche i portici
 BOI012	siano nati con bologna
 BOR005	sì beh è nata che è una città fatta così
 BOR005	mh
-BOR005	invece  parlando un attimo tralasciando bologna
+BOR005	invece parlando un attimo tralasciando bologna
 BOR005	parliamo un attimo di voi
 BOR005	così per conoscerci
 BOR005	
@@ -643,7 +643,7 @@ BOR005	e prima ero operaio edile
 BOI012	mhmh
 BOI012	sempre
 BOI012	così
-BOR005	operaio  comunque
+BOR005	operaio comunque
 BOI012	e in cosa consiste il vostro lavoro
 BOI012	p~ ah io monto
 BOI012	monto mh ultimamente monto delle forbici pneumatiche
@@ -653,8 +653,8 @@ BOI012	mh
 BOI012	è già da un po' di tempo che faccio questo lavoro
 BOI012	comunque sì monto monto macchine agricole per eh
 BOR005	per la raccolta delle olive per la potatura degli alberi quelle cose lì
-BOI013	invece  il tuo lavoro gina
-BOI013	io  aiuto infermiera
+BOI013	invece il tuo lavoro gina
+BOI013	io aiuto infermiera
 BOR005	in una rsa
 BOR005	e
 BOI013	tu hai sempre fatto questo lavoro
@@ -674,7 +674,7 @@ BOI013	voglio andare in pensione basta io
 BOI013	trenta
 BOI012	largo ai giovani lasciamo largo ai giovani
 BOI013	ci vuole il turn around come lo chiamano i in inglese
-BOI012	ma  ma il mio lavoro dopo
+BOI012	ma ma il mio lavoro dopo
 BOI013	ci vuol del ricambio
 BOR005	dopo i cinquantanni non è più possibile farlo
 BOI013	mh
@@ -682,8 +682,8 @@ BOI013	non ci sei con la testa
 BOR005	mh
 BOI013	quindi rispetto al passato provi tanta fatica in più nel fare il tuo lavoro
 BOI012	sì
-BOI013	si invecchia  sì si invecchia
-BOR005	sì  perché è cambiato anche l'utenza
+BOI013	si invecchia sì si invecchia
+BOR005	sì perché è cambiato anche l'utenza
 BOI012	anche tu
 BOI013	si invecchia si invecchia
 BOR005	ma da me è cambiata proprio l'utenza che entra
@@ -695,7 +695,7 @@ BOI013	tipo l'alzheimer
 BOI013	tipo il parkinson
 BOI013	persone
 BOI013	che sono in fase terminale di malattie
-BOI013	neo~ neoplastiche prima entravano gli anziani di c~  novanta anni
+BOI013	neo~ neoplastiche prima entravano gli anziani di c~ novanta anni
 BOI013	adesso arrivano anche
 BOI013	persone di sessanta cinquanta quarantacinque anni
 BOI013	in coma
@@ -710,7 +710,7 @@ BOI013
 BOR005	e noi siamo
 BOR005	ah
 BOI013	e quindi
-BOI013	noi dobbiam  prendere tutto
+BOI013	noi dobbiam prendere tutto
 BOI013	che essendo un'rsa noi dobbiamo prendere tutto
 BOI013	quello che passa il convento
 BOI013	essendo una struttura
@@ -719,14 +719,14 @@ BOI013	mh pubblica non privata noi
 BOI012	non possiamo far la scelta
 BOI012	siete lì per quello gina eh
 BOI013	eh eh
-BOI012	no  ci sono i privati che fanno le scelte
+BOI012	no ci sono i privati che fanno le scelte
 BOI013	beh ma i privati non sono lì per quello
 BOI012	eh
 BOR005	
 BOR005	ma poi in base
 BOR005	essendoci quindi molte patologie in più
 BOR005	mh
-BOI013	cioè come dire  c'è anche del personale specializzato
+BOI013	cioè come dire c'è anche del personale specializzato
 BOI013	no siamo noi
 BOI013	che ci formano
 BOI013	che facciamo i corsi
@@ -739,11 +739,11 @@ BOI013
 BOI013	
 BOI013	
 BOI013	non me li ricordo più
-BOI013	no no basta  dopo i cinquantanni bisogna stare a casa
+BOI013	no no basta dopo i cinquantanni bisogna stare a casa
 BOI013	e farsi la pensione
 BOR005	però questo non si può
 BOI012	e anche tu provi questa fatica nell'andare al lavoro come dice lei
-BOR005	avoglia  sì eh
+BOR005	avoglia sì eh
 BOI013	mh
 BOR005	però quando lavorano sti giovani
 BOI013	e
@@ -756,19 +756,19 @@ BOI012	non lo so
 BOI013	non te lo so dire
 BOI012	perché dici
 BOI012	ma secondo me ci sono città che a livello ro~ lavorativo offrono di più
-BOI012	hanno più aperture  bologna
+BOI012	hanno più aperture bologna
 BOI012	è un po' secondo me in stasi ultimamen~ non lo so non
-BOI012	non  non ho
+BOI012	non non ho
 BOI012	non ho un mh idea
 BOI012	e~ esattamente
 BOI012	di come sia messa
 BOR005	come sia messo il lavoro
 BOR005	però tu bologn~ tu gina ha detto subito sì
-BOI013	per me  è un buon posto per lavorare
+BOI013	per me è un buon posto per lavorare
 BOI013	sì perché io ho esperienze con chi viene dal giù
-BOI013	che ha  lavorato giù
+BOI013	che ha lavorato giù
 BOI013	qui è un altro mondo
-BOI013	qui ci sono diritti  ci sono
+BOI013	qui ci sono diritti ci sono
 BOR005	giù non ci sono
 BOI013	mhmh
 BOI013	qui c'è una
@@ -778,11 +778,11 @@ BOI012	però gente da milano a bologna non ne viene a lavorar~ gente da torino
 BOI013	a bologna non ne viene
 BOI012	no vengono quasi tutti da giù
 BOI013	eh
-BOI013	da  perché su non vie~
+BOI013	da perché su non vie~
 BOI013	non viene quello di milano perché c'ha il mio contratto
 BOI013	nazionale
 BOI013	ed è messo in regola
-BOI013	invece vengono  persone che lavorano  in nero  giù
+BOI013	invece vengono persone che lavorano in nero giù
 BOI012	che lavorano in quelle
 BOI013	sì ma questo non è perché è un buon posto bologna dove lavorare
 BOI012	perché i diritti vengono rispettati giù no
@@ -795,23 +795,23 @@ BOI013	non è perché se xxx
 BOI013	se vuoi lavorare
 BOI012	se vuoi lavorare
 BOI013	vabbè che si lavora male là
-BOI012	sono  ques~ eh appunto
+BOI012	sono ques~ eh appunto
 BOI013	
-BOI013	se vuoi lavorare ti prendi i tuoi  cinquecento euro
+BOI013	se vuoi lavorare ti prendi i tuoi cinquecento euro
 BOI013	e fai
 BOI013	e fai dodici ore
 BOI013	cioè questo è put~ è la
 BOI013	quello che dicono i miei colleghi perché allora fanno i concorsi e vengono su
-BOI013	con  dei grassi
+BOI013	con dei grassi
 BOI013	si devono affittar la casa devono star lontano dalla famiglia
 BOI012	perché giù non c'è questa possibilità
 BOI012	beh vabbè però se fai l'operaio metalmeccanico come me piuttosto che rimaner a lavorare a bologna
 BOI012	e vai a lavorare a berlino e lavori alla volkswagen
 BOI013	secondo secondo me stai meglio che qua eh
-BOR005	ah  ah eh
+BOR005	ah ah eh
 BOI012	quindi secondo te sarebbe meglio andare all'estero
-BOI012	ma  ma secondo te perché i ragazzi vanno all'estero
-BOI012	perché i giovani vanno all'estero  perché gli piace andare all'estero
+BOI012	ma ma secondo te perché i ragazzi vanno all'estero
+BOI012	perché i giovani vanno all'estero perché gli piace andare all'estero
 BOI012	
 BOI012	ci vanno perché guadagnan di più
 BOI012	se trovi dei lavori che sono più
@@ -838,16 +838,16 @@ BOI013	no
 BOI013	a me piace l'italia
 BOI013	io sono per l'ita~
 BOR005	no no no no
-BOI013	e ti saresti trasferita in  qualche altra parte d'italia  per lavoro
+BOI013	e ti saresti trasferita in qualche altra parte d'italia per lavoro
 BOI013	mh
-BOI013	ah io mi son trasferita dalla calabria  qua
+BOI013	ah io mi son trasferita dalla calabria qua
 BOI012	perciò
 BOI013	sì ma non di tua sp~
 BOI012	no
 BOI013	non di tua volontà
 BOI012	no no no di mia volontà no
 BOI013	perché eri piccoli~ è in famiglia no
-BOI013	sì perché era mio padre che è stato trasferito a bologna però io  ho già fatto
+BOI013	sì perché era mio padre che è stato trasferito a bologna però io ho già fatto
 BOI013	l'esperienza
 BOI013	ehm
 BOR005	no no ormai sono a bologna
@@ -855,19 +855,19 @@ BOI012	e tu enrico invece ti saresti trasferito
 BOI012	beh io non son mai stato costretto a trasferirmi cioè nel senso che
 BOI012	ho sempre trovato qualche cosa da fare qui e son riuscito a vivere qui
 BOI012	però se non avessi trovato nulla è logico
-BOR005	che mi sarei trasferito  cioè
+BOR005	che mi sarei trasferito cioè
 BOR005	invece
-BOR005	parlando un po' del tempo libero  visto che abbiamo parlato del lavoro insomma per contrasto il tempo libero
+BOR005	parlando un po' del tempo libero visto che abbiamo parlato del lavoro insomma per contrasto il tempo libero
 BOR005	voi durante
 BOR005	mh cioè quando non siete a lavoro
-BOI012	cosa fate  di solito
-BOI012	io  boh leggo un po' st~
+BOI012	cosa fate di solito
+BOI012	io boh leggo un po' st~
 BOR005	provo a suonare un po' la tromba
 BOI012	mhmh
 BOR005	e dormo
 BOI012	mh
 BOI013	fondamentalmente
-BOI012	io guardo  io quando posso guardo la tv
+BOI012	io guardo io quando posso guardo la tv
 BOR005	
 BOI013	e che programmi guardi
 BOI013	
@@ -887,7 +887,7 @@ BOR005	che
 BOI013	mhmh
 BOI013	perché è giusto che siamo informati
 BOI013	dopo mi ascolto il telegiornale dell'emilia romagna
-BOI013	perché è la mia città  è la nostra regione
+BOI013	perché è la mia città è la nostra regione
 BOI013	guardo molto queste queste cose qui poi le teleno le telenovelas
 BOR005	e poi alle otto son già a letto che dormo
 BOR005	
@@ -896,7 +896,7 @@ BOI012	sì
 BOI013	sei sempre dalla tata a xx
 BOR005	sì vabbè poi vado anche da mia sorella io eh
 BOI013	mh
-BOI013	però quando posso mi guardo la t~ sì  quando torno da lavoro
+BOI013	però quando posso mi guardo la t~ sì quando torno da lavoro
 BOI013	c'ho proprio bisogno di staccare
 BOI013	eh io ho tutti le gli urli degli anziani nelle orecchie tutte le mh
 BOI013	che chiedono chia~ adesso ancora peggio
@@ -916,8 +916,8 @@ BOR005
 BOI012	e tu la tv la guardi
 BOI012	sì
 BOR005	sì
-BOI012	e che  programmi guardi di solito
-BOR005	film  cerco dei film
+BOI012	e che programmi guardi di solito
+BOR005	film cerco dei film
 BOR005	mh
 BOR005	mh che
 BOI012	di solito hai un genere preferito per i film o
@@ -952,7 +952,7 @@ BOR005	posso dirlo
 BOI013	eh
 BOR005	eh
 BOI012	e invece di sport visto che a bologna ci sono parecchie squadre fra basket calcio seguite qualcuna
-BOI012	no  se  no
+BOI012	no se no
 BOR005	allo stadio c'andavo da ragazzino poi mi sono allontanato
 BOI012	per il calcio o per il basket
 BOI012	calcio il bas~ il basket non mi son mai interessato
@@ -963,7 +963,7 @@ BOI012	non mi son mai interessato al bas~ non eh
 BOI012	no è una cosa che non eh la sento lontana da me
 BOR005	come
 BOI013	tu gina mai andata allo stadio
-BOR005	sì io c'andavo  seguivo il catanzaro
+BOR005	sì io c'andavo seguivo il catanzaro
 BOI013	
 BOI013	
 BOR005	eh sì sì che c'andavo
@@ -978,11 +978,11 @@ BOR005	ho fatto un po' di sport attivo come il nuoto ma
 BOI012	mhmh
 BOR005	poca roba
 BOI013	tu gina hai fatto sport
-BOR005	no no  la poltrona
+BOR005	no no la poltrona
 BOI012	
 BOI012	figurati che ho vinto anche una gara non son passato neanche dal podio perché
 BOI012	dovevo andare
-BOR005	mi ha telefonato lei a dirmi che c'era il compleanno di michela  mi sembra
+BOR005	mi ha telefonato lei a dirmi che c'era il compleanno di michela mi sembra
 BOI013	
 BOI012	veronica
 BOI012	o veronica
@@ -1002,9 +1002,9 @@ BOI013	a ro~ a rompi a rompiscatole qua
 BOR005	eh c'era la torta
 BOR005	
 BOR005	invece parlando di musica
-BOR005	a bologna ci sono tanti  artisti  ce ne sono anche stati
+BOR005	a bologna ci sono tanti artisti ce ne sono anche stati
 BOI012	e a voi è mai capitato di incontrare qualche artista bolognese in giro per strada
-BOI013	uh avoglia  sì eh
+BOI013	uh avoglia sì eh
 BOR005	luca carboni
 BOI013	mhmh
 BOR005	si chiama luca carbo~ sì sì in chiesa l'ho incontra~
@@ -1015,26 +1015,26 @@ BOI013	ah
 BOI013	gianni morandi
 BOI013	sì
 BOI012	questi sì
-BOI013	io  io li frequento i grandi artisti
-BOR005	beppe  beppe maniglia
+BOI013	io io li frequento i grandi artisti
+BOR005	beppe beppe maniglia
 BOI013	mh
 BOI012	
 BOR005	no sì mi vedo con domenico che era il bassista di lucio di
 BOI012	mhmh
 BOR005	eh li lo conosco è un mio amico
 BOI012	mhmh
-BOI012	poi altri cioè michael  brusha cioè tutta
-BOI013	la balotta dei musicisti jazz di bologna li conosco  tutti
+BOI012	poi altri cioè michael brusha cioè tutta
+BOI013	la balotta dei musicisti jazz di bologna li conosco tutti
 BOI012	mhmh
 BOR005	praticamen~
-BOI013	e di di solito che m~ che  tipo di musica ascoltate qualche volta vi capita
+BOI013	e di di solito che m~ che tipo di musica ascoltate qualche volta vi capita
 BOI012	italiana
-BOI013	io tutta  tutta  mh non ho
-BOR005	no no io italiana  io voglio capire quando cantano
+BOI013	io tutta tutta mh non ho
+BOR005	no no io italiana io voglio capire quando cantano
 BOI013	ma i musica italiana mh di mh qual mh
 BOI013	cantautori
 BOI013	pu~ tutto
-BOI013	però io devo capire  a me la musica straniera non la capisco
+BOI013	però io devo capire a me la musica straniera non la capisco
 BOR005	e non l'ascolto
 BOI013	ma ascolti mh di qualche epoca in particolare o
 BOR005	ma sì gli anni novanta
@@ -1043,7 +1043,7 @@ BOI013	gli ottanta
 BOI013	no gli ultimi no non non non mi interessa
 BOI013	io a me piacciono i cantautori gianni
 BOI012	che c'erano prima
-BOI013	xxx ti piacciono i  quelli nuovi
+BOI013	xxx ti piacciono i quelli nuovi
 BOI013	sì
 BOI012	sì ma mh qualcosa non non
 BOI013	fedez eh
@@ -1058,8 +1058,8 @@ BOI012	cosa la ascolto a fa~ la canz
 BOI013	l'unica
 BOI012	la canzone che io non la capisco che mi parlano inglese
 BOI013	sta parlando di musica non di canzoni gina eh ades~
-BOR005	qual è  lui sta ca~ che generi hai detto
-BOI013	sì  che genere di musica
+BOR005	qual è lui sta ca~ che generi hai detto
+BOI013	sì che genere di musica
 BOI012	eh
 BOI013	ma un brano jazz dove non c'è nessuno che canta
 BOI012	mi dà fastidio
@@ -1070,7 +1070,7 @@ BOI012	cioè
 BOI013	invece a me piace per esempio no
 BOI013	eh oh
 BOI012	tutte
-BOI013	la musica classica dove non c'è nessuno che  che canta
+BOI013	la musica classica dove non c'è nessuno che che canta
 BOR005	orrore
 BOI012	mh
 BOI013	cioè ma non esi~
@@ -1079,7 +1079,7 @@ BOI013
 BOR005	
 BOI013	che poi
 BOR005	bel
-BOI013	parlando di musica  quando eravate giovani vi capitava di andare a ballare in discoteca
+BOI013	parlando di musica quando eravate giovani vi capitava di andare a ballare in discoteca
 BOI013	
 BOI012	living
 BOI013	mi capitava prima che conoscessi lei mi capitava dopo
@@ -1097,11 +1097,11 @@ BOI012	centro commerciale
 BOI013	lo sport di gina è il centro commerciale
 BOR005	un po'
 BOI012	e quando andavi a ballare dove andavi di solito
-BOI013	ovunque  ovunque
+BOI013	ovunque ovunque
 BOI013	io al living
 BOI012	e con mia cugina carolina andavamo a piacenza
 BOR005	tua madre pure
-BOI013	e qua  e qua a bologna andavi a ballare qualche volta
+BOI013	e qua e qua a bologna andavi a ballare qualche volta
 BOR005	al living sì
 BOI013	ah avevo capito a v~ piacenza
 BOR005	di xxri~ anche a piacenza
@@ -1113,7 +1113,7 @@ BOI012	no
 BOI012	il living non c'è più
 BOI013	poi c'era una sala bingo
 BOI012	a corticella
-BOI013	poi dopo  credo che sia chiuso anche quello adesso giusto
+BOI013	poi dopo credo che sia chiuso anche quello adesso giusto
 BOI013	sì
 BOI012	basta
 BOI013	c'è più niente
@@ -1129,7 +1129,7 @@ BOI012	e adesso vi capita qualche volta di uscire nel fine settimana
 BOI013	ma di rado
 BOI012	poco
 BOR005	di rado
-BOI012	e quando uscite  dove vi capita di andare
+BOI012	e quando uscite dove vi capita di andare
 BOI013	mh da parenti a casa da parenti a casa di amici
 BOI012	o andare a mangiare la pizza con mio cugino
 BOR005	andare a mangiar la pizza con gli amici esatto
@@ -1143,8 +1143,8 @@ BOI012	curare
 BOR005	prevenire era poi
 BOI013	
 BOR005	però è meglio curare
-BOR005	bene  siamo
-BOR005	alla fine  vi ringrazio per
+BOR005	bene siamo
+BOR005	alla fine vi ringrazio per
 BOI013	averci dato una mano
 BOR005	grazie a te
 BOI012	e grazie mille ancora

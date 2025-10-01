@@ -34,7 +34,7 @@ BOI006	mhmh
 BOI006	eh verso la le mura
 BOI006	eh quella è @nomeluogo
 BOI006	quindi proprio
-BOR003	nel centro  storico
+BOR003	nel centro storico
 BOR003	ah lì sei proprio centro
 BOR003	ah
 BOI006	e
@@ -44,7 +44,7 @@ BOI006	come la trovi
 BOI006	ma eh
 BOI006	comoda
 BOI006	perché comunque dai
-BOI006	sono vicina  io lavoro poi
+BOI006	sono vicina io lavoro poi
 BOR003	in @nomeluogo
 BOI006	ah ah okay
 BOR003	eh quindi perché
@@ -97,7 +97,7 @@ BOI006	un po'
 BOI006	che seduta per terra a bere
 BOI006	a a qualsiasi ora
 BOI006	però
-BOI006	vabbè  a parte quello
+BOI006	vabbè a parte quello
 BOI006	no ci viviamo bene
 BOI006	abbiamo anche insomma
 BOR003	tutte le cose vicine il supermercato
@@ -122,7 +122,7 @@ BOI006	abbiamo pensato
 BOR003	comunque in futuro di tornare verso forlì
 BOI006	mhmh
 BOI006	non tanto per
-BOI006	questa  questione insomma della
+BOI006	questa questione insomma della
 BOI006	eh della
 BOR003	fauna
 BOI006	
@@ -227,7 +227,7 @@ BOI006	xx mh eh comodissimo
 BOI006	cioè infatti molto comodo
 BOR003	vedo le file di solito di macchine che stanno lì
 BOI006	ah
-BOR003	per entrare nel parcheggio  cioè
+BOR003	per entrare nel parcheggio cioè
 BOI006	anche quando sono andata io su una volta in macchina è stato
 BOI006	eh
 BOR003	è difficile infatti no
@@ -258,7 +258,7 @@ BOI006	ah quando studiavo non non la non la vedevo non la vivevo la città
 BOI006	perché
 BOR003	stazione facoltà stazione facoltà
 BOI006	ah esatto
-BOR003	via cartolerie  facevo questo
+BOR003	via cartolerie facevo questo
 BOI006	esatto quelle tre
 BOI006	triangolo delle bermuda
 BOI006	e però sì non mh
@@ -272,7 +272,7 @@ BOR003	prendere su la mattina eh sabato mattina ti vai a fare una passeggiata in
 BOI006	sì
 BOI006	cioè è diverso rispetto a essere sempre di corsa prendere il treno
 BOI006	vedi la stazione che non è il posto mh
-BOR003	più bello di bologna  diciamo
+BOR003	più bello di bologna diciamo
 BOR003	eh esatto no
 BOI006	infatti
 BOI006	e quindi sicuramente più bello secondo me viverci che
@@ -407,7 +407,7 @@ BOR003	però a parte insomma persone
 BOI006	mhmh
 BOI006	che fanno l'elemosina sì
 BOR003	mh ah incontri anche molte persone che ti fermano per
-BOI006	sì  esatto
+BOI006	sì esatto
 BOI006	ti chiedono di fare beneficenza
 BOI006	le classiche persone che sono sotto i portici
 BOI006	ehm a volte
@@ -502,7 +502,7 @@ BOI006	non è vivibile perché se
 BOR003	ripeto de~ s~ se sei fuori dal centro magari la usi per andare
 BOI006	mhmh
 BOI006	non so all'ikea
-BOR003	o fuori  no
+BOR003	o fuori no
 BOI006	sì
 BOI006	se devi venire in centro
 BOI006	è proprio scomodo perché rip~ ripeto
@@ -844,7 +844,7 @@ BOI006	mhmh
 BOI006	e questo è stato
 BOI006	l'anno scorso
 BOI006	sì l'anno scorso
-BOR003	quindi adesso basta non voglio più fare concorsi  per tutta la mia vita
+BOR003	quindi adesso basta non voglio più fare concorsi per tutta la mia vita
 BOR003	e quindi
 BOI006	pensi che questo sia il lavoro
 BOR003	ah sì
@@ -897,8 +897,8 @@ BOR003	cioè
 BOI006	con cui non ti trovi
 BOI006	con cui non ti trovi oche
 BOR003	sono proprio
-BOI006	che alla fine devi vedere tutti i giorni  quindi
-BOI006	esatto  esatto
+BOI006	che alla fine devi vedere tutti i giorni quindi
+BOI006	esatto esatto
 BOI006	quindi io mi trovo bene con i miei colleghi il lavoro comunque mi piace
 BOR003	quindi per ora io finché non mi mandano via
 BOI006	rimango
@@ -921,8 +921,8 @@ BOR003	o raramente quando viene qualche studente a sportello che
 BOI006	okay
 BOI006	
 BOI006	provi a parlare in inglese
-BOI006	e non capisce  provi a parlare italiano e non capisce
-BOR003	senti che parla spagnolo allora tu dici  parliamo spagnolo
+BOI006	e non capisce provi a parlare italiano e non capisce
+BOR003	senti che parla spagnolo allora tu dici parliamo spagnolo
 BOI006	eh proviamo
 BOI006	però sì
 BOR003	tendenzialmente comunque uso tutti i giorni l'inglese

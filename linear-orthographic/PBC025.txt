@@ -1,8 +1,8 @@
 BOR025	okay
-BOR025	allora possiamo  andare
-BOI112	quando vuoi  possiamo iniziare
+BOR025	allora possiamo andare
+BOI112	quando vuoi possiamo iniziare
 BOR025	bene
-BOI112	allora  in che zona di bologna vivi
+BOI112	allora in che zona di bologna vivi
 BOR025	quartiere san vitale
 BOI112	ed è una zona che ti piace
 BOR025	moltissimo
@@ -20,7 +20,7 @@ BOR025	eh però a me piace tanto c'è un bellissimo parco ci sono i servizi como
 BOI112	mhmh
 BOR025	l'agenzia delle entrate
 BOR035	
-BOI112	eh qui~  quindi trovi tutto nel quartiere
+BOI112	eh qui~ quindi trovi tutto nel quartiere
 BOI112	
 BOI112	sì
 BOI112	c'è proprio qualsiasi cosa
@@ -46,7 +46,7 @@ BOI112	quindi comunque bolognese fin dalla nascita
 BOR035	sì sì sì
 BOI112	mhmh
 BOR025	mhmh
-BOR025	ehm visto che  vivi a bologna da  tutta la vita
+BOR025	ehm visto che vivi a bologna da tutta la vita
 BOR025	hai visto
 BOR025	secondo te è ca~ com'è cambiata bologna
 BOI112	nel corso de~ è cambiata tanto quali sono gli aspetti che sono uguali che sono cambiati
@@ -59,17 +59,17 @@ BOI112	una volta c'era tanta solidarietà
 BOI112	c'era
 BOR025	tanto fare insieme
 BOI112	mhmh
-BOR025	cosa che adesso  è molto diminuito
+BOR025	cosa che adesso è molto diminuito
 BOI112	okay
 BOI112	perché ci sono
 BOI112	appunto persone
-BOI112	come gli immigrati che non hanno  i valori che abbiamo noi
+BOI112	come gli immigrati che non hanno i valori che abbiamo noi
 BOI112	ne hanno altri
 BOI112	perciò bologna sta iniziando a diventare una società multietnica
-BOI112	che  è anche ora nel senso che certi stati nazionali lo sono da quattro cinquecento anni
+BOI112	che è anche ora nel senso che certi stati nazionali lo sono da quattro cinquecento anni
 BOR025	noi eravamo comunque una società abbastanza chiusa
 BOI112	sì
-BOI112	chiusa ma subito pronta ad andare e fare e aiutare  collaborare
+BOI112	chiusa ma subito pronta ad andare e fare e aiutare collaborare
 BOI112	e c'è sempre stato tanta collaborazione
 BOR025	come tanto volontariato
 BOI112	ah ah
@@ -77,15 +77,15 @@ BOR035	perché sono due cose che comunque vanno molto a braccetto insomma
 BOR025	mhmh
 BOR025	sì
 BOR025	ehm
-BOI112	rispetto a quando eri ragazza  tu hai studiato a bologna no quindi
+BOI112	rispetto a quando eri ragazza tu hai studiato a bologna no quindi
 BOR025	sì sì
 BOR025	e pensi che no~ non so se hai
 BOR025	diretta esperienza d~ di come gli studenti adesso di come è vissuta magari dagli studenti bologna adesso
 BOI112	però pensi che
 BOR025	no no
-BOR025	non so eh  anche i ragazzi magari anche non studiando ma nei posti dove freque-
-BOR025	non so dove vedi i ragazzi magari se secondo te il modo di vivere bologna in gioventù è cambiato  o
-BOI112	o magari ha  mantenuto quello spirito giovane che aveva anche una volta ecco
+BOR025	non so eh anche i ragazzi magari anche non studiando ma nei posti dove freque-
+BOR025	non so dove vedi i ragazzi magari se secondo te il modo di vivere bologna in gioventù è cambiato o
+BOI112	o magari ha mantenuto quello spirito giovane che aveva anche una volta ecco
 BOR025	sì l'ha mantenuto secondo me
 BOI112	sì
 BOI112	perché io ho due figli
@@ -96,9 +96,9 @@ BOR025	la domenica vanno sui colli
 BOI112	
 BOI112	vanno a fare i giri in moto
 BOI112	vanno alla raticosa
-BOR025	vanno  sono due maschi io conosco la loro realtà
+BOR025	vanno sono due maschi io conosco la loro realtà
 BOI112	mhmh
-BOI112	però  vanno nel parco oppure escon la sera a fare un giro
+BOI112	però vanno nel parco oppure escon la sera a fare un giro
 BOR025	in compagnia ecco diciamo che l'aggregazione è molto importante per noi
 BOI112	mhmh
 BOI112	lo stare insieme
@@ -124,7 +124,7 @@ BOI112	le due torri strada maggiore è stata una strada che ho
 BOI112	frequentato tanto perché la mia facoltà era in strada maggiore
 BOI112	eccetera io io sto bene
 BOI112	cioè proprio io respiro bene
-BOI112	anche quando mi trovo in via indipendenza ver~ vedo la piazza  io
+BOI112	anche quando mi trovo in via indipendenza ver~ vedo la piazza io
 BOR025	sono proprio felice
 BOR035	xx
 BOI112	mh quindi non ha mai sentito la necessità di cambiare città
@@ -140,7 +140,7 @@ BOR025	ah sì
 BOR025	sì
 BOR035	noi non siamo nate qua però
 BOR025	innamorate
-BOI112	bellissima  sì sì sì
+BOI112	bellissima sì sì sì
 BOR025	ah sì
 BOI112	sì
 BOI112	a me piace perché poi bologna ti dà di tutto
@@ -150,7 +150,7 @@ BOI112	cerchi una non so un'esperienza la trovi
 BOR025	e me l'han detto già molte persone che vengono da fuori che bologna ha tutto
 BOI112	ma poi io mi sono sempre sentita molto accolta da bologna
 BOR025	ah sì
-BOR035	mi ha proprio  sia dalle persone poi in realtà io dico bolognesi bolognesi ne ho conosciuti pochi perché poi tra di noi ovviamente in università trovi persone da tutta italia
+BOR035	mi ha proprio sia dalle persone poi in realtà io dico bolognesi bolognesi ne ho conosciuti pochi perché poi tra di noi ovviamente in università trovi persone da tutta italia
 BOR025	sì
 BOR035	però proprio come città come è fatta la trovo molto accogliente proprio
 BOI112	mhmh
@@ -163,7 +163,7 @@ BOI112	eh
 BOR025	poi adesso che hanno costruito il nuovo tecnopolo
 BOI112	mh
 BOI112	dove eh sono arrivate tantissime persone tanti lavoratori tanti ingegneri architetti insomma di tutto
-BOR035	e tutti cercan casa infatti stanno costruendo  però insomma
+BOR035	e tutti cercan casa infatti stanno costruendo però insomma
 BOR025	eh
 BOR025	no ma è vero anche perché ci sono tantissime cioè anche solo le facoltà appunto ce ne sono tantissime quindi è ovvio che
 BOR025	la città è quella che è e le persone sono sempre di più
@@ -200,7 +200,7 @@ BOI112	poco poco
 BOR025	poco e infatti c'è un'associazione che si chiama succede solo a bologna
 BOI112	mh
 BOI112	che ha la sede in corte galluzzi
-BOI112	quella strada quella corte che c'è di fianco  a via d'azeglio
+BOI112	quella strada quella corte che c'è di fianco a via d'azeglio
 BOR025	fra via d'azeglio e piazza galvani lì c'è corte galluzzi in mezzo
 BOR025	sì
 BOI112	ah okay
@@ -220,9 +220,9 @@ BOI112	beh
 BOI112	il loro padre parla in dialetto bene
 BOI112	perciò insomma certe cose sì
 BOI112	però
-BOR025	non so  se non c'è se non si farà un recupero
+BOR025	non so se non c'è se non si farà un recupero
 BOR025	mh
-BOI112	che è un peccato perché poi i dialetti portano dietro un bagaglio culturale  immenso
+BOI112	che è un peccato perché poi i dialetti portano dietro un bagaglio culturale immenso
 BOI112	certo
 BOR035	ma scherzi
 BOI112	mhmh
@@ -238,7 +238,7 @@ BOI112	sì c'è il dialetto del centro che è proprio quello petroniano
 BOR035	e poi in base non so zo~ zona nord zona est zona sud insomma sono oh quattro
 BOR025	sì
 BOI112	pensa te
-BOR025	per esempio la zona verso cento anche se cento  cento è bologna ancora
+BOR025	per esempio la zona verso cento anche se cento cento è bologna ancora
 BOR035	sì
 BOI112	sì
 BOI112	però già da lì è diverso che non dal quello bol~ petroniano che non quello sulle montagne
@@ -246,9 +246,9 @@ BOR035	che non quello verso il mare insomma
 BOR025	mh
 BOI112	bello
 BOR025	perciò
-BOI112	bellissimo non sapevo quanti beh il dialetto è un mondo tutto  da esplorare sì sì sì
+BOI112	bellissimo non sapevo quanti beh il dialetto è un mondo tutto da esplorare sì sì sì
 BOI112	sì
-BOI112	no guardi è bellissimo ma tutti i dialetti  ho imparato da poco che il dialetto napoletano
+BOI112	no guardi è bellissimo ma tutti i dialetti ho imparato da poco che il dialetto napoletano
 BOR025	ah ha solo il presente
 BOI112	ah
 BOR035	perciò è per quello che le persone quando parlano non usano il congiuntivo non usano bene i verbi perché loro sanno solo
@@ -259,15 +259,15 @@ BOR025	c'hanno il presente
 BOI112	eh
 BOR025	
 BOI112	alla fine ci si capisce quindi quello è l'importante
-BOR035	invece no nel dialetto bolognese c'era  tutto
+BOR035	invece no nel dialetto bolognese c'era tutto
 BOR025	quello è importante
 BOI112	mh
 BOR025	ed è è difficile comunque
-BOI112	sì sì sì  io
+BOI112	sì sì sì io
 BOR025	voglio cercare
 BOR025	ce
-BOR025	venendo da  cioè ferrara è qua vicino
-BOR035	molte cose  sono simili alcune parole però cioè io comunque se uno mi parla in bolognese bolognese faccio ho difficoltà a capire soprattutto
+BOR025	venendo da cioè ferrara è qua vicino
+BOR035	molte cose sono simili alcune parole però cioè io comunque se uno mi parla in bolognese bolognese faccio ho difficoltà a capire soprattutto
 BOI112	si
 BOI112	se
 BOR025	ma anche se uno parla in ferrarese
@@ -309,8 +309,8 @@ BOI112	invece eh secondo te ah amante del dialetto bolognese
 BOR035	i gruppi
 BOR025	ah eccolo
 BOI112	vedi ecco
-BOR025	e qua  pubblicano tante  cose bellissime
-BOI112	e io c~  ho que~ quel calendario lì c'è l'ho del ferrarese a casa
+BOR025	e qua pubblicano tante cose bellissime
+BOI112	e io c~ ho que~ quel calendario lì c'è l'ho del ferrarese a casa
 BOR035	c'è anche il calendario
 BOI112	
 BOR025	ah ecco c'è anche del bolognese
@@ -326,7 +326,7 @@ BOI112	però la manutenzione c'è adesso poi coi fondi del pi enne erre erre han
 BOR025	eh sono iniziate tante cose tanti lavori infatti bologna è tutto un cantiere
 BOR035	si è vero
 BOI112	mhmh
-BOI112	e anche comunque le cose culturali sono sempre molto  cioè
+BOI112	e anche comunque le cose culturali sono sempre molto cioè
 BOR025	sono molto attenti poi ne abbiam talmente tante che è difficile tenere dietro a tutto
 BOR035	si è vero
 BOI112	mh mh
@@ -334,10 +334,10 @@ BOR025	perché anche i restauri degli affreschi delle cose costano
 BOR035	eh bhe
 BOI112	sì
 BOI112	perciò vabbé che poi questo è una cosa del ministero sono tutti progetti ecce-
-BOI112	però tante cose  tante insomma una parte di cose sono andate eh
-BOR025	perse  e questo mi dispiace
+BOI112	però tante cose tante insomma una parte di cose sono andate eh
+BOR025	perse e questo mi dispiace
 BOI112	mhmh
-BOR025	per esempio tutte le lunette  nel portico dei servi avete presente qual è strada maggiore
+BOR025	per esempio tutte le lunette nel portico dei servi avete presente qual è strada maggiore
 BOR035	sì
 BOR025	sì sì sì
 BOI112	sì
@@ -359,7 +359,7 @@ BOR035	sì
 BOI112	sì
 BOI112	se guardi il portico sulla destra ci son tutte queste lunette le han tutte restaurate
 BOI112	eh due o tre anni fa han finito i lavori
-BOI112	e quelle sono riuscite a recuperarle  buona parte
+BOI112	e quelle sono riuscite a recuperarle buona parte
 BOR025	poi sai
 BOI112	beh certo
 BOR025	è tantissima la roba
@@ -374,13 +374,13 @@ BOR025	sono tanti
 BOR035	certo poi adesso po~ poverina anche la garisenda è un altro problema che si è aggiunto che
 BOI112	eh
 BOI112	sì
-BOR035	due centimetri è andata giù ho letto  esp-
+BOR035	due centimetri è andata giù ho letto esp-
 BOR035	ma
 BOI112	secon~ tu riesci a vedere la differenza
 BOR035	no
 BOR025	a livello a occhio non si vede no
 BOI112	
-BOR025	no era già storta prima  tutte e due son storte
+BOR025	no era già storta prima tutte e due son storte
 BOR035	
 BOR025	e infatti
 BOR035	ne
@@ -406,7 +406,7 @@ BOI112	ah
 BOR025	che decisero di buttar giù
 BOI112	no so che era piena di torri bologna però non so dove fossero
 BOI112	sì
-BOR025	ma mille novencento dodici eh sempre anche in quel momento  quando buttaron giù la porta d'azeglio che non c'è più
+BOR025	ma mille novencento dodici eh sempre anche in quel momento quando buttaron giù la porta d'azeglio che non c'è più
 BOR025	ah
 BOR025	ah ah
 BOI112	eh purtroppo
@@ -422,11 +422,11 @@ BOR025	i cibi
 BOI112	okay
 BOR025	perché eh
 BOI112	okay
-BOI112	le sfrappole  per esempio
+BOI112	le sfrappole per esempio
 BOI112	per carnevale
 BOI112	oppure ci sono le raviole
 BOI112	quelle con dentro la mostarda e sopra lo zucchero a velo
-BOR025	che si fanno per la festa mh  di sant' antonio no per la festa del papà il diciannove marzo
+BOR025	che si fanno per la festa mh di sant' antonio no per la festa del papà il diciannove marzo
 BOR035	ah
 BOI112	ah
 BOR025	poi ci sono oh vabbé i tortellini si sa
@@ -450,10 +450,10 @@ BOI112	cioè del pollo
 BOR025	che poi sono gli stomaci no del eh
 BOR025	ah
 BOI112	okay
-BOI112	così eh queste sono cose che  in altri posti non non
+BOI112	così eh queste sono cose che in altri posti non non
 BOI112	forse in romagna un po'
 BOR025	eh
-BOI112	però comunque sono di  sì di bologna
+BOI112	però comunque sono di sì di bologna
 BOI112	sono tipiche
 BOI112	e poi mh
 BOR025	deglutisco
@@ -483,7 +483,7 @@ BOR025	natale con i tuoi pasqua con chi vuoi
 BOR035	e pe~ con chi vuoi
 BOI112	
 BOI112	però eh sì i miei figli vanno molto con gli amici come è giusto che sia
-BOR035	perciò io non dico  no dovete stare a casa perché oggi è il giorno tal dei tali bisogna mangiare
+BOR035	perciò io non dico no dovete stare a casa perché oggi è il giorno tal dei tali bisogna mangiare
 BOI112	mhmh
 BOI112	ah poi c'è la buonissima crescenta bolognese
 BOR025	con i ciccioli di prosciutto mh
@@ -492,7 +492,7 @@ BOR025	la fa~ la faccio buonissima
 BOR035	
 BOI112	
 BOI112	ho invitato i fi~ gli amici dei miei figli un giorno a mangiare erano in quattro
-BOR025	me n'è andata via una grande  grande e più un'altra mezza che credevo di poter tenere
+BOR025	me n'è andata via una grande grande e più un'altra mezza che credevo di poter tenere
 BOR035	
 BOR025	
 BOR035	buona
@@ -538,10 +538,10 @@ BOI112	è vero
 BOR035	a fare i vestiti a fare tutte le cose per
 BOI112	bello
 BOI112	per potere eh
-BOR025	insomma fare in modo che i carri siano c'è il carnevale della cirenaica  lì in via sal vitale di fronte al sant'orsola
+BOR025	insomma fare in modo che i carri siano c'è il carnevale della cirenaica lì in via sal vitale di fronte al sant'orsola
 BOI112	eh
 BOI112	che è piccolino però ogni anni c'è
-BOR025	lanciano i palloni lanciano le caramelle  insomma
+BOR025	lanciano i palloni lanciano le caramelle insomma
 BOI112	
 BOR025	sono cose che eh si cerca di mantenere poi c'è il carnevale in piazza maggiore
 BOI112	mhmh
@@ -551,24 +551,24 @@ BOI112	sì
 BOR025	ma anche cento
 BOR035	sì
 BOI112	mhmh
-BOI112	anche granarolo  questi sono
-BOR025	poi adesso non so bene ma co~ comunque in provincia ci sono  tanti posti e anche a bologna
+BOI112	anche granarolo questi sono
+BOR025	poi adesso non so bene ma co~ comunque in provincia ci sono tanti posti e anche a bologna
 BOR025	mhmh
 BOR025	sì sì
 BOR025	eh invece altre feste perché appunto noi ne conosciamo poche non essendo di qua però eh
 BOR035	una di quelle che conosco è il vecchione a capodanno
 BOI112	mhmh
 BOR025	sì
-BOI112	le~ lei fa  ci sei andata una volta
+BOI112	le~ lei fa ci sei andata una volta
 BOI112	in piazza maggiore una volta
 BOI112	due volte sono andata
 BOR025	uno il primo gennaio duemila venti
-BOI112	madonna  proprio
+BOI112	madonna proprio
 BOR035	praticamente
 BOI112	
 BOR025	e dopo non ci sono più andata perché ho detto aspetta che mi fermo
 BOI112	mai più
-BOI112	e poi ci sono andata una volta molti anni fa  e fu una cosa un po' particolare
+BOI112	e poi ci sono andata una volta molti anni fa e fu una cosa un po' particolare
 BOR025	perché tirava vento
 BOI112	okay
 BOR025	e a un certo punto tutti i pezzi del vecchione eh incandescenti
@@ -595,7 +595,7 @@ BOR025	col comune
 BOR025	mhmh
 BOI112	io non l'ho mai visto però immagino almeno una volta sia da vedere
 BOR035	che
-BOI112	sì  sì sì
+BOI112	sì sì sì
 BOR025	sì poi sai se vuoi entrare nella piazza ci sono i pass
 BOI112	ah
 BOR025	è un numero chiuso
@@ -625,8 +625,8 @@ BOI112	esatto
 BOI112	e poi
 BOR025	eh le cesarine invece c'è proprio un sito
 BOI112	mhmh
-BOI112	non costa poco perché sono andata con un'amica costa  abbiamo speso ottantacinque euro
-BOR025	sono persone  che abitano in centro  noi siamo andate in una casa in via oberdan
+BOI112	non costa poco perché sono andata con un'amica costa abbiamo speso ottantacinque euro
+BOR025	sono persone che abitano in centro noi siamo andate in una casa in via oberdan
 BOI112	mhmh
 BOI112	dalla quale si vedevano tutti i tetti di bologna
 BOI112	perciò è stato bellissimo questa ragazza ci ha fatto la sfoglia
@@ -660,24 +660,24 @@ BOR025	la facevano anche qui in via scandellara dove l'ho presa due mesi fa ma h
 BOI112	ah
 BOR025	con quello che costa il cibo adesso la dovrei mettere a venticinque euro
 BOI112	ah
-BOR025	siccome io non faccio dei prezzi così alti  la tolgo dal menù
+BOR025	siccome io non faccio dei prezzi così alti la tolgo dal menù
 BOI112	ho capito
 BOR035	però è buonissima
 BOI112	mhmh
 BOI112	perché poi è fritta poi ci va sopra il prosciutto e il formaggio
-BOI112	nella  teglia  in forno col brodo
+BOI112	nella teglia in forno col brodo
 BOR025	perciò
 BOI112	ah col brodo non lo sapevo
 BOR025	sì diventa con tutto una crosticina squisita
 BOR035	buona madonna buonissima
 BOI112	
 BOR035	
-BOR025	e ci sono altre trattorie del cuore che   che consiglierebbe
+BOR025	e ci sono altre trattorie del cuore che che consiglierebbe
 BOI112	che
 BOR035	guarda in via scandellara c'è il re di coppe
 BOR035	qua vicino
 BOI112	ah
-BOR035	sì proprio  quando tu fai il parco
+BOR035	sì proprio quando tu fai il parco
 BOI112	sì
 BOI112	arrivi in via scandellara
 BOI112	vai verso destra prima trovi la trattoria dall'olio che fa proprio tutte cose bolognesi
@@ -715,14 +715,14 @@ BOR025	ci mancherebbe
 BOI112	
 BOR025	
 BOR025	ehm dicevi prima
-BOI112	na~ la vigilia natale qual è un menù  di vigilia natale quando si cucina in casa
+BOI112	na~ la vigilia natale qual è un menù di vigilia natale quando si cucina in casa
 BOR025	allora vigilia di solito si fa pesce
 BOR035	okay
 BOR025	ah
 BOI112	sì
 BOR025	perché è la vigilia
 BOI112	mh
-BOI112	anche se io non sono  particolarmente credente eh non vado in chiesa ecce-
+BOI112	anche se io non sono particolarmente credente eh non vado in chiesa ecce-
 BOI112	ho la mia mh
 BOI112	credenza
 BOI112	eh credo di essere tante volte più religiosa di tanti che frequentano
@@ -733,24 +733,24 @@ BOI112	col bollito
 BOI112	con le varie salse
 BOR025	con la gallina al forno
 BOI112	mh
-BOI112	perché quella  che si usa per fare il brodo poi si mette al forno
+BOI112	perché quella che si usa per fare il brodo poi si mette al forno
 BOI112	con gli odori
 BOI112	poi vari dolci
 BOI112	queste son le cose
-BOR025	del giorno di natale che poi noi giovani  giovani
+BOR025	del giorno di natale che poi noi giovani giovani
 BOR035	
 BOI112	
-BOI112	quasi giovani  diversamente giovani
+BOI112	quasi giovani diversamente giovani
 BOR025	eh stiamo un po' modificando comunque cioè io li compro i tortellini eh ho trovato un'associazione
 BOR035	mhmh
 BOI112	ah
 BOI112	di disabili pensa che fanno i tortellini ma sono talmente buoni
 BOR025	che quando i miei figli li han sentiti col brodo di carne buono eccetera
 BOI112	ah ah
-BOR025	mi han detto mamma  ma sono i tortellini che faceva la nonna
+BOR025	mi han detto mamma ma sono i tortellini che faceva la nonna
 BOR035	che bello
 BOI112	
-BOR025	che mi suocera era  un asso di briscola a fare
+BOR025	che mi suocera era un asso di briscola a fare
 BOI112	
 BOI112	i tortellini
 BOR025	perciò li prendo sempre lì costano un po' di più che da altre parti ma sono una garanzia
@@ -767,7 +767,7 @@ BOR025	però se posso
 BOI112	mh
 BOR025	mantengo ecco
 BOR025	eh abbiamo avuto questo dibattito una volta che abbiamo fatto un'altra intervista
-BOR025	quali  cioè cena del ventiquattro pranzo del venticinque quali sono i i vari step perché c'è chi fa
+BOR025	quali cioè cena del ventiquattro pranzo del venticinque quali sono i i vari step perché c'è chi fa
 BOI112	solo il pranzo il venticinque c'è che fa ventiquattro venticinque ventisei
 BOI112	noi abbiamo sempre fatto ventiquattro venticinque
 BOR025	come pranzo poi la sera
@@ -802,18 +802,18 @@ BOI112	certo san petronio in piazza in centro ci sono
 BOR025	delle iniziative organizzate dal comune
 BOI112	mhmh
 BOI112	san petronio è sempre stata la nostra festa perché ovviamente san ptroni
-BOR025	eh  è nostro
+BOR025	eh è nostro
 BOI112	
 BOR025	però è anche san francesco patrono d'italia il quattro ottobre
 BOI112	è vero il quattro sì
 BOR025	perciò anche la chiesa di san francesco che è lì vicina alla piazza malpighi
 BOI112	mhmh
 BOI112	anche li ci sono delle iniziative
-BOI112	si dovrebbe andare a messa  poi ci sono delle
+BOI112	si dovrebbe andare a messa poi ci sono delle
 BOI112	io in verità no
 BOI112	devo dirvi che
 BOI112	ci tengo a san petronio
-BOI112	e  solitamente se è un giorno infra settimanale
+BOI112	e solitamente se è un giorno infra settimanale
 BOR025	io ne approfittavo per andare nelle altre città
 BOR035	ah
 BOI112	ah
@@ -851,14 +851,14 @@ BOR025	però voi
 BOR035	no
 BOI112	eh
 BOI112	voi dovete andare
-BOI112	anche  sul campanile della chiesa di san pietro in via indipendenza
+BOI112	anche sul campanile della chiesa di san pietro in via indipendenza
 BOI112	che è un doppio campanile dentro c'è quello tondo fuori c'è quello quadrato
 BOI112	molto antico
 BOI112	e da lì c'è una vista bellissima e su ci sono tutte le campane
 BOR025	ma oltre a questo c'è la torre prendiparte
 BOR035	eh me l'han detto sì
 BOI112	ah sì l'avr- sì
-BOI112	in piazza  sant'alò
+BOI112	in piazza sant'alò
 BOR025	che da noi si dice o' san'alò che prem murì poi s' ammalò
 BOR035	
 BOI112	
@@ -918,7 +918,7 @@ BOI112	però però io un po' queste cose le poss-
 BOR035	e mi son laureata
 BOR025	io ho fatto prima di sex
 BOR035	no l'ho fatta prima
-BOI112	io infatti l'ho fat~ non l'ho fatto anche per quello  sono molto superstiziosa
+BOI112	io infatti l'ho fat~ non l'ho fatto anche per quello sono molto superstiziosa
 BOR025	no ragazzi ci sono andata anche mentre studiavo mi son laureata
 BOR035	a posto
 BOR035	non succede niente
@@ -939,7 +939,7 @@ BOR025	si dicono
 BOR025	eh però ci sono salita prima
 BOI112	penso o una o due volte non mi ricordo
 BOR025	mh
-BOR025	bellissime io  mi è piaciuto tantissimo io non vedevo l'ora
+BOR025	bellissime io mi è piaciuto tantissimo io non vedevo l'ora
 BOR035	di fare questa cosa visto che non potevo salirci mentre studiavo il giorno in cui mi laureo salgo sulla torre
 BOR025	e adesso
 BOI112	e adesso che è chiusa io ci son rimasta malissimo perché io è tutta la vita che aspetto di salire sulla torre
@@ -965,7 +965,7 @@ BOR025	mh
 BOR035	penso ce spererei che l'apriano prima di finire di fare i lavori dipende non so cosa devono fare quindi
 BOR025	sì
 BOR035	non lo so
-BOI112	sì sì secondo me è un peccato perché ad un certo punto avevano chiuso  cioè non potevi più neanche entrare ai a bottega portici
+BOI112	sì sì secondo me è un peccato perché ad un certo punto avevano chiuso cioè non potevi più neanche entrare ai a bottega portici
 BOR035	mh
 BOR025	che era comunque un fulcro
 BOR035	si tipo poco però sì
@@ -978,7 +978,7 @@ BOI112	è molto piena di eventi adesso manifestazioni è comunque una città att
 BOR035	ma quello è sempre stato
 BOR025	sempre stato
 BOR025	eh mi hanno detto
-BOR025	appunto io non conosci~ non conosco bologna anni fa però che è una cosa che  è rimasta negli anni cioè anche una volta è sempre stata attiva
+BOR025	appunto io non conosci~ non conosco bologna anni fa però che è una cosa che è rimasta negli anni cioè anche una volta è sempre stata attiva
 BOI112	è una cosa che ti piace di bologna
 BOI112	sì
 BOI112	ma tantissimo
@@ -990,11 +990,11 @@ BOR035	eh infatti
 BOI112	eh è importante
 BOR025	perché con la linea gotica
 BOI112	mh
-BOI112	mio babbo  che abitava in via parisio
+BOI112	mio babbo che abitava in via parisio
 BOR025	nel quartiere savena
 BOI112	okay
 BOI112	quando c'è stata la guerra nel quarantaquattro
-BOR025	nel quarantacinque  sp~ lui eh i miei zii i suoi genitori sfollarono in via san vitale
+BOR025	nel quarantacinque sp~ lui eh i miei zii i suoi genitori sfollarono in via san vitale
 BOI112	ah
 BOI112	e quando suonavan le sirene
 BOI112	che a bologna ce n'erano mi sembra settantatré
@@ -1013,7 +1013,7 @@ BOI112	su una villa revedin
 BOI112	che è il rifugio putti
 BOR025	con che l'han tutto ripulito eccetera e si può andare a visitare
 BOI112	mh
-BOR025	e lì è presente  una sirena  l'unica sopravvissuta
+BOR025	e lì è presente una sirena l'unica sopravvissuta
 BOR025	mhmh
 BOI112	ah
 BOI112	che era alla staveco
@@ -1038,7 +1038,7 @@ BOI112	la fan suonare bello
 BOR025	sì ma c'è anche il sito su facebook dove la potete sentire
 BOI112	ah bello
 BOI112	associazione adesso ve la trovo
-BOI112	eh poi adesso han trovato un altro rifugio  allora un altro è in via saragozza
+BOI112	eh poi adesso han trovato un altro rifugio allora un altro è in via saragozza
 BOI112	sotto alla villa
 BOI112	non me la ricordo il nome comunque se andate a vederla
 BOR025	lì proprio si era instaurato il comando tedesco
@@ -1097,7 +1097,7 @@ BOR035	capito
 BOI112	ma un'altra cosa tipica bolognese che ho visto è quel sa~ ha detto che bologna è un cantiere sempre
 BOR035	mh
 BOR035	quella mh
-BOI112	mh l'uomo umarel  allora
+BOI112	mh l'uomo umarel allora
 BOR035	l'umarel
 BOI112	l'umarel è tipico bolognese ho scoperto io non lo sapevo
 BOR025	sì l'umarel
@@ -1136,7 +1136,7 @@ BOI112	essere traslate un po' magari dal loro significato originale ci sono tant
 BOI112	guarda
 BOI112	io vedo molta attenzione in questo poi bologna
 BOI112	ha difficoltà
-BOI112	con la criminalità  con gli alcolisti perché adesso l'alcool è una cosa impressionante
+BOI112	con la criminalità con gli alcolisti perché adesso l'alcool è una cosa impressionante
 BOI112	non era così per esempio
 BOI112	tutte queste birre
 BOI112	io
@@ -1158,7 +1158,7 @@ BOI112
 BOI112	eh mh
 BOI112	perciò questo è un grosso problema anche lo~ la guida in stato di ebrezza
 BOI112	eh una volta l'etilometro usciva alle dieci di sera adesso esce alle dieci di mattina se non anche prima
-BOI112	perciò il ecco una piaga sociale  nazionale secondo me
+BOI112	perciò il ecco una piaga sociale nazionale secondo me
 BOR025	e anche di bologna è proprio l'ubriachezza
 BOR035	okay
 BOI112	ah
@@ -1167,7 +1167,7 @@ BOR035	che questo causa anche problemi ai rider per dire no che vanno in bicicle
 BOI112	sì
 BOI112	però
 BOI112	questa è una cosa grave
-BOI112	ma anche i bolognesi io ho due figli che  che non bevono
+BOI112	ma anche i bolognesi io ho due figli che che non bevono
 BOI112	cioè ogni tanto uno la birra gli piace all'altro non piace la birra
 BOI112	insomma così però bisogna
 BOR025	per me questo è un'emergenza nazionale ma è così dappertutto eh
@@ -1177,9 +1177,9 @@ BOI112	so' stata a new york era così so' stata a praga era così
 BOR035	perciò insomma proprio
 BOR025	mh mh
 BOR035	sì
-BOI112	ma invece ero curiosa  eh ci sono alcune zone che a bologna si dice sono pericolose tipo il quartiere pilastro
+BOI112	ma invece ero curiosa eh ci sono alcune zone che a bologna si dice sono pericolose tipo il quartiere pilastro
 BOR025	sì
-BOI112	che  effe~ effettivamente
+BOI112	che effe~ effettivamente
 BOR035	io ci ho abitato sai al pilastro
 BOI112	ci hai abitato cosa pensi
 BOR035	allora tanti anni fa
@@ -1195,7 +1195,7 @@ BOI112	ed erano molto pericolose effettivamente
 BOI112	poi i cittadini io ho vissuto un po' quella del pilastro
 BOI112	non hanno lasciato che questa cosa continuasse ma hanno inziato a fare attività
 BOI112	ad aprire biblioteche ad aprire il centro sociale a fare i campi da
-BOI112	eh da calcio i campi da tennis ma non solo  i cittadini anche col quartiere
+BOI112	eh da calcio i campi da tennis ma non solo i cittadini anche col quartiere
 BOI112	con il comune eccetera
 BOI112	adesso hanno fatto la caserma dei carabinieri
 BOR035	l'hanno inaugurata da poco
@@ -1225,7 +1225,7 @@ BOI112	lì adesso hanno cercato di salvare han cercato di riqualificare han cerc
 BOI112	anche ho visto tanta ristrutturazione nei palazzi adesso
 BOR035	han~ ci sono i parchi più grandi di bologna al pilastro
 BOI112	sì è vero è vero
-BOI112	con anche delle sculture una  delle sculture fatte da nicola zamboni quelle in
+BOI112	con anche delle sculture una delle sculture fatte da nicola zamboni quelle in
 BOI112	in rame
 BOR035	che nicola zamboni è deceduto due anni fa
 BOI112	mhmh
@@ -1259,11 +1259,11 @@ BOI112	che son state scelte sbagliate
 BOR035	però poi hanno recuperato
 BOI112	mhmh
 BOR025	poi gli spettacoli cercano di farli anche in questi quartieri insomma
-BOR035	quindi secondo te  meglio rispetto a una volta cioè adesso non è così non è così pericoloso
+BOR035	quindi secondo te meglio rispetto a una volta cioè adesso non è così non è così pericoloso
 BOI112	ah ah
 BOI112	certo
 BOI112	secondo me sì
-BOR025	eh allora  io se devo andare in certe vie non ci vado da sola di sera eccetera
+BOR025	eh allora io se devo andare in certe vie non ci vado da sola di sera eccetera
 BOI112	mh
 BOI112	però mi rendo conto che tanto è stato fatto
 BOR025	tanto
@@ -1277,7 +1277,7 @@ BOR035	normali lavoratori con figli eccetera
 BOI112	sì
 BOR035	io ci ho abitato per del tempo non ho mai avuto problemi
 BOR035	ma sì ma infatti io quando ci sono stata c'è la grande
-BOR025	la grande nomina insomma del pilastro mi è sembr~ nomea non mi è sembrata  quella
+BOR025	la grande nomina insomma del pilastro mi è sembr~ nomea non mi è sembrata quella
 BOR035	cioè è più dit~ cioè è più il detto che la realtà
 BOR035	è più il
 BOI112	è più il detto che la realtà la nomea esatto più più il detto che la realtà delle delle cose infatti
@@ -1288,7 +1288,7 @@ BOI112	tanti anni fa no
 BOR025	però io vi dico abitavo lì al quartiere savena
 BOI112	no
 BOI112	e anche lì c'erano dei palazzi un po' così
-BOI112	e io  in prima elementare quando uscivo scappavo a casa di corsa perché c'era un ragazzino
+BOI112	e io in prima elementare quando uscivo scappavo a casa di corsa perché c'era un ragazzino
 BOR025	che mi picchiava
 BOI112	cavolo
 BOR035	perciò sì anche sessant'anni fa c'eran ste cose
@@ -1304,7 +1304,7 @@ BOI112	ah
 BOR025	però insomma
 BOI112	secondo te invece in centro è~ è sicura come città d~ bologna o
 BOI112	guarda io non
-BOR025	io vado in centro quando ne ho  bisogno e quando lo desidero non non mi so~ non mi è mai successo niente
+BOR025	io vado in centro quando ne ho bisogno e quando lo desidero non non mi so~ non mi è mai successo niente
 BOI112	okay
 BOI112	giro anche da sola anche le dieci undici di sera
 BOR025	e eh non ho avuto esperienza
@@ -1319,17 +1319,17 @@ BOI112	che diceva che sono iniziati i lavori al teatro comunale coi fondi del pi
 BOI112	e sarà tutto di riqualificazione anche i giardini del guasto beneficerà tutta la zona eccetera
 BOR035	poi sai io non lo so
 BOR035	sì
-BOR025	no effettivamente il parco del guasto  era sempre un po'
+BOR025	no effettivamente il parco del guasto era sempre un po'
 BOI112	eh
 BOR035	però anche queste cose qua che io continuo a dire sono tutte azioni che non dipendono dal sindaco
 BOI112	un po' così
 BOI112	e dalla polizia locale ma sono so~ solitamente azioni che vengono fatte in modo congiunto
 BOI112	con polizia carabinieri ministero dell'interno ministero della difesa prefetto questore
-BOR025	cioè non è un sindaco che coordina delle  azioni come queste
+BOR025	cioè non è un sindaco che coordina delle azioni come queste
 BOI112	sì
 BOR035	è il prefetto oppure il questore che coordina
 BOI112	mh
-BOI112	poi  le fanno congiunte perché comunque la polizia locale  sa
+BOI112	poi le fanno congiunte perché comunque la polizia locale sa
 BOR025	conosce le strade però non è neanche addestrata per fare delle cose di questo genere
 BOI112	sì
 BOR025	non ha neanche le armi che servono per dire no
@@ -1391,7 +1391,7 @@ BOI112	mamma mia pensa te
 BOR035	vabbé però ha tanti canali non so se voi sapete
 BOR025	sì
 BOI112	mhmh
-BOI112	io c'è proprio l'associazione  dei canali di bologna in via della grada
+BOI112	io c'è proprio l'associazione dei canali di bologna in via della grada
 BOI112	che segue la manutenzione ci sono sessanta canali sotterranei
 BOI112	fra canali e tre fiumi
 BOI112	l'aposa il reno e
@@ -1417,17 +1417,17 @@ BOR025	per la produzione della seta della canapa del di tutte le
 BOI112	sì sì
 BOR025	le cose
 BOR025	è vero
-BOR025	no molto  carine
+BOR025	no molto carine
 BOR025	ehm però si purtroppo il clima cioè anch'io
 BOR025	ferrara cioè mh
 BOR035	è invivibile purtroppo c'è troppa umidità
 BOI112	è invivibile no infatti io scappo
-BOR035	sì poi c'è la nebbia in autostrada s'arriva  prima di ferrara al sud c'è la nebbia
+BOR035	sì poi c'è la nebbia in autostrada s'arriva prima di ferrara al sud c'è la nebbia
 BOR025	eh
 BOR025	ah io quando è stato lu~ lunedì non sono riuscita a venire perché mh
 BOI112	c'è stato un maxi tamponamento tra piacenza e parma credo
 BOR025	esatto
-BOR025	e l'autostrada già da noi era bloccata  quindi ci ho messo tantissimo a andare da casa alla stazione ho perso il treno e sono tornata a casa
+BOR025	e l'autostrada già da noi era bloccata quindi ci ho messo tantissimo a andare da casa alla stazione ho perso il treno e sono tornata a casa
 BOR035	ma eh ci sono dei giorni in cui è impressionante
 BOI112	la nebbia è assurda
 BOR025	sì
@@ -1474,7 +1474,7 @@ BOI112	da noi poi sì fa in fretta a d~ a tornare eh
 BOI112	pensa che
 BOI112	feci un viaggio
 BOI112	dove andai bah adesso mi ricordo negli anni ottanta
-BOI112	e c'erano dei genovesi  dei liguri  che dicevano che da quando avevan costruito
+BOI112	e c'erano dei genovesi dei liguri che dicevano che da quando avevan costruito
 BOR025	la diga di assuan
 BOI112	okay
 BOR025	e si era formato il lago nasser
@@ -1524,13 +1524,13 @@ BOI112	perché tanti dicono non venivan puliti i fiumi eh
 BOI112	è stato così qua
 BOI112	è stato così
 BOI112	nelle marche e in toscana tutti insieme
-BOI112	mesi dopo  in piemonte
+BOI112	mesi dopo in piemonte
 BOI112	e perché ci son queste acque così
 BOR025	copiose che non si riesce a
 BOR025	sì
 BOI112	poi sì poi nel senso anche questo caldo è abbastanza pericoloso adesso iniziano a fiorire tutte le piante poi rischia che
 BOR025	sì infatti
-BOR025	ci sta che venga una ghiacciata tra qualche giorno tra  un paio di settimane
+BOR025	ci sta che venga una ghiacciata tra qualche giorno tra un paio di settimane
 BOR025	perché comunque ancora siamo a febbraio
 BOR035	dopo rischiano di uccidere tutte le piante è terribile
 BOI112	sì
@@ -1546,7 +1546,7 @@ BOI112	bello
 BOR035	sono una cosa stupenda
 BOI112	sì
 BOI112	perché comunque vedi anche l'edilizia ha salvaguardato il verde
-BOI112	ogni palazzo  aveva eh
+BOI112	ogni palazzo aveva eh
 BOI112	l'obbligo di mantenere una zona verde
 BOR025	di tot eh
 BOI112	mhmh

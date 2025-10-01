@@ -1,5 +1,5 @@
 BOR028	allora iniziamo
-BOR028	eh allora vi chiederei innanzitutto  in che zona vivete
+BOR028	eh allora vi chiederei innanzitutto in che zona vivete
 BOI114	e come vi trovate nella vostra zona da quanto tempo ci state queste cose qua
 BOI114	io vivo a casalecchio di reno
 BOI114	da allora
@@ -9,7 +9,7 @@ BOI114	da quattord~ da tanto
 BOI114	eh mi trovo bene mi trovo molto meglio di di bologna
 BOI114	prima vabbè che i miei primi sette anni di vita però
 BOR028	eh però comunque bologna è un po' più caotica sai quindi casalecchio di reno invece è più bello è bello
-BOI113	se cade  x
+BOI113	se cade x
 BOI114	
 BOI113	ma mettilo lì mettilo x
 BOR028	scusa mettilo giù
@@ -37,19 +37,19 @@ BOI114	allora intanto ti calmi
 BOI113	
 BOI113	
 BOI113	sì vengo da un piccolo paesino che si chiama san sepolcro in provincia di arezzo la mia vita è stata lì fino a
-BOI113	fino a  qualche mese fa
-BOI113	per studi  ho cambiato casa
+BOI113	fino a qualche mese fa
+BOI113	per studi ho cambiato casa
 BOI113	vivo a bologna me la vivo molto bene perché sto sto in centro quindi
 BOI113	conosco solo la dimensione della vita del centro e è molto
 BOR028	molto vivibile
 BOI113	mhmh
 BOI113	eh è bella secondo me è più bello vivere in città che vivere
-BOI113	che vivere in un paesino perché c'hai tante  idee
+BOI113	che vivere in un paesino perché c'hai tante idee
 BOR028	e tante cose che puoi sfogare che nel paesino non non puoi sempre
 BOI113	mhmh
 BOI113	sempre sfogare
 BOI113	anche il fatto di vivere sempre tutto a piedi
-BOR028	e non avere mai la macchina che per noi è paradossale  cioè
+BOR028	e non avere mai la macchina che per noi è paradossale cioè
 BOR028	eh sì
 BOI113	impensabile
 BOR028	totale
@@ -140,7 +140,7 @@ BOI114	no
 BOI114	né quella né
 BOI114	da piccolo dicevo roma
 BOI114	però poi roma in realtà cioè
-BOI114	tipo roma è una di quelle città che in realtà in centro  tipo è molto più smorta di bologna
+BOI114	tipo roma è una di quelle città che in realtà in centro tipo è molto più smorta di bologna
 BOR028	un sacco più smorta
 BOI114	mh
 BOR028	e quello non riuscirei a viverlo
@@ -157,7 +157,7 @@ BOI113
 BOR028	però no cioè non non lo so
 BOI113	mh
 BOR028	questa è una parte proprio che mi manca cioè la parte eh attiva
-BOI113	mh ma cosa cosa ne pensi lo trovi  giusto o sbagliato x
+BOI113	mh ma cosa cosa ne pensi lo trovi giusto o sbagliato x
 BOI113	io penso che sia bello cioè è una cosa che
 BOI114	è anche un po' un tratto caratteristico di bologna cioè è conosciuta perché c'è ci sono i cortei e ci sono i rave per strada e è una cosa strafiga perché è una città di studenti è bello che sia così è vita anche questa
 BOI113	
@@ -177,7 +177,7 @@ BOI114	e te invece da casalecchiese cosa
 BOR028	eh mh ma sai io è che ho ventisette anni e sono tanti a bologna in questo senso
 BOI114	mh
 BOI114	perché mh io l'ho già passata la parte del delle manifestazioni e tutto e ci andavo ci andavo un sacco
-BOR028	io ci andavo quando avevo  quindici anni quattoridici sedici
+BOR028	io ci andavo quando avevo quindici anni quattoridici sedici
 BOI114	ah piccolissimo
 BOI114	ci andavo tantissimo
 BOR028	sì perché per me all'inizio era saltar scuola naturalemente
@@ -303,7 +303,7 @@ BOR028	la puoi fare anche lì
 BOI113	eh sì
 BOR028	eh
 BOR028	sì è il fatto è che a bologna
-BOR028	se decidi di fare quella vita lì poi  devi
+BOR028	se decidi di fare quella vita lì poi devi
 BOI113	mh necessariamente tralasciare lo studio cioè io mi sono accorta di sta cosa cioè se vuoi studiare non puoi fare balotta
 BOI113	
 BOI114	se vuoi studiare te ha bisogno di una routine ma perché ti devi proprio settare
@@ -328,7 +328,7 @@ BOI114	no
 BOI113	o quando x tornate a casa x
 BOI114	in realtà è l'opposto io tipo adesso che studio studio
 BOI113	mhmh
-BOI114	vorrei stare a casa  dalla mamma che mi fa il pranzo
+BOI114	vorrei stare a casa dalla mamma che mi fa il pranzo
 BOR028	no però in generale tornate spesso a arezzo quindi forse è anche quello
 BOI114	mh
 BOI113	però ci sta
@@ -341,7 +341,7 @@ BOR028
 BOI113	sì
 BOI113	sorella del mio fratello eh i secondigeniti sono molto più cioè
 BOI113	se il mio fratello prende il cellulare a quindici anni io l'ho preso a dieci cioè capito
-BOR028	sei già abituata  all'idea del del fratello più grande
+BOR028	sei già abituata all'idea del del fratello più grande
 BOI113	sì
 BOI113	lui che era già qua che stu~ cioè era già così cioè c'era già molto questa cosa di bologna del viaggio quindi secondo me cioè nel mio caso non è stato abituare i genitori però è proprio
 BOR028	mh boh
@@ -351,7 +351,7 @@ BOR028	te dico di no q~ quando torno capisco che avevo bisogno però se non ci t
 BOI113	mh
 BOI113	eh cambia in base a quanto te sei vicino
 BOI113	alla tua sede perché se tipo io c'ho compagne di corso che son di roma che iniziano a essere un po' più giù
-BOR028	e non tornano mica  tornano alle feste tornano
+BOR028	e non tornano mica tornano alle feste tornano
 BOI113	certo
 BOI113	una volta al mese se va bene
 BOR028	però li vedo molto più tristi perché fondamentalmente il problema del fuorisede secondo me è proprio il weekend
@@ -404,7 +404,7 @@ BOI114	non non credo poi anche il mondo fuorisede eh
 BOR028	e autoctoni diciamo si è poco si è poco mischiato forse anche quello
 BOI114	mh
 BOI113	è anche quello
-BOI114	voi siete molto  giudiconi verso i fuorisede
+BOI114	voi siete molto giudiconi verso i fuorisede
 BOI113	no non è quello è che comunque se devi pensare
 BOR028	ma io ve capisco perché io sarei come voi totale eh
 BOI114	
@@ -415,9 +415,9 @@ BOR028	no vengono modificati per il fatto per voi vengon modifica~ ma voi non ve
 BOI114	eh no
 BOI113	cioè la città è cambiata cambia continuamente per voi
 BOI114	eh beh certo
-BOI114	in bene e in meglio eh perché ripeto  ci sono anche tante cose buone
+BOI114	in bene e in meglio eh perché ripeto ci sono anche tante cose buone
 BOI114	però ovvio cioè tipo io non lo so al
-BOI114	che cosa ti posso dire al dumbo non ci vado più  cioè nel senso
+BOI114	che cosa ti posso dire al dumbo non ci vado più cioè nel senso
 BOI114	cioè mi capita di andarci ma ma poi sono un sacco di posti cioè adesso
 BOI114	dico il mio contatto più ravvicinato con i fuorisede lo posso avere al qubò
 BOR028	cioè il qubò è letteralmente il punto in cui
@@ -426,14 +426,14 @@ BOI114	alice raccontaci del qubò
 BOR028	
 BOI114	no dopo s~ sarà oggetto di discussione futura questo
 BOI114	
-BOI113	no perché sì quando  al massimo posso spingermi lì per dire
+BOI113	no perché sì quando al massimo posso spingermi lì per dire
 BOR028	mh
 BOI113	mh
-BOI113	io odio  fare la fuorisede
-BOR028	io da fuorisede  non farei mai le cose per cui vengono etichettati i fuorisede come fuorisede
+BOI113	io odio fare la fuorisede
+BOR028	io da fuorisede non farei mai le cose per cui vengono etichettati i fuorisede come fuorisede
 BOI113	ma tipo
 BOR028	ma tipo andare in piazza verdi fare le cose che si dice che fanno i fuorisede
-BOI114	eh che fai domanda  cioè
+BOI114	eh che fai domanda cioè
 BOI114	
 BOI113	no ma è normale ma son due mondi che si escludono a vicenda io x
 BOI113	proprio a me dà fastidio essere
@@ -452,13 +452,13 @@ BOR028	netta
 BOI114	sì
 BOI113	non c'è nessun locale che sia cioè pure che capisci mh non so vai
 BOI114	è netta
-BOI113	pure che la prosegui questa linea proprio ai limiti  resta comunque così
+BOI113	pure che la prosegui questa linea proprio ai limiti resta comunque così
 BOI114	è così
 BOI114	io ho amici che con cui faccio mh difficoltà diciamo a usci~ che esc~ con cui esco sempre
 BOI113	però faccio difficoltà magari a non a uscire a a trovare un posto un locale capito
 BOI114	
 BOI114	a in centro a bologna perché magari loro ti dicono sì ma io
-BOI114	oltre cioè di là a sinistra non ci vado cioè inteso  via zamboni quelle parti lì
+BOI114	oltre cioè di là a sinistra non ci vado cioè inteso via zamboni quelle parti lì
 BOR028	locali fuorise~ po~ parti in cui son frequentate dal cioè posti in cui son frequentati da da fuorisede non ci va lui capito
 BOI114	mh
 BOR028	eh mh
@@ -500,10 +500,10 @@ BOI114	che tradizioni av~ cioè se se avete tradizioni in casa le seguite
 BOI114	no sai che
 BOI114	beh mh non lo so io credo che mh
 BOI114	cioè per come l'ho vissuta io insieme ai miei amici eccetera vedo che un po'
-BOR028	il concetto magari di famiglia che fate voi viene un po' meno più si sale probabilmente  non lo so
+BOR028	il concetto magari di famiglia che fate voi viene un po' meno più si sale probabilmente non lo so
 BOI114	eh sì
 BOI114	però qua io ce l'ho molto poco e i miei amici ce l'hanno molto poco
-BOR028	mh è rarissimo sentire un amico parlare di pranzo della nonna dalla nonna e poi magari ci va e non lo dice non lo so  però
+BOR028	mh è rarissimo sentire un amico parlare di pranzo della nonna dalla nonna e poi magari ci va e non lo dice non lo so però
 BOI113	sì
 BOR028	ma perché più cresci piu le nonne non ce le hai più e quindi
 BOI114	
@@ -540,7 +540,7 @@ BOR028	il panzallo toh
 BOR028	eh
 BOR028	toh buono
 BOR028	no noi questa cosa di piero della francesca
-BOI114	però ancora stiamo parlando del borgo non ci interessa  in questo momento
+BOI114	però ancora stiamo parlando del borgo non ci interessa in questo momento
 BOI113	
 BOI114	
 BOR028	dai ci son le tradizioni culinarie lì no
@@ -554,7 +554,7 @@ BOI114	no
 BOI113	a quello che ti ho detto io
 BOI114	i modenesi ammettono tipo che il tortellino è di bologna secondo me lo ammettono
 BOI113	mh
-BOI114	però la mortadella no  la rivendicano
+BOI114	però la mortadella no la rivendicano
 BOI113	no ma che mortadella mortadella guarda lascia stare ma x la crescentina tipo
 BOI114	tipo
 BOR028	gnocco fritto e crescentina è una guerra tra mondi cioè tipo avengers
@@ -572,7 +572,7 @@ BOI114	sì
 BOI113	ti portano la tigella che è è quella mh da da una forma precisa
 BOR028	tonda
 BOI114	mhmh
-BOI113	e la crescentina che è mh diciamo insomma un capannone  non lo so come  non so spiegare
+BOI113	e la crescentina che è mh diciamo insomma un capannone non lo so come non so spiegare
 BOI114	la ciaccina fritta nostra la ciaccina fritta
 BOR028	esatto
 BOI114	
@@ -582,7 +582,7 @@ BOR028	si si chiama il gnocco fritto e la crescentina che è la vera
 BOI114	
 BOI113	no scusa il gnocco fritto è la tigella e tigella la crescentina
 BOI114	come fai non è fritta no però non è fritta
-BOI113	bro ti giuro  è così
+BOI113	bro ti giuro è così
 BOI113	eh
 BOI113	cioè
 BOI114	che fatto è
@@ -597,10 +597,10 @@ BOI113	da voi il ragù al cinghiale per dire
 BOR028	è italiana allora
 BOI113	sì eh da noi cinghiale sì
 BOI114	da noi cinghiale
-BOI113	vedi con una parola poi dopo  trasformi x
+BOI113	vedi con una parola poi dopo trasformi x
 BOR028	però non è sempre cinghiale spessissimo è ragù è il sugo
 BOI113	vabbè ma è contaminazione quella
-BOR028	però  e poi la chianina però noi si fa noi noi si fa il ragù bianco
+BOR028	però e poi la chianina però noi si fa noi noi si fa il ragù bianco
 BOI113	eh sì
 BOI114	da voi non esiste il ragù bianco
 BOI114	no
@@ -637,15 +637,15 @@ BOR028	quindi quindi quello
 BOI113	sì
 BOI113	secondo me alla fine anche qui ci entri dentro conosci uno schema conosci un giro ne conosci un altro vedi che qualche linea per forza si ricongiunge perché
 BOI114	già milano forse è più o una città veramente grande tipo roma penso che sia veramente molto più difficile però bologna alla fine te dà te dà controlli quasi
-BOI113	no ma fidati fidati  fidati nessuna città potrai mai avere il controllo di città perché alla fine mh inizi a girare con la stessa compagnia e tutta la gente che comunque conosci magari ha altri amici che alla lunga vai a conoscere anche te
+BOI113	no ma fidati fidati fidati nessuna città potrai mai avere il controllo di città perché alla fine mh inizi a girare con la stessa compagnia e tutta la gente che comunque conosci magari ha altri amici che alla lunga vai a conoscere anche te
 BOI113	vabbè chiaro chiaro
 BOI113	chiaro
-BOI113	però per me cioè io perché ti ti arrivo a dire che sicuramente x ti arrivo a dire la controlli perché per me dalla concezione che c'avevo io era una roba impensabile anche il fatto che due persone si potessero conoscere  a bologna
+BOI113	però per me cioè io perché ti ti arrivo a dire che sicuramente x ti arrivo a dire la controlli perché per me dalla concezione che c'avevo io era una roba impensabile anche il fatto che due persone si potessero conoscere a bologna
 BOR028	cioè che due bolognesi si potessero conoscere tra di loro perché io c'avevo proprio una concezione del chissà dove vado tipo los angeles io non lo so cioè pensavo tipo anche le strade la città cioè il centro a me all'inizio me sembrava tanto grande tanto in realtà è una stronzata è facilissmo è piccolissimo
 BOI114	mhmh
 BOR028	
 BOI114	
-BOI113	però come ti ho detto prima del vi raccontavo di via irnerio che si trovavano tutte le balotte tutte le compagnie di di una parte di bologna alcuni di quelli non li conoscevi neanche cioè li iniziavi a conoscere dopo un po' ma eravamo ti parlo di non lo so percepiti da me  che ricorda il ludovico di qua~ di diec'anni fa ti dico di no di più di tredici anni fa ti dico eravamo in cento
+BOI113	però come ti ho detto prima del vi raccontavo di via irnerio che si trovavano tutte le balotte tutte le compagnie di di una parte di bologna alcuni di quelli non li conoscevi neanche cioè li iniziavi a conoscere dopo un po' ma eravamo ti parlo di non lo so percepiti da me che ricorda il ludovico di qua~ di diec'anni fa ti dico di no di più di tredici anni fa ti dico eravamo in cento
 BOR028	eh
 BOI113	mhmh
 BOR028	vabbè
@@ -666,7 +666,7 @@ BOI113	no
 BOI114	però universitari
 BOI113	non ci credo eh esatto okay
 BOI114	ci sono i bolognesi ci sono i bolognesi universitari
-BOI113	sì che già è raro come  come persona
+BOI113	sì che già è raro come come persona
 BOI113	ci va chi come concezione dello stile di vita si è consacrato a vivere in quel modo
 BOR028	ma cose proprio cioè
 BOI113	ma tipo
@@ -693,10 +693,10 @@ BOI113	la gente del dams ma te se io ci facevo lezione ci facevo una lezione al 
 BOR028	ma non è solo dall'aspetto che uno dice oh ti appiccico questo modo di fare perché ti vedo che sei vestito in un determinato modo no cioè lo fanno lì
 BOI113	mhmh
 BOR028	questa è tutta gente che esce pausa lezione una canna e poi torna cioè
-BOI113	se già ci vai a lezione  qualcosa
+BOI113	se già ci vai a lezione qualcosa
 BOI113	sì
 BOI114	ecco è t~ tutto uno stile di vita che io mh non so
-BOI113	eh son stato anche ragazzo eh  quindi
+BOI113	eh son stato anche ragazzo eh quindi
 BOI113	
 BOI114	io non non so
 BOI114	ci sta
@@ -708,7 +708,7 @@ BOR028	te vedi anche solo il fatto che è molto viva di notte per dire
 BOI114	sì molto
 BOI113	molto viva di notte quindi mh è normale che il giro di droghe sia più
 BOI114	e non c'è secondo me la differenza tra il in settimana e il fine settimana nella zona universitaria
-BOI113	ovvio cioè  ma è normale che è così
+BOI113	ovvio cioè ma è normale che è così
 BOI114	zona universitaria ti dico il martedì sera se c'è boh un eventino ci potrebbe essere molto più gente piuttosto che il sabato sera che magari non c'è un cane
 BOR028	ma sì ma tantissime serate tra l'altro ad esempio nel qubo stesso sono tipo il mercoledì mi pare la la serata più bella è il qubo per dire è il mercoledì
 BOI113	sì
@@ -719,7 +719,7 @@ BOR028	il sodapops adesso va un sacco
 BOI114	dai sì cioè ci andavano i trentenni no okay
 BOI114	sì
 BOI114	mh no sìsìsì del tutto
-BOR028	sìsì  vabbè ma guarda che poi i trentenni per me erano
+BOR028	sìsì vabbè ma guarda che poi i trentenni per me erano
 BOI113	
 BOR028	
 BOI114	eh
@@ -785,14 +785,14 @@ BOI114	eh
 BOR028	cioè mh l'hai centrato in pieno nel senso che mh c'è il problema di taxi~ dei tassisti a bologna
 BOI114	mhmh
 BOI114	eh perché son pochi perché non voglion lavorare
-BOR028	eh lo dico pure avendo amici  eh tassisti e che tra l'altro hanno provato anche a sviluppare applicazioni simili a uber e c'è in effetti e funziona
+BOR028	eh lo dico pure avendo amici eh tassisti e che tra l'altro hanno provato anche a sviluppare applicazioni simili a uber e c'è in effetti e funziona
 BOI114	ah
 BOR028	eh mh però comunque lo vivo la vivo molto la differenza rispetto a quando vado in vacanza ma pure che vado a milano capito
 BOI114	mhmh
 BOI113	che vado a napoli stesso
 BOI114	x
 BOI114	no nel senso ci sono città che magari dici mh cioè capisci roma e milano però dici a napoli uber va funziona e tutto
-BOR028	e se non ricordo male sì cioè  nel senso comunque molto di più il sistema di taxi va funziona rispetto a qua qua ce ne sono proprio pochi
+BOR028	e se non ricordo male sì cioè nel senso comunque molto di più il sistema di taxi va funziona rispetto a qua qua ce ne sono proprio pochi
 BOI114	x
 BOR028	soprattutto da un certo orario in poi
 BOI114	mhmh
@@ -809,7 +809,7 @@ BOR028
 BOI114	mhmh
 BOI114	eh passava a mezzanotte e tipo trenta una roba del genere cioè nel senso eri obbligato a arrivare tra virgolette presto in discoteca
 BOI114	eh mh e poi eh se volevi andare a casa l'ultimo autobus l'ultimo venti
-BOI114	perché mh è diventato anche quasi un modo di dire nel  nel circondario bolognese perché è l'autobus che alla fine porta quasi tutti ovunque se abiti nella zona ovest di bologna
+BOI114	perché mh è diventato anche quasi un modo di dire nel nel circondario bolognese perché è l'autobus che alla fine porta quasi tutti ovunque se abiti nella zona ovest di bologna
 BOI114	eh dal centro o verso il centro eh passava a anche lì mezzanotte e quaranta una cosa del genere
 BOR028	e la tua serata finiva il tuo sabato sera finiva per forza lì altrimenti te non puoi avere un'idea di quanti quante volte io mi son fatto un~ un'ora un'ora e mezza a piedi per tornare a casa non hai idea proprio
 BOI113	mhmh
@@ -842,7 +842,7 @@ BOI114	era all'estragon
 BOI113	ah okay
 BOI114	l'estragon che ti dicevo google maps ci ha portato nel retro tipo dell'estragon
 BOI113	
-BOR028	non ci ha portato  all'estragon
+BOR028	non ci ha portato all'estragon
 BOI114	sì
 BOR028	mhmh
 BOI113	sì
@@ -871,7 +871,7 @@ BOR028	x
 BOI114	
 BOI113	perché poi i mobike mi sa che arrivano fino a un certo punto a casalecchio mi sa che si fermano penso
 BOI114	no a casalecchio non ci vai non ci arrivi con la mobike
-BOR028	no mi sa si ferma proprio davanti al maran mi pare  mi pare di di aver visto delle scene sì no infatti
+BOR028	no mi sa si ferma proprio davanti al maran mi pare mi pare di di aver visto delle scene sì no infatti
 BOR028	
 BOI113	il capolinea
 BOR028	mi ci vorrei trovare troppo nelle ci~ no comunque mh tipo calcutta è stata un'esperienza che se io se fosse stata io e te
@@ -947,12 +947,12 @@ BOI113	no ancora prima di me c'era la barca per dire
 BOI114	quella ho capito
 BOI114	okay
 BOI114	la barca prima di me mh i miei genitori ma anche la generazione intermedia tra mh i miei genitori e io c'era la barca che è un quartiere che è a fianco alla alla croce a casalecchio che era malfamatissimissimo
-BOI113	eh poi c'era il pilastro eh  quando ero piccolo io eh effettivamente
+BOI113	eh poi c'era il pilastro eh quando ero piccolo io eh effettivamente
 BOR028	ma ancora c'è ancora il mito del pilastro
 BOI114	sì è un mito però cioè io non ci sono mai stata non
 BOI113	è un mito esatto però ai tempi ai tempi era mh era un mito fondato nel senso che comunque mh eh mh adesso ti dico più che pilastro tipo verso già la bolognina c'era un camp~ c'è un campo eh rom di zingari
 BOI114	mi ci porti
-BOR028	eh ma potrei perché in realtà li conosco cioè nel senso  il paradosso è quello
+BOR028	eh ma potrei perché in realtà li conosco cioè nel senso il paradosso è quello
 BOI114	
 BOI114	eh mh perché sì ci son due famiglie rom sostanzialmente a bologna una è a casale~ a san biagio che è sotto casalecchio e l'altra è in bolognina effettivamente devo dire che se ti capita di di essere lì magari con la biciletta che è magari ci sta che ti rubino una moto te la rubano lì ci sta che te la rubino lì
 BOR028	poi possono ovviamente muoversi non dico quello però dico che è ancora rimasto così un po' per via di quelle influenze lì probabilmente soprattutto

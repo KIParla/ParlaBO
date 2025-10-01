@@ -3,7 +3,7 @@ BOR031	no
 BOI117	giusto
 BOR031	no
 BOR031	okay
-BOI117	eh come mai avete deciso di trasferirvi qua  se posso chiedere ovviamente eh
+BOI117	eh come mai avete deciso di trasferirvi qua se posso chiedere ovviamente eh
 BOR031	ma certo ma sinceramente ci siam trovati qui
 BOI117	
 BOI117	ma
@@ -12,7 +12,7 @@ BOI117	c'erano i suoi genitori
 BOR031	inizialmente
 BOI117	okay
 BOI117	perché mh eh i
-BOR031	prima eh mh  vabbè da dal nostro paese in calabria siamo venuti qui io son venuta qui a studiare
+BOR031	prima eh mh vabbè da dal nostro paese in calabria siamo venuti qui io son venuta qui a studiare
 BOI117	ah okay
 BOR031	eh sono salita su che avevo diciotto anni
 BOI117	mhmh
@@ -48,7 +48,7 @@ BOR031	sì sì
 BOI117	e poi tu sei andato a roma te sei andata sei venuta qui
 BOR031	sì siamo
 BOI117	e a studia~ e dove studiavi a bologna o
-BOR031	a economia  mi sono laureata in economia e commercio
+BOR031	a economia mi sono laureata in economia e commercio
 BOR031	economia a bologna
 BOR031	okay
 BOI117	e ti s~ ti sei voluta spostare qua per studiare perché cioè proprio apposta per gli studi oppure era diciamo un po'
@@ -73,7 +73,7 @@ BOI117	ho capito
 BOR031	quindi la mia scelta è stata questa inizialmente
 BOI117	mhmh
 BOR031	eh la sua per per per amore
-BOI117	ci sta  bello bello bello
+BOI117	ci sta bello bello bello
 BOR031	
 BOR031	ma eh erano i tuoi piani cioè tu quando sei venuta a studiare qua
 BOR031	era nei tuoi piani poi l'hai capito subito che saresti voluta rimanere
@@ -88,7 +88,7 @@ BOI117	cioè s~ mh noi non so abbiamo le radici abbastanza forti
 BOR031	mh
 BOI117	okay
 BOI117	eh mh
-BOR031	infatti il nostro paese mh  cioè sentiamo la mancanza del nostro paese
+BOR031	infatti il nostro paese mh cioè sentiamo la mancanza del nostro paese
 BOI117	okay
 BOR031	però ti rendi conto che anche se provi come hanno provato tante altre persone
 BOI117	ah ah
@@ -111,7 +111,7 @@ BOI117	sì
 BOR031	no no il nostro paese ormai sta morendo
 BOI117	ah
 BOI117	sì sì è molto bello è sul mare è una meta turistica
-BOI118	eh  però
+BOI118	eh però
 BOI117	tolto il mese d'agosto però non c'è niente
 BOR031	tolto il mese di agosto poi dopo fai veramente poco
 BOR031	sì
@@ -169,7 +169,7 @@ BOI117	mh
 BOR031	io lavoro a medicina vado in bicicletta
 BOI117	ah beh allora
 BOR031	quindi
-BOI118	eh l'avevate mai considerata l'idea di trasferirvi a bologna inizialmente prima di  prendere casa qua a medicina
+BOI118	eh l'avevate mai considerata l'idea di trasferirvi a bologna inizialmente prima di prendere casa qua a medicina
 BOR031	sì
 BOI118	zero
 BOI117	no
@@ -241,7 +241,7 @@ BOI117	sì
 BOI118	però comunque un ragazzo impiega da noi eh sì tre quarti d'ora
 BOR031	ah beh tre quarti d'ora
 BOI117	eh eh io lo so bene perché prendo l'autobus da massa lombarda che passa lì
-BOR031	ecco  allora hai voglia
+BOR031	ecco allora hai voglia
 BOI117	e anche lì non c'è la stazio~ cioè c'è la stazione ma non non non la usano quindi più o meno è uguale
 BOR031	eh eh eh
 BOR031	eh tu tu saresti comodo per andare a lavoro con col treno magari
@@ -317,7 +317,7 @@ BOR031	anche no mi in~ mi innervosisco e già il parcheggio e poi fai qua e poi 
 BOR031	sì
 BOI117	eh sì
 BOR031	no
-BOI117	si sta bene a casa  no ma son d'accordo
+BOI117	si sta bene a casa no ma son d'accordo
 BOI118	
 BOI117	anche perché c'è sempre qualcosa da fare
 BOR031	sì poi vabbè noi lavorando tutto il giorno poi sabato e domenica sabato dedicato sempre alle pulizie e
@@ -391,7 +391,7 @@ BOI117	anche gli extracomunitari sono un po' di più
 BOR031	non che le viviamo x però boh ma a prescindere ormai è un
 BOI117	mh
 BOI118	è tutto un boh non lo so più caotica più
-BOR031	poi il traffico è  più aumentato s~ rispetto a prima
+BOR031	poi il traffico è più aumentato s~ rispetto a prima
 BOI118	è più aumentato il traffico c'è più gente non lo so
 BOI118	x x x
 BOR031	rispetto a non so a vent'anni fa a quindici anni fa ce n'è molto di più
@@ -429,14 +429,14 @@ BOI117	sono rovinati
 BOR031	non lo so meno attenzione delle persone nella cura della cosa pubblica
 BOI117	okay
 BOI117	ecco eh secondo me adesso mh
-BOR031	mh mh secondo o~  eh le persone sono mh boh credono di essere al di sopra di tutto e di tutti
+BOR031	mh mh secondo o~ eh le persone sono mh boh credono di essere al di sopra di tutto e di tutti
 BOI117	mh
 BOI117	fanno quello che vogliono
 BOI118	eh quindi non non rispettano niente c'è un menefreghismo generico eh mh
 BOI117	menefreghismo dai sono egoisti
 BOR031	perché bologna è molto bella
 BOI117	mh
-BOR031	a me piace veramente tanto come città  a~ andare a visitare le chiese i vicoletti è molto bello
+BOR031	a me piace veramente tanto come città a~ andare a visitare le chiese i vicoletti è molto bello
 BOI117	okay
 BOI117	però a a mh
 BOR031	a una certa ora meglio di no
@@ -448,7 +448,7 @@ BOI117	sì dipende dalle zone però
 BOR031	c'è gente strana in giro
 BOI118	eh a medicina questa cosa l'avete notata invece
 BOI117	e o
-BOR031	ma io a medicina l'ho avvertita di meno cioè considera che  certe volte anche quando è tardi
+BOR031	ma io a medicina l'ho avvertita di meno cioè considera che certe volte anche quando è tardi
 BOI118	okay
 BOI118	x
 BOR031	non c'è mai nessuno
@@ -466,7 +466,7 @@ BOI117	mh
 BOI117	perché comunque se lì abita una mia amica lì ne abita un'altra lì se li vedono per strada
 BOR031	cioè bene o male qualcuno che tiene d'occhio
 BOI117	mhmh
-BOR031	adesso è brutto dirlo perché non è che  bisognerebbe stare attenti
+BOR031	adesso è brutto dirlo perché non è che bisognerebbe stare attenti
 BOI117	no certo sì
 BOR031	eh però anche noi ci sentiamo più tranquilli
 BOI117	ci sta ci sta è più piccola quindi è anche normale assolutamente
@@ -488,7 +488,7 @@ BOI117	mhmh
 BOR031	mh
 BOR031	sì ho capito
 BOR031	eh
-BOI117	parlando di cose più positive dai  eh mh a bologna eh a te piace vistare le chiese vi~ vi~ a
+BOI117	parlando di cose più positive dai eh mh a bologna eh a te piace vistare le chiese vi~ vi~ a
 BOR031	sì
 BOI118	quelle poche volte che siete andati vi ci sono dei posti in particolare non lo so che vi vi piace vedere tipo le chiese non lo so musei mh attrazioni più culturali
 BOI117	musei no
@@ -544,7 +544,7 @@ BOI118	sì volevo chiedervelo
 BOI117	ci siamo andati sì però ci siamo persi
 BOR031	sì quello è molto bello infatti mi è sfuggito non te l'ho detto prima però san luca è veramente molto bello merita
 BOR031	okay
-BOR031	sì  sì
+BOR031	sì sì
 BOI117	cosa cosa vi piace in particolare di san luca
 BOI118	a me piace tutto là tutto il porticato che te lo fai tutto a piedi
 BOR031	il porticato a me
@@ -664,7 +664,7 @@ BOR031	eh abbiamo imparato anche a farli perché abbiamo imparato a farli
 BOI117	osta
 BOI118	però
 BOI117	li~ li fanno x
-BOR031	sì  li faccio metto sotto anche i federico e sara quindi li facciamo eh
+BOR031	sì li faccio metto sotto anche i federico e sara quindi li facciamo eh
 BOI117	
 BOR031	però n~ n~ no noi mh siamo più per le nostre tradizioni
 BOI118	okay
@@ -704,7 +704,7 @@ BOR031	i friarelli adesso come dici te ecco i friarelli
 BOI117	sì sì sì
 BOR031	eh e che sono tipici della nostra terra
 BOI117	okay
-BOI117	mamma li coltiva qua  eh e noi li cuciniamo
+BOI117	mamma li coltiva qua eh e noi li cuciniamo
 BOR031	quindi noi predili~ mh
 BOI117	mh
 BOR031	i nostri piatti sono principalmente verdura
@@ -802,7 +802,7 @@ BOR031	no
 BOR031	ok~
 BOI118	okay
 BOR031	poi la sorella per studio
-BOI118	ah  e son rimasti qua gli è piaciuto
+BOI118	ah e son rimasti qua gli è piaciuto
 BOR031	e son rimasti qua poi per il lavoro il papà e l'altro fratello sono venuti qua per il lavoro
 BOI117	okay
 BOR031	mh
@@ -947,7 +947,7 @@ BOI117	volentieri
 BOI118	c'erano anche più parenti ti trovavi adesso la maggior parte è qui sono sparsi tra ferrara parma
 BOI117	mh
 BOI117	eh bologna eh eccetera eccetera
-BOI118	eh ormai se ci dobbiamo trovare tutti quanti in fami~ le le famiglie proprio nostre quelle strette  gli zii non ci sono più
+BOI118	eh ormai se ci dobbiamo trovare tutti quanti in fami~ le le famiglie proprio nostre quelle strette gli zii non ci sono più
 BOR031	x
 BOR031	mhmh
 BOI117	okay
@@ -957,8 +957,8 @@ BOI117	cioè alla fine
 BOI117	cioè i genitori miei sono qua
 BOR031	da~ lui ha solamente il suo papà adesso giù in calabria non c'è nessun'altro una sorella a roma un'altra a siena un'al~
 BOI117	okay
-BOR031	fai prima a trovare un posto centrale in italia ci troviamo tutti quanti qua  fai prima
-BOI117	sì  a roma
+BOR031	fai prima a trovare un posto centrale in italia ci troviamo tutti quanti qua fai prima
+BOI117	sì a roma
 BOR031	se vuoi trovare i parenti perché ormai siamo tutti sparsi
 BOR031	eh
 BOI118	sì e la sorella è rimasta a roma o
@@ -968,7 +968,7 @@ BOR031	e un'altra che ha studiato a siena ed è rimasta a siena
 BOI117	ah proprio quindi siete veramente sparsi okay
 BOR031	siamo sparsi per tutta l'italia
 BOI117	x quindi avete posti potete visitare un po' tutta italia eh bellissimo bellissimo
-BOI118	assolutamente infatti  la cosa positiva è questa
+BOI118	assolutamente infatti la cosa positiva è questa
 BOR031	abbiamo tutti agganci
 BOI117	
 BOR031	abbiamo tanti agganci sì è vero è vero
@@ -1044,7 +1044,7 @@ BOI117	mhmh
 BOI117	cioè prima bene o male cioè
 BOR031	era l'unico posto dove c'erano d'estate tre discoteche
 BOI117	
-BOR031	cioè  non esisteva
+BOR031	cioè non esisteva
 BOI117	
 BOI117	eh adesso non ce n'è neanche una sì i ragazzi non hanno neanche quello
 BOR031	vabbè
@@ -1103,7 +1103,7 @@ BOI117	no
 BOI118	mh
 BOI117	xx xx
 BOI117	quando studiavano
-BOR031	poi mio papà ha comprato una casa  a toscanella
+BOR031	poi mio papà ha comprato una casa a toscanella
 BOI118	ah sì ecco okay
 BOI117	un appartamento
 BOI117	eh
@@ -1158,7 +1158,7 @@ BOI117	ottimo
 BOR031	mhmh
 BOI117	eh a proposito della famiglia no della monica siete amici no cioè vi vi vedete fa~ co~ di solito x
 BOR031	ma io suo papà lo vedo sempre tutti i giorni perché è il mio titolare
-BOI117	ah ah  okay non lo sapevo questo
+BOI117	ah ah okay non lo sapevo questo
 BOR031	
 BOI117	eh
 BOI118	eh eh poi col~ no noi ci vediamo ci sentiamo poi comunque eh sara e monica sono state in classe insieme alle elementari
@@ -1226,7 +1226,7 @@ BOI117	eh
 BOR031	è una rievocazione storica
 BOI117	sì sì sì
 BOR031	ed è molto bello molto molto sì
-BOR031	bene  bene bene
+BOR031	bene bene bene
 BOI117	eh l'ambiente è bello quindi durante questa festa essendo che è così caotico non lo so se magari si può trasformare in qualcosa di
 BOI118	no è bello
 BOR031	no no tranquillo assolutamente
@@ -1358,7 +1358,7 @@ BOR031	però lui lavora lo stesso
 BOR031	
 BOI117	eh no quindi non vi è mai capitato proprio di andare a bologna per festeggiare san petronio okay
 BOI118	no
-BOR031	no  no quello mai
+BOR031	no no quello mai
 BOI117	okay okay era per capire se si sentisse la festa
 BOI117	a me piace un paio di volte sono andata a fare le camminate a bologna
 BOR031	eh però con i gruppi race for the cure quelle che organizzano per i tumori
@@ -1433,7 +1433,7 @@ BOI118	ah lavori allo stadio proprio
 BOR031	sono un ispettore antidoping quindi
 BOI118	ah
 BOR031	vado a fare il controllo
-BOI118	ah quindi ci vai sempre  sostanzialmente
+BOI118	ah quindi ci vai sempre sostanzialmente
 BOI117	una volta al mese sì
 BOR031	va a scroccare le partite si va a guardare tutte le partite
 BOI118	è vero

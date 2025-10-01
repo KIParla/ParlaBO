@@ -5,12 +5,12 @@ BOR001	beh per iniziare io direi che
 BOR001	sapendo che
 BOR001	tu
 BOR001	non sei nata qui
-BOR001	eccetera  ti chiederei
+BOR001	eccetera ti chiederei
 BOI002	mh innanzitutto per~ perché com'è che sei arrivata proprio a bologna
 BOI002	a bologna
 BOI002	e sono arrivata a bologna per motivi di studio
 BOR001	mi sono iscritta all'università a bologna e
-BOI002	okay  ma avevi preso in considerazione anche  altre università o era
+BOI002	okay ma avevi preso in considerazione anche altre università o era
 BOR001	in realtà no perché in quel periodo la maggior parte dei miei amici erano tutti iscritti a bologna e in più bologna offriva anche un discorso di borse di studio e di alloggi
 BOI002	mhmh
 BOR001	quindi rientravo in quella categoria dove potevo fare questa domanda per avere queste cose quindi mi sono iscritta direttamente a bologna
@@ -31,7 +31,7 @@ BOR001	non è una città grande è un paesino quindi
 BOR001	
 BOI002	sì sì
 BOR001	mi è subito piaciuta
-BOI002	mh mh e ehm i portici in particolare che sono una cosa caratteristica di bologna  non so ti hanno colpito all'inizio
+BOI002	mh mh e ehm i portici in particolare che sono una cosa caratteristica di bologna non so ti hanno colpito all'inizio
 BOR001	sì
 BOI002	mh
 BOR001	e mi colpiscono tutt'oggi perché se mi capita di andare che ne so in una città tipo milano o qualsiasi altra città
@@ -46,7 +46,7 @@ BOI002	sì
 BOR001	però si è una cosa che
 BOR001	mhmh
 BOI002	
-BOR001	noto spesso  cioè sento spesso
+BOR001	noto spesso cioè sento spesso
 BOR001	che bello
 BOI002	e ehm ne~ negli anni pensi che siano cioè quando tu sei arrivata la condizione dei portici era diversa da ora son peggiorati migliorati o più o meno
 BOR001	mh dipende dipende dalle zone dipende
@@ -58,7 +58,7 @@ BOR001	sì
 BOI002	sì
 BOI002	le noti di più le cose
 BOR001	propri~ alcuni portici hanno delle volte che sono veramente caratteristiche
-BOI002	sì e quindi secondo te il fatto che adesso siano diventati patrimonio dell'unesco  può essere un bene
+BOI002	sì e quindi secondo te il fatto che adesso siano diventati patrimonio dell'unesco può essere un bene
 BOI002	un bene
 BOR001	sì assolutamente sì sì sì
 BOR001	è positiva
@@ -94,7 +94,7 @@ BOI002	però sì sì
 BOR001	che faccio
 BOR001	bello
 BOR001	ehm
-BOR001	sempre un po' sul discorso portici  san luca
+BOR001	sempre un po' sul discorso portici san luca
 BOI002	ehm
 BOR001	l'abbiam fatta
 BOI002	mhmh
@@ -116,7 +116,7 @@ BOR001	una cosa che ci portiamo nel cuore diciamo così
 BOR001	sì
 BOI002	son belli questi
 BOR001	sì
-BOR001	questi momenti anch'io ne ho  uno
+BOR001	questi momenti anch'io ne ho uno
 BOR001	così
 BOI002	legato a san luca
 BOI002	così
@@ -134,16 +134,16 @@ BOR001	sì
 BOR001	ehm
 BOR001	e invece magari altri
 BOR001	simboli
-BOR001	o  zone parti della città che per te sono
+BOR001	o zone parti della città che per te sono
 BOR001	particolarmente
 BOR001	significativi
 BOI002	xxx
 BOR001	beh vabbè la zona universitaria perché comunque è una zona che abbiamo frequentato
 BOI002	x
-BOR001	per tanti anni e quindi sì  la zona universitaria rimane
+BOR001	per tanti anni e quindi sì la zona universitaria rimane
 BOI002	mhmh
-BOI002	nonostante uno poi da  adulto non ci va quasi mai però quando poi ci ripassi per x
-BOI002	per andare al teatro oppure  volendo per fare
+BOI002	nonostante uno poi da adulto non ci va quasi mai però quando poi ci ripassi per x
+BOI002	per andare al teatro oppure volendo per fare
 BOI002	seguire altri ragazzi che si laureano è capitato una nipote
 BOI002	xx
 BOR001	ti rimane anche quella nel nel cuore la zona universitaria sì
@@ -168,15 +168,15 @@ BOI002	mh non solo
 BOI002	però sì posti che adesso non frequenterei
 BOR001	perché sono non so anche le le sole discoteca che non è la discoteca tipo la capannina al~ altri posti che adesso non
 BOI002	ah okay
-BOR001	non ci andrei ecco non consiglierei neanche ai miei figli ti dico la verità  però
+BOR001	non ci andrei ecco non consiglierei neanche ai miei figli ti dico la verità però
 BOR001	sì
 BOR001	okay
 BOI002	però esistono ancora que~ alcuni magari
 BOR001	secondo me qualcuno esiste ancora sì sì
 BOR001	okay
-BOR001	e non c'è proprio nessun posto neanche per dire  un bar qualcosa che magari frequentavi
+BOR001	e non c'è proprio nessun posto neanche per dire un bar qualcosa che magari frequentavi
 BOR001	coi tuoi amici
-BOI002	allora  e ci v~ e ci vai ancora a parte le discoteche ma
+BOI002	allora e ci v~ e ci vai ancora a parte le discoteche ma
 BOI002	ba xxx per esempio la zona di via del pratello era una zona che si frequentava allora e che secondo me si continua a frequentare anche adesso adesso
 BOI002	io non s~ esco poco per xxx un po' per
 BOR001	quando c'erano i bimbi piccoli uno
@@ -200,16 +200,16 @@ BOR001	mh per vivere
 BOR001	dico hai sempre
 BOI002	vissuto in questa zona qui murri così o
 BOI002	murri no in realtà più mazzini che murri perché all'inizio stavo a san lazzaro
-BOR001	quindi per me la direttiva era via mazzini la via emilia via mazzini dopo ho  vissuto  proprio in via mazzini
+BOR001	quindi per me la direttiva era via mazzini la via emilia via mazzini dopo ho vissuto proprio in via mazzini
 BOR001	ah okay
 BOI002	mhmh
 BOI002	da dopo di san lazzaro
-BOR001	e poi ci siamo spostati piano piano verso via murri attra~  sì
+BOR001	e poi ci siamo spostati piano piano verso via murri attra~ sì
 BOI002	mh
 BOR001	in @nomeluogo poi dopo arrivando fin qua quindi diciamo questa è
 BOR001	sì
 BOI002	sì
-BOR001	da poco  che abitiamo qua
+BOR001	da poco che abitiamo qua
 BOR001	mhmh
 BOI002	e ti piace preferivi san lazzaro preferivi
 BOI002	sì
@@ -239,7 +239,7 @@ BOI002	mhmh
 BOI002	dalla piscina alle attività sportive per crescere i figli le scuole cioè non
 BOR001	mi sono sempre
 BOI002	sì
-BOI002	mossa anche  al livello
+BOI002	mossa anche al livello
 BOI002	di quartiere sempre a piedi
 BOR001	quindi è tutto a portata di mano ecco
 BOR001	mhmh
@@ -264,14 +264,14 @@ BOR001	eh di sicuro nel paesino di tremila abitanti ti senti più sicura
 BOI002	mhmh
 BOI002	eh anche nell'uscire
 BOI002	bologna
-BOI002	adesso che vivo su una strada principale  mi sento più tranquilla
+BOI002	adesso che vivo su una strada principale mi sento più tranquilla
 BOI002	cioè anche prendere l'autobus alle dieci e mezza undici che
 BOR001	un orario che
 BOI002	sì
 BOI002	posso rientrare io mezzanotte
-BOR001	c'è comunque gente sia in autobus sia per la strada  essendo questa poi una una strada molto  luminosa e frequentata
+BOR001	c'è comunque gente sia in autobus sia per la strada essendo questa poi una una strada molto luminosa e frequentata
 BOI002	mhmh
-BOR001	le zone un po' più interne stradine anche di quartieri tranquilli come potrebbe essere questo mettono un po' paura  a~ almeno a me xx
+BOR001	le zone un po' più interne stradine anche di quartieri tranquilli come potrebbe essere questo mettono un po' paura a~ almeno a me xx
 BOI002	mh
 BOR001	insomma x
 BOR001	sì
@@ -314,7 +314,7 @@ BOR001	vado sempre in autobus mi muovo in autobus sì
 BOR001	okay
 BOR001	okay
 BOR001	quindi comunque
-BOR001	sì  pensi che sia una città
+BOR001	sì pensi che sia una città
 BOI002	comoda cioè insomma funzionano
 BOR001	sì
 BOI002	le
@@ -334,7 +334,7 @@ BOR001	eh ti aiuta
 BOR001	sì
 BOR001	sì sì
 BOR001	ehm ehm
-BOR001	e invece sì  tornando  al discorso tempo libero
+BOR001	e invece sì tornando al discorso tempo libero
 BOR001	ehm
 BOR001	adesso comunque
 BOR001	mh quando
@@ -381,9 +381,9 @@ BOR001	la piazza piena
 BOR001	mhmh
 BOR001	e invece vendendo ehm i tuoi figli mh che
 BOR001	adesso
-BOR001	più o meno hanno l'età  che avevi tu quando sei arrivata  circa
+BOR001	più o meno hanno l'età che avevi tu quando sei arrivata circa
 BOR001	pensi che eh vivano la città allo stesso modo in cui la vivevi tu
-BOI002	quando  sei venuta qui
+BOI002	quando sei venuta qui
 BOI002	no
 BOR001	loro che son di bologna no non la vivono come la
 BOI002	mh
@@ -445,7 +445,7 @@ BOI002	in certi contesti ambientarsi o sei stata accolta sempre bene
 BOR001	mh no son stata sempre accolta bene
 BOI002	okay
 BOI002	non non l'ho notato questa cosa del
-BOR001	dell'essere meridionale ecco  nello specifico
+BOR001	dell'essere meridionale ecco nello specifico
 BOR001	sì
 BOI002	sì sì sì
 BOR001	x sì no
@@ -475,7 +475,7 @@ BOR001	mhmh
 BOR001	okay
 BOR001	e quelle tue amiche che appunto ti sei fatta durante il periodo universitario così
 BOR001	eh
-BOI002	tutt'ora le frequenti magari  vivete ancora in zona
+BOI002	tutt'ora le frequenti magari vivete ancora in zona
 BOR001	mh in realtà no
 BOR001	no
 BOI002	okay
@@ -486,7 +486,7 @@ BOR001	mh i genitori dei figli sia dell'uno che dell'altro eh il gruppo di amici
 BOR001	okay
 BOR001	okay
 BOR001	mhmh
-BOR001	e  quindi comunque tutta gente
+BOR001	e quindi comunque tutta gente
 BOR001	bene o male della
 BOI002	del quartiere o
 BOI002	sì più o meno sì
@@ -505,7 +505,7 @@ BOI002	sì
 BOI002	aerobico
 BOR001	una cosa un po'
 BOR001	okay
-BOI002	e si fa è qui in zona  hai detto
+BOI002	e si fa è qui in zona hai detto
 BOR001	sì non è vicinissimo però in un quarto d'ora venti minuti a piedi io c'arrivo tranquillamente zona di via della battaglia xx
 BOR001	mhmh
 BOI002	e come appunto dal punto di vista dello sport comunque bologna è una città
@@ -517,7 +517,7 @@ BOR001	se ti piace fare qualcosa riesci a trovare tranquillamente
 BOR001	sì sì
 BOR001	no e anche per io stavo pensando anche tipo a calcio basket dico
 BOR001	è una città ehm
-BOR001	eh dove  in generale la gente sente molto
+BOR001	eh dove in generale la gente sente molto
 BOR001	penso
 BOR001	i bolognesi abbastanza
 BOI002	la l'appartenenza insomma
@@ -530,7 +530,7 @@ BOI002	c'era questo aneddoto che diceva
 BOR001	daniel quando era iscritto a xx pallacane~ a pallavolo che le
 BOI002	mhmh
 BOI002	quelli della pallavolo ci facevano fatica a trovare le palestre per fare gli allenamenti perché erano sempre date per prima alla
-BOR001	alla pallacanestro  essendo bologna
+BOR001	alla pallacanestro essendo bologna
 BOI002	sì
 BOR001	tra la virtus e la fortitudo molto quindi un po' secondo me i ragazzi
 BOI002	e
@@ -590,10 +590,10 @@ BOI002	mhmh
 BOI002	per
 BOR001	anche solo per curiosità ecco non
 BOR001	sì
-BOR001	e  dato che hai fatto l'esperienza sia del  calcio
+BOR001	e dato che hai fatto l'esperienza sia del calcio
 BOI002	che del basket
 BOR001	mi piace di più il basket
-BOR001	sì e  ehm
+BOR001	sì e ehm
 BOR001	ma mh
 BOR001	trovi che ci siano delle differenze fra
 BOR001	i tifosi
@@ -602,12 +602,12 @@ BOR001	del bologna e tifosi della virtus
 BOR001	magari anche se spesso sono anche gli stessi però
 BOI002	ehm
 BOI002	eh f~ n~ non lo so perché in realtà poi
-BOR001	è come se il tifoso del bologna fosse più il tifoso del fortitudino no che non  il tifoso del virtussino però
+BOR001	è come se il tifoso del bologna fosse più il tifoso del fortitudino no che non il tifoso del virtussino però
 BOI002	sì sì sì questo è vero
 BOR001	forse sono cose un po'
 BOI002	no però
 BOI002	eh
-BOR001	però  ecco
+BOR001	però ecco
 BOI002	in linea di massima
 BOR001	in linea di massima potrebbe esser così almeno l'idea che mi dà è quella ecco
 BOR001	così
@@ -618,7 +618,7 @@ BOR001	mi sembra un po' più tranquillo
 BOI002	il tifoso virtussino
 BOR001	xx virtussino mh
 BOI002	poi comunque l'atmosfera è bella dentro perché
-BOR001	sì  sì sì sì
+BOR001	sì sì sì sì
 BOR001	essendo piccolo
 BOI002	ehm
 BOR001	però sono un po' più
@@ -647,7 +647,7 @@ BOR001	effettivamente pericolose tipo queste due tifoserie che si incontrano o �
 BOR001	mh più
 BOR001	battute
 BOI002	sotto
-BOI002	secondo me se più  per  su battute ecco non vedo una una rivalità eccessiva che potrebbe portare a violenze però non ho forse gli strumenti per
+BOI002	secondo me se più per su battute ecco non vedo una una rivalità eccessiva che potrebbe portare a violenze però non ho forse gli strumenti per
 BOR001	per valutare da quello che vedo non c'è questa cosa magari
 BOI002	mhmh
 BOR001	x sì
@@ -663,27 +663,27 @@ BOR001	cioè
 BOI002	una
 BOR001	sì sì
 BOR001	e
-BOR001	quindi  tu sei stata al paladozza
+BOR001	quindi tu sei stata al paladozza
 BOR001	hai vissuto ma anche lo stadio
 BOR001	anche se non sei troppo vabbè così tifosa
 BOR001	però eh
 BOR001	cosa ne pensi del fatto di fare mh
 BOR001	gli stadi sai che adesso c'è
-BOR001	un po' la controversia su  stadio
-BOR001	il dall'ara in particolare  lo vogliono rifare nuovo
+BOR001	un po' la controversia su stadio
+BOR001	il dall'ara in particolare lo vogliono rifare nuovo
 BOR001	e non si sa se
 BOR001	rinnovare quello
 BOI002	o farne uno fuori città
 BOR001	farne un alt~
 BOR001	secondo te cos'è m~
 BOR001	meglio anche se tu non vivi adesso attaccato allo stadio quindi magari
-BOI002	è div~ cioè non è che arreca a te  personalmente mh
-BOR001	sì  disagi particolari
+BOI002	è div~ cioè non è che arreca a te personalmente mh
+BOR001	sì disagi particolari
 BOI002	esa~
 BOI002	e le l'avere una una struttura visto che comunque le adesso le fanno molto più grandi mo~ con più che ne so anche coperture per i tifosi
 BOI002	averlo fuori
 BOI002	è sempre un u~
-BOI002	si agevola anche il tifoso  che va in macchina che e la città non viene bloccata perché quando si va allo stadio al dall'ara sì
+BOI002	si agevola anche il tifoso che va in macchina che e la città non viene bloccata perché quando si va allo stadio al dall'ara sì
 BOR001	la zona di andrea costa si blocca tutta saragozza andrea costa si blocca tutta
 BOI002	mhmh
 BOI002	però comunque è lo stadio della città non lo so eh
@@ -712,7 +712,7 @@ BOR001	e abbiamo detto che
 BOR001	appunto con lo stadio spesso si blocca tutta una zona così
 BOR001	e adesso vabbè tu
 BOR001	eh ti muovi sempre in autobus eh così però
-BOR001	mh pensi che  il problema parcheggi sia una cosa
+BOR001	mh pensi che il problema parcheggi sia una cosa
 BOR001	penalizzante
 BOI002	a bolo~ non so se magari hai avuto anche in passato esperienze tuo mari~
 BOI002	eh un po' s~
@@ -726,19 +726,19 @@ BOR001	parcheggia perché lo staveco per esempio è sempre pien~
 BOI002	sì
 BOI002	eh anche altri cioè
 BOI002	non è facile parcheggiare
-BOR001	poi se lo cerchi senza pagamento è ancora peggio  quindi
+BOR001	poi se lo cerchi senza pagamento è ancora peggio quindi
 BOI002	sì
 BOI002	ehm
 BOI002	anche solo a livello di casa io mi ricordo che la prima cosa che disse mio marito quando
 BOI002	dovevamo cambiare casa io voglio una casa che abbia il garage
 BOI002	perché dove abitavamo prima c'erano tre posti condominiali
-BOR001	e ogni volta era  tutto un girare anche mezz'ora intorno alla zona per trovare un parcheggio quando tornava la sera
+BOR001	e ogni volta era tutto un girare anche mezz'ora intorno alla zona per trovare un parcheggio quando tornava la sera
 BOI002	sì
 BOI002	quindi
 BOR001	quello sì
 BOR001	mh
 BOR001	ehm mi è venuto in mente adesso sempre a livello così mobilità
-BOR001	il t days  che  ormai son~  è una cosa che
+BOR001	il t days che ormai son~ è una cosa che
 BOR001	c'è da vari anni
 BOR001	ehm
 BOR001	per te è una cosa
@@ -748,8 +748,8 @@ BOI002	cioè
 BOI002	quella zona centrale dovrebbe essere pedonale
 BOR001	se non dico sempre ma almeno nel weekend
 BOR001	okay
-BOR001	pre~ io mi ricordo che all'inizio  alcuni negozianti si erano lamentati per il fatto che dicevano  che avevano meno giro
-BOR001	mh non potendo passare  gli autobus le macchine
+BOR001	pre~ io mi ricordo che all'inizio alcuni negozianti si erano lamentati per il fatto che dicevano che avevano meno giro
+BOR001	mh non potendo passare gli autobus le macchine
 BOR001	tu ora lavori in un posto che è proprio
 BOI002	cioè
 BOR001	centrale secondo me no
@@ -790,12 +790,12 @@ BOI002	palazzi
 BOR001	però tutto sommato siamo fortunati secondo me a bologna s~
 BOR001	mhmh
 BOR001	e i giardini margherita che sono un po'
-BOR001	anche un altro dei simboli così  li mh
+BOR001	anche un altro dei simboli così li mh
 BOR001	li frequenti magari li frequentavi di più
 BOI002	quando eri all'università ehm o
 BOR001	no forse li ho frequentati di più dopo l'università
 BOI002	mh
-BOI002	sì eh con  con i bambini con anche solo per far le passeggiate per camminare un po' tenersi in attività
+BOI002	sì eh con con i bambini con anche solo per far le passeggiate per camminare un po' tenersi in attività
 BOI002	anche perché essendo qua vicino dove abitiamo quindi è una zona che
 BOR001	che frequentiamo
 BOR001	sì
@@ -866,19 +866,19 @@ BOI002	secondo me mh
 BOI002	non so se è una cosa degli ultimi anni se è sempre stato così se è una cosa tipica del galvani questo non non te lo so dire perché non ho esperienza su altre scuole se non anche lì per sentito dire da parte di genitori
 BOI002	che hanno i figli da una parte e dall'altra
 BOI002	ma eh
-BOI002	secondo me  ehm
-BOI002	perdono di vista  l'obiettivo
-BOI002	di che cos'è  secondo me eh  insegnare  cioè
+BOI002	secondo me ehm
+BOI002	perdono di vista l'obiettivo
+BOI002	di che cos'è secondo me eh insegnare cioè
 BOI002	l'insegnamento dovrebbe essere una cosa che ti fa venire voglia
 BOR001	di approfondire di imparare di
 BOI002	mhmh
 BOI002	cioè loro devono essere una guida o almeno l'insegnante io lo vedo come una guida per
 BOI002	eh farti accrescer la curiosità
 BOI002	invece eh noi la viviamo
-BOI002	io indirettamente ma i ragazzi  i miei figli la vivono sempre come una cosa
+BOI002	io indirettamente ma i ragazzi i miei figli la vivono sempre come una cosa
 BOI002	di essere sotto pressione cioè il dover mh essere sempre mh
 BOI002	mh mh non lo so eh
-BOI002	anche mh  per dire le verifiche no non sono fatte per vedere se
+BOI002	anche mh per dire le verifiche no non sono fatte per vedere se
 BOI002	è mh è passato il messaggio che tu volevi dare a questi ragazzi
 BOI002	è un metterli sempre in in difficoltà
 BOR001	cioè non lo so l~ io l'ho l'ho vissuta in questo modo
@@ -897,12 +897,12 @@ BOI002	perché ci son stati degli insegnanti che invece hanno
 BOI002	lasciato dei segni e si vede si vede perché mh
 BOR001	la voglia di studiare alcune materie piuttosto che un'altro è legato alla voglia che il docente ha trasmesso alla la curiosità che gli ha gli ha fatto venire
 BOI002	mh
-BOI002	mh ragazzi che più o meno erano portati  in tutte le materie poi hanno fatto delle scelte
+BOI002	mh ragazzi che più o meno erano portati in tutte le materie poi hanno fatto delle scelte
 BOI002	legate non tanto alla mh predisposizione personale ma alla mh
-BOR001	al piacere  di studiare quella materia perché incuriosito ecco secondo me
+BOR001	al piacere di studiare quella materia perché incuriosito ecco secondo me
 BOR001	mhmh
 BOR001	okay
-BOI002	e per la dad  com'è s~
+BOI002	e per la dad com'è s~
 BOI002	eh la dad è stata
 BOI002	pesante secondo me perché mh
 BOI002	io vedo che
@@ -917,18 +917,18 @@ BOI002	fanno le cose non è che non le fanno
 BOR001	però non c'è il gusto di di fare questo fatto di star sempre da soli sempre a chattare sempre col computer
 BOI002	sì
 BOR001	eh ha fatto perdere un po' di entusiasmo secondo me
-BOI002	ma quindi non solo legato  alla scuola in sè ma in  in generale proprio anche uscire con gli amici cose così
+BOI002	ma quindi non solo legato alla scuola in sè ma in in generale proprio anche uscire con gli amici cose così
 BOI002	in generale sì
 BOR001	uscire con gli amici no in realtà
 BOI002	mh
-BOR001	perché il fatto di non vedersi poi  portava a volersi vedere di più ma al di fuori dal contesto scolastico come dire non
+BOR001	perché il fatto di non vedersi poi portava a volersi vedere di più ma al di fuori dal contesto scolastico come dire non
 BOI002	mh oka~
 BOI002	eh l'entusiasmo proprio
 BOI002	che ne so mh da voi col fatto che c'erano tutte queste certificazione no
 BOR001	la partenza era bella una cosa bella eh
 BOI002	mhmh
 BOR001	invece è stato quasi fatto perché poi alla fine loro non le hanno fatte ma
-BOI002	sì molt~  mh
+BOI002	sì molt~ mh
 BOI002	in realtà
 BOI002	poco
 BOI002	eh sì le faccio ma mi interessa il giusto ecco
@@ -939,26 +939,26 @@ BOI002	mh
 BOI002	io almeno
 BOR001	ho notato questa cosa
 BOR001	sì
-BOR001	e vedendo anche  le lezioni di dani invece  hai notato magari qualche differenza fra la dad delle superiori e quella dell'università
+BOR001	e vedendo anche le lezioni di dani invece hai notato magari qualche differenza fra la dad delle superiori e quella dell'università
 BOR001	o
 BOR001	magari una era
-BOI002	più efficente dell'a~ cioè strutturata in modo  non lo so
+BOI002	più efficente dell'a~ cioè strutturata in modo non lo so
 BOI002	forse mh
 BOI002	xxx
-BOI002	col fatto che l'università poi alla fine  è un percorso che uno può fare anche da casa
-BOI002	mh lo studio universitario  c'è chi lo se~ c'è chi segue c'è chi invece decide anche di
+BOI002	col fatto che l'università poi alla fine è un percorso che uno può fare anche da casa
+BOI002	mh lo studio universitario c'è chi lo se~ c'è chi segue c'è chi invece decide anche di
 BOI002	di non seguire no
 BOR001	quindi era come se fosse una sc~ più una scelta del del ragazzo anche se imposto
 BOI002	sì
-BOR001	le superiori sono in presenza e quindi la forzatura di dover stare a casa secondo me si è sentita di più  che non per i ragazzi di dell'università
+BOR001	le superiori sono in presenza e quindi la forzatura di dover stare a casa secondo me si è sentita di più che non per i ragazzi di dell'università
 BOR001	mh
 BOR001	beh
-BOR001	e il fatto che  adesso mol~
+BOR001	e il fatto che adesso mol~
 BOR001	sì molti ragazzi
 BOR001	all'università
 BOR001	scelgano
-BOR001	di restare cioè molti ragazzi che sarebbero fuorisede scelgano di restare nel loro paese e seguire  online
-BOR001	come lo vedi tu  se al
+BOR001	di restare cioè molti ragazzi che sarebbero fuorisede scelgano di restare nel loro paese e seguire online
+BOR001	come lo vedi tu se al
 BOR001	ai tuoi tempi ci fosse stata l'opportunità
 BOR001	di seguire tutto online il corso dell'unibo
 BOI002	l'avres~
@@ -978,7 +978,7 @@ BOR001	in tanti si son fermati non
 BOI002	sì
 BOI002	da nel mio caso è stato proprio la voglia di
 BOI002	di andar via
-BOR001	ripeto può essere che sia il mio percorso perché  essendo vissuta in città per diec'anni
+BOR001	ripeto può essere che sia il mio percorso perché essendo vissuta in città per diec'anni
 BOI002	mhmh
 BOR001	il paesino mi stava un pelino stretto quindi
 BOR001	sì
@@ -991,8 +991,8 @@ BOI002	magari hai notato differenze rispetto a quando l'hai fatta tu xx ovviamen
 BOR001	non
 BOR001	perciò non so se
 BOR001	si possa veramente
-BOI002	paragonare  però
-BOI002	eh di sicuro il fatto di essere  in sede  e di avere  dietro una un
+BOI002	paragonare però
+BOI002	eh di sicuro il fatto di essere in sede e di avere dietro una un
 BOI002	un'imposizione scolastica
 BOI002	di costanza
 BOI002	eh
@@ -1016,7 +1016,7 @@ BOI002	ehm
 BOI002	e quindi ti vivi l'università in maniera un po' più
 BOR001	libera
 BOI002	mhmh
-BOI002	e io vedo per esempio  sia mio figlio che i miei nipoti che vivono qua che son in sede
+BOI002	e io vedo per esempio sia mio figlio che i miei nipoti che vivono qua che son in sede
 BOI002	l'affrontano e hanno finito nella tempistica giusta
 BOI002	io invece venendo da fuori secondo me mh
 BOR001	l'ho persa quest~ questo discorso qua della tempistica quindi
@@ -1028,16 +1028,16 @@ BOR001	quindi non so se è una cosa mia o una cosa legata al fatto di venire
 BOI002	da
 BOR001	da fuori
 BOR001	sì
-BOR001	ma può essere un po' anche che  forse io non so com'era prima
+BOR001	ma può essere un po' anche che forse io non so com'era prima
 BOR001	pensare che
-BOR001	ehm adesso  ci sia più
-BOR001	in generale la società ti passi questa idea che devi per forza  per dire finite le superiori  subito andare all'università stare nei tempi andare a lavoro cioè
+BOR001	ehm adesso ci sia più
+BOR001	in generale la società ti passi questa idea che devi per forza per dire finite le superiori subito andare all'università stare nei tempi andare a lavoro cioè
 BOI002	non
-BOR001	può essere  può essere
-BOI002	n~ non era così prima o era  un po' così anche
+BOR001	può essere può essere
+BOI002	n~ non era così prima o era un po' così anche
 BOR001	io non l'ho vissuta questa questa pressione ecco
 BOI002	sì
-BOI002	mh quindi non so se era perché era l quello che mi portavo dietro  oppure se effettivamente
+BOI002	mh quindi non so se era perché era l quello che mi portavo dietro oppure se effettivamente
 BOI002	era così anche prima qua
 BOR001	e quindi non vivendo due realtà diverse non riesco a
 BOI002	mh
@@ -1077,10 +1077,10 @@ BOI002	okay
 BOI002	però
 BOI002	il lavoro secondo me mh
 BOI002	un po' ti ti porta via del tempo cioè
-BOR001	per lo studio  cioè non non è così
+BOR001	per lo studio cioè non non è così
 BOI002	sì
 BOR001	semplice lavorare e studiare
-BOI002	sì  per quanto sia
+BOI002	sì per quanto sia
 BOR001	anche solo poche ore
 BOR001	xx
 BOR001	sì
@@ -1091,11 +1091,11 @@ BOR001	adesso magari quei ragazzi che
 BOR001	di cui sai tu o magari
 BOR001	insomma
 BOR001	altri di cui sei a conoscenza
-BOR001	pensi che  siano più  sfruttati
+BOR001	pensi che siano più sfruttati
 BOR001	di pr~ cioè c~
 BOR001	ce ne si approfitta di più
 BOR001	adesso di
-BOR001	studenti che magari hanno bisogno  cioè che sono fuorisede e hanno bisogno di
+BOR001	studenti che magari hanno bisogno cioè che sono fuorisede e hanno bisogno di
 BOR001	un po' di soldi e quindi
 BOR001	mh
 BOI002	o la situzion~
@@ -1110,7 +1110,7 @@ BOI002	mhmh
 BOI002	e
 BOR001	l'altro lavoro che facevo io erano quelle cinque o sei ore stare alla cassa eh ma a livello fisico era
 BOI002	mh
-BOI002	sì  uno si stanca però
+BOI002	sì uno si stanca però
 BOR001	lo si fa anche tranquillamente ecco
 BOR001	sì sì
 BOR001	ehm
@@ -1119,17 +1119,17 @@ BOR001	un po' il discorso mi è venuta in mente quest'altra cosa
 BOR001	non hai mai pensato tu di ritornare
 BOR001	a casa
 BOR001	o
-BOR001	ci sono stati momenti in cui magari non eri sicura di stare qua  hai sempre voluto fare la tua vita  qui cioè una volta che ci sei arrivata che ti è piaciuta la città
+BOR001	ci sono stati momenti in cui magari non eri sicura di stare qua hai sempre voluto fare la tua vita qui cioè una volta che ci sei arrivata che ti è piaciuta la città
 BOI002	o magari in francia
 BOR001	eh
-BOI002	eh se hai mai pensato di andare  tornare a lione
-BOI002	mh no a lione no  perché poi alla fine mh
+BOI002	eh se hai mai pensato di andare tornare a lione
+BOI002	mh no a lione no perché poi alla fine mh
 BOI002	mi son trovata bene qua mh
 BOI002	anche mio marito si è trovato bene qua l'idea di
-BOI002	tornarmene giù o di andare via  non l'ho mai valutata io personalmente mio marito
-BOI002	che anche lui è arrivato non per studio ma per lavoro  un po' perché
+BOI002	tornarmene giù o di andare via non l'ho mai valutata io personalmente mio marito
+BOI002	che anche lui è arrivato non per studio ma per lavoro un po' perché
 BOI002	c'ero io sua sorella
-BOR001	e lui  all'inizio aveva la la voglia di tornare giù
+BOR001	e lui all'inizio aveva la la voglia di tornare giù
 BOI002	mh
 BOI002	quindi proprio
 BOI002	prima di laurearmi e prima che lui diventasse
@@ -1154,18 +1154,18 @@ BOR001	però si non non per viverci
 BOI002	mhmh
 BOI002	mh
 BOI002	eh non mi piace cioè
-BOI002	non che qui faccia chissà che cosa perché ripeto non sono una che va sempre al cinema eh  però solo l'idea di
+BOI002	non che qui faccia chissà che cosa perché ripeto non sono una che va sempre al cinema eh però solo l'idea di
 BOI002	poterlo fare
 BOI002	quando vuoi
 BOI002	eh
-BOR001	anche solo la passeggiata per vedere i negozi cosa che quando vivi in questi paesini piccoli che hai la città più grande a un'ora e mezza ti passa la voglia ecco di andarti a far la passeggiata per vedere solo  una vetrina ecco
+BOR001	anche solo la passeggiata per vedere i negozi cosa che quando vivi in questi paesini piccoli che hai la città più grande a un'ora e mezza ti passa la voglia ecco di andarti a far la passeggiata per vedere solo una vetrina ecco
 BOI002	sì sì
 BOI002	quindi non
 BOR001	no non mi piacerebbe tornare giù xxx
 BOR001	okay
 BOR001	e anche eh dato che abbiamo tirato in ballo questa cosa della posizione
 BOR001	ehm a parte
-BOI002	per tutte le cose che offre qui bologna però proprio come in generale  collegamento con  il resto d'italia d'europa
+BOI002	per tutte le cose che offre qui bologna però proprio come in generale collegamento con il resto d'italia d'europa
 BOR001	puoi andare ovunque
 BOR001	eh
 BOI002	è comodo
@@ -1184,20 +1184,20 @@ BOI002	abbiam fatto bologna parigi parigi dove dovevamo andare cioè comunque il
 BOR001	è più comodo
 BOI002	mhmh
 BOI002	mhmh
-BOR001	cosa che non è così per esempio per andare  in basilicata che
+BOR001	cosa che non è così per esempio per andare in basilicata che
 BOI002	sì
 BOI002	fai fatica non hai un areoporto vicino non
 BOI002	non hai una stazione cioè c'è l'alta velocità ma si ferma a napoli
-BOR001	o al massimo arriva a salerno ma dopo di lì  sei
+BOR001	o al massimo arriva a salerno ma dopo di lì sei
 BOR001	mh
 BOI002	mh
 BOR001	è finito
 BOR001	mhmh
-BOR001	e a parte tutte queste co~ comodità  che qui ci sono e giù no
+BOR001	e a parte tutte queste co~ comodità che qui ci sono e giù no
 BOR001	hai notato anche una differenza
-BOR001	mh in generale nella mentalità  delle persone  cioè magari
+BOR001	mh in generale nella mentalità delle persone cioè magari
 BOR001	se giù
-BOR001	in un paese piccolo non lo so  si è
+BOR001	in un paese piccolo non lo so si è
 BOR001	più chiusi più aperti più amichevoli
 BOR001	più riservati
 BOI002	ci sono differenze di questo tipo
@@ -1209,11 +1209,11 @@ BOI002	come boh
 BOI002	cen~ cinquant'anni fa
 BOR001	mh
 BOI002	mh
-BOI002	ti accontenti di quello che hai  cioè nel momento in cui tu metti i piedi e vivi giù
+BOI002	ti accontenti di quello che hai cioè nel momento in cui tu metti i piedi e vivi giù
 BOI002	ti accontenti non cerchi di
 BOI002	mh neanche di migliorare però di avere degli stimoli che ti portano a fare
 BOI002	eh mh altro non lo so te o è le persone che frequento io non
-BOI002	è come se un è come mh raggiungere la pace dei sensi no  arrivi lì
+BOI002	è come se un è come mh raggiungere la pace dei sensi no arrivi lì
 BOI002	ti accontenti di quello che
 BOI002	vedo
 BOI002	pochi vanno in vacanza pochi cioè non
@@ -1222,7 +1222,7 @@ BOR001	mhmh
 BOI002	sì
 BOI002	mh ma stesso in mh
 BOI002	lo vedo anche in ragazzi cioè
-BOI002	però ripeto  noi siamo un cos~ contesto veramente piccolo
+BOI002	però ripeto noi siamo un cos~ contesto veramente piccolo
 BOR001	xx ci sei stata e e puoi capire
 BOI002	sì
 BOI002	diverso è se uno vive in una città che
@@ -1239,7 +1239,7 @@ BOR001	mhmh
 BOI002	sì
 BOR001	mh
 BOR001	e anche le università di giù
-BOR001	pensi che magari scegliere di andare in un in un'università  giù
+BOR001	pensi che magari scegliere di andare in un in un'università giù
 BOR001	magari
 BOI002	ti offa meno opportunità xxxxx
 BOI002	no secondo me è un fatto caratteriale lì
@@ -1249,7 +1249,7 @@ BOI002	lui è andato a roma è una persona che è arrivata a un livello e anche 
 BOI002	chi giù chi
 BOI002	mh
 BOI002	no lì secondo me è un fatto proprio
-BOI002	di come uno  è caratterialmente
+BOI002	di come uno è caratterialmente
 BOR001	cioè si s~
 BOI002	mh
 BOI002	ti riesci a far valere anche se cioè
@@ -1258,7 +1258,7 @@ BOR001	un'università nel sud secondo me
 BOR001	sì sì
 BOI002	non è che qua a bologna ci siano più
 BOI002	no sicuramente le opportunità s~
-BOI002	possono essere di più  però lì secondo me dipende
+BOI002	possono essere di più però lì secondo me dipende
 BOR001	dalla mh
 BOI002	sì dalla persona
 BOR001	dalla persona sì

@@ -11,15 +11,15 @@ BOR010	x visto il cambio
 BOR010	mamma mia che lavoro faticoso
 BOR010	non oso immaginare che
 BOI044	quindi qua~ vabbè ha sempre vissuto nello stesso quartiere suppongo di no
-BOR010	sì  da quando sono venuto a bologna sì sempre  quartiere san vit~ quartiere fuori san vitale  fuori san vitale mazzini
+BOR010	sì da quando sono venuto a bologna sì sempre quartiere san vit~ quartiere fuori san vitale fuori san vitale mazzini
 BOI044	che è qua vicino allora
-BOR010	sì vicino  all'ospedale
+BOR010	sì vicino all'ospedale
 BOI044	sì
-BOR010	cavolo si chiama  non mi ricordo fa niente
+BOR010	cavolo si chiama non mi ricordo fa niente
 BOR010	
 BOR010	neanche io però
 BOR010	no beh ho capito qual è l'ospedale ma
-BOI044	eh non so ha anche dei bei ricordi  di quel posto mi vien da dire cioè di di  di quel quartiere o comunque  città
+BOI044	eh non so ha anche dei bei ricordi di quel posto mi vien da dire cioè di di di quel quartiere o comunque città
 BOR010	come ha detto
 BOR010	ah se se ha non so dei ricordi belli magari del del suo quartiere anche visto che ci ha vissuto
 BOI044	ha sempre vissuto lì
@@ -50,7 +50,7 @@ BOI044	c'è l'ospedale vicino che non vuol dir molto la xx è vicino molti servi
 BOR010	difficile che uno si debba allontanare per andar da qualche parte
 BOI044	xxxxxx
 BOR010	poste le poste vicino la posta vicino
-BOR010	xxxxx  che bel quartiere dev'essere con  tutto lì vicino  dev'essere comodo
+BOR010	xxxxx che bel quartiere dev'essere con tutto lì vicino dev'essere comodo
 BOR010	e quindi sì
 BOR010	eh quindi invece quindi
 BOI044	immagino che valga lo stesso per bologna che le piace
@@ -74,7 +74,7 @@ BOR010	xx non avrei mai detto che da un eh da un ex autista
 BOR010	che dicesse che non che non voleva andare in autobus ehm ehm
 BOI044	xxx stranissimo cioè xxxx
 BOR010	ah dio se ne posso fare a meno tanto meglio altrimenti oh
-BOR010	ah sì così anche per tenersi in forma che ne abbiamo tutti bisogno  anche alla mia età
+BOR010	ah sì così anche per tenersi in forma che ne abbiamo tutti bisogno anche alla mia età
 BOR010	soprattutto
 BOR010	ehm
 BOR010	non so quindi ehm
@@ -92,8 +92,8 @@ BOI044	adesso dove ci costruiscono
 BOR010	la priorità penso che vada nel parcheggio dove parcheggiare
 BOR010	purtroppo questo immagino viene anche più difficile poimuoversi
 BOR010	in bicicletta a piedi come diceva
-BOR010	non deve aiutare molto   purtroppo
-BOR010	eh  quindi non so è cambiata anche ehm non so
+BOR010	non deve aiutare molto purtroppo
+BOR010	eh quindi non so è cambiata anche ehm non so
 BOR010	anche le persone sono cambiate oppure secondo lei è tutto più
 BOI044	non so
 BOI044	ah
@@ -108,7 +108,7 @@ BOI044	xxxxx
 BOR010	siamo in pochi della vecchia guardia ormai
 BOI044	ah mi mi dispiace
 BOR010	quindi ah beh oh il mondo gira hai poco da fare
-BOI044	xx  ci sta eh i vecchi compagni immagino di
+BOI044	xx ci sta eh i vecchi compagni immagino di
 BOI044	sì sì poi xxx lavoro è molto cambiato vedo che adesso
 BOI044	una grossa aggregazione non c'è neanche nei giovani che
 BOI044	una volta
@@ -130,32 +130,32 @@ BOI044	purtroppo quindi son son diminuiti sono aumentati i turni di lavoro immag
 BOI044	oh quello non lo so
 BOI044	io s~ io mi ricordo i miei però sento che adesso
 BOR010	un po' si lamentano quindi x cosa ci sarà
-BOR010	ah  pensavo che fosse per quello che  che non c'era più così tanta gente
+BOR010	ah pensavo che fosse per quello che che non c'era più così tanta gente
 BOR010	invece
 BOR010	accidenti quindi ho capito preferiva decisamente
 BOI044	l'@nomeazienda l'@nomeazienda di allora e la bolo~
 BOI044	sì ma molti chi la fa~ chi se la ricordaera più
 ???	era più familiare adesso
-BOR010	xx solo io quello di mezzogiorno  hai visto xx xx xx
+BOR010	xx solo io quello di mezzogiorno hai visto xx xx xx
 BOR010	ah
 BOR010	ah no okay pensavo parlassero con me
 BOR010	eh quindi appunto lei veniva qua immagino come
-BOI044	cioè anche  come punto di incontro già all'epoca oppure
+BOI044	cioè anche come punto di incontro già all'epoca oppure
 BOR010	sì sì sì sì
 BOI044	ah okay
 BOI044	dopo son sempre rimasto qua nella
 BOI044	nel circolo
 BOI044	nella sezione sportiva
 BOI044	poi dopo adesso ho lasciato un po' l'incarico ad un altro ragazzo
-BOR010	sì se~ un po' ma  fa tutto lui
-BOI044	ah quindi  diciamo
+BOR010	sì se~ un po' ma fa tutto lui
+BOI044	ah quindi diciamo
 BOI044	non vedeva perché dopo è difficile trovare il ricambio eh se uno prende
 BOR010	comincia a tener dietro a una cosa dopo trovare ricambio non è facile
-BOI044	mi diceva anche l'altro signore che vengono pochi giovani neanche da dire  cambiare fare il cambio di generazione diciamo
+BOI044	mi diceva anche l'altro signore che vengono pochi giovani neanche da dire cambiare fare il cambio di generazione diciamo
 BOR010	sì sì sì eh
-BOR010	purtroppo  mi dispiace perché
+BOR010	purtroppo mi dispiace perché
 BOI044	o anche non non pensavo che qua facessero anche cose sullo sport però deve essere interessante
-BOR010	si beh  c'è una polisportiva
+BOR010	si beh c'è una polisportiva
 BOR010	è un peccato
 BOI044	bello però fate anche cose più sul sociale ho letto sul vostro sito quindi
 BOI044	sì sì sì s eh beh sì eh beh
@@ -167,12 +167,12 @@ BOR010	della politica e del comune bisogna che faccia un po' di sociale anche
 BOI044	non so ad esempio mi parlavano ad esempiodi una invece di andare in bicicletta magari xxx
 BOI044	dieci coll quelle quelle quelle cose lì si
 BOR010	quell'attività lì
-BOR010	interessante però  devo esser sincera veramente
+BOR010	interessante però devo esser sincera veramente
 BOI044	dev'esser veramente bello
 BOI044	poi delle volte xxx
 BOR010	si da una mano anche se cìè bisogno per per il traffico negli incroci quando ci sono certe manifestazioni insomma
 BOR010	ah beh
-BOR010	molto  devo dire molto pensavo fosse legato solo per dire a non so
+BOR010	molto devo dire molto pensavo fosse legato solo per dire a non so
 BOI044	persone che avevano lavorato per @nomeazienda e invece
 BOR010	no no si fa
 BOR010	fate un sacco di attività
@@ -183,14 +183,14 @@ BOI044	quindi lei non ha
 BOI044	che diventasse @nomeazienda
 BOR010	no
 BOI044	esatto sta~ ah si ecco stavo proprio
-BOI044	ah  era già dipendente dell'@nomeazienda?
+BOI044	ah era già dipendente dell'@nomeazienda?
 BOR010	no @nomeazienda non ho non ho fatto in tempo a fargli sono andato a casa prima
-BOR010	xxxxx ero curiosa però  a questo punto
+BOR010	xxxxx ero curiosa però a questo punto
 BOI044	perché io l'ho vissuta sempre solo con @nomeazienda quindi ero curiosa di sapere il cambio però
 BOI044	mhmh no
 BOR010	anzi sono venuto dentro che era ancora @nomeazienda @nomeazienda
-BOI044	ah ancora prima di  wow
-BOI044	ancora prima  poi è divenata @nomeazienda @nomeazienda, quando fate
+BOI044	ah ancora prima di wow
+BOI044	ancora prima poi è divenata @nomeazienda @nomeazienda, quando fate
 BOR010	fatta la società con l'est urbano e urbano poi son diventate @nomeazienda,
 BOR010	wow quindi è cambiata anche un sacco di volte nel
 BOI044	accidenti eh secondo lei comunque non so forse on lo ha vissuto però anche solo quando è cambiata da
@@ -203,17 +203,17 @@ BOI044	ecco questa è una domanda che ho sempre paura a fare agli autisti perch�
 BOR010	perché dici xxx
 BOR010	non so perché
 BOR010	cioè mi chiedevo se c'è un ricordo positivo che aveva però
-BOR010	non so io mi  non non mi sembra un lavoro che
-BOI044	molto no non lo so che mi faccia venire  molto stancante nel senso
+BOR010	non so io mi non non mi sembra un lavoro che
+BOI044	molto no non lo so che mi faccia venire molto stancante nel senso
 BOI044	no come lavoro
-BOR010	come lavoro diciamo  a me piaceva non è che era
+BOR010	come lavoro diciamo a me piaceva non è che era
 BOI044	ah okay a me sembrava veramen~
 BOR010	si deve piacere altrimenti
 BOI044	più che altro
 BOI044	certo c'è da dire il traffico
 BOI044	di quando sono entrato c'era moltissimo poi dopo un po'
 BOI044	un po' è cambiato quando han chiuso il centro storico xxx
-BOI044	le strisce  preferenziali
+BOI044	le strisce preferenziali
 BOR010	ma dopo un po' si è migliorato il traffico
 BOI044	ah ecco infatti perché
 BOR010	ma quando sono entrato era una cosa incredibile
@@ -222,9 +222,9 @@ BOR010	c'eran degli imbuti sì ce~ c'eran solo quelle strade lì no
 BOI044	infatti
 BOR010	eravam tutti lì
 BOR010	eh è per quello che non non non
-BOR010	mi sebrava un lavoro molto  stressante perchéimmaggino
+BOR010	mi sebrava un lavoro molto stressante perchéimmaggino
 BOR010	evitare tutte le persone
-BOR010	e tra l'altro so che c'è  molta gente che si mette in mezzo alle strade molto
+BOR010	e tra l'altro so che c'è molta gente che si mette in mezzo alle strade molto
 BOR010	gentilmente per i poveri autisti quindi
 BOR010	non so se le è mai capitato però
 BOR010	non oso immaginare
@@ -237,7 +237,7 @@ BOR010	diciamo le stesse difficoltà a muoversi
 BOR010	rispetto a quello che vede adesso anche
 BOR010	non sugli autobus
 BOI044	
-BOR010	no adesso c'è da dire  son migliorati i me~ son migliorati i mezzi quindi è tutto un altroè tutto un altro guidare adesso
+BOR010	no adesso c'è da dire son migliorati i me~ son migliorati i mezzi quindi è tutto un altroè tutto un altro guidare adesso
 BOI044	
 BOI044	una volta erano proprio
 BOR010	sì
@@ -258,13 +258,13 @@ BOI044	a qualcuno è capitato di
 BOI044	sbagliare strada perché pensavi di fare un'altra linea comunque niente di
 BOR010	tutte robe tutte cose che si ripiegava al momento subito
 BOR010	ah capito
-BOR010	ecco io non sarei in grado  ho un orientamento che è abbastanza
+BOR010	ecco io non sarei in grado ho un orientamento che è abbastanza
 BOR010	osceno quindi
-BOR010	grande stima per  per gli autisti anche per questo
+BOR010	grande stima per per gli autisti anche per questo
 BOR010	eh
 BOI044	ehm ecco a proposto visto che ne parlavamo
 BOR010	del circolo
-BOI044	eh esatto  non so poi c'è qualcosa  che può dire magari x
+BOI044	eh esatto non so poi c'è qualcosa che può dire magari x
 BOI044	frequentare il circolo dunque io sono entrato nel settandadue
 BOI044	il primo anno così dopo settantaquattro ho già inizato con seguire un po'
 BOR010	fare attività nel calcio dopo
@@ -288,10 +288,10 @@ BOR010	si faceva attività visto che è un circolo per
 BOR010	ah beh
 BOI044	sì non includevate cioè capitava poco che includeste persone esterne al circolo
 BOR010	però sempre soci del circolo
-BOR010	ah  no ci sta
+BOR010	ah no ci sta
 BOR010	eh infatti vole~ infatti volevo chiederle se
 BOR010	non se magari ci sono altre attività che magari invece coinvolgono
-BOI044	anche persone esterne  oppure magari che
+BOI044	anche persone esterne oppure magari che
 BOI044	ah beh
 BOR010	visto che
 BOI044	così per
@@ -322,7 +322,7 @@ BOI044	ah sì era così giusto per sapere così xx
 BOR010	non è il mio campo
 BOR010	no ci sta era giusto così per sapere così un po' quello che facevate
 BOI044	più o meno nel circolo come attività eh era giusto una curiosità
-BOR010	sì beh  ci sono tante tante attività sezioni e ognuno xxxxxxx la sua
+BOR010	sì beh ci sono tante tante attività sezioni e ognuno xxxxxxx la sua
 BOR010	ah xxx questo
 BOR010	quindi fac~ cioè non è solo anche un luo~ io pensavo che fosse proprio un luogo di incontro di solo di autisti magari
 BOI044	tra un turno e l'altro e invece
@@ -348,15 +348,15 @@ BOR010	no adesso adesso c'hanno il ce~ il telefono sull'autobus quindi non c'è 
 BOI044	ah questo non lo sapevo
 BOR010	sì sì hanno il telefono sull'autobus
 BOI044	xxx prendo l'autobus tutti i giorni
-BOR010	eh non parla mai con l'autista è brava  segue le regole
+BOR010	eh non parla mai con l'autista è brava segue le regole
 BOR010	xxxxxx mi immagino già dover star concentrato
 BOR010	eh se poi mi metto a parlare anch'io
-BOR010	che li vedo proprio concentrati adesso  mi immagino x  dover evitare tutte le persone
+BOR010	che li vedo proprio concentrati adesso mi immagino x dover evitare tutte le persone
 BOR010	per strada
 BOR010	che complicato che dev'essere
 BOR010	xxxxx l'autista
 BOR010	non so se questo forse non so se
-BOR010	le~ le~ le~  lei sa
+BOR010	le~ le~ le~ lei sa
 BOI044	qualcosa che non può dire oppure no però
 BOR010	i portici
 BOR010	esatto però se
@@ -393,7 +393,7 @@ BOI044	cioè un po'
 BOI044	sì
 BOI044	come si dice alle volte
 BOR010	eh son dei pavimenti un po' datati che cosa ci fai eh o che lo disfi e poi rifarlo uguale diventa un problema
-BOR010	eh quello  si
+BOR010	eh quello si
 BOR010	purtroppo
 BOI044	infatti è un po' un peccato perché son veramente bell~ cioè venendo da una città in cui non ci sono
 BOI044	no no è che
@@ -403,7 +403,7 @@ BOI044	e poi i portici anche se la stagione è un po' così così ehm
 BOI044	te li godi molto di più
 BOI044	ma se non ci sono i portici non
 BOR010	tutt'un altro
-BOR010	immagino che  non so se dovesse andare in un altra città si troverebbe
+BOR010	immagino che non so se dovesse andare in un altra città si troverebbe
 BOI044	un po'
 BOI044	sì è è più è più brutta una città senza portici vedo anche
 BOI044	al mio paese crevalcore che è un paese
@@ -424,7 +424,7 @@ BOR010	se ti devo dire la verità io non l'ho mai fatto
 BOI044	ah beh ci sta
 BOR010	non son mai andato su a san lu~ ci sono andato
 BOI044	neanch'io
-BOI044	che avevo sei o sette anni  su a san luca
+BOI044	che avevo sei o sette anni su a san luca
 BOI044	e poi ci sono andato un altro paio di volte in macchina ma non
 BOR010	ma non sono mai andato su a piedi
 BOI044	ah quindi neanche cioè non ha mai visitato il posto comunque non so
@@ -435,16 +435,16 @@ BOI044	onestamente neanche io però
 BOR010	ma tu non te la ricordi
 BOI044	beh ma xx a san luca però
 BOR010	vedra~ l'avrai vista nelle foto
-BOI044	x adesso qual~ qualcosina  su internet però si
-BOR010	peccato  potevano sistemarla e lasciarla ancora
-BOR010	sì dev'essere  poteva essere comodo secondo me però
+BOI044	x adesso qual~ qualcosina su internet però si
+BOR010	peccato potevano sistemarla e lasciarla ancora
+BOR010	sì dev'essere poteva essere comodo secondo me però
 BOR010	perché magari non tutti possono camminare fino a san lu~ cioè magari
 BOR010	non so penso a persone in carrozzina persone
 BOI044	quindi
 BOR010	sì sì
 BOR010	xxxx
 BOR010	tra l'altro si
-BOR010	xxxxx dei portici sono veramente utili però  anche in quel caso
+BOR010	xxxxx dei portici sono veramente utili però anche in quel caso
 BOR010	xxxxx
 BOI044	mi pento di non averli anche nella mia città
 BOR010	ma sei stato sulla san luca
@@ -466,17 +466,17 @@ BOI044	poi so' andato più che altro da
 BOI044	che non non ero ancora a bologna quelle volte che ci son andato dopo a bologna
 BOR010	non sono andato mai su dovrei andare a vedere
 BOR010	ah okay
-BOI044	quindi  da quando è venuto a bologna ha chiuso xxxx
-BOI044	ci sono andato quella volta che ero quattro o cinque  cinc~ sei o sette anni che ero in terza o in quarta con la parrocchia di crevalcore
+BOI044	quindi da quando è venuto a bologna ha chiuso xxxx
+BOI044	ci sono andato quella volta che ero quattro o cinque cinc~ sei o sette anni che ero in terza o in quarta con la parrocchia di crevalcore
 BOI044	e lì siamo andati su a piedi
 BOI044	quando si è giovani si correva su e giù anche se c'era
 BOR010	xxxxx
-BOR010	non lo so  dev'essere anche un bell'allenamento xxx
+BOR010	non lo so dev'essere anche un bell'allenamento xxx
 BOI044	cosa che dovrei fare anch'io tra l'altro
 BOR010	mh
 BOR010	infatti deve essera nche bello xxxxx
 BOR010	una bella esperienza soprattutto che mi di spiace non aver fatto
-BOR010	xxxxxx dai  più o meno
+BOR010	xxxxxx dai più o meno
 BOR010	ah tra l'altro ecco a proposito di di giovani mi viene in mente una cosa che volevo chiederle
 BOR010	secondo lei xxx cioè come
 BOR010	visto che adesso comunque c'è molta gente che viene anche da altre città
@@ -489,7 +489,7 @@ BOR010	parla anche il dialetto
 BOR010	xxx
 BOR010	ah beh anche
 BOI044	può essere anche collegato a questo non so come
-BOI044	oddio sa  io vengo più che altro dalla campagna
+BOI044	oddio sa io vengo più che altro dalla campagna
 BOI044	penso
 BOI044	la lingua principale era il dialetto
 BOI044	e qua a bologna
@@ -498,14 +498,14 @@ BOI044	che non sia una cosa che vada distrutta
 BOR010	
 BOI044	penso sarebbe un peccato
 BOR010	poi quando posso però in citta si fa fatica poi a provare parlare in dialetto
-BOI044	eh ecco infatti immagino anche  che i giovani ne parl~ lo parleranno sicuramente meno quindi
+BOI044	eh ecco infatti immagino anche che i giovani ne parl~ lo parleranno sicuramente meno quindi
 BOI044	mh
 BOI044	mentre vedo
 BOI044	i napoletani che sono qua
 BOI044	che parlano anche fra di loro in dialetto invece qua a bologna
 BOR010	fra di noi è difficile trovar da partare in dialetto è tutto in italiano
 BOR010	ah sì purtroppo
-BOI044	non so forse lei  sarebbe dacco~ cioè secondo lei invece andrebbe comunque insegnato non so anche a scuola o comunque dai parenti
+BOI044	non so forse lei sarebbe dacco~ cioè secondo lei invece andrebbe comunque insegnato non so anche a scuola o comunque dai parenti
 BOI044	sì e sarebbe meglio perché
 BOI044	però quando
 BOR010	andavo a scuola io sgridavano se parlavi in dialetto e allora
@@ -515,34 +515,34 @@ BOI044	però è un peccato perché comunque una cultura
 BOR010	sì sì eh
 BOR010	che va persa
 BOR010	non so ecco una cosa che io non devo essere sincera io sono una di quelle persone che non parla dialetto
-BOR010	lei  comunque appena esce ha cioè c'è qualche quindi parla principalemente in italiano oppure c'è anche qualche momento in cui riesce ancora a
+BOR010	lei comunque appena esce ha cioè c'è qualche quindi parla principalemente in italiano oppure c'è anche qualche momento in cui riesce ancora a
 BOI044	a parlare in dialetto con qualcuno
 BOI044	ah parlare in dialetto quando vado da mio fratello
-BOI044	in campagna  lì si parla dialetto
+BOI044	in campagna lì si parla dialetto
 BOI044	poi delle volte devo parlare italiano anche lì perché c'ha
 BOR010	la moglie che è moldava e capisce l'italiano il dialetto
 BOR010	ah beh si
 BOI044	xxxxxxx
 BOR010	parlo in casa sì con mia moglie con le mie figlie che son già grandi
 BOI044	xxxxxxx
-BOI044	eh i nipoti sì pa~  delle volte parlo in dialetto anche con loro
+BOI044	eh i nipoti sì pa~ delle volte parlo in dialetto anche con loro
 BOR010	mi fan ripetere delle volte però
 BOI044	beh dai almeno stanno impara~ stanno mantenendo diciamo la tradizione
 BOR010	sì un po'
 BOR010	beh dai ecco io una cosa che
-BOR010	tra l'altro ecco lei quindi ha  perché io lo vedo ad esempio con le ling~ studiando lingue straniere
+BOR010	tra l'altro ecco lei quindi ha perché io lo vedo ad esempio con le ling~ studiando lingue straniere
 BOR010	non so c'è qualcosa che magari sente di saper dire in dialetto ma magari non riuscire a p~ a rendere uguale in italiano non so come dire
 BOR010	o viceversa non so
 BOI044	non so magari una parolache in dialetto si dic~
 BOR010	ah ah in dialetto si dice e in italiano non c'è okay
 BOR010	esatto non so qualcosa xx
-BOI044	sì  me lo son sempre chiesta
+BOI044	sì me lo son sempre chiesta
 BOI044	beh dio delle volte
 BOI044	ci sono anche in italiano però se non si assomigliano
 BOI044	però è il significato
 BOR010	è quello poi che conta eh
-BOR010	ah no  perché
-BOR010	non so vedendo io ad esempio io nelle  lingue straniere magari c'è una parola che per spiegarla
+BOR010	ah no perché
+BOR010	non so vedendo io ad esempio io nelle lingue straniere magari c'è una parola che per spiegarla
 BOR010	magari bisogna usare un'intera frase perché non c'è un esatto corrispondente
 BOR010	non so pensavo una cosa del genere non so
 BOI044	le è mai capitato oppure
@@ -555,7 +555,7 @@ BOI044	xxxxx ultimamente con l'università immagino arrivino anche
 BOI044	si sentono sì parlar la loro lingua i napoletani o
 BOR010	o anche romagnoli ferraresi xxx il dialetto qua nostro
 BOR010	eh oh purtroppo
-BOR010	dispiace  anche a me perché
+BOR010	dispiace anche a me perché
 BOR010	anch'io non essendo di qua non
 BOR010	non ho modo cioè sento
 BOR010	sento molto parlare in dialetto ma
@@ -574,7 +574,7 @@ BOI044	ecco volevo chiederle e xx non credo visto xx comunque se se per caso ave
 BOI044	no
 BOR010	non ho vissuto la guerra
 BOR010	okay perfetto
-BOR010	accidenti volevo farle qualche  in caso
+BOR010	accidenti volevo farle qualche in caso
 ???	infatti immaginavo però chiedo per
 BOI044	
 BOI044	no no no xxxxxxx~
@@ -582,12 +582,12 @@ BOR010	sono nato dopo la guerra
 BOR010	xxxxxxxxxxxxxx
 BOR010	per essere per averla vissuta
 BOR010	beh dai
-BOR010	tra l'altro comunque devo dire deve essere stato comunque un brutto periodo  che non avrei voluto viviere neanche io potendo
+BOR010	tra l'altro comunque devo dire deve essere stato comunque un brutto periodo che non avrei voluto viviere neanche io potendo
 BOR010	quindi meglio così
 BOI044	mi vien da dire
 BOR010	però si vede che non tutti la pensano così nel mondo
 BOI044	ah dice della guerra in ucraina
-BOI044	ma  quella è una poi non è che perché adesso quella ce la fan vedere ma tutte quelle che non vediamo
+BOI044	ma quella è una poi non è che perché adesso quella ce la fan vedere ma tutte quelle che non vediamo
 BOR010	che son molte di più eh
 BOI044	
 BOI044	con gli stessi effetti eh questa
@@ -610,7 +610,7 @@ BOR010	sarebbero state tranquillamente in pace senza
 BOR010	non so quindi
 BOR010	cioè non non riguarda solo magari due persone e basta che
 BOR010	quindi
-BOR010	veramente  brutto anche
+BOR010	veramente brutto anche
 BOI044	speravo di non dover mai vivere una guerra invece
 BOI044	invece se va così
 BOR010	per me non ci saltiam fuori
@@ -618,17 +618,17 @@ BOI044	speria~
 BOI044	ha preso una brutta piega questa storia qua
 BOR010	a mio vedere eh poi dopo come ragiono io poi uno
 BOR010	no anzi sicuramente le~ diciamo le~ a le conosce conosce più diciamo la storia
-BOR010	sa~ sa~ ve~ la la conosce molto più di me che ho vissuto  meno quindi
-BOR010	sicuramente mi  diciamo la sua opinione è più
+BOR010	sa~ sa~ ve~ la la conosce molto più di me che ho vissuto meno quindi
+BOR010	sicuramente mi diciamo la sua opinione è più
 BOR010	più valida diciamo
 BOR010	ah sì veramente brutto
-BOR010	accidenti  scusi sono un po'  preoccupata per questa cosa eh
+BOR010	accidenti scusi sono un po' preoccupata per questa cosa eh
 BOR010	mi sembra veramente molto
 BOR010	assurda
 BOI044	e quindi comunque sì
 BOI044	ormai qua
 BOI044	difficile che riesci a far delle interviste che ha a chi ha ha vissuto la guerra perché ormai chi ha vissuto la guerra è già finita
-BOR010	da bot~ ci vuole un un ragazzo di ottantacinq~ no  ottantacinque novant'anni almeno
+BOR010	da bot~ ci vuole un un ragazzo di ottantacinq~ no ottantacinque novant'anni almeno
 BOR010	xx
 BOI044	infatti xx
 BOI044	io ne ho settantacinque e sono nato nel xx quarantasette quindi ci vuole già della gente
@@ -643,15 +643,15 @@ BOR010	poi
 BOR010	sì diciamo il fatto che quanto era brutta direi che
 BOR010	non ci sia bisogno di di chiederlo quello quindi
 BOR010	ah direi che più o meno
-BOR010	ah sì okay direi che  come numero  come domande avremmo
+BOR010	ah sì okay direi che come numero come domande avremmo
 BOI044	abbiamo fatto più o meno quello che
 BOR010	sì sì
-BOI044	volevo  così era un po' per parlare stava un po' parlando
+BOI044	volevo così era un po' per parlare stava un po' parlando
 BOR010	va bene
-BOI044	ah bene intanto grazie per  per
+BOI044	ah bene intanto grazie per per
 BOR010	beh ma ci mancherebbe
 BOI044	è stato veramente gentile
 BOR010	quanto sei riuscito a fare
 BOR010	eh
 BOR010	abbiamo parlato per eh trentaquattro minuti
-BOR010	quindi per più di mezz'ora  anzi direi che qua
+BOR010	quindi per più di mezz'ora anzi direi che qua

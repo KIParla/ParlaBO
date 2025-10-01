@@ -1287,7 +1287,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 231-3	BOI105	231	questa	questa	linguistic	none	_	_	_	_	_	_
 231-4	BOI105	231	la	la	linguistic	none	_	_	_	_	_	_
 231-5	BOI105	231	meter~	meter~	linguistic	none	Interrupted=Yes	_	_	_	_	_
-231-6	BOI105	231	<meterologia>	meterologia	linguistic	none	_	_	_	Slow=0-11(0)	_	_
+231-6	BOI105	231	<meterologia>	meterologia	linguistic	none	_	_	_	Slow=0-11	_	_
 231-7	BOI105	231	che	che	linguistic	none	_	_	_	_	_	_
 231-8	BOI105	231	abbiam	abbiam	linguistic	none	_	_	_	_	_	_
 231-9	BOI105	231	studiato	studiato	linguistic	none	_	End=556.002	_	_	_	_
@@ -2156,10 +2156,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 375-7	BOI105	375	okay	okay	linguistic	none	_	End=955.29	_	_	_	_
 376-0	BOI105	376	questa:	questa	linguistic	none	_	Begin=955.67	5x1	_	_	_
 376-1	BOI105	376	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-376-2	BOI105	376	<ne	ne	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-376-3	BOI105	376	sa	sa	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-376-4	BOI105	376	a	a	linguistic	none	_	_	_	Slow=0-1(0)	_	_
-376-5	BOI105	376	pacchi>	pacchi	linguistic	none	_	End=957.822	_	Slow=0-6(0)	_	_
+376-2	BOI105	376	<ne	ne	linguistic	none	_	_	_	Slow=0-2	_	_
+376-3	BOI105	376	sa	sa	linguistic	none	_	_	_	Slow=0-2	_	_
+376-4	BOI105	376	a	a	linguistic	none	_	_	_	Slow=0-1	_	_
+376-5	BOI105	376	pacchi>	pacchi	linguistic	none	_	End=957.822	_	Slow=0-6	_	_
 377-0	BOI105	377	ma	ma	linguistic	none	_	Begin=958.824	_	_	_	_
 377-1	BOI105	377	non	non	linguistic	none	_	_	_	_	_	_
 377-2	BOI105	377	sa	sa	linguistic	none	_	_	_	_	_	_

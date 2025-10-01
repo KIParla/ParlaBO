@@ -9,7 +9,7 @@ BOI011	sono nata a bologna ho abitato sempre a bologna tranne un brevissimo
 BOR004	periodo in cui avendo la scuola fuori bologna mi ero domiciliata lì ma poi sono tornata insomma la residenza è qua
 BOR004	mhmh
 BOI011	anche sempre stesso quartiere o ha cambiato quartiere
-BOI011	no  allora  io sono nata in questo quartiere nel senso sono nata
+BOI011	no allora io sono nata in questo quartiere nel senso sono nata
 BOI011	a pochi metri da adove vivo abitualmente
 BOR004	passavo dei lunghi periodi in centro dai nonni
 BOI011	mhmh
@@ -38,8 +38,8 @@ BOI011	mio padre ha fatto delle ricerche
 BOI011	mh come potrei dire
 BOI011	n~ archeologiche sarebbe troppo
 BOI011	x dinastiche anche perché la nostra non è una dinastia ha fatto delle ricerche diciamo familiari ecco
-BOI011	eh  e la mh
-BOI011	il suo da parte di mamma cioè  della famiglia rossi
+BOI011	eh e la mh
+BOI011	il suo da parte di mamma cioè della famiglia rossi
 BOI011	coniugata bianchi
 BOI011	la persona a cui è riuscito a tornare più indietro nel tempo è un tale rossi valerio
 BOI011	che nel milleottocentodieci stava a porta santo ste~ a in piazza santo stefano
@@ -127,7 +127,7 @@ BOI011	andamo per via barberia guarda com'è bella quella madonna lì affrescata
 BOI011	in via del pratello di fronte al quarantaquattro c'é un cristo affrescato al muro adesso è molto rovinato
 BOI011	tutte queste minuzie qui ecco mio padre mi faceva osservare
 BOR004	tu mi devi fare delle domande o io vado avanti
-BOI011	tu puoi andare avanti come vuoi  no va benissimo
+BOI011	tu puoi andare avanti come vuoi no va benissimo
 BOI011	no non finiam più eh
 BOI011	ecco
 BOR004	ti era questo che volevi
@@ -246,7 +246,7 @@ BOI011	gettare i rifiuti in strada
 BOI011	dal frontali~ dalle frontalieri
 BOI011	cioé non si poteva
 BOI011	se tu vai per le vie del centro che sono fatte a raggiera così no
-BOI011	ci sono delle viuzze  che collegano  le strade grandi
+BOI011	ci sono delle viuzze che collegano le strade grandi
 BOI011	queste viuzze che mh una volta li chiamavano il cavedio no
 BOI011	erano quelle deputate al getto
 BOI011	dei rifiuti
@@ -302,7 +302,7 @@ BOR004	eh va bene
 BOI011	più che bene ci siamo
 BOI011	spero spero che nessuno dei miei competitores
 BOR004	eh abbia tirato fuori ste storielle
-BOI011	no no  si figuri
+BOI011	no no si figuri
 BOR004	eh
 BOI011	no ma poi insomma anche se lo raccontano diverse persone anzi
 BOR004	aver tirato fuori queste storielle benissimo
@@ -584,7 +584,7 @@ BOI011	dove c'è una porticina piccola piccola piccola con le mura di selenite i
 BOI011	e vede questa torre mozza
 BOI011	perché funzionava così quando le famiglie si scontravano
 BOI011	il vincente faceva abbassare la torre dell'altro
-BOI011	cosa che poi veniva ovviamente restituit~  dopo un po' di tempo quin~
+BOI011	cosa che poi veniva ovviamente restituit~ dopo un po' di tempo quin~
 BOR004	era sempre tutto un cantiere alza e abbassa queste torri no
 BOR004	eh
 BOI011	ah ah
@@ -607,7 +607,7 @@ BOI011	il torrazzo di cremona
 BOI011	e e poca altra roba
 BOI011	la nostra è una delle più svettanti sicuramente è la più vecchia comunque eh
 BOI011	ehm
-BOI011	l'asinelli  era più alta
+BOI011	l'asinelli era più alta
 BOI011	poi è stata abbassata e riabbassata e riabbassata ancora
 BOI011	adesso è così è sempre studiata ingabbiata
 BOI011	tieni conto che l'asinelli
@@ -928,7 +928,7 @@ BOI011	parlando di mummie
 BOI011	a bologna la più famosa è la santa caterina di vigri
 BOI011	che trovasi al monastero del corpus domini
 BOI011	via delle tovaglie
-BOI011	andando  mh fuori d'azeglio insomma no
+BOI011	andando mh fuori d'azeglio insomma no
 BOI011	che è seduta credo da un cinque seicento anni
 BOI011	così
 BOR004	se vuoi dopo ti faccio vedere l'immagine
@@ -973,8 +973,8 @@ BOI011	ha lasciato delle discepole sante la beata illuminata bebbo è una di que
 BOI011	e c'è anche un vaso
 BOI011	ripieno di un liquido
 BOI011	che è uscito dal suo corpo quando l'hanno riesumata
-BOI011	e dicono  che sia
-BOR004	ancora  allo stato  non solido
+BOI011	e dicono che sia
+BOR004	ancora allo stato non solido
 BOI011	mhmh
 BOI011	però è dentro quindi non non si può toccare insomma come il sangue di san gennaro che ecco lui sta lì
 BOI011	e questa è l'ultima santa femmina della chiesa di bologna prima di santa clelia barbieri che è stata fatta santa nel millenovecentoottantotto
@@ -1193,7 +1193,7 @@ BOI011	e forse troppi bicchier ne ho tracannato vado fuori all'aperto voce dal l
 BOI011	portati la carta
 BOR004	non specifichiamo che tipo di carta
 BOI011	
-BOI011	tu tig la cherta  e poi
+BOI011	tu tig la cherta e poi
 BOR004	risata generale di tutt il teatro il poveretto
 BOR004	mhmh
 BOI011	

@@ -1,14 +1,14 @@
 BOR001	okay faccio partire
-BOI003	allora ehm vabbè intanto ti chiederei da quanto tempo è che vivi in questa zona che ormai  sono vari anni che vivi qua
-BOR001	allora  in questa zona ehm nello specifico sono più di vent'anni
+BOI003	allora ehm vabbè intanto ti chiederei da quanto tempo è che vivi in questa zona che ormai sono vari anni che vivi qua
+BOR001	allora in questa zona ehm nello specifico sono più di vent'anni
 BOI003	okay
 BOI003	almeno
 BOR001	forse venticinque ecco
 BOI003	mhmh
 BOI003	e prima abitavo comunque a tre chilometri da qua perché abitavo nell'altro quartiere
-BOR001	reno e e niente quindi  praticamente quasi sempre in questa z~  da queste parti ecco
+BOR001	reno e e niente quindi praticamente quasi sempre in questa z~ da queste parti ecco
 BOR001	sì
-BOI003	e ci sono ehm ci son differenze fra  il quartiere dove abitavi prima e questo
+BOI003	e ci sono ehm ci son differenze fra il quartiere dove abitavi prima e questo
 BOI003	beh ehm dai
 BOR001	n~ non tanto perché comunque è sempre vicino al centro e insomma ci sono solo tre chilometri di distanza così
 BOI003	mhmh
@@ -17,7 +17,7 @@ BOR001	avevo sempre sognato insomma che ehm
 BOI003	mhmh
 BOI003	perché comunque sei vicino a san luca sei vicino
 BOI003	ehm non so a villa spada tanti posti verdi a via di casaglia insomma
-BOR001	è una zona che mi è sempre piaciuta anche quando ero una ragazza e quando  non abitavo qua ecco praticamente
+BOR001	è una zona che mi è sempre piaciuta anche quando ero una ragazza e quando non abitavo qua ecco praticamente
 BOR001	mhmh
 BOI003	si
 BOR001	e quindi pero non ci sono tante differenze ecco
@@ -26,7 +26,7 @@ BOI003	ci son tanti servizi trasporti sono
 BOI003	sono ottimi e a piedi puoi raggiungere tutto insomma
 BOR001	tutto uguale ecco più o meno
 BOR001	okay
-BOI003	e questa zona qui in questi vent'anni  è cambiata un po' o è sempre anche questa rimasta uguale
+BOI003	e questa zona qui in questi vent'anni è cambiata un po' o è sempre anche questa rimasta uguale
 BOI003	mh
 BOI003	no secondo me e più o meno è rimasta sempre uguale perché era una zona molto popolata anche prima
 BOI003	non ci sono state delle nuove costruzioni quindi
@@ -55,13 +55,13 @@ BOI003	ma vent'anni fa in questa zona era uguale o è peggiorato nel corso degli
 BOI003	beh è un pochettino peggiorato perché appunto si è più popolata rispetto a prima
 BOI003	però è sempre stato un problema così
 BOI003	perché mi ricordo che quando ero ragazza che e non
-BOR001	non abitavo ancora qua  però venivo a volte con gli amici i proprio in questa strada
+BOR001	non abitavo ancora qua però venivo a volte con gli amici i proprio in questa strada
 BOI003	mhmh
 BOI003	perché c'era un locale dove la sera facevano della musica dal vivo
 BOI003	e mi ricordo che tutte le volte che dicevamo andiamo là e il problema era sempre ma dove parcheggiamo perché nella zona era
 BOI003	eh molto difficile quindi
 BOI003	e ti parlo di più di venti venticinque anni fa
-BOR001	quindi  era già così il problema ecco
+BOR001	quindi era già così il problema ecco
 BOR001	sì
 BOR001	okay
 BOI003	quindi comunque venivi già in zona qua coi tuoi amici
@@ -112,13 +112,13 @@ BOI003	quello di cui hai bisogno non è che devi mai girare tanto o
 BOR001	sec~ seco~
 BOI003	ci~ per certe cose
 BOI003	secondo me sì e almeno per quanto riguarda i quartieri del centro di bologna così c'è sempre
-BOI003	tutto e  e tutto anche facilmente accessibile
+BOI003	tutto e e tutto anche facilmente accessibile
 BOI003	se andiamo nella periferia ecco che magari
 BOR001	ad esempio io per alcuni anni ho lavorato fuori bologna a san pietro in casale
 BOI003	mhmh
 BOI003	ehm insomma mh
 BOI003	lì adesso dipende dai punti di vista però a me lì non piace~ mh
-BOI003	non mi sarebbe piaciuto ad~ abitare proprio perché  ehm
+BOI003	non mi sarebbe piaciuto ad~ abitare proprio perché ehm
 BOR001	mi sembra di essere un po' fuori ecco fuori un po' da tutto
 BOI003	mhmh
 BOI003	ehm
@@ -153,7 +153,7 @@ BOI003	fuori però
 BOR001	insoma facilmente raggiungibile ecco nie~
 BOR001	mhmh okay
 BOI003	e com'è lo spostamento quindi però
-BOI003	ecco lo spostamento è abbastanza  pesante ecco
+BOI003	ecco lo spostamento è abbastanza pesante ecco
 BOR001	ehm ecco questo l'ho trovato molto cambiato ecco nel corso degli anni tantissimo da quando ho iniziato a lavorare fino ad oggi
 BOI003	mh
 BOI003	e adesso il traffico è veramente
@@ -211,7 +211,7 @@ BOR001	sì sì
 BOR001	e invece in bologna
 BOR001	in generale come città rispetto magari a quando
 BOR001	eri bambina adolescente ad adesso
-BOI003	mh  hai notato dei cambiame~ cioè è cambiata secondo te la città
+BOI003	mh hai notato dei cambiame~ cioè è cambiata secondo te la città
 BOR001	ma tu dici a livello di traffico o in generale
 BOI003	no no in generale sotto qualsiasi aspetto
 BOI003	generale
@@ -420,7 +420,7 @@ BOI003	e poi aprivi
 BOR001	e ci poteva essere un regalo adesso non mi ricordo che tipo di regalo c'era
 BOI003	okay
 BOI003	però da bambina
-BOR001	quando si andava a san luca io pensavo subito che dopo volevo andare  dalla suora a prendere questi
+BOR001	quando si andava a san luca io pensavo subito che dopo volevo andare dalla suora a prendere questi
 BOI003	
 BOI003	rotolini di carta
 BOI003	non so quanti anni avevo però
@@ -493,7 +493,7 @@ BOR001	tutto il casino che ovviamente c'é ehm
 BOR001	tu sei
 BOI003	una di quelle persone che magari sarebbero a favore di spostarlo fuori bologna
 BOI003	mh boh
-BOR001	io no  ecco nel senso sì è vero può creare dei disagi magari il traffico magari il parcheggio così
+BOR001	io no ecco nel senso sì è vero può creare dei disagi magari il traffico magari il parcheggio così
 BOI003	
 BOI003	però io vedo solo l'aspetto positivo ecco di avere lo stadio qua perché appunto ce l'ho vicino
 BOI003	gli eventi sportivi ma anche tutto
@@ -615,8 +615,8 @@ BOR001	ma è
 BOI003	è sempre stato quindi abbastanza facilmente raggiungibile
 BOI003	no
 BOR001	
-BOI003	no  mh
-BOR001	no beh vabbé in treno era sempre vagoni proprio carri bestiame  così
+BOI003	no mh
+BOR001	no beh vabbé in treno era sempre vagoni proprio carri bestiame così
 BOI003	okay
 BOI003	anche da ragazzi quando andavamo cioé praticamente stavi in piedi tutto il viaggio però non è che ci interessava più di tanto stavi lì nel corridoio
 BOI003	ehm eran sempre pieni zeppi
@@ -641,7 +641,7 @@ BOI003	mhmh
 BOI003	però sì al mare da ragazzi ci andavamo spessissimo
 BOR001	c'era proprio l'appuntamento fisso che poi quando si tornava a casa ci si fermava alla casa delle ali a mangiare per aspettando che
 BOI003	mh
-BOI003	eh sminuisse un po'  il traffico sull'autostrada poi si arrivava però non c'erano orari
+BOI003	eh sminuisse un po' il traffico sull'autostrada poi si arrivava però non c'erano orari
 BOI003	c~ c'era sempre traffico quindi
 BOR001	però sì andavamo spessissimo
 BOI003	e si svuota tipo la zona qua anche cioè la città in estate si svuota xxxx
@@ -652,7 +652,7 @@ BOR001	al venerdì sera e ritornano magari il lunedì mattina direttamente al la
 BOR001	mh
 BOR001	ma ehm e invece bologna bol~ cioé mh
 BOR001	l'estate qua è sempre un po' fare tutta l'estate qua è sempre un po' impegnativo
-BOR001	per il  punto di vista della temperatura
+BOR001	per il punto di vista della temperatura
 BOR001	ehm
 BOR001	però offre
 BOR001	più cose in estate
@@ -708,7 +708,7 @@ BOR001	eh però me li ricordo
 BOI003	bé io mi ricordo di quando a villa spada
 BOR001	sì sì anche
 BOI003	quand~
-BOR001	infatti esatto andavano là  esatto
+BOR001	infatti esatto andavano là esatto
 BOR001	che tutti i bambini andavano
 BOI003	con lo slittino
 BOR001	esatto
@@ -745,11 +745,11 @@ BOR001	ti sei stancata magari
 BOR001	non lo so
 BOI003	del traffico del
 BOI003	no
-BOR001	beh si a volte quado sei nel mezzo  del traffico
+BOR001	beh si a volte quado sei nel mezzo del traffico
 BOI003	
 BOR001	direi xxxx
 BOI003	pensieri temporanei
-BOI003	preferirei  essere da un'altra parte così
+BOI003	preferirei essere da un'altra parte così
 BOI003	però tutto sommato mettendo insieme tutte le cose negative e positive mi piace ecco
 BOR001	mi piace ritorn~ cioé mi piacerebbe vedere tanti altri posti però poi mi piace ritornare qua ecco
 BOI003	questa è cas~

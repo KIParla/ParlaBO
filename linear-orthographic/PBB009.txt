@@ -11,7 +11,7 @@ BOI027	sì
 BOI028	come ci conosciamo
 BOI027	ci conosciamo
 BOI028	vediamo vediamo se diciamo la stessa co~
-BOI027	ci siamo conosciuti  principalmente  al circolo  e poi alla scuola
+BOI027	ci siamo conosciuti principalmente al circolo e poi alla scuola
 BOI028	sì
 BOR007	che abbiam sempre fatto al @nomeassociazione
 BOR007	mhmh
@@ -52,7 +52,7 @@ BOR007	certo eh ovviamente
 BOI028	eh beh sì
 BOR007	eh
 BOI028	sì sì
-BOI028	adesso quest'anno  invece da eh ottobre
+BOI028	adesso quest'anno invece da eh ottobre
 BOI027	da ottobre eh antonio
 BOI027	s~ credo
 BOI028	credo di sì
@@ -117,7 +117,7 @@ BOR007	di dall'ospedale roncati dall'ospedale psichiatrico roncati
 BOI028	sì
 BOI028	dall'ottanta l'ottantasette ottantatano~ no al novanta novanta
 BOI028	dopo ho lavorato anche come libera professionista
-BOI028	presso una semiresidenza sempre dell'asl  però in via tasso
+BOI028	presso una semiresidenza sempre dell'asl però in via tasso
 BOI028	sempre per
 BOR007	facevo gruppi con psicotici adulti
 BOR007	mhmh
@@ -144,14 +144,14 @@ BOI027	ah non lo sapevi
 BOI028	no
 BOR007	e poi ho fatto sono stata distaccata per tre mesi a bruxelles
 BOI028	mh
-BOI028	presso la direzione cinque su  un programma di eh si chiamava noun nuove opportunità per le donne
+BOI028	presso la direzione cinque su un programma di eh si chiamava noun nuove opportunità per le donne
 BOR007	quindi incrementare a livello europeo presso la direzione generale di bruxelles
 BOI028	mhmh
 BOR007	e poi da lì in poi però son dovuta son venuta via perché ho avuto p~ dei problemi di salute molto importanti per cui ho dovuto smettere son rientrata in italia
 BOR007	mhmh
 BOI028	okay
 BOI028	e ho continuato il mio lavoro
-BOI028	poi però parallelamente  ho sempre sempre fatto dall'ottanta
+BOI028	poi però parallelamente ho sempre sempre fatto dall'ottanta
 BOR007	dall'ottanta no anche prima dal settantasette
 BOI028	mhmh
 BOR007	dal settantasette mi sono occupata anche di alfabetizzazione degli adulti a bologna
@@ -187,7 +187,7 @@ BOI028	mh
 BOI028	poi ho fatto abbiamo fatto insieme a un gruppo di donne una piccola associazione
 BOI028	facevamo formazione
 BOI028	sulla comunicazione sulla gestione dei gruppi di lavoro
-BOR007	a  tutte le associazioni femminili che allora nascevano a bologna
+BOR007	a tutte le associazioni femminili che allora nascevano a bologna
 BOI028	mhmh
 BOR007	e alla sera sempre volontario la sera facevamo
 BOI028	sì
@@ -212,22 +212,22 @@ BOR007	a tutti i livelli
 BOI028	okay
 BOR007	quindi parlar nella scuola
 BOI028	mhmh
-BOR007	per per i nuovi i nuovi s~ i nuovi lavori per nuove opportunità di lavoro per le donne sempre per  promuovere
+BOR007	per per i nuovi i nuovi s~ i nuovi lavori per nuove opportunità di lavoro per le donne sempre per promuovere
 BOI028	sì
 BOR007	eh diciamo le donne l'au~ l'autonomia e la valorizzazione dei saperi e delle capacità femminili
 BOR007	okay
 BOI028	sì
 BOI028	in un'ottica di sempre
-BOR007	sul  filo della differenza di genere
+BOR007	sul filo della differenza di genere
 BOI028	sì
-BOR007	siamo state le prime a introdurre nell'ambito clinico  il pensiero della differenza di genere
+BOR007	siamo state le prime a introdurre nell'ambito clinico il pensiero della differenza di genere
 BOR007	mh
 BOR007	okay e quindi lei ehm
 BOR007	ti do del tu
 BOI028	sei sempre stata a bologna quindi cioè hai frequentato anche l'univeristà qua a bologna ti sei trasferita subito dopo
 BOR007	sì sì sì sì sì sì sì
 BOI028	okay
-BOR007	sì io sono  sì sono nata in un paesino piccolissimo
+BOR007	sì io sono sì sono nata in un paesino piccolissimo
 BOI028	mh
 BOR007	montenero
 BOI028	sì
@@ -267,11 +267,11 @@ BOI028	mh
 BOR007	molto forte molto intensa perché venivi a contatto con
 BOI028	sì
 BOI028	con la sofferenza
-BOR007	ma molto f~ molto interna molto  molto forte
+BOR007	ma molto f~ molto interna molto molto forte
 BOI028	mhmh
 BOI028	e con loro lavoravo per la prima volta mi han~ mi hanno permesso
 BOI028	ho iniziato lavorando usando come mediazione nella relazione per entrare a contatto con queste persone che p~
-BOR007	dunque una premessa  queste persone erano persone che avevano trent'anni d'istituzionalizzazione
+BOR007	dunque una premessa queste persone erano persone che avevano trent'anni d'istituzionalizzazione
 BOI028	mh
 BOR007	quindi trent'anni di manicomio quindi eran persone che avevano che erano entrate in manicomio metti a vent'anni
 BOI028	sì
@@ -283,15 +283,15 @@ BOI028	mh
 BOI028	eh
 BOI028	quindi e entravo quindi c'era tutta la
 BOI028	diciamo tutta la la come dire come chiamarla la ruggine la
-BOR007	della del l~  del il ripiegamento dato dall'istituzionalizzazione
+BOR007	della del l~ del il ripiegamento dato dall'istituzionalizzazione
 BOI028	mh
 BOR007	non so se hai letto foucault no
-BOI028	no  purtroppo no
+BOI028	no purtroppo no
 BOI028	vabbè
 BOR007	comunque no era per far capir
 BOI028	
 BOI028	e quindi p~ data dai tempi dalle cose
-BOR007	pensa che loro non potevano avere  né forchetta né coltello
+BOR007	pensa che loro non potevano avere né forchetta né coltello
 BOR007	mh
 BOI028	mh
 BOR007	l'utilizzo era solo del cucchiaio
@@ -300,7 +300,7 @@ BOI028	e ogni tanto cambiavano
 BOR007	cambiavano letto cambiavano quindi per loro era portarsi dietro il cuscino e la cosa era la c~ la cosa che possede~
 BOI028	sì
 BOI028	e quindi per entrare in mediazione con loro
-BOR007	ho usavo usavo la creta usavo  il il disegno usavo il racconto la metafora
+BOR007	ho usavo usavo la creta usavo il il disegno usavo il racconto la metafora
 BOR007	mhmh
 BOI028	sì
 BOR007	soprattutto la metafora anche perché erano persone che avevano facciamo un'insalata di parole erano schizofreniche psico~
@@ -342,8 +342,8 @@ BOI028	arrivo la il tavolo tutto pieno
 BOR007	di tutte le dimensioni la sua parte era piena di tutte le dimensioni
 BOI027	
 BOI028	
-BOI028	alla fine ho detto  allora mi fa
-BOI028	eh  dottoressa dottorossa e vedo una polt~ e dico cos'è cos'è una poltrona
+BOI028	alla fine ho detto allora mi fa
+BOI028	eh dottoressa dottorossa e vedo una polt~ e dico cos'è cos'è una poltrona
 BOI028	e aveva fatto una poltrona in miniatur~
 BOR007	e dentro ci aveva messo un cazzetto piccolo così
 BOI028	
@@ -362,7 +362,7 @@ BOI028	e poi un'altra volta m~
 BOI028	la parola mi diceva dottoressa dot~ alda alda alda p~ come mi chiama~
 BOI028	alda alda alda
 BOI028	qual è l'animale più veloce
-BOI028	e io  non lo so
+BOI028	e io non lo so
 BOR007	là qui là
 BOI028	
 BOR007	cioè hai presente
@@ -415,12 +415,12 @@ BOI028	quindi avevo preso i
 BOR007	i colori a dito dei bambini che erano sono quelli
 BOR007	sì
 BOI028	sì sì sì
-BOI028	e  è stata una cose che gli psichiatri erano rimasti  esterrefatti
-BOR007	con le mani  e alcuni con i piedi
+BOI028	e è stata una cose che gli psichiatri erano rimasti esterrefatti
+BOR007	con le mani e alcuni con i piedi
 BOI028	mh
 BOI028	cioè togliersi le scarpe no adesso sembra una cazza~ togliersi le scarpe
 BOI028	i calzettini
-BOR007	e mettere  sporcarsi i piedi e fare l'impronta no
+BOR007	e mettere sporcarsi i piedi e fare l'impronta no
 BOI028	sì
 BOI028	l'impronta lasciare l'impronta la propria impront~
 BOI028	sul muro sul foglio nelle mani scrivere il proprio nome è un po' come riappropriarsi la parte tua del corpo
@@ -480,10 +480,10 @@ BOI028
 BOI028	ferma~
 BOI028	poi
 BOI028	allora diceva sono un assassino
-BOR007	x mi ricordo che  ho lavorato molto quindi alla fine s'era creato
+BOR007	x mi ricordo che ho lavorato molto quindi alla fine s'era creato
 BOI028	sì
 BOI028	un bel rapporto cioè con
-BOR007	e  quando facevo le sedute in palestra
+BOR007	e quando facevo le sedute in palestra
 BOI028	mhmh
 BOI028	con x drappi corde eccetera
 BOR007	e lui a un certo punto ha detto faccio l'assassino
@@ -506,7 +506,7 @@ BOR007	e stava per dire faccio l'assassino e poi dopo è rimasto così e poi gi�
 BOR007	
 BOI028	mh
 BOI028	non ha fatto niente
-BOR007	e da lì  c'è stato il cambio
+BOR007	e da lì c'è stato il cambio
 BOI028	okay
 BOR007	vabbè adesso basta perché xx
 BOR007	
@@ -546,7 +546,7 @@ BOR007	e l'associazione si chiama @nomeassociazione e sta qui a bologna
 BOI027	sì
 BOR007	e si occupa di cancro infantile
 BOI027	mhmh
-BOR007	e  e la fondazione è quella di @nomefondazione l'ac~ l'accademia del cinema che l'accademia praticamente di @nomeazienda di @nomeazienda di @nomeazienda
+BOR007	e e la fondazione è quella di @nomefondazione l'ac~ l'accademia del cinema che l'accademia praticamente di @nomeazienda di @nomeazienda di @nomeazienda
 BOI027	sì
 BOI027	ehm la fondazione si chiama appunto @nomefondazione e
 BOI027	io curo la gestione dei social network di @nomefondazione academy
@@ -607,7 +607,7 @@ BOR007	perché io ho studiato a napoli
 BOI027	mhmh
 BOI027	ho vissuto a napoli anche dopo aver studiato lì
 BOI027	e
-BOR007	praticamente  nel duemila quindici eh faccio questo excursus poi dimmi tu se ha senso no
+BOR007	praticamente nel duemila quindici eh faccio questo excursus poi dimmi tu se ha senso no
 BOI027	sì sì sì sì no no va bene
 BOI027	eh
 BOI027	nel duemila e quindici vado a convivere con una ragazza con la quale poi finisco di convivere due anni dopo
@@ -636,7 +636,7 @@ BOI027	perché immaginavo che comunque non av~ cioè
 BOI027	a~ ho capito che stavo lì perché
 BOR007	c'erano dei cioè era più il lato affettivo non solo con lei ma anche col gruppo di amici che si era creato
 BOI027	sì
-BOR007	che mi teneva ancorato a napoli che non  le prospettive che uno si dà da uomo che cresce no
+BOR007	che mi teneva ancorato a napoli che non le prospettive che uno si dà da uomo che cresce no
 BOI027	sì
 BOI027	e o comunque da ragazzo che diventi uom~ tutte quelle cose comunque per forza di cose da studente
 BOR007	che finisce di essere tale si inizia
@@ -644,7 +644,7 @@ BOI027	sì
 BOI027	chiedere
 BOR007	e bologna è arrivata in maniera abbastanza casuale
 BOI027	mhmh
-BOI027	nel senso io non avevo  legami specifici a bologna
+BOI027	nel senso io non avevo legami specifici a bologna
 BOI027	è capitato
 BOI027	che mi succedesse di avere
 BOI027	un'opportunità con una società
@@ -697,7 +697,7 @@ BOI027	sì
 BOR007	a fare lezione a un gruppo di migranti
 BOR007	mh
 BOI027	sì
-BOI027	eh  perché probabilmente sarei stato in un ufficio
+BOI027	eh perché probabilmente sarei stato in un ufficio
 BOI027	e avendo conosciuto perso~ avendo i miei più cari amici che fanno
 BOI027	vita diversa da questa
 BOR007	devo dire che io non s~ mh mi mi rendo spesso conto che non sarei in grado di fare quella vita lì
@@ -765,7 +765,7 @@ BOI027	per
 BOI028	per il cancro infantile
 BOI027	ah
 BOI027	e si crea
-BOI027	questa  campagna
+BOI027	questa campagna
 BOI027	che è nei fatti una campagna pubblicitaria che dura
 BOI027	in lungo che ha un obiettivo nello spe~ nel caso specifico questa campagna che si chiama lotto anch'io della singola associazione ti parlo
 BOI027	ha quest'anno l'obiettivo di pagare
@@ -839,11 +839,11 @@ BOI028	andando sempre verso
 BOI027	ah ho capito ah ah
 BOI028	alla fine di @nomeluogo
 BOI027	ah ah
-BOR007	eh un  che cosa mi hai chiesto prima
+BOR007	eh un che cosa mi hai chiesto prima
 BOR007	no in come la zona in cui vivi
 BOI027	cioè
 BOI027	ma la zona è ha l~ ha l~ di molto positivo
-BOR007	che  è piena di verde
+BOR007	che è piena di verde
 BOI027	mhmh
 BOI027	c'è il giardino @nomeluogo proprio sotto casa
 BOR007	cioè nel senso io esco e ho un parco
@@ -866,7 +866,7 @@ BOI028	quindi no sotto questo punto di vista non è è innegabile che sia forse 
 BOR007	sì
 BOR007	mhmh
 BOR007	ehm
-BOI027	ci son~ cioè magari  adesso hai detto che comunque come come zona ti piace molto però ci sono magari dei problemi degli aspetti che in questa zona che
+BOI027	ci son~ cioè magari adesso hai detto che comunque come come zona ti piace molto però ci sono magari dei problemi degli aspetti che in questa zona che
 BOI027	eh r~
 BOI027	rispetto a dove vivevo prima o in generale
 BOR007	perché rispetto a dove prima eh a dove vivevo prima per esempio noto d~ una carenza di servizi
@@ -938,7 +938,7 @@ BOI027	mhmh
 BOI028	quindi questo cambia tanto
 BOR007	eh
 BOI027	sì
-BOI027	però l'impatto esperienziale io  il ventiquattro febbraio andrò a napoli
+BOI027	però l'impatto esperienziale io il ventiquattro febbraio andrò a napoli
 BOR007	per la boh non so quante volte sono andato dopo che sono andato via
 BOR007	mhmh
 BOI027	sì
@@ -1012,7 +1012,7 @@ BOI027	ti ti posso dire che è così
 BOI027	di contro chiaramente la vita dei centri sociali è un po' più
 BOR007	come dire attiva eccetera eccetera
 BOI027	mhmh
-BOI027	i centri sociali a  a napoli sono arrivati
+BOI027	i centri sociali a a napoli sono arrivati
 BOI027	dentro il comune dentro le istituzioni
 BOR007	dieci anni prima che succedesse a bologna e questo non è un caso
 BOI027	sì
@@ -1036,8 +1036,8 @@ BOR007	eh
 BOI027	o è rimasta sempre la stessa
 BOR007	no guarda cioè sono la persona sbagliata alla quale chiederlo
 BOI027	
-BOI027	cioè nel senso fai conto che io  sono arrivato a un anno
-BOI027	un anno  dal lockdown
+BOI027	cioè nel senso fai conto che io sono arrivato a un anno
+BOI027	un anno dal lockdown
 BOR007	e noi stiamo parlando dopo sei mesi
 BOR007	mh beh sì
 BOI027	sì
@@ -1096,7 +1096,7 @@ BOR007	mhmh
 BOR007	mh
 BOI028	sì
 BOI028	un disastro proprio un disastro
-BOI028	e poi ci son stati dei begli attentati no ragazzi cioè  è stato
+BOI028	e poi ci son stati dei begli attentati no ragazzi cioè è stato
 BOR007	è stato una cos~
 BOI028	magari anche
 BOR007	tutta italia ma son state città e anni veramente incredibili incredibili
@@ -1126,7 +1126,7 @@ BOI028	sì
 BOI028	era era una cosa veramente meraviglio~
 BOI028	la prima radio
 BOI028	eh è radio alice cioè
-BOI028	insomma  era era veramente poi dopo c'è stato proprio come una
+BOI028	insomma era era veramente poi dopo c'è stato proprio come una
 BOI028	eh da un lato eh una un qual~ cioè movimenti cioè le donne avevano continuato quindi facevamo politica
 BOR007	eh c'erano c'era la battaglia per l'aborto quindi c'erano aborti clandestini facevamo
 BOI028	mhmh sì
@@ -1173,7 +1173,7 @@ BOI028	sì
 BOI028	ottantamila ecco bolo~
 BOR007	poi c'e tutto l'indotto per cui sai la città cambia in misura
 BOI028	mh
-BOI028	e e poi è una città  accogliente
+BOI028	e e poi è una città accogliente
 BOR007	ma fino a un certo punto
 BOI028	mh
 BOR007	
@@ -1219,7 +1219,7 @@ BOI027	poi è anche vero che la capicità di fare amicizia a ventuno venticinque
 BOI028	però lo vedi che c'è proprio una difficoltà
 BOR007	eh
 BOI027	sì
-BOR007	ci so~ c'è una mh  una superficialità quasi ricercata nei legami
+BOR007	ci so~ c'è una mh una superficialità quasi ricercata nei legami
 BOI027	mh
 BOI027	è una costante superficialità
 BOI027	anche con persone con le quali poi tutto sommato ti troveresti bene
@@ -1233,7 +1233,7 @@ BOR007	sì
 BOI028	sì sì
 BOR007	io penso adesso ad esempio bologna ha ad esempio a livello culturale ha molte offerte ha molte cose
 BOI028	mhmh
-BOR007	secondo me manca  il quello che c'era l'avanguardia la sperimentazione
+BOR007	secondo me manca il quello che c'era l'avanguardia la sperimentazione
 BOI028	sì
 BOI028	cioè
 BOR007	la ricerca proprio dei giovani
@@ -1260,7 +1260,7 @@ BOR007	sì probabilmente sì perché ad esempio gli skiantos eh adesso dico dei 
 BOR007	non so
 BOR007	mh
 BOI028	sì
-BOR007	cioè sono nati lì qua qui allora da da da  da mol~ da erano studenti universitari gruppetti universitari che facevano ste robe
+BOR007	cioè sono nati lì qua qui allora da da da da mol~ da erano studenti universitari gruppetti universitari che facevano ste robe
 BOR007	mhmh
 BOR007	sì
 BOI028	sì
@@ -1296,7 +1296,7 @@ BOI028	io non so se questa cosa ancora oggi ha quella spinta
 BOI027	sì
 BOR007	quanto meno eh quella la spinta magari sì
 BOI027	eh
-BOI028	ma quell'oceano  di persone
+BOI028	ma quell'oceano di persone
 BOR007	quell'oceano eh
 BOI028	sì
 BOI027	fluido
@@ -1323,7 +1323,7 @@ BOI028	forse sono eccezionali in italia perché per esempio alcune xxx
 BOI028	sì
 BOI028	sì eh in italia sì sì
 BOI028	ma io mi ricordo che veniva veniva coso il la il teatro di
-BOR007	di coso di ahi ahi ahi quello che è mo~ è morto  lindsay kemp
+BOR007	di coso di ahi ahi ahi quello che è mo~ è morto lindsay kemp
 BOI028	mh
 BOR007	lindsay kemp venne venne a bologna le prime volte
 BOI028	sì
@@ -1342,7 +1342,7 @@ BOR007	non è che adesso bologna ha un'offerta culturale adesso che è variegata
 BOI028	mh
 BOI028	mol~ tantissime cose gratuite quindi ben~ molto
 BOI028	però ecco quello che manca ad esempio ai miei occhi a quello che io riesco a osservare
-BOR007	manca  la la spinta dirompente no eh
+BOR007	manca la la spinta dirompente no eh
 BOI028	sì
 BOI028	trasve~ cioè
 BOR007	così un occhio latera~ divergente
@@ -1438,7 +1438,7 @@ BOR007	borghese
 BOI028	mhmh
 BOR007	tranquilla non niente di che
 BOI028	sì
-BOR007	poi invece sono andata  ho cambiato casa ho cambiato vita
+BOR007	poi invece sono andata ho cambiato casa ho cambiato vita
 BOI028	mhmh
 BOI028	e sono andata ad abitare dove abito tutt'ora
 BOR007	die~ nel mercato al mercato @nomeluogo dietro @nomeluogo
@@ -1460,9 +1460,9 @@ BOR007	in @nomeluogo e quindi c'eran stati tutti gli attenta~ eh
 BOI028	sì
 BOR007	poi dopo alla fine degli anni ottanta fino alla fine degli anni novanta insomma una decina d'anni
 BOI028	mhmh
-BOR007	era diventata una zona  pesante
+BOR007	era diventata una zona pesante
 BOI028	sì
-BOR007	perché a me piaceva sempre  però pesante perché era di spaccio
+BOR007	perché a me piaceva sempre però pesante perché era di spaccio
 BOI027	s~
 BOR007	mh
 BOI028	mh
@@ -1504,7 +1504,7 @@ BOI028	sì
 BOI028	perché ci sono dei gestori molto bravi e sono e si vive
 BOR007	tranquillame~
 BOI028	sì
-BOR007	no  a me piace tutto guarda devo dire
+BOR007	no a me piace tutto guarda devo dire
 BOI028	
 BOR007	se penso che guarda io in dieci minuti sono dieci min~ cinque minuti sono in piazza maggiore
 BOI028	mhmh
@@ -1519,7 +1519,7 @@ BOR007	sì
 BOI028	mhmh
 BOR007	ho quattro teatri
 BOI028	
-BOR007	attorno  cinema
+BOR007	attorno cinema
 BOI028	sì
 BOR007	tutto a piedi dieci minuti un quarto d'ora
 BOI028	sì sì
@@ -1558,7 +1558,7 @@ BOI028	se vuoi mi infilo io
 BOI028	dillo tu
 BOI027	
 BOI027	i~ inizio io perché ehm
-BOR007	prima  mi hai chiesto la tipolog~ dov'è che vivo
+BOR007	prima mi hai chiesto la tipolog~ dov'è che vivo
 BOI027	mhmh
 BOI027	e in realtà io e ti ho detto ap~ a~ se vado verso sinistra c'è casalecchio a destra c'è il centro
 BOI027	e la cosa che mi attrae
@@ -1576,7 +1576,7 @@ BOI028	sì
 BOI027	sì
 BOI028	però il treno che poi rientra in quest~ cioè è stato
 BOI027	c'è il treno anche a al pilastro eh
-BOI028	il treno anche al pilastro che però non so  se l'han~ se è entrato in quel p~
+BOI028	il treno anche al pilastro che però non so se l'han~ se è entrato in quel p~
 BOI028	non hai
 BOI027	no no non è entrato
 BOI027	non
@@ -1639,7 +1639,7 @@ BOI027
 BOI027	come un
 BOR007	come un vitello però
 BOI027	
-BOI027	però  xxxmente è stato bello ovviamente poi
+BOI027	però xxxmente è stato bello ovviamente poi
 BOR007	il tempo di tornare cioè di andare via per l'esta~ per l'estate vera e propria
 BOI027	sì
 BOR007	quindi per il mare tornare e dire vabbè domani lo faccio domani lo faccio ancora non l'ho mai fatto lo rifarò
@@ -1653,7 +1653,7 @@ BOI027	come la come il pilastro
 BOI028	sì sì
 BOI028	eh
 BOI028	vabbè
-BOI027	no  questa è carino
+BOI027	no questa è carino
 BOI028	eh
 BOI028	cioè è è bello
 BOI028	questa cosa questa differenza che dicevi tu no
@@ -1675,7 +1675,7 @@ BOI028	mhmh
 BOR007	c'è la nebbia è suggestièvo è
 BOI028	sì
 BOI028	per cui davo per scontato
-BOI028	e un giorno  eh
+BOI028	e un giorno eh
 BOI028	due anni fa tre anni fa
 BOI028	è venuto un professore ospite
 BOR007	di lo invitò mio marito canadese
@@ -1689,7 +1689,7 @@ BOI028	john comodi i po~
 BOI028	s~ ma fa sì belli
 BOI028	ma soffoca~ perché
 BOI028	perché ho bisogno di vedere il cielo
-BOI028	fa  il cielo non si vede
+BOI028	fa il cielo non si vede
 BOI028	è vero
 BOI028	è vero
 BOR007	tu quando vai sotto il portico il cielo non lo vedi
@@ -1735,7 +1735,7 @@ BOR007	beh sì alcuni par~ alcune parti sì
 BOI028	mh
 BOI028	alcune parti sì
 BOI028	e
-BOR007	poi  poi certi p~ certi pezzi spettano  a chi  ci abita
+BOR007	poi poi certi p~ certi pezzi spettano a chi ci abita
 BOI028	sì
 BOI028	perché
 BOR007	e p~ p~ una volta era quel~ era così
@@ -1811,7 +1811,7 @@ BOR007	sì
 BOI028	sì
 BOR007	sì
 BOI027	sì sì
-BOI027	quindi  cioè
+BOI027	quindi cioè
 BOR007	garantire una maggiore cura ad una cosa che tu dicevi prima secondo voi stanno bene stanno male hanno bisogno di quel~
 BOI027	sì
 BOI027	per me ci sono alcuni alcuni luoghi
@@ -1835,7 +1835,7 @@ BOI027	no beh ma infatti
 BOI028	quindi ben venga l'unesco ma proprio ben vega l'unesco
 BOR007	certo
 BOI028	sì
-BOI028	però se tu ad esempio  nel centro e periferia
+BOI028	però se tu ad esempio nel centro e periferia
 BOI028	cioè una volta
 BOI028	ad esempio quand n~ negli anni sessanta
 BOI028	e negli anni settanta
@@ -1869,7 +1869,7 @@ BOI027	pulire dovete fare capito
 BOI027	ie~
 BOI028	infatti prima dell'unesco dovrebbe essere chi chi sfrutta quella posizione a mettere i quattrini
 BOI028	eh esatto
-BOI027	esatto dire  dovete dovete starci attenti dovete eh
+BOI027	esatto dire dovete dovete starci attenti dovete eh
 BOR007	no su quello
 BOI028	sì
 BOI028	perché sotto la galleria cavour

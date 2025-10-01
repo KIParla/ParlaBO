@@ -14,7 +14,7 @@ BOI050	quindi in che anno sei arrivata
 BOR011	eh era l'anno dell'euro cos'è il duemila
 BOI050	duemilauno forse
 BOI050	duemilauno allora duemilauno
-BOI050	quando l'euro  proprio la c~ la carta ha circolato
+BOI050	quando l'euro proprio la c~ la carta ha circolato
 BOR011	perché se no sono
 BOR011	forse duemiladue allora lo sai
 BOI050	primo gennaio duemiladue forse
@@ -23,19 +23,19 @@ BOR011	ah va bene allora duemiladue
 BOI050	non lo so
 BOR011	più o meno
 BOR011	eh
-BOI050	e in che qu~ in che quartiere sei andata a vivere quando  ti sei trasferita a bologna
+BOI050	e in che qu~ in che quartiere sei andata a vivere quando ti sei trasferita a bologna
 BOI050	ehm
 BOR011	quartiere di san donato appena fuori porta san donato
 BOI050	mh
 BOR011	quasi cirenaica
 BOI050	e come ti trovavi
 BOR011	bene
-BOI050	vivevi  in appartamento condiviso
-BOI050	sì con  una ragazza e un ragazzo i padroni di casa
+BOI050	vivevi in appartamento condiviso
+BOI050	sì con una ragazza e un ragazzo i padroni di casa
 BOR011	in una doppia dormivo
-BOI050	e se~  sei rimasta lì per tanto tempo
+BOI050	e se~ sei rimasta lì per tanto tempo
 BOR011	un anno e qualche mese
-BOI050	e la zona  in quel  quel periodo abbiamo detto duemila duemiladue
+BOI050	e la zona in quel quel periodo abbiamo detto duemila duemiladue
 BOR011	sì
 BOI050	com'era
 BOI050	la z~
@@ -61,7 +61,7 @@ BOR011	va bene tu no~ non la vivi parecchio quindi
 BOR011	che hai detto
 BOI050	per come la vivo io non noto molte differenze
 BOR011	no no no no
-BOI050	perché  lavori fuori perché
+BOI050	perché lavori fuori perché
 BOI050	no~ mhm
 BOI050	perché non mhm
 BOI050	
@@ -69,7 +69,7 @@ BOI050	perché uhm
 BOI050	in realtà quando sono arrivata magari ecco la cosa che poteva sembrar brutta e che ora non vivo più
 BOI050	è che frequentavo molto la zona dell'univ~ di san donato e la zona universitaria
 BOI050	okay
-BOI050	e quindi magari lì tra spacciatori un po' di degrado  lo vivevo okay
+BOI050	e quindi magari lì tra spacciatori un po' di degrado lo vivevo okay
 BOI050	ovviamente non lo subivo
 BOI050	eh
 BOI050	adesso vivendo un po' più lontano magari no~ sono più fuori da quella zona e
@@ -107,7 +107,7 @@ BOR011	poi ho subito trovato altro
 BOI050	ovvero
 BOI050	eh ho trovato in una gelateria
 BOR011	sempre in centro a bologna e son stata un anno e mezzo
-BOI050	tu lavoravi in gelateria anche  in sardegna vero
+BOI050	tu lavoravi in gelateria anche in sardegna vero
 BOI050	sì
 BOI050	sì
 BOR011	sì sì sì sì
@@ -119,7 +119,7 @@ BOI050	lì son stata~ ho fatto tutta la stagione quasi un anno
 BOI050	poi
 BOI050	qui a~ chiudono la~ a gennaio chiudono
 BOI050	chiudono per due mesi nel frattempo ho trovato nel settore tessile
-BOR011	e poi lì  che è il mio settore ho iniziato è stato il via per iniziare
+BOR011	e poi lì che è il mio settore ho iniziato è stato il via per iniziare
 BOR011	e tu sei venuta a bologna per questo
 BOI050	per trovare lavoro nel tuo settore
 BOR011	no è stato un caso
@@ -130,14 +130,14 @@ BOI050	non sapevo cosa fare poi
 BOI050	avendo fatto un corso in sardegna
 BOR011	senza saperlo mi è tornato utile
 BOI050	okay
-BOI050	e quindi ho colto la palla al balzo ho detto uh però  è bello questo lavoro
+BOI050	e quindi ho colto la palla al balzo ho detto uh però è bello questo lavoro
 BOI050	e quindi passo dopo passo ho cambiato varie aziende mi son formata e
 BOR011	e ho trovato la mia strada insomma
 BOI050	quindi bologna è stata un caso
 BOR011	no bologna l'ho scelta
 BOI050	okay
 BOR011	l~ bologna l'ho fortemente voluta
-BOI050	ma e qual e~ qual era  l'idea di bologna che avevi prima
+BOI050	ma e qual e~ qual era l'idea di bologna che avevi prima
 BOI050	ehm
 BOI050	perché mi ricordo quando ero giovane che andavo a scuola che mh
 BOI050	l'emilia romagn~ in genere era famosa perché era una regione ricca
@@ -151,7 +151,7 @@ BOI050	son scappata diciamo e
 BOR011	non ci ho pensato due volte insomma
 BOI050	e si è rivelata essere così no
 BOI050	sì sì
-BOI050	anche se molti  devo dire la verità tutti quelli che parlano che sono nati e cresciuti qui lo
+BOI050	anche se molti devo dire la verità tutti quelli che parlano che sono nati e cresciuti qui lo
 BOI050	dicono che pri~ i pri~ prima
 BOI050	bologna era una città
 BOI050	molto molto più bella
@@ -241,7 +241,7 @@ BOR011	è vero ci siamo persi che cantava
 BOI050	l'ho visto in televisione da
 BOI050	l'ho visto anch'io
 BOR011	tu lo sapevi che c'era in anticipo
-BOI050	no  sapevo che c'era la manifestazione ma non son riuscito ad andare ma gia~ gianni è stata una sorpresa
+BOI050	no sapevo che c'era la manifestazione ma non son riuscito ad andare ma gia~ gianni è stata una sorpresa
 BOI050	ah no non lo sa~
 BOI050	ah bene
 BOR011	cantava
@@ -264,7 +264,7 @@ BOR011	non lo sapevo
 BOI050	perché che è successo
 BOI050	a parte che dall'altra parte della città non ero abituata
 BOI050	e poi non stavo bene con la mia coinquilina la casa era bruttina una serie di eventi e ho detto no dai troviamoci altro
-BOI050	è una zona che proprio non mi piace vicino all'aeroporto  no~ non troppo eh però era mh non mi pi~ no no no no no
+BOI050	è una zona che proprio non mi piace vicino all'aeroporto no~ non troppo eh però era mh non mi pi~ no no no no no
 BOI050	poi da lì sono andata mh
 BOI050	a castenaso
 BOI050	un paesino
@@ -310,7 +310,7 @@ BOR011	in una scuola
 BOI050	che cos'è
 BOI050	eh qui le dade sono quelle
 BOI050	persone che nelle scuole o negli asili
-BOI050	curano i bambini nel senso gli danno da mangiare  li assistono se hanno problemi aiutano gli insegnanti
+BOI050	curano i bambini nel senso gli danno da mangiare li assistono se hanno problemi aiutano gli insegnanti
 BOI050	non proprio gli insegnanti gli educatori
 BOR011	come si chiamano così adesso
 BOI050	sì ne~ nelle scuole dell'infanzia sì
@@ -323,9 +323,9 @@ BOR011	no
 BOR011	ma non esiste la figura
 BOI050	o
 BOI050	no no esiste la figura
-BOR011	adesso non so nel contratto  non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
+BOR011	adesso non so nel contratto non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
 BOR011	
-BOI050	ma tu la vuoi frizzante forse  sì
+BOI050	ma tu la vuoi frizzante forse sì
 BOI050	sì grazie frizzante
 BOI050	e
 BOI050	ehm
@@ -334,54 +334,54 @@ BOR011	e oltre a questo
 BOI050	perché secondo me è bolognese questo dopo
 BOR011	ah
 BOR011	controllerò hai
-BOI050	ehm  assorbito qualche
+BOI050	ehm assorbito qualche
 BOI050	mh
 BOR011	ah qualche termine ah a proposito di cose divertenti allora
 BOR011	qualcos'altro de~ del dialetto
 BOI050	
 BOI050	i primi tempi a bologna devi capire che hanno certi
-BOI050	ehm per esempio quando lavoravo in gelateria  mh dovevo consegnare per esempio la vaschetta del gelato e io chiedevo alla mia titolare che mi insegnava un paio di cose
+BOI050	ehm per esempio quando lavoravo in gelateria mh dovevo consegnare per esempio la vaschetta del gelato e io chiedevo alla mia titolare che mi insegnava un paio di cose
 BOI050	eh sì lo incarti così poi gli dai la sportina e io eh la sportina qui è la busta il sacchettino di plastica o di carta o quel che è
 BOI050	e lei continuava a dire sportina e io
-BOR011	ma  sportina e non gli do il sacchetto e sì gli dai la sportina e sì ma il sacchetto non glielo do  e conti~ abbiamo continuato così per un po'
+BOR011	ma sportina e non gli do il sacchetto e sì gli dai la sportina e sì ma il sacchetto non glielo do e conti~ abbiamo continuato così per un po'
 BOI050	
 BOI050	e questo è per la sportina poi per la minestra
-BOR011	sai che la minestra  eh da noi è il brodo
+BOR011	sai che la minestra eh da noi è il brodo
 BOI050	sì
 BOI050	la minestrina okay
-BOR011	la minestra  per loro è il primo il primo piatto quello che in casa nostra è la pastasciutta mh
+BOR011	la minestra per loro è il primo il primo piatto quello che in casa nostra è la pastasciutta mh
 BOI050	mh
 BOI050	e io sempre in gelateria dalla mia ormai era diventata un'amica
 BOI050	eh cos'hai mangiato oggi a pranzo e io
-BOR011	cotoletta  e lei ah io ho mangiato la minestra un giorno e il giorno dopo e tu cos'hai mangia~ ah un po' di verdure e tu e io la minestra allora un giorno le ho detto ma tutti i giorni minestra mangi
+BOR011	cotoletta e lei ah io ho mangiato la minestra un giorno e il giorno dopo e tu cos'hai mangia~ ah un po' di verdure e tu e io la minestra allora un giorno le ho detto ma tutti i giorni minestra mangi
 BOI050	
-BOI050	e lei mi fa sì  sì
+BOI050	e lei mi fa sì sì
 BOI050	e io ma come tutti i giorni il brodino ma che brodino e così ho scoperto che la minestra è il primo piatto qua
 BOI050	che possono essere tagliatelle o o i maccheroncini
 BOR011	xx
-BOI050	ma  non ha alcun senso
+BOI050	ma non ha alcun senso
 BOI050	non ha senso no però è così
 BOR011	vabbè come qui che da~ è corretto qui la lasagna è la lasagna a casa nostra la lasagna è la pasta al forno
 BOR011	okay
-BOI050	ma io non so in realtà se sia una cosa nostra di casa  o se sia una cosa sarda
+BOI050	ma io non so in realtà se sia una cosa nostra di casa o se sia una cosa sarda
 BOR011	la la la~
 BOI050	la pasta al forno come lasagna
-BOI050	la pasta al forno un giorno ecco ti dico un aneddoto che ci son rimasta veramente malissimo con le mie coinquiline  in zona mazzini quando son stata lì
+BOI050	la pasta al forno un giorno ecco ti dico un aneddoto che ci son rimasta veramente malissimo con le mie coinquiline in zona mazzini quando son stata lì
 BOI050	un giorno fanno ah domani facciamo la
-BOI050	la pasta al forno io felice  perché mi aspettavo le lasagne
+BOI050	la pasta al forno io felice perché mi aspettavo le lasagne
 BOI050	e invece no perché nel~ al sud in certe regioni tipo in calabria in puglia la pasta al forno sono i maccheroni cotti
 BOR011	e poi messi ulteriormente nel forno
 BOI050	
 BOI050	io mi son seduta una domenica aspettando le lasagne quelle che in casa mia sono è chiamata pasta al forno e invece erano
 BOI050	maccheroncini
-BOR011	buoni ma non  come le lasagne
+BOR011	buoni ma non come le lasagne
 BOI050	no infatti
 BOR011	e questi sono è come il tiro un altro mo~ lo sai il tiro cos'è
 BOI050	il tiro sì
-BOI050	che ha tutto un significato  legato ai cavalli ma non me lo ricordo
+BOI050	che ha tutto un significato legato ai cavalli ma non me lo ricordo
 BOR011	forse un dove sta~ non lo so un qualcosa che mh
 BOI050	come si dice in italiano
-BOR011	eh aprimi la porta  da~
+BOR011	eh aprimi la porta da~
 BOI050	
 BOI050	in effetti non lo più come si può dire in italia~ mi apri la porta che ne so a casa suonano il cancello sono io
 BOI050	e ti apro
@@ -389,7 +389,7 @@ BOI050	è proprio un'usanza che c'è qua mi dai il tiro
 BOR011	e anche nei campanelli c'è scritto tiro
 BOI050	sì infatti anche a casa mia
 BOI050	hai presente
-BOR011	e invece a casa no~ cioè  da noi in sardegna c'è semplice si capisce
+BOR011	e invece a casa no~ cioè da noi in sardegna c'è semplice si capisce
 BOI050	sì
 BOR011	c'é un pulsante servirà a qualcosa
 BOI050	
@@ -399,7 +399,7 @@ BOI050	qui il tiro sì
 BOI050	credo sia qualcosa legato ai cavalli un tempo magari mh
 BOI050	non so
 BOR011	potremmo andare a cercare dopo il significato
-BOI050	sì  ma ti ricordi quando stavo qui
+BOI050	sì ma ti ricordi quando stavo qui
 BOR011	eh
 BOI050	e io non sapevo cosa volesse dire tiro e io son rimasto chiuso qui dentro
 BOR011	davvero
@@ -415,21 +415,21 @@ BOR011	son rimasto chiuso dentro
 BOR011	e ho aspettato che qualcun altro entrasse
 BOI050	così ha aperto la porta e io son sgattaiolato fuori
 BOR011	è vero me l'hai ricordato
-BOI050	ma perché  a casa mia
+BOI050	ma perché a casa mia
 BOR011	
-BOR011	il camp~ il il tiro  sta affianco alla porta invece qui sta
+BOR011	il camp~ il il tiro sta affianco alla porta invece qui sta
 BOI050	tu~ da tutt'altra parte
-BOR011	un po' prima  sì
+BOR011	un po' prima sì
 BOI050	cioè ti devi ricordare prima di
 BOR011	ah è vero
 BOI050	quando stai arrivando alla porta
 BOI050	in effetti a volte succede che quando sei da qualcuno che non~ stai andando via e non conosci la casa devi stare lì un attimo a cercare
 BOI050	dove l'hanno messo il tiro questa volta
 BOR011	sì è vero
-BOR011	ma è cioè  non so quanto ci sia rimasto forse
+BOR011	ma è cioè non so quanto ci sia rimasto forse
 BOI050	fortunatamente una decina di minuti
 BOR011	non avevi la chiavi ancora
-BOI050	no  no ma perché era la prima prima volta che sono stato solo due giorni
+BOI050	no no ma perché era la prima prima volta che sono stato solo due giorni
 BOI050	ah
 BOR011	mamma mia
 BOI050	e quindi avevo anche da fare perché ti ricordi ho dato quell'esame così meno male che mi sono svegliato molto presto
@@ -501,7 +501,7 @@ BOI050	madonna quella è veramente
 BOR011	p~ un po' bruttina però
 BOI050	sì squallida da morire
 BOI050	però
-BOI050	sì sì però vabbè  come tante magari in altre lingue
+BOI050	sì sì però vabbè come tante magari in altre lingue
 BOI050	l'umarell
 BOR011	sai chi è l'umarell
 BOI050	ma quello
@@ -513,9 +513,9 @@ BOI050	ah
 BOI050	c'è un ristorante che si chiama così e proprio in dialetto si dice l'umarell
 BOR011	oppure ci sono gli umarell quelli che stanno dietro i cantieri gli omini vecchietti che
 BOI050	ah okay okay okay
-BOI050	che stanno lì a curio~  che curiosare
+BOI050	che stanno lì a curio~ che curiosare
 BOR011	che io non so se esistono nelle altre città
-BOI050	sì  sì è una cosa nazionale secondo me questa che tengono le mani dietro la schiena
+BOI050	sì sì è una cosa nazionale secondo me questa che tengono le mani dietro la schiena
 BOI050	sì ah okay
 BOI050	ah è nazionale
 BOR011	sì sì che stanno lì a curiosare l'umarell
@@ -549,7 +549,7 @@ BOI050	cioè a te piace molto il centro
 BOI050	a me piace molto perché
 BOI050	è tranquillo ci vado ci passeggio
 BOI050	ogni tanto vado anche per viuzze che non conosco
-BOI050	e magari ho scoperto dei degli angolini e dicevo wow e questa sta qui  cioè com'è possibile
+BOI050	e magari ho scoperto dei degli angolini e dicevo wow e questa sta qui cioè com'è possibile
 BOI050	perché comunque c'è tanto da vedere ma in generale mi piace proprio tutta la città
 BOI050	anche non so
 BOI050	mh
@@ -562,7 +562,7 @@ BOR011	è stato un caso
 BOI050	è bello bello intenso
 BOI050	è bella lunga vero sì
 BOI050	no ma è stato un caso anche là perché stavo
-BOI050	ho detto  io da qui vado in centro a piedi mezz'oretta e arrivo no
+BOI050	ho detto io da qui vado in centro a piedi mezz'oretta e arrivo no
 BOI050	mi sono~ ho detto vabbè faccio un giro
 BOR011	poi son salita in quella terrazza ti ricordi quella terrazza con l'ascensore dietro la chiesa quella che mi troppo simpatica
 BOR011	sì
@@ -623,11 +623,11 @@ BOI050	quando son tornata indietro a un certo punto stavo~ non avevo un euro da 
 BOI050	stavo il s~ c'era il sole e stavo m~ morendo di sete
 BOI050	e mi sono arresa perché io in teoria volevo torna~ ho detto ma quasi quasi torno a casa a piedi no però non ce l'ho fatta da~
 BOI050	avevo il~ per fortuna l'abbonamento dell'autobus e ho preso l'autobus e son tornata a casa
-BOR011	perché  cioè stavo morendo di sete
+BOR011	perché cioè stavo morendo di sete
 BOR011	eh immagino
 BOI050	e ti ricordi magari la la prima volta che ci sei andata
 BOI050	uhm
-BOR011	no credo di no  proprio la prima volta a san luca non me la ricordo
+BOR011	no credo di no proprio la prima volta a san luca non me la ricordo
 BOI050	non ti è rimasta così impressa
 BOI050	no
 BOR011	non tanto da dire wow la prima volt~ come altre cose
@@ -636,9 +636,9 @@ BOI050	però non no
 BOR011	sarà che ci son stata tante di quelle volte che ormai ho confuso
 BOI050	okay
 BOI050	sicuramente non è una passeggiata
-BOR011	cioè nel senso  la sua fatica ce l'ha
+BOR011	cioè nel senso la sua fatica ce l'ha
 BOI050	è una pa~
-BOR011	cioè sì  è faticoso quando arrivi su
+BOR011	cioè sì è faticoso quando arrivi su
 BOI050	
 BOR011	però è bello merita
 BOI050	quindi ci dobbiamo andare
@@ -652,7 +652,7 @@ BOI050	quel modo di
 BOI050	mh
 BOI050	qualche fedele che~ che dic~ vorrebbe un qualcosa
 BOI050	e se lo ottiene in teoria dice che se mh
-BOI050	madonnina se me lo fai ottenere pi pi pi  eh vado a san luca a piedi
+BOI050	madonnina se me lo fai ottenere pi pi pi eh vado a san luca a piedi
 BOI050	oppure se mi accade questo poi andrò a san luca a piedi
 BOR011	ma vai a san luca lo stesso a piedi cioè
 BOI050	
@@ -676,10 +676,10 @@ BOI050	non è faticosissimo chiaramente sono adesso non mi ricordo quanti scalin
 BOI050	eh ci sono~ poi man mano che sali diventa un po' più ripido
 BOI050	e chiaramente mh
 BOR011	sì fai fati~ se poi uno non non cammina tutti i giorni è chiaro che fa fatica
-BOI050	vero  vero
+BOI050	vero vero
 BOI050	considera invece che c'è gente che va tutti i giorni su e giù eh
 BOI050	eh è bella ripidina
-BOI050	però non tanto da dire  ecco per ottenere una concessione oh madonnina voglio questo cioè
+BOI050	però non tanto da dire ecco per ottenere una concessione oh madonnina voglio questo cioè
 BOI050	per avere un qualcosa
 BOI050	secondo me
 BOR011	se proprio la madonnina ti deve esaudire qualcosa devi faticare un po' di più che andare a san luca ecco
@@ -690,7 +690,7 @@ BOI050	eh cioè mh devi sudartela un po' di più è fattibile
 BOR011	non è faticoso
 BOI050	quindi possiamo dire che tu non l'hai mai fatto sto fioretto
 BOI050	no fioretto no ci sono sempre andata perché mi piace andare
-BOI050	se v~ se abitassi da quella parte della città forse farei come  tanti
+BOI050	se v~ se abitassi da quella parte della città forse farei come tanti
 BOR011	che lo usano come palestra vanno magari tutte le sere o perlomeno tutte le domeniche o tutti i sabati io al massimo vado al parco qui
 BOR011	mh
 BOI050	ma ci andrei anch'io lo sai probabilmente tipo io adesso vado o ai giardini margherita
@@ -722,7 +722,7 @@ BOI050	è fat~ quello è veramente fattibile lì
 BOR011	ah
 BOI050	vai ai giardini margherita quanto sarà un quarto d'ora una passeggiata
 BOI050	sì
-BOR011	sì  sì
+BOR011	sì sì
 BOI050	e sei e sei arrivato
 BOI050	sì sì sì
 BOI050	beh comunque sì
@@ -730,13 +730,13 @@ BOR011	vuoi un'esperienza simpatica
 BOI050	mh
 BOR011	un'esperienza simpatica
 BOI050	mhmh
-BOR011	eh quando sono ho scoperto di aver le vertigini  sulla torre degli asinelli
+BOR011	eh quando sono ho scoperto di aver le vertigini sulla torre degli asinelli
 BOI050	
 BOR011	cioè
-BOI050	questa non me l'hai mai raccontata ancora  no
+BOI050	questa non me l'hai mai raccontata ancora no
 BOI050	non te l'ho mai raccontata
 BOI050	allora a parte che è bellissimo
-BOI050	ero al prim~ il primissimo anno a bologna  appunto perché lavoravo part-time potevo permettermi di girare e studiarmi un po' la città
+BOI050	ero al prim~ il primissimo anno a bologna appunto perché lavoravo part-time potevo permettermi di girare e studiarmi un po' la città
 BOR011	a parte che eh all'epoca non c'erano i telefonini con
 BOI050	all'epoca
 BOI050	con la teleca~ eh sì però è così sembra ieri però è così
@@ -763,7 +763,7 @@ BOI050	sì sì sì
 BOI050	finché uno studente non si laurea non può andar su
 BOI050	ehm
 BOI050	e niente t~ io non lo sapevo mh della scalinata ovviamente vabbè sono andata e su e sali e sali e sali a un certo punto questo vuoto diventava sempre troppo importante e io son salita col cuore
-BOI050	come hai visto  dietro l'ascensore
+BOI050	come hai visto dietro l'ascensore
 BOR011	ugua~ peggio
 BOI050	lì era è stata è stata un po' tosta per te
 BOR011	te lo ricordi
@@ -783,7 +783,7 @@ BOI050	e io son scesa attaccata
 BOI050	alla parete e ne~ e nei piani negli ultimi
 BOI050	cioè quindi nei piani più alti mentre scendevo non mi vergogno a dirlo
 BOR011	sono scesa seduta col sedere scendevo ero
-BOI050	quali  gli ultimi piani
+BOI050	quali gli ultimi piani
 BOR011	no gli ultimi in cima
 BOI050	ah quelli più alti okay
 BOR011	sì
@@ -806,12 +806,12 @@ BOR011	esa~ lì sì
 BOI050	se ti mettono qualcosa sotto sai che ti prende e sai che
 BOI050	certo
 BOI050	eh
-BOI050	io ho avuto io ho avuto paura mentre salivo su  poi cerchi di combatterla perché vai con
+BOI050	io ho avuto io ho avuto paura mentre salivo su poi cerchi di combatterla perché vai con
 BOR011	con chi conosci è un'esperie~ poi una volta che sei su
 BOI050	tu con chi sei andata
 BOI050	con i miei cugini
 BOI050	tanti cugini
-BOR011	la prima volta da sola  quando ho passeggiato e sono andata poi a san luca
+BOR011	la prima volta da sola quando ho passeggiato e sono andata poi a san luca
 BOR011	okay ah
 BOI050	okay
 BOR011	la prima volta
@@ -845,7 +845,7 @@ BOR011	sei razionale
 BOI050	cioè se sono sul sull'orlo di un precipizio dico okay mi sposto perché cioè è alto e mi fa paura
 BOR011	infatti non posso vedere quando le persone si affacciano troppo
 BOI050	se c'è una s~ che ne so in balconi ste cose che c'è la ringhiera
-BOR011	okay  non
+BOR011	okay non
 BOI050	non non mi interessa
 BOR011	sei molto razionale
 BOR011	però ad~
@@ -888,8 +888,8 @@ BOI050	ehm altri detti
 BOR011	no non mi rico~ non mi pare
 BOI050	mh
 BOR011	no no
-BOR011	mi sta venendo  in mente adesso una cosa visto che hai citato san luca se adesso dovesse venire qualcuno
-BOI050	che vuole vedere la città mettiamo che ha  tipo due tre giorni
+BOR011	mi sta venendo in mente adesso una cosa visto che hai citato san luca se adesso dovesse venire qualcuno
+BOI050	che vuole vedere la città mettiamo che ha tipo due tre giorni
 BOR011	mh
 BOI050	e tu dovessi fare da guida
 BOR011	da guida
@@ -963,7 +963,7 @@ BOI050	sì
 BOR011	che poi strada maggio~ proprio dove ci sono le frecce ti infili in quella specie di corte e sbuchi proprio
 BOR011	mhmh
 BOI050	ah oddio lì lo vedo sempre che sembra un bel posto ma non ci son mai entrato lì
-BOR011	no e se tu entri scoprirai che attraversandolo  sbucherai poi in piazza santo stefano
+BOR011	no e se tu entri scoprirai che attraversandolo sbucherai poi in piazza santo stefano
 BOR011	
 BOI050	okay
 BOR011	che è una zo~ è una piazza che a me piace
@@ -971,17 +971,17 @@ BOI050	pensavo fosse un posto privato
 BOI050	no ci sono appartamenti privati uffici però ci sono anche ristoranti barettini molto carini è un
 BOI050	penso che sia un po'
 BOI050	non so neanche tanto costoso dai qual~
-BOR011	però  è una bella sicuramente è una zona residenziale non certo
+BOR011	però è una bella sicuramente è una zona residenziale non certo
 BOI050	mh
-BOR011	stalingrado o  san donato o
+BOR011	stalingrado o san donato o
 BOI050	okay
 BOI050	pilastro
 BOI050	beh poi dove potremmo andare
 BOI050	ehm
 BOR011	vabbè il centro l'abbiam gira~ ah beh il canale ovviamente la finestrella
 BOI050	ah sì
-BOR011	che qualcuno  che qualcuno adesso oddio non mi ricordo chi
-BOI050	c'è sempre una coda  assurda
+BOR011	che qualcuno che qualcuno adesso oddio non mi ricordo chi
+BOI050	c'è sempre una coda assurda
 BOI050	ah una mia amica che è qui da mh da da vent'anni quanto me più o meno
 BOI050	no lei è arrivata un anno dopo di me
 BOI050	mi ha detto che non l'aveva mai vista
@@ -1028,7 +1028,7 @@ BOI050	stesa a prendere il sole
 BOR011	molto belli i giardini margherita
 BOR011	quella è una cosa
 BOR011	che mi ha
-BOI050	colpito abbastanza perché  vivendo al mare ovviamente vedere le persone che prendono il sole al parco
+BOI050	colpito abbastanza perché vivendo al mare ovviamente vedere le persone che prendono il sole al parco
 BOI050	i giardini
 BOI050	ah eh beh
 BOR011	eh l'unica l'unica alternativa che c'è qua è questa
@@ -1077,7 +1077,7 @@ BOR011	i colli bolognesi famosi
 BOR011	e ho
 BOR011	ah non c'entra niente
 BOR011	però hai citato casalecchio e io mi so~
-BOR011	ho visto che  a ozzano
+BOR011	ho visto che a ozzano
 BOR011	c'è
 BOI050	oz~ ozzano dell'emilia
 BOI050	ozzano
@@ -1130,7 +1130,7 @@ BOI050	no è proprio lo gnu mi sa
 BOI050	sai quell'animale un po'
 BOR011	strano vabbè sicuramente no~ non fa parte
 BOI050	
-BOR011	degli animali che abbiamo in europa diciamo  ed è è carino sì
+BOR011	degli animali che abbiamo in europa diciamo ed è è carino sì
 BOI050	sì
 BOI050	poi ci sono altri animali insomma più tradizionali
 BOI050	e i bambini possono giocare è carino per i bambini perché c'è proprio tutta la fattoria hanno costruito un trenino
@@ -1177,7 +1177,7 @@ BOI050	o li hai visti sempre così
 BOI050	no bene o male sempre così
 BOI050	i primi anni ti ricor~ mi ricordo~ guarda
 BOI050	io ero scioccata perché non ero abituata ovviamente
-BOI050	per i primi anni  vivendo e lavorando in centro passavo sempre per via zamboni
+BOI050	per i primi anni vivendo e lavorando in centro passavo sempre per via zamboni
 BOI050	e c'erano gli spacciatori che ov~ comunque ti vendevano qualcunque co~ a te non ti è mai capitato
 BOR011	mi vendevano fumo biciclette
 BOI050	
@@ -1188,7 +1188,7 @@ BOI050	un giorno uno mi ha fatto una lista di di pasticche di~ tut~ no no no
 BOR011	vuoi una bici nuova e ti giravano intorn~ davvero eh
 BOI050	
 BOR011	non ti è mai capitato con le bici
-BOR011	con le bici no mi è capitato  solo con fumo così
+BOR011	con le bici no mi è capitato solo con fumo così
 BOI050	quando son venuto a maggio proprio la prima volta per un giorno solo
 BOR011	dai
 BOI050	poi mai più
@@ -1197,7 +1197,7 @@ BOI050	però
 BOI050	ci sono altre zone tipo la piazzola
 BOR011	cioè sai dov'é piazza otto agosto
 BOI050	sì
-BOI050	lì ci sono delle persone che si capisce che  che se vai a chiedere ti danno qualcosa
+BOI050	lì ci sono delle persone che si capisce che che se vai a chiedere ti danno qualcosa
 BOI050	diciamo che
 BOI050	non te lo vengono più ad~ a offrire ma sei tu che sai dove andare
 BOI050	però mi ricordo che con le biciclette ti giravano intorno con la bici per fartela vedere
@@ -1219,7 +1219,7 @@ BOI050	mi auguro siccome c'é un po' più di consapevolezza verso l'ambiente la 
 BOI050	quindi spero che ci~ insomma
 BOI050	abbiano un po' di attenzione magari di non buttare la cartaccia la cicca le cose ma
 BOR011	la città non lo so mhmh da quel punta di vista davvero non lo so come la vivono
-BOI050	perché se ne sente parecchio adesso soprattutto anche con le forze dell'ordine son sempre sempre lì abbastanza  a~ a~
+BOI050	perché se ne sente parecchio adesso soprattutto anche con le forze dell'ordine son sempre sempre lì abbastanza a~ a~
 BOI050	sì
 BOR011	aguerriti
 BOI050	a reprimere sì
@@ -1254,7 +1254,7 @@ BOI050	ah mi fa piace~ mi fa piacere
 BOR011	no per mia esperienza no
 BOR011	e invece
 BOR011	mhmh
-BOR011	il tempo libero  come lo passavi tu
+BOR011	il tempo libero come lo passavi tu
 BOI050	sia come lo passavi prima che come lo passi adesso magari a bologna
 BOI050	ah beh prima ero sicuramente molto vabbé adesso si cambia ovviamente crescendo
 BOR011	quindi magari adesso si ha più voglia di di stare in casa i primi anni praticamente non ci stavo mai
@@ -1269,7 +1269,7 @@ BOI050
 BOR011	ehm in centro in via zamboni son~ c'é la scuola british school
 BOI050	mh
 BOI050	non mi è piaciuta
-BOI050	eh  ehm
+BOI050	eh ehm
 BOR011	sì cio~ uh~ uhm allora da giovane si ha molte più energie quindi potevi stare in giro divertirti e il mattino andare fresco a lavorare adesso
 BOI050	mh
 BOR011	personalmente preferisco uscire di più il weekend
@@ -1318,7 +1318,7 @@ BOI050	mh
 BOI050	lavoravo il weekend il venerdì o il sabato tornavo subito a casa
 BOI050	doccina con le amiche a ballare
 BOI050	adesso non potrei più farlo
-BOI050	si chiamava giostrà  era bellissimo che bello
+BOI050	si chiamava giostrà era bellissimo che bello
 BOI050	ed era questo posto dove c'erano due sale
 BOI050	in una sala c'erano i comici tipo zelig facevano un po' di cabaret
 BOI050	e poi c'era la parte con un concerto una piccola arena
@@ -1366,7 +1366,7 @@ BOI050	molto molto bello e infatti è da tanto che non vado potremmo tornare
 BOR011	cioé ci andremo insieme insomma
 BOI050	sì sì
 BOR011	bello
-BOI050	e invece  uhm durante le vacanze
+BOI050	e invece uhm durante le vacanze
 BOR011	uhm
 BOI050	diciamo estive maggio il natale le feste cosa cosa facevi
 BOI050	ah beh tornavo a casa
@@ -1394,7 +1394,7 @@ BOI050	sì
 BOR011	cioé non è che poi adesso le mie ferie sono un po' cambiate all'e~ uhm anni fa ad agosto avevo tutto un mese
 BOI050	uhm
 BOI050	eh e mi ricordo che mi lamentavo che era troppo
-BOR011	uhm troppo  un mese a casa era faticoso tre settimane è l'ideale
+BOR011	uhm troppo un mese a casa era faticoso tre settimane è l'ideale
 BOI050	
 BOI050	adesso vorrei averlo il mese di fila perché potrei fare due settimane in sardegna e due settimane dove voglio io
 BOI050	eh però adesso non è così ho solo due settimane più una più una insomma frastagliate
@@ -1406,7 +1406,7 @@ BOI050	quindi prima di venire qui
 BOI050	pr~
 BOI050	sì mhmh poco prima di venire qui
 BOR011	mentre ero qui ho fatto un weekend folle a a londra che siam partite
-BOI050	ma me l'hai raccontato  no sentiamola questa però
+BOI050	ma me l'hai raccontato no sentiamola questa però
 BOR011	la sentiamo beh allora c'era una mia coinquilina che era partita per un mese di studio
 BOI050	sì sì
 BOI050	eh e con l'altra mia coinquilina abbiamo pensato un weekend perché non andiamo a trovarla
@@ -1415,7 +1415,7 @@ BOI050	quindi siamo partite il venerdì notte
 BOI050	eh dopo il lavoro
 BOI050	siam partite con uhm dal lavoro direttamente in stazione abbiam preso il trenino per forlì
 BOI050	per prendere l'aeropo~ la~ l'aereo
-BOR011	della ryanair  uh per sten sten non lo so~ stan
+BOR011	della ryanair uh per sten sten non lo so~ stan
 BOR011	standard
 BOI050	no oddio
 BOR011	comunque non è il principale aeroporto di londra
@@ -1424,7 +1424,7 @@ BOR011	stentet qualcosa del genere non me lo ricordo
 BOI050	non mi ricordo
 BOI050	eh l'aereo da forlì era in ritardo è partito all'ultimissimo momento
 BOI050	quindi siamo partiti tipo a mezzanotte da livo~ da forlì
-BOI050	siamo arrivate tipo all~ tardissimo  in questa cittadina
+BOI050	siamo arrivate tipo all~ tardissimo in questa cittadina
 BOI050	da lì abbiamo abbiamo preso un pulman
 BOR011	siamo arrivati a victoria station tipo alle quattro di notte
 BOI050	
@@ -1442,7 +1442,7 @@ BOI050	è stato bellissimo
 BOI050	e comunque abbiamo girato due tre quartierini importanti soliti che si girano
 BOR011	eh vabbè posso dire di aver visto londra insomma
 BOI050	quand'era questo
-BOR011	ah  secondo me dieci ann~ no più di dieci anni fa almeno tredici dai esagerando
+BOR011	ah secondo me dieci ann~ no più di dieci anni fa almeno tredici dai esagerando
 BOI050	duemilanove
 BOI050	sì
 BOI050	sì
@@ -1471,10 +1471,10 @@ BOI050	vero ma le fa~ le vedi a scuola poi cioè ti portano in gita
 BOR011	no ma poi ci sta in sardegna hai solo quello
 BOI050	mh
 BOI050	fai presto a girare
-BOR011	no però in realtà in sardegna solo  solo mare
+BOR011	no però in realtà in sardegna solo solo mare
 BOR011	eh invece poi magari chiudiamo
 BOR011	ehm
-BOR011	durante la  la il primo lockdown
+BOR011	durante la la il primo lockdown
 BOR011	che tu sei stata qui e io non c'ero
 BOI050	come come è stato
 BOI050	tu eri in sardegna hai fatto bene
@@ -1517,13 +1517,13 @@ BOR011	deserta wow
 BOR011	molte per~ per molte persone sarebbe stato angosciante forse
 BOI050	però anche secondo me sarebbe
 BOI050	dici
-BOR011	beh vissuta co~ eh sì secondo me  mh~ allora adesso che ne siamo usciti sicuramente bello
+BOR011	beh vissuta co~ eh sì secondo me mh~ allora adesso che ne siamo usciti sicuramente bello
 BOI050	bello
 BOI050	magari vivendolo sul momento ti metteva tristezza vedere la strad~ le strade vuote
 BOI050	a metteva a te no
 BOR011	ah no tu eri però tu eri giù quindi difficile
 BOR011	mh
-BOI050	xxx le strade sono sempre vuote quindi  non mi ha fatto tanta differenza
+BOI050	xxx le strade sono sempre vuote quindi non mi ha fatto tanta differenza
 BOR011	no devo dire che mi metteva tristezza uh quando scendevi o comonque uscivi inevitabilmente a far la spesa
 BOI050	mhmh
 BOI050	era l'unica occasione che potevi avere e chiaramente uhm
@@ -1578,7 +1578,7 @@ BOI050	lei ade~
 BOR011	andrai a fare la spesa con la sportina
 BOI050	
 BOI050	butterai il rusco
-BOR011	e suo~ e chie~  e chiederai il tiro al tuo coinquilino
+BOR011	e suo~ e chie~ e chiederai il tiro al tuo coinquilino
 BOI050	e non andrò uhm in diagonale in piazza maggiore
 BOR011	non andare in diagonale
 BOI050	
@@ -1600,10 +1600,10 @@ BOI050	uhm
 BOI050	è molto umida eh stai su queste uhm come si chiamano sì canoe
 BOR011	non dico che sembrano fogne però
 BOI050	
-BOR011	diciamo che non è però  a chi può piacere può farla come esperienza
+BOR011	diciamo che non è però a chi può piacere può farla come esperienza
 BOI050	bene lo terrò a mente
 BOI050	per me no
-BOR011	uh  va bene è stato un piacere
+BOR011	uh va bene è stato un piacere
 BOI050	un saluto
 BOR011	grazie alla
 BOR011	

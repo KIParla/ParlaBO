@@ -1974,7 +1974,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 202-1	BOR010	202	nuovo	nuovo	linguistic	none	_	End=832.67	_	_	_	_
 203-0	BOR010	203	tra	tra	linguistic	none	_	Begin=833.43	_	_	_	_
 203-1	BOR010	203	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-203-2	BOR010	203	<altro>	altro	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+203-2	BOR010	203	<altro>	altro	linguistic	none	_	_	_	Slow=0-5	_	_
 203-3	BOR010	203	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 203-4	BOR010	203	a	a	linguistic	none	_	_	_	_	_	_
 203-5	BOR010	203	questo	questo	linguistic	none	_	_	_	_	_	_

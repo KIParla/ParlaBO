@@ -6617,10 +6617,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 959-0	BOI101	959	boh	boh	linguistic	none	_	Begin=2189.033	_	_	_	_
 959-1	BOI101	959	in	in	linguistic	none	_	_	_	_	_	_
 959-2	BOI101	959	realtà:,	realtà	linguistic	none	Intonation=WeaklyRising	End=2190.223	5x1	_	_	_
-960-0	BOI101	960	<posto	posto	linguistic	none	_	Begin=2190.901	_	Slow=0-5(0)	_	_
-960-1	BOI101	960	preferito>,	preferito	linguistic	none	Intonation=WeaklyRising	End=2192.875	_	Slow=0-9(0)	_	_
-961-0	BOI101	961	<a	a	linguistic	none	_	Begin=2193.591	_	Slow=0-1(0)	_	_
-961-1	BOI101	961	bologna>,	bologna	linguistic	none	Intonation=WeaklyRising	End=2194.765	_	Slow=0-7(0)	_	_
+960-0	BOI101	960	<posto	posto	linguistic	none	_	Begin=2190.901	_	Slow=0-5	_	_
+960-1	BOI101	960	preferito>,	preferito	linguistic	none	Intonation=WeaklyRising	End=2192.875	_	Slow=0-9	_	_
+961-0	BOI101	961	<a	a	linguistic	none	_	Begin=2193.591	_	Slow=0-1	_	_
+961-1	BOI101	961	bologna>,	bologna	linguistic	none	Intonation=WeaklyRising	End=2194.765	_	Slow=0-7	_	_
 962-0	BOI101	962	no:n	non	linguistic	none	_	Begin=2195.726|End=2196.265	1x1	_	_	_
 963-0	BOI101	963	cioè,	cioè	linguistic	none	Intonation=WeaklyRising	Begin=2196.955	_	_	_	_
 963-1	BOI101	963	non	non	linguistic	none	_	_	_	_	_	_

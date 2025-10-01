@@ -401,7 +401,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 63-1	BOI084	63	un	un	linguistic	none	_	_	_	_	_	_
 63-2	BOI084	63	po'	po'	linguistic	none	_	_	_	_	_	_
 63-3	BOI084	63	più	più	linguistic	none	_	_	_	_	_	_
-63-4	BOI084	63	<finte>	finte	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+63-4	BOI084	63	<finte>	finte	linguistic	none	_	_	_	Slow=0-5	_	_
 63-5	BOI084	63	un	un	linguistic	none	_	_	_	_	_	_
 63-6	BOI084	63	po'	po'	linguistic	none	_	_	_	_	_	_
 63-7	BOI084	63	più:	più	linguistic	none	_	End=153.588	2x1	_	_	_
@@ -798,8 +798,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 122-5	BOI084	122	siamo	siamo	linguistic	none	_	_	_	_	_	_
 122-6	BOI084	122	tanti	tanti	linguistic	none	_	_	_	_	_	_
 122-7	BOI084	122	ragazzi	ragazzi	linguistic	none	_	End=310.471	_	_	_	_
-123-0	BOR022	123	[<°okay°>]	okay	linguistic	none	Volume=Low	Begin=307.53|End=308.074	_	Slow=0-4(0)	_	0-4(18)
-124-0	BOR022	124	<°okay°>	okay	linguistic	none	Volume=Low	Begin=310.528|End=311.207	_	Slow=0-4(0)	_	_
+123-0	BOR022	123	[<°okay°>]	okay	linguistic	none	Volume=Low	Begin=307.53|End=308.074	_	Slow=0-4	_	0-4(18)
+124-0	BOR022	124	<°okay°>	okay	linguistic	none	Volume=Low	Begin=310.528|End=311.207	_	Slow=0-4	_	_
 125-0	BOI084	125	magari	magari	linguistic	none	_	Begin=311.511	_	_	_	_
 125-1	BOI084	125	vieni	vieni	linguistic	none	_	_	_	_	_	_
 125-2	BOI084	125	preso	preso	linguistic	none	_	_	_	_	_	_
@@ -1376,9 +1376,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 208-4	BOI084	208	[lavorativo]	lavorativo	linguistic	none	_	_	_	_	_	0-10(38)
 208-5	BOI084	208	cambia	cambia	linguistic	none	_	_	_	_	_	_
 208-6	BOI084	208	[tanto]	tanto	linguistic	none	_	End=511.012	_	_	_	0-5(39)
-209-0	BOI083	209	[<bene	bene	linguistic	none	_	Begin=509.373	_	Slow=0-4(0)	_	0-4(38)
-209-1	BOI083	209	o	o	linguistic	none	_	_	_	Slow=0-1(0)	_	0-1(38)
-209-2	BOI083	209	male>]	male	linguistic	none	_	End=510.326	_	Slow=0-4(0)	_	0-4(38)
+209-0	BOI083	209	[<bene	bene	linguistic	none	_	Begin=509.373	_	Slow=0-4	_	0-4(38)
+209-1	BOI083	209	o	o	linguistic	none	_	_	_	Slow=0-1	_	0-1(38)
+209-2	BOI083	209	male>]	male	linguistic	none	_	End=510.326	_	Slow=0-4	_	0-4(38)
 210-0	BOI083	210	[livello]	livello	linguistic	none	_	Begin=510.605	_	_	_	0-7(39)
 210-1	BOI083	210	lavorati:vo	lavorativo	linguistic	none	_	_	7x1	_	_	_
 210-2	BOI083	210	vabbè	vabbè	linguistic	none	_	_	_	_	_	_
@@ -1435,7 +1435,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 217-5	BOI083	217	almeno	almeno	linguistic	none	_	End=530.043	_	_	_	_
 218-0	BOI083	218	trovarti	trovarti	linguistic	none	_	Begin=530.921	_	_	_	_
 218-1	BOI083	218	[(già)	già	linguistic	none	_	_	_	_	0-3(0)	0-3(41)
-218-2	BOI083	218	<comprome]ssi>	compromessi	linguistic	none	_	End=533.105	_	Slow=0-11(0)	_	0-8(41)
+218-2	BOI083	218	<comprome]ssi>	compromessi	linguistic	none	_	End=533.105	_	Slow=0-11	_	0-8(41)
 219-0	BOI084	219	[tirare	tirare	linguistic	none	_	Begin=531.186	_	_	_	0-6(41)
 219-1	BOI084	219	a	a	linguistic	none	_	_	_	_	_	0-1(41)
 219-2	BOI084	219	campare]	campare	linguistic	none	_	End=531.999	_	_	_	0-7(41)
@@ -1633,7 +1633,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 255-0	BOI084	255	qua	qua	linguistic	some	_	Begin=606.837	_	_	_	_
 255-1	BOI084	255	dicono	dicono	linguistic	some	_	_	_	_	_	_
 255-2	BOI084	255	le	le	linguistic	some	_	_	_	_	_	_
-255-3	BOI084	255	<sciure>	sciure	linguistic	some	_	_	_	Slow=0-6(0)	_	_
+255-3	BOI084	255	<sciure>	sciure	linguistic	some	_	_	_	Slow=0-6	_	_
 255-4	BOI084	255	mi	mi	linguistic	some	_	_	_	_	_	_
 255-5	BOI084	255	sa	sa	linguistic	some	_	_	_	_	_	_
 255-6	BOI084	255	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -2079,7 +2079,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 342-8	BOI083	342	mi	mi	linguistic	none	_	_	_	_	_	_
 342-9	BOI083	342	sono	sono	linguistic	none	_	_	_	_	_	_
 342-10	BOI083	342	avvicinato	avvicinato	linguistic	none	_	End=789.543	_	_	_	_
-343-0	BOI083	343	<al>	al	linguistic	none	_	Begin=791.394	_	Slow=0-2(0)	_	_
+343-0	BOI083	343	<al>	al	linguistic	none	_	Begin=791.394	_	Slow=0-2	_	_
 343-1	BOI083	343	e::h	eh	linguistic	none	_	End=793.456	0x2	_	_	_
 344-0	BOI083	344	a::	a	linguistic	none	_	Begin=793.903	0x2	_	_	_
 344-1	BOI083	344	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -2343,7 +2343,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 378-2	BOI084	378	riguarda	riguarda	linguistic	none	_	_	_	_	_	_
 378-3	BOI084	378	comunque	comunque	linguistic	none	_	_	_	_	_	_
 378-4	BOI084	378	come	come	linguistic	none	_	_	_	_	_	_
-378-5	BOI084	378	<trattano>	trattano	linguistic	none	_	End=890.3	_	Slow=0-8(0)	_	_
+378-5	BOI084	378	<trattano>	trattano	linguistic	none	_	End=890.3	_	Slow=0-8	_	_
 379-0	BOI084	379	l'	l'	linguistic	none	SpaceAfter=No	Begin=890.444	_	_	_	_
 379-1	BOI084	379	operaio,	operaio	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 379-2	BOI084	379	il	il	linguistic	none	_	_	_	_	_	_
@@ -3322,7 +3322,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 523-3	BOI083	523	comunque:	comunque	linguistic	none	_	_	7x1	_	_	_
 523-4	BOI083	523	un	un	linguistic	none	_	_	_	_	_	_
 523-5	BOI083	523	bello	bello	linguistic	none	_	_	_	_	_	_
-523-6	BOI083	523	<stipendio>	stipendio	linguistic	none	_	_	_	Slow=0-9(0)	_	_
+523-6	BOI083	523	<stipendio>	stipendio	linguistic	none	_	_	_	Slow=0-9	_	_
 523-7	BOI083	523	poi	poi	linguistic	none	_	_	_	_	_	_
 523-8	BOI083	523	tralasciando	tralasciando	linguistic	none	_	_	_	_	_	_
 523-9	BOI083	523	il	il	linguistic	none	_	_	_	_	_	_
@@ -6119,7 +6119,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 975-14	BOI083	975	quindi	quindi	linguistic	none	_	_	_	_	_	_
 975-15	BOI083	975	non	non	linguistic	none	_	_	_	_	_	_
 975-16	BOI083	975	capisci	capisci	linguistic	none	_	End=2224.07	_	_	_	_
-976-0	BOR022	976	[<okay>]	okay	linguistic	none	_	Begin=2219.79|End=2220.651	_	Slow=0-4(0)	_	0-4(210)
+976-0	BOR022	976	[<okay>]	okay	linguistic	none	_	Begin=2219.79|End=2220.651	_	Slow=0-4	_	0-4(210)
 977-0	BOI084	977	cioè	cioè	linguistic	none	_	Begin=2225.32	_	_	_	_
 977-1	BOI084	977	non	non	linguistic	none	_	_	_	_	_	_
 977-2	BOI084	977	è	è	linguistic	none	_	_	_	_	_	_
@@ -8945,8 +8945,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1345-7	BOI084	1345	poco	poco	linguistic	none	Volume=Low	_	_	_	_	0-4(314)
 1345-8	BOI084	1345	da]	da	linguistic	none	Volume=Low	_	_	_	_	0-2(314)
 1345-9	BOI084	1345	fa'°	fa'	linguistic	none	Truncated=Yes|Volume=Low	End=3135.337	_	_	_	_
-1346-0	BOR023	1346	[<eh	eh	linguistic	none	_	Begin=3134.032	_	Slow=0-2(0)	_	0-2(314)
-1346-1	BOR023	1346	(sì)>]	sì	linguistic	none	_	End=3135.1	_	Slow=0-2(0)	0-2(0)	0-2(314)
+1346-0	BOR023	1346	[<eh	eh	linguistic	none	_	Begin=3134.032	_	Slow=0-2	_	0-2(314)
+1346-1	BOR023	1346	(sì)>]	sì	linguistic	none	_	End=3135.1	_	Slow=0-2	0-2(0)	0-2(314)
 1347-0	BOI083	1347	io	io	linguistic	none	_	Begin=3138.51	_	_	_	_
 1347-1	BOI083	1347	no	no	linguistic	none	_	End=3139.056	_	_	_	_
 1348-0	BOI084	1348	vabbè	vabbè	linguistic	none	_	Begin=3139.75	_	_	_	_
@@ -9020,8 +9020,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1363-0	BOI083	1363	>cioè	cioè	linguistic	none	_	Begin=3164.78	_	Fast=0-4	_	_
 1363-1	BOI083	1363	come	come	linguistic	none	_	_	_	Fast=0-4	_	_
 1363-2	BOI083	1363	lo<	lo	linguistic	none	_	_	_	Fast=0-2	_	_
-1363-3	BOI083	1363	<come	come	linguistic	none	_	_	_	Slow=0-4(0)	_	_
-1363-4	BOI083	1363	l[o:]>?	lo	linguistic	none	Intonation=Rising	End=3166.82	1x1	Slow=0-2(0)	_	1-2(319)
+1363-3	BOI083	1363	<come	come	linguistic	none	_	_	_	Slow=0-4	_	_
+1363-4	BOI083	1363	l[o:]>?	lo	linguistic	none	Intonation=Rising	End=3166.82	1x1	Slow=0-2	_	1-2(319)
 1364-0	BOI084	1364	[sì]	sì	linguistic	none	_	Begin=3166.654	_	_	_	0-2(319)
 1364-1	BOI084	1364	parte	parte	linguistic	none	_	_	_	_	_	_
 1364-2	BOI084	1364	[da	da	linguistic	none	_	_	_	_	_	0-2(320)
@@ -9830,7 +9830,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1467-8	BOI084	1467	tante	tante	linguistic	none	_	_	_	_	_	_
 1467-9	BOI084	1467	persone	persone	linguistic	none	_	_	_	_	_	_
 1467-10	BOI084	1467	ma	ma	linguistic	none	_	_	_	_	_	_
-1467-11	BOI084	1467	<maggiormente>	maggiormente	linguistic	none	_	_	_	Slow=0-12(0)	_	_
+1467-11	BOI084	1467	<maggiormente>	maggiormente	linguistic	none	_	_	_	Slow=0-12	_	_
 1467-12	BOI084	1467	vanno	vanno	linguistic	none	_	_	_	_	_	_
 1467-13	BOI084	1467	educate	educate	linguistic	none	_	End=3441.694	_	_	_	_
 1468-0	BOI084	1468	va	va	linguistic	none	_	Begin=3441.96	_	_	_	_
@@ -9864,7 +9864,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1470-4	BOI083	1470	in	in	linguistic	none	_	_	_	_	_	_
 1470-5	BOI083	1470	[alcune	alcune	linguistic	none	_	_	_	_	_	0-6(344)
 1470-6	BOI083	1470	cose]	cose	linguistic	none	_	End=3449.997	_	_	_	0-4(344)
-1471-0	BOI084	1471	[<ovvio>]	ovvio	linguistic	none	_	Begin=3449.12|End=3449.952	_	Slow=0-5(0)	_	0-5(344)
+1471-0	BOI084	1471	[<ovvio>]	ovvio	linguistic	none	_	Begin=3449.12|End=3449.952	_	Slow=0-5	_	0-5(344)
 1472-0	BOI084	1472	però	però	linguistic	none	_	Begin=3450.41	_	_	_	_
 1472-1	BOI084	1472	[c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(345)
 1472-2	BOI084	1472	è	è	linguistic	none	_	_	_	_	_	0-1(345)

@@ -104,7 +104,7 @@ BOR003	mh la la vicino la nostra casa passa un fiume savena
 BOI008	mhmh
 BOI008	fiume
 BOI008	xxxxxxxxx
-BOI008	c'era una  tradizione
+BOI008	c'era una tradizione
 BOI008	ed erano i
 BOI007	quelli che mangiavano e
 BOR003	si vendeva e la chiamavano sor~ c'era una sorgente di acqua solforosa che là a bologna la chiamavano macapuzzua
@@ -223,7 +223,7 @@ BOI008	sì
 BOI007	e
 BOR003	tu dove sei
 BOR003	io in ca~ via cartoleria
-BOR003	e anche in via filippo re  e in via santa cristina
+BOR003	e anche in via filippo re e in via santa cristina
 BOI008	quindi io dovevo girare per per tre sedi
 BOR003	ah
 BOI007	e a
@@ -296,13 +296,13 @@ BOI007	che bello
 BOR003	forse anche da voi
 BOI008	adesso proprio totalmente cambiato
 BOI007	ed era di più sì facevano sessanta settant'anni fa
-BOR003	sì parli del prima della guerra insomma con il dopoguerra adesso poi le cose si  chiaramente
+BOR003	sì parli del prima della guerra insomma con il dopoguerra adesso poi le cose si chiaramente
 BOI007	mhmh
 BOI007	eh poi c'era nella sala borsa in piazza maggiore che c'era il mercato perché
 BOI007	bologna è sempre stata una una città dove c'era il
 BOR003	il commercio e lo scambio dei cereali
 BOI007	mhmh
-BOR003	in sala borsa c'erano  adesso è diventata una biblioteca
+BOR003	in sala borsa c'erano adesso è diventata una biblioteca
 BOI007	sì bellissima
 BOR003	questa la conosci
 BOI007	mhmh
@@ -311,7 +311,7 @@ BOR003	quegli ufficetti quei posticini là sono uffici di quel banco dei cereali
 BOI007	ah vedi
 BOR003	e c'era veramente xx i contraxx li facevano lì
 BOI007	mhmh
-BOR003	ma io me lo ricordo ancora negli anni  sessanta settanta
+BOR003	ma io me lo ricordo ancora negli anni sessanta settanta
 BOI007	mhmh
 BOR003	per cui non era molto tempo fa
 BOI007	ah è molto tempo fa sì sì sì
@@ -335,7 +335,7 @@ BOI008	eh gli immigrati che vanno fanno dei xxxx con con xxx anziane
 BOI007	ehm
 BOI008	tu da sola la sera non uscirai più
 BOI008	da sola devi mh
-BOR003	un po' più  meno sicurezza insomma
+BOR003	un po' più meno sicurezza insomma
 BOR003	mhmh
 BOI008	una volta era diverso
 BOI008	una volta era diverso
@@ -395,7 +395,7 @@ BOR003	con tranquillità insomma c'erano
 BOI008	mhmh
 BOI008	pericoli vari
 BOI008	terzolo
-BOR003	salendo per  due chilometri
+BOR003	salendo per due chilometri
 BOI008	mhmh sì sì
 BOI008	è vero
 BOI008	sì mh si dice il il
@@ -418,13 +418,13 @@ BOI007	mh in periferia non sempre è possibile
 BOI007	però quando è possibile
 BOR003	come tratti
 BOI007	mhmh
-BOI008	infatti quando hanno fatto la valutazione per l'unesco hanno contato anche tutti i tratti  periferici
+BOI008	infatti quando hanno fatto la valutazione per l'unesco hanno contato anche tutti i tratti periferici
 BOR003	lo~ una volta c'era anche la funivia
 BOI008	ah davvero
 BOI008	quella ancora
 BOR003	l'ho vista
 BOI008	ah ah
-BOI008	poi a un certo punto  dalla xx l'hanno tolta
+BOI008	poi a un certo punto dalla xx l'hanno tolta
 BOI007	dicono che la la mh
 BOI008	dovrebbero riprestinare ma
 BOI007	la ripristinano
@@ -467,10 +467,10 @@ BOI007	purtroppo vedi
 BOI007	tu vedi che di notte di notte succedono queste cose
 BOI007	purtroppo è quello che impedisce adesso di vivere sereni
 BOR003	ed è una cosa che a me dispiace
-BOI007	mh immagino  da bolognesi è
+BOI007	mh immagino da bolognesi è
 BOI007	sì no ma poi ci si impegna le associazioni commercianti singoli
 BOR003	se si si impegnano a pulire il giorno dopo è di nuovo come prima è una cosa che disturba moltissimo
-BOI007	mhmh  no immagino
+BOI007	mhmh no immagino
 BOI007	un bolognese non è abituato a questa cosa
 BOI007	purtroppo
 BOR003	non puoi mettere l'esercito nelle strade insomma
@@ -491,7 +491,7 @@ BOI007	le palle per la la la
 BOI008	il presepe
 BOR003	gli alberi
 BOI007	mhmh
-BOI008	le statuine di natale tutti gli addobbi natalizi quello è un portico  famoso
+BOI008	le statuine di natale tutti gli addobbi natalizi quello è un portico famoso
 BOR003	le statuine
 BOI007	mhmh
 BOI007	anche quello è un po' cambiato perché
@@ -820,7 +820,7 @@ BOR003	no no perfetto invece
 BOI008	e invece tipo a bologna ci sono delle manifestazioni sportive a cui
 BOI008	beh c'è c'è una corsa che han fatto a bologna
 BOI008	solo che
-BOI007	quindici  tre settimane fa
+BOI007	quindici tre settimane fa
 BOI007	tre settimane fa
 BOI007	la maratona
 BOI008	l'hanno ripresa dopo venticinque anni
@@ -919,7 +919,7 @@ BOI007	ah
 BOI007	però mia mamma è veneta
 BOI007	erano tutti e due ovviamente
 BOI007	di treviso
-BOI007	si sono conosciuti  in africa
+BOI007	si sono conosciuti in africa
 BOR003	dove io sono nata
 BOR003	ah sì
 BOI007	ah
@@ -935,7 +935,7 @@ BOI007	mhmh
 BOI007	perché le bambine devono crescere parlando italiano
 BOI007	poi quando siamo fra i parenti e noi così
 BOR003	se mia mamma gli scappava una parola in veneto
-BOI007	sì  sì sì sì
+BOI007	sì sì sì sì
 BOI007	c'è
 BOI007	e mio papà uguale
 BOR003	per cui già fin da allora hai capito

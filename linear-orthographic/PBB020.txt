@@ -67,7 +67,7 @@ BOI059	ni
 BOI059	allora nell'arco della mia vita io sono una di quelle che ha visto bologna diventare da città
 BOI059	al massimo per studenti
 BOI059	a città
-BOI059	per  anche turisti
+BOI059	per anche turisti
 BOI059	quindi l'ho vista cambiare nel senso che ho visto
 BOI059	molti più supermercati aprirsi aumentare tantissimo
 BOI059	eh l~ le vie del~ dello shopping nel senso una volta via indipendenza non era la via dello shopping come lo è adesso
@@ -150,7 +150,7 @@ BOR017	non sono entusiasta degli abitanti della bologna di oggi mettiamola così
 BOR017	
 BOR017	okay
 BOR017	eh che cosa fai nel tuo tempo libero
-BOI059	come trascorri ad esempio anche le vacanze visto che agosto  qui bologna è libera
+BOI059	come trascorri ad esempio anche le vacanze visto che agosto qui bologna è libera
 BOI059	esatto allora
 BOI059	io trascorro le vacanze
 BOR017	stesso discorso nel mese di giugno
@@ -187,7 +187,7 @@ BOI059	xxxx c'è il mercato quindi
 BOI059	eh lunedì è a calderara di reno il mercoledì ce l'ho anche a casalecchio
 BOI059	il giovedì so che ce n'è uno se non l'hanno spostato a san pietro in casale
 BOI059	poi il venerdì e il sabato c'è la piazzola la domenica ci sono i vari mercati straordina~
-BOR017	sì vado al mercato compro un sacco di roba  al mercato
+BOR017	sì vado al mercato compro un sacco di roba al mercato
 BOI059	xxxx
 BOR017	mi piace andare al mercato trovo che siano belli
 BOR017	okay
@@ -310,10 +310,10 @@ BOI059	mi piace muovermi
 BOI059	in in autobus
 BOI059	perché comunque
 BOI059	abitando adeso a casalecchio gli autobus sono ben serviti
-BOR017	e trovo che bologna abbia una rete abbastanza  capillare di autobus che fa praticamente qualunque cosa
+BOR017	e trovo che bologna abbia una rete abbastanza capillare di autobus che fa praticamente qualunque cosa
 BOI059	questo è il futuro te lo dico da siciliano questo è il futuro
 BOI059	
-BOR017	grazie  ne vado molto orgogliosa
+BOR017	grazie ne vado molto orgogliosa
 BOI059	
 BOI059	eh poi dipende ci sono volte in cui devo per forza spostarmi in macchina ho avuto un periodo che da
 BOI059	casalecchio lavoravo al comune di argelato che è dall'altra parte del mo~ cioè
@@ -368,7 +368,7 @@ BOR017	abbiamo legato tutti quanti di più
 BOI059	altrimenti non te l'avrei chiesto
 BOI059	sì
 BOR017	esatto
-BOI059	chiaro  se non ci fosse xx
+BOI059	chiaro se non ci fosse xx
 BOI059	sì
 BOI059	no se non ci fosse un rapporto non sì se~
 BOR017	perché sono domande non personali
@@ -445,7 +445,7 @@ BOI059	è nata la nonna di castello d'argile
 BOI059	il nonno è di pieve
 BOI059	quindi è un misto tra il bolognese e il ferrarese quindi papà parla un misto bolognese e ferrarese
 BOI059	mamma parla un misto modenese e ferrarese io parlo
-BOR017	una derivazione di  è un casino della mado~
+BOR017	una derivazione di è un casino della mado~
 BOI059	
 BOR017	è un po' come la ricetta del ragù ognuno c'ha la sua
 BOI059	okay
@@ -471,7 +471,7 @@ BOI059	perché alla fine
 BOI059	non ho mai avuto
 BOI059	occasione di amicizie abbastanza lontane da impararle perché un dialetto non so ehm
 BOI059	mhmh per dire romagnolo
-BOR017	eh che arriva da una  figlia di un romagnolo e di una palermitana è difficile da imparare
+BOR017	eh che arriva da una figlia di un romagnolo e di una palermitana è difficile da imparare
 BOI059	diverso ce~
 BOR017	quindi io in realtà di dialetto conosco solo il mio
 BOR017	okay
@@ -599,7 +599,7 @@ BOI059	tutto beh eh mi ricordo
 BOR017	non ti dico al cento per cento in quale arcata di portico
 BOI059	xxx
 BOI059	ma che ero
-BOR017	nei portici di via santo stefano  perché sono i nostri portici sono  casa per noi letteralmente
+BOR017	nei portici di via santo stefano perché sono i nostri portici sono casa per noi letteralmente
 BOI059	ah okay
 BOI059	tutti i vari scrumazzi fatti perché hai la scarpa slacciata
 BOR017	ma tanto sei sotto al portico e non ti smerdi di fango
@@ -700,7 +700,7 @@ BOI059	però il punto è che comunque essendo patrimonio della citt~ cioè se an
 BOI059	se è proprietà della chiesa che la chiesa lo sistemi se è patrimonio del comune che il comune lo sistemi ci sono dei gradini
 BOR017	che son consumati uno sì e mh eh
 BOI059	sì sì è rischioso è rischioso
-BOI059	è più difficile  al di là di rischioso
+BOI059	è più difficile al di là di rischioso
 BOR017	l'è più difezil andar sò eh oh si fa della fatica per niente ecco
 BOR017	
 BOR017	vero
@@ -729,7 +729,7 @@ BOI059	bolognese di città è con la panna
 BOI059	eh poi abbiamo nei secondi gli arrosti
 BOI059	e il gran fitto b~ il gran fritto bolognese
 BOI059	che prevede tra tutto
-BOI059	anche l'agnello  e
+BOI059	anche l'agnello e
 BOI059	particolarissima
 BOI059	la crema fritta
 BOI059	la crema fritta è tipica bolognese checchè ti dicano in giro la crema fritta viene da noi
@@ -791,7 +791,7 @@ BOI059	eh no la c~ l~ c'è anche chi la fa col pomodoro
 BOR017	dipende anche lì il ristorante e tutto il resto
 BOR017	tra tutta questa lista
 BOI059	quali sono i tuoi piatti preferiti
-BOR017	i doratini di pollo  che non te li ho detti
+BOR017	i doratini di pollo che non te li ho detti
 BOI059	non li hai detti
 BOI059	allora
 BOI059	di questa lista
@@ -811,7 +811,7 @@ BOI059	la mia ricetta di doratino di pollo che è diversa per esempio da quella 
 BOR017	un ammollo di un giorno nell'uovo
 BOI059	wow
 BOI059	per dire sì
-BOR017	sono  morbidissimi buonissimi
+BOR017	sono morbidissimi buonissimi
 BOR017	okay a proposito di ricette
 BOI059	visto che ci hai citato tutti questi piatti qualche chicca ce la potresti dare
 BOI059	mh
@@ -865,7 +865,7 @@ BOI059	è il discorso di prima
 BOI059	bologna è una città figa
 BOI059	facciamo il tortellino di pollo
 BOI059	per quei cristian ch~
-BOR017	che  quei cristian non è perché non son cristiani appunto
+BOR017	che quei cristian non è perché non son cristiani appunto
 BOI059	
 BOI059	che non possono mangiare il il il maiale cioè è è così per noi
 BOI059	il tortellino è un misto di più carni di maiale tendenzialmente vari pezzettini lonzina coscina pezzettini vari e mortadella

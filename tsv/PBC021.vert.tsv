@@ -1435,7 +1435,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 255-0	BOR012	255	e	e	linguistic	none	_	Begin=527.415	_	_	_	_
 255-1	BOR012	255	vi	vi	linguistic	none	_	_	_	_	_	_
 255-2	BOR012	255	conoscevate	conoscevate	linguistic	none	_	_	_	_	_	_
-255-3	BOR012	255	<tutti>?	tutti	linguistic	none	Intonation=Rising	End=528.627	_	Slow=0-5(0)	_	_
+255-3	BOR012	255	<tutti>?	tutti	linguistic	none	Intonation=Rising	End=528.627	_	Slow=0-5	_	_
 256-0	BOI051	256	sì:	sì	linguistic	none	_	Begin=528.627	1x1	_	_	_
 256-1	BOI051	256	in	in	linguistic	none	_	_	_	_	_	_
 256-2	BOI051	256	mezzo	mezzo	linguistic	none	_	_	_	_	_	_
@@ -8094,7 +8094,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1360-16	BOR012	1360	anche:	anche	linguistic	none	_	_	4x1	_	_	_
 1360-17	BOR012	1360	alla	alla	linguistic	none	_	_	_	_	_	_
 1360-18	BOR012	1360	situazione	situazione	linguistic	none	_	_	_	_	_	_
-1360-19	BOR012	1360	<attuale>	attuale	linguistic	none	_	End=3011.921	_	Slow=0-7(0)	_	_
+1360-19	BOR012	1360	<attuale>	attuale	linguistic	none	_	End=3011.921	_	Slow=0-7	_	_
 1361-0	BOR012	1361	e:h	eh	linguistic	none	_	Begin=3012.369	0x1	_	_	_
 1361-1	BOR012	1361	della	della	linguistic	none	_	_	_	_	_	_
 1361-2	BOR012	1361	guerra	guerra	linguistic	none	_	_	_	_	_	_
@@ -8197,7 +8197,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1377-5	BOI051	1377	dire	dire	linguistic	none	_	_	_	_	_	_
 1377-6	BOI051	1377	che	che	linguistic	none	_	_	_	_	_	_
 1377-7	BOI051	1377	proprio	proprio	linguistic	none	_	_	_	_	_	_
-1377-8	BOI051	1377	<non:>	non	linguistic	none	_	End=3049.886	2x1	Slow=0-3(0)	_	_
+1377-8	BOI051	1377	<non:>	non	linguistic	none	_	End=3049.886	2x1	Slow=0-3	_	_
 1378-0	BOR012	1378	poi	poi	linguistic	none	_	Begin=3050.338	_	_	_	_
 1378-1	BOR012	1378	putin	putin	linguistic	none	_	_	_	_	_	_
 1378-2	BOR012	1378	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
@@ -8227,7 +8227,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1381-5	BOR012	1381	ha]	ha	linguistic	none	_	_	_	_	_	0-2(360)
 1381-6	BOR012	1381	vissu[ta	vissuta	linguistic	none	_	_	_	_	_	5-7(361)
 1381-7	BOR012	1381	eh]	eh	linguistic	none	_	End=3057.435	_	_	_	0-2(361)
-1382-0	BOI051	1382	[<sì>]	sì	linguistic	none	_	Begin=3057.181	_	Slow=0-2(0)	_	0-2(361)
+1382-0	BOI051	1382	[<sì>]	sì	linguistic	none	_	Begin=3057.181	_	Slow=0-2	_	0-2(361)
 1382-1	BOI051	1382	potrebbe	potrebbe	linguistic	none	_	_	_	_	_	_
 1382-2	BOI051	1382	avere	avere	linguistic	none	_	_	_	_	_	_
 1382-3	BOI051	1382	qualsiasi	qualsiasi	linguistic	none	_	_	_	_	_	_
@@ -8366,8 +8366,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1401-2	BOI051	1401	hanno	hanno	linguistic	none	_	_	_	_	_	_
 1401-3	BOI051	1401	to~	to~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 1401-4	BOI051	1401	tutto	tutto	linguistic	none	_	_	_	_	_	_
-1401-5	BOI051	1401	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
-1401-6	BOI051	1401	interesse>	interesse	linguistic	none	_	_	_	Slow=0-9(0)	_	_
+1401-5	BOI051	1401	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2	_	_
+1401-6	BOI051	1401	interesse>	interesse	linguistic	none	_	_	_	Slow=0-9	_	_
 1401-7	BOI051	1401	prima	prima	linguistic	none	_	_	_	_	_	_
 1401-8	BOI051	1401	di	di	linguistic	none	_	_	_	_	_	_
 1401-9	BOI051	1401	tutto	tutto	linguistic	none	_	_	_	_	_	_

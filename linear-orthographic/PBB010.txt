@@ -5,7 +5,7 @@ BOI030	di dove sei originaria
 BOR007	allora vengo dall'eritrea oggi è s~ sempre eritrea
 BOI030	mhmh
 BOR007	e sono nata in etiopia però
-BOI030	mhmh  ehm quindi hai se~ hai sempre vissuto in etiopia e poi ti sei spostata in eritrea
+BOI030	mhmh ehm quindi hai se~ hai sempre vissuto in etiopia e poi ti sei spostata in eritrea
 BOR007	no sempre ho vissuto in etiopia
 BOI030	ah ok e quindi ha fatto anche le scuole là
 BOR007	sì in etiopia
@@ -17,16 +17,16 @@ BOR007	sì esattamente s~ sempre a bologna
 BOR007	mhmh
 BOI030	sempre a bologna e mh e quindi finora
 BOI030	però allora
-BOR007	sempre a bologna diciamo quando appena sono arrivata ho vissuto  san giovanni sempre provincia bologna
+BOR007	sempre a bologna diciamo quando appena sono arrivata ho vissuto san giovanni sempre provincia bologna
 BOI030	mhmh
-BOR007	e poi  a bologna
+BOR007	e poi a bologna
 BOI030	sei venuta qua e quanto tempo hai vissuto a san giovanni
 BOR007	s~ sette anni
 BOR007	mh
 BOI030	sette anni e poi
 BOR007	vabbè dal duemila undici fine duemila diciassette
 BOR007	mhmh
-BOR007	ok e  a bologna come ti come ti trovi
+BOR007	ok e a bologna come ti come ti trovi
 BOI030	adesso
 BOR007	a bologna mi trovo bene ehm
 BOI030	mhmh
@@ -47,18 +47,18 @@ BOR007	no no mi trovo bene mi trovo bene
 BOR007	mhmh
 BOI030	e torneresti nel tuo paese o comunque hai intenzione di rimare qua comunque a continuare a lavorare non so
 BOI030	allora ho intenzione di t~ di ritornare per non sono non sono così tanto eh sicura
-BOR007	prima devo decidere  sai
+BOR007	prima devo decidere sai
 BOI030	mhmh
 BOR007	prima di devo cercare prima di sistamare tanti cose poi chissà non si sa mai mai dire mai nella vita
 BOR007	mhmh
-BOI030	eh no infatti  ma dici tornare in pianta stabile cioè proprio restare lì oppure magari ritornare indietro
+BOI030	eh no infatti ma dici tornare in pianta stabile cioè proprio restare lì oppure magari ritornare indietro
 BOI030	no ritornare allora ritornare lì in etiopia e magari non so
 BOR007	il mio pensiero è di fare qualcosa e poi ritornare sempre in italia
 BOI030	mh quindi stai lì un pochino
 BOR007	lì apri qualcosa un'attività e poi magari di fare avanti e indietro ma eh l'italia è l'italia ecco
 BOR007	mh
 BOR007	sì
-BOI030	ehm invece tipo  ti piacerebbe andare da qualche altra parte cioè da bologna ti vorresti trasferire che ne so andare in inghilterra a mi~ anche a m~ solamente a milano
+BOI030	ehm invece tipo ti piacerebbe andare da qualche altra parte cioè da bologna ti vorresti trasferire che ne so andare in inghilterra a mi~ anche a m~ solamente a milano
 BOI030	sì
 BOI030	sì esatto
 BOR007	in inghilterra no in in~ cioè allora da mh da bologna andare in inghilterra e in canare e in australia soltanto per xxxx per vacanze ci andrei volentieri
@@ -92,7 +92,7 @@ BOR007	ne~ cioè
 BOI030	mhmh
 BOI030	nella memoria
 BOI030	ho tanti ricordi
-BOR007	eh e e i ricordi e certi certi ricordi ti rimangono sempre e  è normale che ci pensi spesso
+BOR007	eh e e i ricordi e certi certi ricordi ti rimangono sempre e è normale che ci pensi spesso
 BOR007	mh
 BOR007	sì
 BOI030	sì
@@ -130,7 +130,7 @@ BOI030	sì
 BOI030	una volta mh per andare a scuola
 BOR007	non è che i genitori ti mandavano a scuola
 BOI030	mhmh
-BOI030	e quindi  io siccome sono
+BOI030	e quindi io siccome sono
 BOI030	mh
 BOR007	sono molto ribelle di mio e quindi sono andata a scuola da sola cioè io mi sono arrangiata in pratica sono andata a scuola con le mie unghie
 BOR007	sì
@@ -171,7 +171,7 @@ BOI030
 BOI030	scusa
 BOR007	e andavo sempre a correre
 BOI030	sì
-BOR007	e poi duemiladodici mi sono iscritta a scuola per fare s~  per fare corso di italiano
+BOR007	e poi duemiladodici mi sono iscritta a scuola per fare s~ per fare corso di italiano
 BOI030	sì
 BOI030	e da lì il momento dopo tre mesi ho smesso
 BOR007	ho smesso dal eh e poi sono andata a scuola sempre a terza media
@@ -206,7 +206,7 @@ BOR007	parlavo di merda l'italiano che non parlavo un cazzo
 BOR007	
 BOI030	sì
 BOI030	e mi chiedeva signora sarebbe la titolare
-BOI030	mh di @nomeluogo ma  tu
+BOI030	mh di @nomeluogo ma tu
 BOI030	sai parlare italiano
 BOI030	poco hai mai lavorato questo lavoro
 BOI030	sì
@@ -256,7 +256,7 @@ BOR007	la titolare del eh @nomeluogo
 BOI030	sì
 BOI030	guarda io ho trovato un altro posto e
 BOI030	quindi
-BOR007	dovrei andar via ma loro mi  cioè c~ volevan tenermi comunque alla fine
+BOR007	dovrei andar via ma loro mi cioè c~ volevan tenermi comunque alla fine
 BOI030	mhmh
 BOI030	lei mi diceva va bene
 BOI030	mi dispiace però
@@ -393,7 +393,7 @@ BOR007	sì
 BOR007	ehm per quanto riguarda invece il lavoro che fai adesso
 BOI030	mh sei una di~ un dipendente giusto
 BOR007	ovviamente
-BOI030	okay  no chiedo perché magari
+BOI030	okay no chiedo perché magari
 BOI030	
 BOR007	certo certo
 BOR007	ehm
@@ -402,7 +402,7 @@ BOR007	guarda il mio sogno era ti dico la verità il mio sogno era di lavorare c
 BOI030	mh sì
 BOI030	però lì
 BOI030	mh se avessi avuto la possibilità di studia~ di studiare lingue devi sapere almeno
-BOR007	non non dico cinque ma  tre lingue se tu sai tre lingue pulite
+BOR007	non non dico cinque ma tre lingue se tu sai tre lingue pulite
 BOR007	sì
 BOI030	mhmh
 BOI030	tu potresti anche magari sai uno può fare la domanda
@@ -569,7 +569,7 @@ BOI030	sì
 BOR007	mh
 BOI030	mh
 BOR007	esatto
-BOI030	e invece ci sono magari dei  delle cose che non ti piacciono di questa zona cioè miglioreresti qualcosa ci sono dei problemi non so
+BOI030	e invece ci sono magari dei delle cose che non ti piacciono di questa zona cioè miglioreresti qualcosa ci sono dei problemi non so
 BOI030	guarda in questo mhmh dove sto ora è
 BOR007	sono già due mesetto ma non credo che
 BOI030	mhmh
@@ -690,7 +690,7 @@ BOI030	eh
 BOI030	e n~ in altre persone
 BOI030	che hanno questo spavento cioè
 BOI030	n~ hanno voglia cioè
-BOI030	p~  preferiscono
+BOI030	p~ preferiscono
 BOR007	nascondersi preferiscono camminare da soli
 BOI030	mhmh
 BOR007	e mh mh i~ isolati
@@ -716,7 +716,7 @@ BOI030	in generale
 BOR007	sì
 BOI030	mhmh
 BOI030	cioè per carità di dio cioè bologna c'è
-BOR007	io bologna  l'amo tanto e l'amerò veramente per sempre
+BOR007	io bologna l'amo tanto e l'amerò veramente per sempre
 BOI030	mhmh
 BOI030	davvero eh
 BOI030	m~ mi ha dato da mangiare mi ha cresciuto mi ha

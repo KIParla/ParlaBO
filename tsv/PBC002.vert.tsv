@@ -1,5 +1,5 @@
 token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
-0-0	BOR003	0	<okay>	okay	linguistic	none	_	Begin=1.35|End=2.0	_	Slow=0-4(0)	_	_
+0-0	BOR003	0	<okay>	okay	linguistic	none	_	Begin=1.35|End=2.0	_	Slow=0-4	_	_
 1-0	BOR003	1	okay	okay	linguistic	none	_	Begin=3.89|End=4.39	_	_	_	_
 2-0	BOR003	2	allora	allora	linguistic	none	_	Begin=4.82|End=5.34	_	_	_	_
 3-0	BOR003	3	innanzitutto	innanzitutto	linguistic	none	_	Begin=5.42|End=6.27	_	_	_	_

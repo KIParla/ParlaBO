@@ -1050,7 +1050,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 149-2	BOI052	149	vita	vita	linguistic	none	_	_	_	_	_	_
 149-3	BOI052	149	è	è	linguistic	none	_	_	_	_	_	_
 149-4	BOI052	149	cambiata	cambiata	linguistic	none	_	_	_	_	_	_
-149-5	BOI052	149	<totalmente>	totalmente	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+149-5	BOI052	149	<totalmente>	totalmente	linguistic	none	_	_	_	Slow=0-10	_	_
 149-6	BOI052	149	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_
 149-7	BOI052	149	totalmente	totalmente	linguistic	none	_	End=427.03	_	_	_	_
 150-0	BOR013	150	((ride))	((ride))	nonverbalbehavior	none	_	Begin=423.595|End=425.185	_	_	_	_
@@ -1280,7 +1280,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 182-6	BOI052	182	ho	ho	linguistic	none	_	_	_	_	_	_
 182-7	BOI052	182	cambiato	cambiato	linguistic	none	_	_	_	_	_	_
 182-8	BOI052	182	anche	anche	linguistic	none	_	_	_	_	_	_
-182-9	BOI052	182	<visione>	visione	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+182-9	BOI052	182	<visione>	visione	linguistic	none	_	_	_	Slow=0-7	_	_
 182-10	BOI052	182	del	del	linguistic	none	_	_	_	_	_	_
 182-11	BOI052	182	lavoro	lavoro	linguistic	none	_	End=516.24	_	_	_	_
 183-0	BOI052	183	>nel	nel	linguistic	none	_	Begin=517.52	_	Fast=0-3	_	_
@@ -1413,7 +1413,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 199-8	BOI052	199	proprio	proprio	linguistic	none	_	_	_	_	_	_
 199-9	BOI052	199	con	con	linguistic	none	_	_	_	_	_	_
 199-10	BOI052	199	le	le	linguistic	none	_	_	_	_	_	_
-199-11	BOI052	199	<persone>	persone	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+199-11	BOI052	199	<persone>	persone	linguistic	none	_	_	_	Slow=0-7	_	_
 199-12	BOI052	199	che	che	linguistic	none	_	_	_	_	_	_
 199-13	BOI052	199	prima	prima	linguistic	none	_	_	_	_	_	_
 199-14	BOI052	199	erano	erano	linguistic	none	_	End=566.26	_	_	_	_
@@ -1966,7 +1966,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 292-0	BOI052	292	che	che	linguistic	none	_	Begin=791.79	_	_	_	_
 292-1	BOI052	292	io	io	linguistic	none	_	_	_	_	_	_
 292-2	BOI052	292	vedo	vedo	linguistic	none	_	_	_	_	_	_
-292-3	BOI052	292	<tutte>	tutte	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+292-3	BOI052	292	<tutte>	tutte	linguistic	none	_	_	_	Slow=0-5	_	_
 292-4	BOI052	292	le	le	linguistic	none	_	_	_	_	_	_
 292-5	BOI052	292	mattine	mattine	linguistic	none	_	_	_	_	_	_
 292-6	BOI052	292	quando	quando	linguistic	none	_	_	_	_	_	_
@@ -2167,7 +2167,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 326-2	BOI052	326	molto	molto	linguistic	none	_	_	_	_	_	_
 326-3	BOI052	326	vicino	vicino	linguistic	none	_	End=865.68	_	_	_	_
 327-0	BOI052	327	questo	questo	linguistic	none	_	Begin=866.925	_	_	_	_
-327-1	BOI052	327	<adesso>	adesso	linguistic	none	_	End=868.115	_	Slow=0-6(0)	_	_
+327-1	BOI052	327	<adesso>	adesso	linguistic	none	_	End=868.115	_	Slow=0-6	_	_
 328-0	BOI052	328	ehm:	ehm	linguistic	none	_	Begin=868.355|End=869.205	2x1	_	_	_
 329-0	BOI052	329	una	una	linguistic	none	_	Begin=869.245	_	_	_	_
 329-1	BOI052	329	volta	volta	linguistic	none	_	_	_	_	_	_
@@ -2288,7 +2288,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 349-0	BOI052	349	la	la	linguistic	none	_	Begin=913.699	_	_	_	_
 349-1	BOI052	349	via	via	linguistic	none	_	_	_	_	_	_
 349-2	BOI052	349	del	del	linguistic	none	_	_	_	_	_	_
-349-3	BOI052	349	<pratello>	pratello	linguistic	none	_	End=915.039	_	Slow=0-8(0)	_	_
+349-3	BOI052	349	<pratello>	pratello	linguistic	none	_	End=915.039	_	Slow=0-8	_	_
 350-0	BOI052	350	adesso	adesso	linguistic	none	_	Begin=915.124	_	_	_	_
 350-1	BOI052	350	andiamo	andiamo	linguistic	none	_	_	_	_	_	_
 350-2	BOI052	350	da	da	linguistic	none	_	_	_	_	_	_
@@ -2355,7 +2355,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 358-4	BOI052	358	porte	porte	linguistic	none	_	_	_	_	_	_
 358-5	BOI052	358	che	che	linguistic	none	_	_	_	_	_	_
 358-6	BOI052	358	eh	eh	linguistic	none	_	_	_	_	_	_
-358-7	BOI052	358	<cingono>	cingono	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+358-7	BOI052	358	<cingono>	cingono	linguistic	none	_	_	_	Slow=0-7	_	_
 358-8	BOI052	358	questo	questo	linguistic	none	_	_	_	_	_	_
 358-9	BOI052	358	anello	anello	linguistic	none	_	End=938.225	_	_	_	_
 359-0	BOI052	359	e	e	linguistic	none	_	Begin=938.74	_	_	_	_
@@ -2564,7 +2564,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 391-4	BOI052	391	è	è	linguistic	none	_	_	_	_	_	_
 391-5	BOI052	391	il	il	linguistic	none	_	_	_	_	_	_
 391-6	BOI052	391	tribunale	tribunale	linguistic	none	_	_	_	_	_	_
-391-7	BOI052	391	<penale>	penale	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+391-7	BOI052	391	<penale>	penale	linguistic	none	_	_	_	Slow=0-6	_	_
 391-8	BOI052	391	penale	penale	linguistic	none	_	_	_	_	_	_
 391-9	BOI052	391	di	di	linguistic	none	_	_	_	_	_	_
 391-10	BOI052	391	bologna	bologna	linguistic	none	_	End=1026.925	_	_	_	_
@@ -2650,7 +2650,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 405-2	BOI052	405	e:h	eh	linguistic	none	_	_	0x1	_	_	_
 405-3	BOI052	405	>possiamo	possiamo	linguistic	none	_	_	_	Fast=0-8	_	_
 405-4	BOI052	405	dire<	dire	linguistic	none	_	_	_	Fast=0-4	_	_
-405-5	BOI052	405	<perpendicolare>	perpendicolare	linguistic	none	_	End=1060.515	_	Slow=0-14(0)	_	_
+405-5	BOI052	405	<perpendicolare>	perpendicolare	linguistic	none	_	End=1060.515	_	Slow=0-14	_	_
 406-0	BOI052	406	>cioè<	cioè	linguistic	none	_	Begin=1060.71|End=1060.93	_	Fast=0-4	_	_
 407-0	BOI052	407	si	si	linguistic	none	_	Begin=1061.315	_	_	_	_
 407-1	BOI052	407	finisce	finisce	linguistic	none	_	End=1062.225	_	_	_	_
@@ -2670,7 +2670,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 409-0	BOI052	409	è	è	linguistic	none	_	Begin=1066.925	_	_	_	_
 409-1	BOI052	409	proprio	proprio	linguistic	none	_	_	_	_	_	_
 409-2	BOI052	409	una	una	linguistic	none	_	_	_	_	_	_
-409-3	BOI052	409	<parallela>	parallela	linguistic	none	_	End=1068.535	_	Slow=0-9(0)	_	_
+409-3	BOI052	409	<parallela>	parallela	linguistic	none	_	End=1068.535	_	Slow=0-9	_	_
 410-0	BOI052	410	e	e	linguistic	none	_	Begin=1068.84	_	_	_	_
 410-1	BOI052	410	lì	lì	linguistic	none	_	_	_	_	_	_
 410-2	BOI052	410	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -2698,7 +2698,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 413-5	BOI052	413	dove	dove	linguistic	none	_	_	_	_	_	_
 413-6	BOI052	413	vendono	vendono	linguistic	none	_	_	_	_	_	_
 413-7	BOI052	413	il	il	linguistic	none	_	_	_	_	_	_
-413-8	BOI052	413	<pesce>	pesce	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+413-8	BOI052	413	<pesce>	pesce	linguistic	none	_	_	_	Slow=0-5	_	_
 413-9	BOI052	413	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 413-10	BOI052	413	[vendo]no	vendono	linguistic	none	_	_	_	_	_	0-5(19)
 413-11	BOI052	413	le	le	linguistic	none	_	_	_	_	_	_
@@ -2725,7 +2725,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 419-1	BOI052	419	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 419-2	BOI052	419	è	è	linguistic	none	_	_	_	_	_	_
 419-3	BOI052	419	questa	questa	linguistic	none	_	_	_	_	_	_
-419-4	BOI052	419	<via>	via	linguistic	none	_	End=1088.03	_	Slow=0-3(0)	_	_
+419-4	BOI052	419	<via>	via	linguistic	none	_	End=1088.03	_	Slow=0-3	_	_
 420-0	BOI052	420	poi	poi	linguistic	none	_	Begin=1088.38|End=1088.88	_	_	_	_
 421-0	BOI052	421	vabbè	vabbè	linguistic	none	_	Begin=1088.945	_	_	_	_
 421-1	BOI052	421	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -3318,7 +3318,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 510-2	BOI052	510	dato	dato	linguistic	none	_	End=1321.93	_	_	_	_
 511-0	BOI052	511	e	e	linguistic	none	_	Begin=1322.1	_	_	_	_
 511-1	BOI052	511	sta	sta	linguistic	none	_	_	_	_	_	_
-511-2	BOI052	511	<DAndo>	dando	linguistic	none	Volume=High	_	_	Slow=0-5(0)	_	_
+511-2	BOI052	511	<DAndo>	dando	linguistic	none	Volume=High	_	_	Slow=0-5	_	_
 511-3	BOI052	511	insomma	insomma	linguistic	none	_	End=1323.33	_	_	_	_
 512-0	BOI052	512	e:hm	ehm	linguistic	none	_	Begin=1324.04|End=1324.94	0x1	_	_	_
 513-0	BOI052	513	quindi	quindi	linguistic	none	_	Begin=1326.065	_	_	_	_
@@ -3523,7 +3523,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 538-7	BOI052	538	un	un	linguistic	none	_	_	_	_	_	_
 538-8	BOI052	538	tempo:	tempo	linguistic	none	_	End=1388.755	4x1	_	_	_
 539-0	BOR013	539	okay	okay	linguistic	none	_	Begin=1388.97|End=1389.32	_	_	_	_
-540-0	BOI052	540	<perché>	perché	linguistic	none	_	Begin=1389.48	_	Slow=0-6(0)	_	_
+540-0	BOI052	540	<perché>	perché	linguistic	none	_	Begin=1389.48	_	Slow=0-6	_	_
 540-1	BOI052	540	era	era	linguistic	none	_	_	_	_	_	_
 540-2	BOI052	540	più	più	linguistic	none	_	_	_	_	_	_
 540-3	BOI052	540	legata	legata	linguistic	none	_	_	_	_	_	_
@@ -3545,7 +3545,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 543-1	BOI052	543	venuto	venuto	linguistic	none	_	_	_	_	_	_
 543-2	BOI052	543	meno	meno	linguistic	none	_	_	_	_	_	_
 543-3	BOI052	543	quel	quel	linguistic	none	_	_	_	_	_	_
-543-4	BOI052	543	<sentimento>	sentimento	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+543-4	BOI052	543	<sentimento>	sentimento	linguistic	none	_	_	_	Slow=0-10	_	_
 543-5	BOI052	543	>secondo	secondo	linguistic	none	_	_	_	Fast=0-7	_	_
 543-6	BOI052	543	me<	me	linguistic	none	_	_	_	Fast=0-2	_	_
 543-7	BOI052	543	legato	legato	linguistic	none	_	_	_	_	_	_
@@ -3642,7 +3642,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 559-3	BOR013	559	a	a	linguistic	none	_	_	_	_	_	_
 559-4	BOR013	559	>proprio<	proprio	linguistic	none	_	_	_	Fast=0-7	_	_
 559-5	BOR013	559	a	a	linguistic	none	_	_	_	_	_	_
-559-6	BOR013	559	<bologna>	bologna	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+559-6	BOR013	559	<bologna>	bologna	linguistic	none	_	_	_	Slow=0-7	_	_
 559-7	BOR013	559	in	in	linguistic	none	_	_	_	_	_	_
 559-8	BOR013	559	città?	città	linguistic	none	Intonation=Rising	End=1440.07	_	_	_	_
 560-0	BOI052	560	no	no	linguistic	none	_	Begin=1440.665	_	_	_	_
@@ -3736,7 +3736,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 582-5	BOI052	582	preferisco	preferisco	linguistic	none	_	End=1479.89	_	_	_	_
 583-0	BOR013	583	[mh]	mh	linguistic	none	_	Begin=1478.3|End=1478.7	_	_	_	0-2(31)
 584-0	BOI052	584	preferisco	preferisco	linguistic	none	_	Begin=1480.34	_	_	_	_
-584-1	BOI052	584	<lavorare>	lavorare	linguistic	none	_	_	_	Slow=0-8(0)	_	_
+584-1	BOI052	584	<lavorare>	lavorare	linguistic	none	_	_	_	Slow=0-8	_	_
 584-2	BOI052	584	in	in	linguistic	none	_	_	_	_	_	_
 584-3	BOI052	584	città	città	linguistic	none	_	_	_	_	_	_
 584-4	BOI052	584	e	e	linguistic	none	_	_	_	_	_	_
@@ -4132,13 +4132,13 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 644-0	BOR013	644	((ride))	((ride))	nonverbalbehavior	none	_	Begin=1636.53|End=1637.309	_	_	_	_
 645-0	BOI052	645	c'	c'	linguistic	none	SpaceAfter=No	Begin=1638.834	_	_	_	_
 645-1	BOI052	645	è	è	linguistic	none	_	_	_	_	_	_
-645-2	BOI052	645	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
-645-3	BOI052	645	old	old	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-645-4	BOI052	645	bridge	bridge	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-645-5	BOI052	645	pub>	pub	linguistic	none	_	End=1640.564	_	Slow=0-2(0)	_	_
+645-2	BOI052	645	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2	_	_
+645-3	BOI052	645	old	old	linguistic	none	_	_	_	Slow=0-3	_	_
+645-4	BOI052	645	bridge	bridge	linguistic	none	_	_	_	Slow=0-6	_	_
+645-5	BOI052	645	pub>	pub	linguistic	none	_	End=1640.564	_	Slow=0-2	_	_
 646-0	BOI052	646	[la	la	linguistic	none	_	Begin=1641.124	_	_	_	0-2(34)
-646-1	BOI052	646	<vi]ctoria	victoria	linguistic	none	_	_	_	Slow=0-8(0)	_	0-2(34)
-646-2	BOI052	646	station>	station	linguistic	none	_	End=1642.674	_	Slow=0-7(0)	_	_
+646-1	BOI052	646	<vi]ctoria	victoria	linguistic	none	_	_	_	Slow=0-8	_	0-2(34)
+646-2	BOI052	646	station>	station	linguistic	none	_	End=1642.674	_	Slow=0-7	_	_
 647-0	BOR013	647	[mh]	mh	linguistic	none	_	Begin=1641.334|End=1641.606	_	_	_	0-2(34)
 648-0	BOI052	648	quindi	quindi	linguistic	none	_	Begin=1643.44	_	_	_	_
 648-1	BOI052	648	questi	questi	linguistic	none	_	_	_	_	_	_
@@ -4490,7 +4490,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 702-16	BOI052	702	piazza	piazza	linguistic	none	_	End=1770.41	_	_	_	_
 703-0	BOI052	703	dove	dove	linguistic	none	_	Begin=1771.25|End=1771.91	_	_	_	_
 704-0	BOI052	704	e:hm:	ehm	linguistic	none	_	Begin=1771.955|End=1773.645	0x1,2x1	_	_	_
-705-0	BOI052	705	<sotto>	sotto	linguistic	none	_	Begin=1773.805	_	Slow=0-5(0)	_	_
+705-0	BOI052	705	<sotto>	sotto	linguistic	none	_	Begin=1773.805	_	Slow=0-5	_	_
 705-1	BOI052	705	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 705-2	BOI052	705	al	al	linguistic	none	_	_	_	_	_	_
 705-3	BOI052	705	mercato	mercato	linguistic	none	_	End=1775.895	_	_	_	_
@@ -4895,7 +4895,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 768-8	BOI052	768	questi	questi	linguistic	none	_	_	_	_	_	_
 768-9	BOI052	768	edifici	edifici	linguistic	none	_	_	_	_	_	_
 768-10	BOI052	768	potevano	potevano	linguistic	none	_	_	_	_	_	_
-768-11	BOI052	768	<ampliare>	ampliare	linguistic	none	_	End=1922.32	_	Slow=0-8(0)	_	_
+768-11	BOI052	768	<ampliare>	ampliare	linguistic	none	_	End=1922.32	_	Slow=0-8	_	_
 769-0	BOI052	769	però	però	linguistic	none	_	Begin=1922.81	_	_	_	_
 769-1	BOI052	769	consentendo	consentendo	linguistic	none	_	_	_	_	_	_
 769-2	BOI052	769	il	il	linguistic	none	_	_	_	_	_	_
@@ -4935,7 +4935,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 775-3	BOI052	775	cosa	cosa	linguistic	none	_	_	_	_	_	_
 775-4	BOI052	775	che	che	linguistic	none	_	_	_	_	_	_
 775-5	BOI052	775	>questo<	questo	linguistic	none	_	_	_	Fast=0-6	_	_
-775-6	BOI052	775	<collegamento>	collegamento	linguistic	none	_	_	_	Slow=0-12(0)	_	_
+775-6	BOI052	775	<collegamento>	collegamento	linguistic	none	_	_	_	Slow=0-12	_	_
 775-7	BOI052	775	ecco	ecco	linguistic	none	_	_	_	_	_	_
 775-8	BOI052	775	sui	sui	linguistic	none	_	_	_	_	_	_
 775-9	BOI052	775	po~	po~	linguistic	none	Interrupted=Yes	_	_	_	_	_
@@ -5006,7 +5006,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 787-6	BOI052	787	di	di	linguistic	none	_	_	_	_	_	_
 787-7	BOI052	787	bologna	bologna	linguistic	none	_	_	_	_	_	_
 787-8	BOI052	787	da	da	linguistic	none	_	_	_	_	_	_
-787-9	BOI052	787	<tutte>	tutte	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+787-9	BOI052	787	<tutte>	tutte	linguistic	none	_	_	_	Slow=0-5	_	_
 787-10	BOI052	787	le	le	linguistic	none	_	_	_	_	_	_
 787-11	BOI052	787	altre	altre	linguistic	none	_	_	_	_	_	_
 787-12	BOI052	787	città	città	linguistic	none	_	End=1963.875	_	_	_	_
@@ -5337,7 +5337,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 848-0	BOI052	848	che	che	linguistic	none	_	Begin=2097.11	_	_	_	_
 848-1	BOI052	848	ho	ho	linguistic	none	_	_	_	_	_	_
 848-2	BOI052	848	proprio	proprio	linguistic	none	_	_	_	_	_	_
-848-3	BOI052	848	<notato>	notato	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+848-3	BOI052	848	<notato>	notato	linguistic	none	_	_	_	Slow=0-6	_	_
 848-4	BOI052	848	il	il	linguistic	none	_	_	_	_	_	_
 848-5	BOI052	848	fatto	fatto	linguistic	none	_	_	_	_	_	_
 848-6	BOI052	848	che	che	linguistic	none	_	_	_	_	_	_
@@ -5537,7 +5537,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 884-0	BOI052	884	e:h	eh	linguistic	none	_	Begin=2175.46	0x1	_	_	_
 884-1	BOI052	884	e	e	linguistic	none	_	_	_	_	_	_
 884-2	BOI052	884	vedere	vedere	linguistic	none	_	_	_	_	_	_
-884-3	BOI052	884	<tutta>	tutta	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+884-3	BOI052	884	<tutta>	tutta	linguistic	none	_	_	_	Slow=0-5	_	_
 884-4	BOI052	884	bologna	bologna	linguistic	none	_	_	_	_	_	_
 884-5	BOI052	884	dall'	dall'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 884-6	BOI052	884	alto	alto	linguistic	none	_	_	_	_	_	_
@@ -5771,7 +5771,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 922-1	BOI052	922	dicia~	dicia~	linguistic	none	Interrupted=Yes	_	_	Fast=0-6	_	_
 922-2	BOI052	922	era	era	linguistic	none	_	_	_	Fast=0-3	_	_
 922-3	BOI052	922	stata<	stata	linguistic	none	_	_	_	Fast=0-5	_	_
-922-4	BOI052	922	<portata>	portata	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+922-4	BOI052	922	<portata>	portata	linguistic	none	_	_	_	Slow=0-7	_	_
 922-5	BOI052	922	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 922-6	BOI052	922	inizio	inizio	linguistic	none	_	_	_	_	_	_
 922-7	BOI052	922	di	di	linguistic	none	_	_	_	_	_	_
@@ -5897,7 +5897,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 944-0	BOI052	944	c'	c'	linguistic	none	SpaceAfter=No	Begin=2322.32	_	_	_	_
 944-1	BOI052	944	è	è	linguistic	none	_	_	_	_	_	_
 944-2	BOI052	944	questo	questo	linguistic	none	_	_	_	_	_	_
-944-3	BOI052	944	<serpente>	serpente	linguistic	none	_	End=2323.76	_	Slow=0-8(0)	_	_
+944-3	BOI052	944	<serpente>	serpente	linguistic	none	_	End=2323.76	_	Slow=0-8	_	_
 945-0	BOI052	945	che	che	linguistic	none	_	Begin=2324.515	_	_	_	_
 945-1	BOI052	945	sale	sale	linguistic	none	_	_	_	_	_	_
 945-2	BOI052	945	e	e	linguistic	none	_	_	_	_	_	_
@@ -6096,7 +6096,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 984-2	BOI052	984	n~	n~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 984-3	BOI052	984	>alla	alla	linguistic	none	_	_	_	Fast=0-4	_	_
 984-4	BOI052	984	nostra<	nostra	linguistic	none	_	_	_	Fast=0-6	_	_
-984-5	BOI052	984	<provenienza>	provenienza	linguistic	none	_	End=2413.475	_	Slow=0-11(0)	_	_
+984-5	BOI052	984	<provenienza>	provenienza	linguistic	none	_	End=2413.475	_	Slow=0-11	_	_
 985-0	BOR013	985	mh	mh	linguistic	none	_	Begin=2413.8|End=2413.97	_	_	_	_
 986-0	BOI052	986	perché	perché	linguistic	none	_	Begin=2414.36	_	_	_	_
 986-1	BOI052	986	e:hm:	ehm	linguistic	none	_	End=2415.97	0x1,2x1	_	_	_
@@ -6559,7 +6559,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1068-2	BOI052	1068	è	è	linguistic	none	_	_	_	Fast=0-1	_	_
 1068-3	BOI052	1068	proprio<	proprio	linguistic	none	_	_	_	Fast=0-7	_	_
 1068-4	BOI052	1068	il	il	linguistic	none	_	_	_	_	_	_
-1068-5	BOI052	1068	<sapore>	sapore	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+1068-5	BOI052	1068	<sapore>	sapore	linguistic	none	_	_	_	Slow=0-6	_	_
 1068-6	BOI052	1068	no?	no	linguistic	none	Intonation=Rising	_	_	_	_	_
 1068-7	BOI052	1068	i	i	linguistic	none	_	_	_	_	_	_
 1068-8	BOI052	1068	il	il	linguistic	none	_	End=2611.52	_	_	_	_
@@ -6703,7 +6703,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1103-0	BOI052	1103	che	che	linguistic	none	_	Begin=2670.375	_	_	_	_
 1103-1	BOI052	1103	è	è	linguistic	none	_	_	_	_	_	_
 1103-2	BOI052	1103	il	il	linguistic	none	_	_	_	_	_	_
-1103-3	BOI052	1103	@nome<luogo>	@nomeluogo	linguistic	none	_	End=2672.545	_	Slow=5-10(0)	_	_
+1103-3	BOI052	1103	@nome<luogo>	@nomeluogo	linguistic	none	_	End=2672.545	_	Slow=5-10	_	_
 1104-0	BOI052	1104	di	di	linguistic	none	_	Begin=2672.765	_	_	_	_
 1104-1	BOI052	1104	bologna	bologna	linguistic	none	_	End=2673.625	_	_	_	_
 1105-0	BOI052	1105	che	che	linguistic	none	_	Begin=2674.42	_	_	_	_
@@ -6765,9 +6765,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1117-0	BOI052	1117	c'	c'	linguistic	none	SpaceAfter=No	Begin=2699.044	_	_	_	_
 1117-1	BOI052	1117	è	è	linguistic	none	_	_	_	_	_	_
 1117-2	BOI052	1117	il	il	linguistic	none	_	_	_	_	_	_
-1117-3	BOI052	1117	<famoso	famoso	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-1117-4	BOI052	1117	bar	bar	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-1117-5	BOI052	1117	zanarini>	zanarini	linguistic	none	_	End=2702.034	_	Slow=0-8(0)	_	_
+1117-3	BOI052	1117	<famoso	famoso	linguistic	none	_	_	_	Slow=0-6	_	_
+1117-4	BOI052	1117	bar	bar	linguistic	none	_	_	_	Slow=0-3	_	_
+1117-5	BOI052	1117	zanarini>	zanarini	linguistic	none	_	End=2702.034	_	Slow=0-8	_	_
 1118-0	BOI052	1118	e	e	linguistic	none	_	Begin=2702.254	_	_	_	_
 1118-1	BOI052	1118	la	la	linguistic	none	_	_	_	_	_	_
 1118-2	BOI052	1118	famosa	famosa	linguistic	none	_	_	_	_	_	_
@@ -6964,7 +6964,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1152-3	BOI052	1152	>di	di	linguistic	none	_	_	_	Fast=0-2	_	_
 1152-4	BOI052	1152	cui	cui	linguistic	none	_	_	_	Fast=0-3	_	_
 1152-5	BOI052	1152	abbiam<	abbiam	linguistic	none	_	_	_	Fast=0-6	_	_
-1152-6	BOI052	1152	<parlato>	parlato	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+1152-6	BOI052	1152	<parlato>	parlato	linguistic	none	_	_	_	Slow=0-7	_	_
 1152-7	BOI052	1152	prima	prima	linguistic	none	_	End=2780.645	_	_	_	_
 1153-0	BOI052	1153	si	si	linguistic	none	_	Begin=2782.07	_	_	_	_
 1153-1	BOI052	1153	son	son	linguistic	none	_	_	_	_	_	_
@@ -7183,7 +7183,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1195-1	BOI052	1195	arrivare	arrivare	linguistic	none	_	_	_	_	_	_
 1195-2	BOI052	1195	ad	ad	linguistic	none	_	_	_	_	_	_
 1195-3	BOI052	1195	un:	un	linguistic	none	_	_	1x1	_	_	_
-1195-4	BOI052	1195	<equilibrio>	equilibrio	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+1195-4	BOI052	1195	<equilibrio>	equilibrio	linguistic	none	_	_	_	Slow=0-10	_	_
 1195-5	BOI052	1195	energetico	energetico	linguistic	none	_	End=2875.53	_	_	_	_
 1196-0	BOI052	1196	oltre	oltre	linguistic	none	_	Begin=2876.345	_	_	_	_
 1196-1	BOI052	1196	a	a	linguistic	none	_	_	_	_	_	_

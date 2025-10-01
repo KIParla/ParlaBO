@@ -1,22 +1,22 @@
 BOR031	okay
-BOR031	allora  voi avete sempre vissuto a medicina
+BOR031	allora voi avete sempre vissuto a medicina
 BOR031	siete nati qua
-BOR031	ehm  mh o v~ o siete non lo so
+BOR031	ehm mh o v~ o siete non lo so
 BOI115	
 BOR031	okay vado io
 BOI115	
-BOR031	ehm nati tutti e due a imola  eh abitiamo sì da sempre a medicina però prima eh abitavamo
+BOR031	ehm nati tutti e due a imola eh abitiamo sì da sempre a medicina però prima eh abitavamo
 BOR031	okay
 BOI115	mhmh
 BOR031	più vicino a ganzanigo comunque sempre una frazione di medicina
 BOR031	ah okay
 BOI115	mhmh
 BOR031	comunque sì sempre a medicina
-BOI115	okay e quindi avete frequentato le scuole qua  a medicina o xxxx
+BOI115	okay e quindi avete frequentato le scuole qua a medicina o xxxx
 BOI116	sì il liceo tutti e due a medicina il liceo scientifico e
 BOR031	si xx
 BOI116	mhmh
-BOI115	medie elementari  tutto a medicina
+BOI115	medie elementari tutto a medicina
 BOR031	sì esatto anche le medie a medicina
 BOR031	okay
 BOI115	e quindi qua ci sono anche le scuole superiori x a~ adatte
@@ -36,7 +36,7 @@ BOI115	okay
 BOR031	dato che la scuola era piccolina
 BOI115	mhmh
 BOR031	e poi più comodo perché comunque vicino casa
-BOI116	sì  sì sì sì
+BOI116	sì sì sì sì
 BOR031	sì cioè non svegliarsi
 BOI116	
 BOR031	quaranta minuti e non due ore prima è
@@ -44,21 +44,21 @@ BOR031	sì
 BOI116	sì sì
 BOR031	molto comodo
 BOR031	sì poi magari effettivamente è più piccola come scuola
-BOI116	più  privata
+BOI116	più privata
 BOI115	sì alla fine è una classe ogni anno più o meno
 BOR031	sì sì
 BOI116	ah beh
 BOR031	sì di liceo
-BOI115	bella  xx
+BOI115	bella xx
 BOI116	sì
 BOI116	ogni ogni tanto due
 BOI115	però
 BOR031	sì sì sì
-BOR031	okay okay  capito
+BOR031	okay okay capito
 BOI115	e voi adesso cosa fate studiate lavorate ehm
 BOI116	sì
 BOR031	sì studiamo entrambi io faccio fisica
-BOR031	mh  okay
+BOR031	mh okay
 BOI115	eh
 BOR031	e io invece ostetricia sono al primo anno e l'anno scorso avevo iniziato un altro percorso ctf
 BOR031	okay
@@ -69,7 +69,7 @@ BOI115	non ti piaceva o xxx
 BOR031	no non tanto
 BOI115	okay
 BOR031	anche perché è stato il piano bi perché volevo fare medicina solo che non è andato bene quindi
-BOR031	ah  okay
+BOR031	ah okay
 BOR031	mhmhmh
 BOR031	e entrambi a bologna
 BOI115	immagino
@@ -81,16 +81,16 @@ BOI116	molto bene
 BOI115	sì bene bene
 BOR031	sì
 BOR031	ehm
-BOR031	cioè cosa  non so  cosa vi piace in particolare del fatto
+BOR031	cioè cosa non so cosa vi piace in particolare del fatto
 BOR031	che studiate a bologna
-BOI115	cioè pensate che sia organizzato bene non lo so  mh
+BOI115	cioè pensate che sia organizzato bene non lo so mh
 BOI115	allora de eh
 BOI115	il mio corso
 BOI115	ehm secondo me la pecca è che
 BOI115	essendo diviso in eh eh
 BOR031	ostetricia è diviso in bologna e rimini
 BOI115	okay
-BOR031	e cesena quindi anche i tirocini sono eh divisi in queste sedi  e tipo
+BOR031	e cesena quindi anche i tirocini sono eh divisi in queste sedi e tipo
 BOI115	mh
 BOR031	se una persona ehm magari non riesce ad accedere a bologna perché comunque c'è tutta una mh selezione
 BOI115	sì sì
@@ -107,12 +107,12 @@ BOI115	ah
 BOI115	ma si studia duran~ cioè
 BOR031	gli esami ci son sempre infatti il primo esame l'ho dato
 BOI115	oddio
-BOR031	dopo  un mese
+BOR031	dopo un mese
 BOR031	ah
 BOI115	
 BOR031	sì sì sì e ci sono anche oggi ho dato un'esame ci sono esami sempre e si studia anche durante il tirocinio anzi per forza
 BOR031	madonna
-BOI115	okay  wow
+BOI115	okay wow
 BOR031	quindi non c'è un periodo di stop che dici studio e basta
 BOI115	mhmhmh
 BOI115	poi può essere una cosa
@@ -123,7 +123,7 @@ BOR031	il corso il corso di ostetricia e anche di infermieristica a quanto ho ca
 BOR031	ah
 BOR031	ah okay
 BOI115	okay e quindi ti piace però come è organizzato a bologna cioè sei contenta di frequentare xx
-BOR031	sì nono~ sì nonostante queste cose che mi portano un po' di stress però  tutto bene
+BOR031	sì nono~ sì nonostante queste cose che mi portano un po' di stress però tutto bene
 BOR031	okay
 BOR031	
 BOR031	
@@ -135,7 +135,7 @@ BOR031	sì
 BOI115	mhmh
 BOR031	interessi anche a migliorarla
 BOR031	okay
-BOI116	ah bene  bene son contento  e tu invece come ti trovi
+BOI116	ah bene bene son contento e tu invece come ti trovi
 BOR031	no io mi son trovato bene ovviamente più classica come struttura rispetto alla sua quindi c'è la sessione eh
 BOR031	mhmh
 BOI116	sì sì sì
@@ -146,16 +146,16 @@ BOI116	è fisica
 BOR031	lo sapevo già
 BOI116	
 BOI116	quindi quindi va bene
-BOR031	non so come sono strutturate come corsi come materie gli altri perché non ci ho prestato troppa  non ho ricercato troppo
+BOR031	non so come sono strutturate come corsi come materie gli altri perché non ci ho prestato troppa non ho ricercato troppo
 BOI116	okay
 BOI116	altre cose
 BOI116	e però mi mh
 BOR031	punto soprattutto alle alle magistrali che sono a bologna
 BOI116	mhmh
 BOR031	che son tutte in lingua inglese
-BOI116	ah  interessante
+BOI116	ah interessante
 BOR031	e che quindi danno un titolo doppio
-BOI116	ah sì  sì sì sì
+BOI116	ah sì sì sì sì
 BOR031	diciamo sia europeo che italiano
 BOI116	mhmh
 BOI116	che comunque secondo me è un valore aggiunto
@@ -173,16 +173,16 @@ BOR031	okay
 BOR031	bene
 BOR031	ehm
 BOR031	a bologna oltre all'università cioè vi piace andarci magari
-BOI115	per girare per eh  fare  cose
+BOI115	per girare per eh fare cose
 BOR031	sicuramente per eh via indipendenza per un po' di shopping sì
 BOR031	oltre a studiare
 BOR031	mhmh
 BOI115	okay
 BOI115	e ma anche il centro secondo me è molto bello
 BOI115	ehm
-BOR031	però  io non ci vado spesso sia perché comunque
+BOR031	però io non ci vado spesso sia perché comunque
 BOI115	okay
-BOR031	molti miei amici sono qua  mh poi faccio anche pallavolo quindi sono anche un po' occupata in quello
+BOR031	molti miei amici sono qua mh poi faccio anche pallavolo quindi sono anche un po' occupata in quello
 BOI115	mh
 BOI115	però quando eh soprattutto in mh
 BOI115	primavera così che si esce un po' di più
@@ -221,7 +221,7 @@ BOI116	xx in periferia sì
 BOR031	sì sì
 BOR031	e
 BOR031	vi co~ considereste bologna come una città dove magare poter andare a vivere
-BOI115	cioé se vi immaginate  di potervi trasferire lì eventualmente
+BOI115	cioé se vi immaginate di potervi trasferire lì eventualmente
 BOR031	no io sinceramente no
 BOR031	non vi piace
 BOI115	okay
@@ -244,7 +244,7 @@ BOR031	ah ci sta
 BOR031	okay e medicina invece
 BOI115	cosa cosa ne pensi
 BOR031	ah medicina non è troppo caotica alla fine quindi mh
-BOI115	eh no infatti  sì
+BOI115	eh no infatti sì
 BOR031	c'è pace
 BOI115	
 BOI115	e mh collegata anche molto bene
@@ -261,7 +261,7 @@ BOR031	ehm cioé l'unica realtà di città che conosoco è quella di bologna qui
 BOR031	mh
 BOI116	xx
 BOI116	vedere un po' qualcos'altro e poi
-BOR031	vede~ xx comunque avere una mh  qualcosa da confrontare
+BOR031	vede~ xx comunque avere una mh qualcosa da confrontare
 BOI116	okay
 BOI116	e anche a bologna non sarebbe male però
 BOI116	tutto sommato ehm
@@ -270,7 +270,7 @@ BOI116	sì
 BOR031	conviviale
 BOI116	mhmh
 BOI115	e quindi mh non
-BOI116	però xx  però caotica eh cioè proprio
+BOI116	però xx però caotica eh cioè proprio
 BOI116	un pensiero ce lo potrei fare
 BOR031	eh secondo me poi dipende anche dalle zone non in centro in centro ma ti trovi un quartiere più distaccato
 BOI116	sì
@@ -283,12 +283,12 @@ BOI115	però
 BOR031	non mh non lo sapevo
 BOR031	
 BOR031	
-BOR031	sì mh  tanti turisti tante
+BOR031	sì mh tanti turisti tante
 BOR031	cioè mh
-BOR031	che prima non c'erano  effettivamente
+BOR031	che prima non c'erano effettivamente
 BOI115	e ci sono tante persone che parlano non che non parlano italiano quando vai in giro in giro a bologna
 BOI115	ah beh sì
-BOI115	mhmh  sì è vero
+BOI115	mhmh sì è vero
 BOR031	quello è vero l'ho notato
 BOR031	ehm ma quindi medicina vi piace come città in generale
 BOI115	cioè se ci s~ mh sì questo
@@ -303,7 +303,7 @@ BOI115	però comunque
 BOI115	mh una volta che hai
 BOI115	appunto vent'anni
 BOI115	hai già la patente magari puoi spostarti e fare ed essere più indipendente
-BOI115	mentre  se  eh quan~
+BOI115	mentre se eh quan~
 BOI115	cioè un po' prima no a diec'anni
 BOR031	è perfetta secondo me come città perché
 BOI115	okay
@@ -318,7 +318,7 @@ BOI116	sì sì esatto
 BOR031	sì
 BOR031	eh beh a te che piace il verde
 BOI115	é buona cosa
-BOR031	esatto  esatto
+BOR031	esatto esatto
 BOR031	
 BOR031	ehm
 BOR031	sì cioè quindi
@@ -340,11 +340,11 @@ BOI116	tipo il bar della piscina per dire
 BOR031	esatto il bar della piscina che è stato rinnovato da da poco
 BOI115	mh
 BOR031	ci sono
-BOI115	cosa  cosa fanno eh
+BOI115	cosa cosa fanno eh
 BOI115	ci sono molti ragazzi giovani che comunque
 BOR031	mh tipo il giovedì fanno una serata a tema
 BOI115	ah
-BOI115	oppure  anche ehm ogn~ l'estate ogni lunedì c'è proprio
+BOI115	oppure anche ehm ogn~ l'estate ogni lunedì c'è proprio
 BOR031	una sorta di discoteca
 BOI115	mhmh
 BOR031	ehm
@@ -353,7 +353,7 @@ BOI116	sì
 BOR031	sì sì sì l'hanno l'hanno rinnovato per~ hanno cambiato gestione
 BOI115	okay
 BOI116	esatto
-BOI115	x  rinnovato da quanti  tre anni mh
+BOI115	x rinnovato da quanti tre anni mh
 BOI115	esatto
 BOI115	mhmh
 BOI116	sì da mh non so da quanto però da poco comunque prima ad esempio io non ci andavo quasi mai al bar della piscina adesso invece
@@ -361,12 +361,12 @@ BOR031	xxxx
 BOI115	mhmh
 BOI115	con questa nuova gestione
 BOR031	mi piace di più andare
-BOI115	eh attirano di più  le persone
+BOI115	eh attirano di più le persone
 BOI115	
 BOI115	eh sì
-BOR031	mhmh  sì
+BOR031	mhmh sì
 BOI116	più giovani per for~ no sono contento bene
-BOI115	sì  sì sì
+BOI115	sì sì sì
 BOI115	però del resto
 BOR031	non vedo altri cambiamenti
 BOI115	mh okay
@@ -396,7 +396,7 @@ BOI115	avete fatto bene
 BOR031	sì xx
 BOI115	ehm i~ io so che a voi a medicina c'è questa festa mi sembra quella del del barbarossa credo che si chiami
 BOR031	sì sì anche quello
-BOI115	che anche quello  che attira anche quella molte persone è ve~ voi ci andate
+BOI115	che anche quello che attira anche quella molte persone è ve~ voi ci andate
 BOI116	anche quello
 BOI115	sì tantissime
 BOR031	sempre ogni anno
@@ -404,12 +404,12 @@ BOI115	e co~ com'è che funziona mh più o meno
 BOR031	mh
 BOI115	me l'han detto però non è che
 BOI115	allora c'è una volta all'anno eh durante settembre
-BOI116	dura tre giorni  o quattro
+BOI116	dura tre giorni o quattro
 BOI115	ci~ no da venerdì a domenica
 BOI116	eh esatto da venerdì a domenica
 BOR031	sì
 BOI115	okay
-BOR031	e in cui eh  tutti ci vestiamo a tema del medioevo appunto
+BOR031	e in cui eh tutti ci vestiamo a tema del medioevo appunto
 BOI115	mh
 BOI115	e si fanno le varie sfilate ma poi
 BOI115	ad ogni ora perché dura dalla mattina alla sera
@@ -420,14 +420,14 @@ BOR031	i duelli oppure delle cose di recitazione
 BOI116	ah
 BOI115	sì sì
 BOI115	ehm mh
-BOR031	poi  cosa c'è ah il giro con gli con gli animali con i cavalli tipo
+BOR031	poi cosa c'è ah il giro con gli con gli animali con i cavalli tipo
 BOR031	
 BOI115	ah bello
 BOI115	no è molto bello
-BOR031	e anche là vengono persone  mh da tutte le parti
+BOR031	e anche là vengono persone mh da tutte le parti
 BOI115	ho ho capito
 BOI116	cioè da tutte le parti poi xx
-BOR031	vabbè nel nel circondario  è quello sì sì
+BOR031	vabbè nel nel circondario è quello sì sì
 BOI115	in zona
 BOI115	non
 BOR031	esatto esatto
@@ -463,12 +463,12 @@ BOI115
 BOR031	bello più che altro quando arrivi in cima
 BOI115	mhmh
 BOI115	mh perché poi
-BOR031	tutta la gradinata dopo un po' stanca cioè è un po'  diciamo pallosa
-BOR031	eh sì  sì è faticoso
+BOR031	tutta la gradinata dopo un po' stanca cioè è un po' diciamo pallosa
+BOR031	eh sì sì è faticoso
 BOI115	okay
 BOI115	perché comunque è bella lunga ci metti un bel po' e devi solo
-BOR031	fare dei gradini non è che ci sono attrazioni  secondo me
-BOI115	ah  mh
+BOR031	fare dei gradini non è che ci sono attrazioni secondo me
+BOI115	ah mh
 BOR031	poi invece quando arrivi in cima vedi tutto il panorama mh tutto tutto più bello
 BOR031	sì
 BOI115	okay
@@ -479,7 +479,7 @@ BOI115	no si beh una volta magari basta
 BOR031	sì esa~ ma sì ehm anche altre volte però
 BOI115	non spesso ecco
 BOR031	esatto
-BOI115	e sulle torri  in teoria non non ci dovreste essere andate
+BOI115	e sulle torri in teoria non non ci dovreste essere andate
 BOR031	no
 BOI116	no zero okay
 BOR031	questo lo sappiamo
@@ -492,14 +492,14 @@ BOI115	x c'è un mio amico che veniva a visitare bologna ho detto come faccio a 
 BOI115	sì eh
 BOI115	quello è vero se viene una volta
 BOR031	
-BOR031	belle poi adesso  ah c'è un problema  con le torri
+BOR031	belle poi adesso ah c'è un problema con le torri
 BOI115	che l'avete visto no
 BOI116	sì ho visto
 BOI115	ah sì sì l'abbiamo visto
 BOR031	che una è no xxxxx una
 BOI116	sì sì sì una
 BOR031	no no una
-BOI115	la  quella più bassa
+BOI115	la quella più bassa
 BOI115	sì ho visto
 BOR031	sì la stanno mhmh
 BOI116	
@@ -513,10 +513,10 @@ BOI115	sì
 BOR031	ci sono tutte del mh delle scale
 BOI115	è una scala a chiocciola
 BOR031	ah a chiocciola
-BOI115	co~ cioè a lati quella a lato non so come spiegarlo bene  che che fai questa spirale e arrivi fino a su è mh è faticoso molto faticoso
+BOI115	co~ cioè a lati quella a lato non so come spiegarlo bene che che fai questa spirale e arrivi fino a su è mh è faticoso molto faticoso
 BOI116	mhmh
 BOR031	xx
-BOI115	perché è alta però è bellissima arrivi su e vedi  vedi tutto
+BOI115	perché è alta però è bellissima arrivi su e vedi vedi tutto
 BOR031	tutto che bello
 BOR031	sì sì sì
 BOI115	mh
@@ -561,7 +561,7 @@ BOI116	mhmh
 BOR031	penso di non averli mai assaggiati proprio
 BOI116	addirittura
 BOI116	sì mh non
-BOI116	mai  alla fine
+BOI116	mai alla fine
 BOI116	eh però sì la differenza si sente
 BOI116	abbastanza anche perché comunque noi ci spostiamo per eh
 BOI116	ehm
@@ -583,7 +583,7 @@ BOR031	e io so che eh i vostri genitori
 BOR031	eh non sono nati qua
 BOI115	da quello che ho capito
 BOR031	no calabresi
-BOR031	e voi però avete  mai avuto contatti con cioé con la mh
+BOR031	e voi però avete mai avuto contatti con cioé con la mh
 BOI115	non so come come come funziona quindi non entrate nel dettaglio però mh siete mai andati a vedere non so se avete parte della famiglia là
 BOR031	mh
 BOI115	o se siete xx
@@ -609,12 +609,12 @@ BOI115	emigrati di massa
 BOR031	sì
 BOI116	ah
 BOI115	xxxxxxx
-BOI116	c'è chi è andato a roma c'è chi è andato in eh mh  a siena
+BOI116	c'è chi è andato a roma c'è chi è andato in eh mh a siena
 BOR031	
 BOI115	mhmh
 BOI115	e altri sono restati
 BOR031	e gli altri sono qua a bologna
-BOI115	mh  okay
+BOI115	mh okay
 BOR031	però sì ci andiam sempre comunque
 BOI116	mhmhmh
 BOI115	sì cioè una tappa fissa d'estate
@@ -628,16 +628,16 @@ BOR031	sì
 BOI115	ho capito
 BOR031	sì
 BOI115	okay okay
-BOR031	poi vabbè lì siamo i bolognesi qua siamo i calabresi  quindi cioè non si capisce
+BOR031	poi vabbè lì siamo i bolognesi qua siamo i calabresi quindi cioè non si capisce
 BOI116	ah
 BOI115	
 BOI115	boh
 BOR031	però sì ci andiam sempre
-BOR031	sì  eh mh
+BOR031	sì eh mh
 BOR031	siete mai stati in dei musei non lo so a bologna o a delle mostre magari con i vostri genitori
 BOR031	eh diciamo
-BOI115	eventi più  culturali  eh
-BOR031	allora sì  molto poco
+BOI115	eventi più culturali eh
+BOR031	allora sì molto poco
 BOI115	okay
 BOR031	e non mi ricordo eh che museo era
 BOI115	mhmh
@@ -650,7 +650,7 @@ BOR031	forse xx x quello egizio
 BOR031	mhmh
 BOI115	mhmh
 BOI116	sì
-BOI115	sì con  però con la scuola xx
+BOI115	sì con però con la scuola xx
 BOI116	ah anche a villanova però non è proprio bologna
 BOI115	sing~ singolarmente
 BOI116	no x
@@ -665,8 +665,8 @@ BOR031	sì con la scuola poi con mamma boh non mi ricordo comunque non ci presto
 BOR031	okay
 BOR031	okay okay
 BOR031	no mh ci sta
-BOR031	e ci sono eh dei locali  particolari
-BOR031	eh  per uscire tipo la sera non so se se mai se andate mai a bologna la sera
+BOR031	e ci sono eh dei locali particolari
+BOR031	eh per uscire tipo la sera non so se se mai se andate mai a bologna la sera
 BOI115	xxx
 BOI115	ehmh
 BOR031	poco
@@ -678,13 +678,13 @@ BOI115	mhmh
 BOR031	tipo una volta l'ultima volta siamo andati a dragon pub
 BOI115	ah ah
 BOI116	perché mh quello è un locale che sta aperto fino alle
-BOI115	ah sì  mhmh
+BOI115	ah sì mhmh
 BOI115	penso due di notte
 BOR031	e noi quella volta avevamo una partita a bologna abbiam finito a mezzanotte e siamo andati là
 BOI115	mhmh
 BOR031	l'uni~ uno dei pochi aperti che mh sta aperto appunto fino a tardi
 BOI115	okay
-BOR031	e ovviamente stavamo morendo di  fame
+BOR031	e ovviamente stavamo morendo di fame
 BOI116	
 BOI115	
 BOI115	siamo andati là
@@ -699,13 +699,13 @@ BOI115	allora vi seguiamo
 BOR031	mh
 BOI115	okay
 BOR031	qua più vicino
-BOI115	mhmh e imola vi vi p~ c~ ci andate spesso non so  o
+BOI115	mhmh e imola vi vi p~ c~ ci andate spesso non so o
 BOR031	mh ultimamente più spesso sì
 BOR031	okay
-BOI115	e  perché lì ci sono posti che vi attraggono di più rispetto a bologna
-BOI115	sì sì  ci sono più mh
+BOI115	e perché lì ci sono posti che vi attraggono di più rispetto a bologna
+BOI115	sì sì ci sono più mh
 BOR031	allora a me piace di più forse anche più di medicina
-BOI115	ah beh  xx
+BOI115	ah beh xx
 BOR031	però non lo so
 BOI115	
 BOI115	perche è emh
@@ -729,14 +729,14 @@ BOI116	cos'è xxx
 BOI115	è un messica~ è un messicano
 BOR031	è il ristorante messicano che però è anche pub quindi noi l'altra volta siamo andati più per il pub
 BOI116	ah okay
-BOR031	sì è un pub eh  un pub con cucina
+BOR031	sì è un pub eh un pub con cucina
 BOI115	okay
 BOR031	esatto
 BOI115	bello
 BOR031	e comunque sì imola mi piace x
 BOI115	okay
-BOR031	anche più  mh bellina
-BOI115	mhmh  e avete gli amici lì non lo so perché dato che fate pallavolo a sesto imolese
+BOR031	anche più mh bellina
+BOI115	mhmh e avete gli amici lì non lo so perché dato che fate pallavolo a sesto imolese
 BOR031	sì sì sì ci sono alcuni che abitano a ferrara
 BOI116	okay
 BOI115	sì diciamo è mh non una via di mezzo ma quasi tra quelli che vengono da ravenna e da quelli che vengono da medicina
@@ -747,7 +747,7 @@ BOR031	sì
 BOI115	mhmh
 BOR031	esatto
 BOR031	sì è anche più raggiungibile penso dal di qua
-BOI115	rispetto a bologna  o sbaglio
+BOI115	rispetto a bologna o sbaglio
 BOI116	sì sì sì sì
 BOI115	sì sì sì
 BOI116	ci mettiamo venti minuti
@@ -760,11 +760,11 @@ BOR031	e comunque sì è una buona via di mezzo secondo me
 BOR031	mhmh
 BOR031	okay e di mh
 BOR031	mh medicina ci sono delle cose che
-BOI115	ehm  modifichereste cioé mi sembra che vi piaccia abbastanza come città da quello che ho capito
+BOI115	ehm modifichereste cioé mi sembra che vi piaccia abbastanza come città da quello che ho capito
 BOR031	sì
-BOR031	però  se doveste pensare
-BOR031	a cose negative non lo so  apparte il fatto magari che non è troppo viva
-BOI115	eh ci sono dei  problemi
+BOR031	però se doveste pensare
+BOR031	a cose negative non lo so apparte il fatto magari che non è troppo viva
+BOI115	eh ci sono dei problemi
 BOR031	mh
 BOR031	non so mh
 BOI116	possono anche non esserci eh
@@ -778,22 +778,22 @@ BOI115	sì
 BOR031	anche mh sì è pulita anche ben organizzata comunque con i i mh nuovi
 BOI115	mhmh
 BOR031	cassonetti della spazzatura diciamo
-BOR031	ah  okay
+BOR031	ah okay
 BOI115	sì sì sì
 BOI116	ehm xxx
-BOI115	magari la  riaprire la tratta della stazione
+BOI115	magari la riaprire la tratta della stazione
 BOI116	ah ecco
 BOI115	perché c'è la stazione chiusa cioé una mh una fermata alla stazione
 BOR031	è vero
 BOI116	mhmh
 BOR031	e adesso ci fanno passare gli autobus però l'hanno soppressa
 BOI116	ma da quando
-BOI115	non lo so  tanti anni fa
+BOI115	non lo so tanti anni fa
 BOR031	da un sacco di tempo mhmh sì solo che sarebbe molto comoda
 BOI116	ah tanti anni fa
 BOI116	tanti anni fa sì sì sì
 BOR031	però c'è ancora la stazione di medicina c'è la struttura
-BOI116	ma è aspetta la stazione dei  dei  dei treni
+BOI116	ma è aspetta la stazione dei dei dei treni
 BOI115	vuota
 BOI116	sì
 BOR031	s ìsì dei treni dei treni
@@ -822,13 +822,13 @@ BOI115	cioé non hanno tolto le cose è soltanto spe~ cioé non attiva
 BOR031	no
 BOI115	strano
 BOI115	sì sì
-BOI116	la stanno usando come  deposito degli autobus come si dice
+BOI116	la stanno usando come deposito degli autobus come si dice
 BOI115	stazione degli autobus
 BOR031	stazione degli autobus
-BOI115	ah è vero  è vero è vero ci ho fatto x non non mi ricordavo  è vero
+BOI115	ah è vero è vero è vero ci ho fatto x non non mi ricordavo è vero
 BOR031	mh
 BOR031	e e x cioé dato che hanno fatto questa cosa del che hanno chiuso
-BOI115	hanno messo più autobus almeno  o è
+BOI115	hanno messo più autobus almeno o è
 BOI116	sì dai
 BOI115	cioé non sappiamo la differenza perché mh
 BOI116	sì vabbè è successo un sacco di anni fa
@@ -850,9 +850,9 @@ BOI115	mhmh
 BOI116	sì andiamo in macchina x due
 BOI116	per due se dobbiamo andare andiamo in macchina
 BOI116	però anche là penso
-BOI116	un'ora e mezza comunque verso  imola o
+BOI116	un'ora e mezza comunque verso imola o
 BOI116	lugo penso lo sa
-BOR031	sì vabbè  imola lugo mh
+BOR031	sì vabbè imola lugo mh
 BOI116	mhmh
 BOI116	ce ne sono pochi xxx
 BOI115	prestano più attenzione a castenaso
@@ -862,7 +862,7 @@ BOR031	okay
 BOR031	okay
 BOR031	eh vi faccio la stessa la stessa domanda però con bologna ci sono cose che
 BOR031	modifiche~ cioé che non vi piacciono magari
-BOI115	eh  per i come per come è organizzata per come non lo so mh
+BOI115	eh per i come per come è organizzata per come non lo so mh
 BOR031	mh
 BOR031	certi aspetti
 BOI115	eh
@@ -872,10 +872,10 @@ BOI115
 BOR031	ci devo pensare
 BOI115	okay
 BOI116	eh
-BOI116	eh io  più contro perché un gio~ c'è questo aneddotto che un giorno
+BOI116	eh io più contro perché un gio~ c'è questo aneddotto che un giorno
 BOR031	e sono andato all'università dovevo cambiare struttura
 BOI116	okay
-BOR031	e ho trovato praticamente un eroinomane  in mh
+BOR031	e ho trovato praticamente un eroinomane in mh
 BOI116	ah
 BOR031	in un parcheggio
 BOI116	okay
@@ -910,7 +910,7 @@ BOR031	a mangiare no eh allora mh mangiare a bologna
 BOI116	okay
 BOI115	
 BOI116	mh
-BOR031	l'altra volta siamo andati in una rosticceria   bruttissima
+BOR031	l'altra volta siamo andati in una rosticceria bruttissima
 BOR031	mhmh
 BOI116	
 BOI116	
@@ -924,9 +924,9 @@ BOR031	tralasciamo
 BOI116	ottimo
 BOR031	tralasciamo questi questi aspetti
 BOI116	
-BOI116	e no  una volta sono andato a mh
+BOI116	e no una volta sono andato a mh
 BOR031	a un ramen bar
-BOI116	ah  e com'è
+BOI116	ah e com'è
 BOI116	eh molto buono molto comunque famoso qua
 BOI116	cioé a bologna comunque è famoso
 BOR031	ma mangiare altre cose niente di che il mc quelle volte che ci andavamo in via indipendenza
@@ -940,16 +940,16 @@ BOI115	va bene
 BOR031	vabbè che noi non andiamo spesso a mangiare fuori per ristoranti così
 BOI115	mh
 BOI115	mh
-BOR031	le gelaterie son  buone
+BOR031	le gelaterie son buone
 BOR031	ah
 BOI115	
 BOR031	e no però non mi viene in mente nessun ristorante
 BOR031	okay va bene
-BOR031	e la la conoscete l'iniziativa quella della  della cineteca mi sembra che si chiami  de~ che c'è il maxi schermo
-BOR031	eh non so se l'avete mai vista in piazza maggiore  d'estate per un mese credo mettono
+BOR031	e la la conoscete l'iniziativa quella della della cineteca mi sembra che si chiami de~ che c'è il maxi schermo
+BOR031	eh non so se l'avete mai vista in piazza maggiore d'estate per un mese credo mettono
 BOI115	questo schermo enorme
 BOR031	eh l'ho visto una volta sì
-BOI115	okay  non ci siete mai andati
+BOI115	okay non ci siete mai andati
 BOR031	però non ci sono no
 BOI116	neanche tu
 BOR031	no mai
@@ -959,7 +959,7 @@ BOI116	no no no
 BOI115	eh non puoi andarci in macchina eh
 BOR031	ah no è vero è vero
 BOR031	
-BOI115	no no ci sono i posti a sedere proprio  è gratis
+BOI115	no no ci sono i posti a sedere proprio è gratis
 BOR031	ah okay okay
 BOI115	è carino
 BOR031	e fanno dei film fanno vedere dei film
@@ -969,16 +969,16 @@ BOR031	vecchi
 BOR031	sì
 BOI115	non so se cioé dipende anche dal gusto delle persone ovviamente
 BOR031	mhmh
-BOI115	però  è in piazza  è gratuito
+BOI115	però è in piazza è gratuito
 BOI116	no sì l'ho sentito però non ci sono mai andata
 BOI116	
-BOR031	no io mh io non l'avevo neanche sentito proprio   mai
+BOR031	no io mh io non l'avevo neanche sentito proprio mai
 BOR031	mh
 BOI116	beh appena arrivi lo vedi perché cioè è proprio grosso questo schermo pro~ quanto grande quanto la piazza
 BOI115	xx
 BOR031	sì è vero
 BOR031	eh sì sì gigantesco
-BOI116	va bene eh per per tornare all'u~ all'universi~  tema università
+BOI116	va bene eh per per tornare all'u~ all'universi~ tema università
 BOR031	okay
 BOR031	sempre differenze sempre cose negative positive
 BOR031	bologna cioé generalmente l'università di bologna è considerata
@@ -992,7 +992,7 @@ BOR031	avete capito che non lo so non vi piacciono che cambiereste generalmente 
 BOI115	all'università di bologna
 BOI115	mh
 BOR031	mh no
-BOI115	mh  vi vi vi piace
+BOI115	mh vi vi vi piace
 BOI116	secondo me sì
 BOI115	sì per come per come è strutturata secondo me sì
 BOI115	eh
@@ -1012,11 +1012,11 @@ BOI115	c'è proprio
 BOR031	qualità
 BOI115	okay
 BOR031	dell'insegnamento
-BOI115	mhmh  bene
+BOI115	mhmh bene
 BOI115	anche tipo ho sentito parlare di una ragazza che fa medicina a ferrara
 BOR031	e vabbè là serve sempre il test d'ingresso però c'è stato l'esame di anatomia che l'ha fatto a crocette
 BOI115	mh
-BOI115	quindi  mh
+BOI115	quindi mh
 BOR031	boh mh mi farei due domande
 BOR031	okay
 BOI115	eh quindi
@@ -1029,13 +1029,13 @@ BOI115	okay
 BOR031	esatto
 BOI116	e i professori sono bravi avete mai avuto brutte esperienze non lo so
 BOI115	xxxx
-BOI115	sì  sì sì sì
+BOI115	sì sì sì sì
 BOI115	c'è chi spiega un po' a modo proprio
 BOR031	mh
 BOI115	okay
 BOI116	però no del resto
 BOI115	xxxx no i professori sì
-BOR031	poi  tu~  sì tutti con eh diversi titoli comunque sono
+BOR031	poi tu~ sì tutti con eh diversi titoli comunque sono
 BOR031	okay
 BOI115	okay okay okay
 BOI116	mh molto bravi sì
@@ -1052,7 +1052,7 @@ BOR031
 BOI115	eh non non sono il massimo ecco non mi espongo più di tanto
 BOR031	dov'è che è
 BOR031	è via filippo re
-BOI115	non so se  è vicino a porta san donato
+BOI115	non so se è vicino a porta san donato
 BOR031	sì
 BOR031	e che è d~ è di fronte all'edificio di mh scienze delle formazione primaria
 BOI115	solo che io ho una sede a filippo re e una sede a via cartoleriache è dall'altra parte di bologna e quindi devo fare avanti e indietro
@@ -1061,25 +1061,25 @@ BOR031	ahokay
 BOI116	e sono pure brutte le sedi
 BOI116	ah
 BOR031	okay
-BOI116	non volevo entrare  nello specifico ma ci sono entrato lo stesso
+BOI116	non volevo entrare nello specifico ma ci sono entrato lo stesso
 BOI115	
 BOR031	
 BOI116	e voi invece vi trovate bene non lo so con le vostre strutture perché ad esempio io so cioè fisica in teoria è mh un grande dipartimento
 BOI116	noi
 BOR031	noi sì abbiamo tutto il dipartimento molte lezioni l'abbiamo fatte nell'aula magna all'inizio
 BOI116	bello
-BOR031	però scomodissima cioé   è vecchia però scomoda perché è tutta di legno
+BOR031	però scomodissima cioé è vecchia però scomoda perché è tutta di legno
 BOR031	eh
 BOI116	ah
-BOI115	e c'hai per scrivere un  venti centimetri quindi è
+BOI115	e c'hai per scrivere un venti centimetri quindi è
 BOR031	sì è vero
 BOI116	sì
 BOR031	è molto scomodo però ci sono delle aule nuove sempre di fronte
 BOI116	mhmh
 BOR031	e non mi sono mai dovuto spostare tanto
 BOI116	almeno quello
-BOI116	perché  poi c'ho la fermata
-BOR031	che ferma proprio di fronte  a fisica
+BOI116	perché poi c'ho la fermata
+BOR031	che ferma proprio di fronte a fisica
 BOI116	ottimo
 BOR031	invece la seconda aula è dall'altro lato della strada
 BOR031	ah eh sì fisica è vicino è vi~ è vicino a via filippo re se non sbaglio
@@ -1092,7 +1092,7 @@ BOR031	mhmh
 BOI116	xxx
 BOI116	e il primo è mh
 BOR031	tipo fisiologia
-BOI116	può darsi  non lo so
+BOI116	può darsi non lo so
 BOR031	xxxxx cosa del genere
 BOI116	beh è anche comodo lì
 BOR031	e
@@ -1110,12 +1110,12 @@ BOR031	ottimo
 BOI115	e tu tu che in zona studi
 BOR031	io ho le due versione allora
 BOI115	
-BOR031	quest'anno  eh sono  faccio lezione al san~ al sant'orsola
+BOR031	quest'anno eh sono faccio lezione al san~ al sant'orsola
 BOI115	okay
 BOI115	eh mh
 BOR031	la sede di anatomia che è vicino a fisica
 BOI115	mhmh
-BOI116	penso ehm  sì
+BOI116	penso ehm sì
 BOI115	ah se è que~ ehm è quella prima mi sa vabbè
 BOR031	sì
 BOI115	
@@ -1131,43 +1131,43 @@ BOR031	con ctf
 BOI115	okay
 BOR031	son dovuta andare al navile
 BOI115	ah sì
-BOI115	ehm è tutta la struttura nuova molto bella eh cioé davvero  bellissima
+BOI115	ehm è tutta la struttura nuova molto bella eh cioé davvero bellissima
 BOR031	si vede che è nuova però è più difficile da raggiungere sopratutto con gli autobus
 BOR031	mh
-BOI115	ah non è collegata  bene
+BOI115	ah non è collegata bene
 BOI115	no
 BOR031	no almeno l'anno scorso n~ non molto
 BOR031	okay
 BOI115	ma perché io so che è lontana anche abbastanza
-BOI115	eh sì  è lontana dal centro
+BOI115	eh sì è lontana dal centro
 BOR031	e infatti quella è l'unica pecca però
 BOI115	mh
 BOI115	mh a vederla da sola
 BOI115	la struttura e
 BOR031	è bellissima
 BOR031	sì
-BOI115	sì io io ho visto le foto e sembra  proprio bella
-BOI115	eh sì  anche la
+BOI115	sì io io ho visto le foto e sembra proprio bella
+BOI115	eh sì anche la
 BOR031	tutto intorno c'era un bar mh tipo due bar poi volevano aprire una palestra
 BOI115	ah
 BOI115	comunque era tutto là nella zona
 BOI115	solo che sì l'unica cosa è che
 BOR031	non sei in centro
-BOI115	mhmh  sì
+BOI115	mhmh sì
 BOR031	eh la pecca è quella là
 BOI115	sì il lato negativo
 BOR031	sì
 BOR031	mh
 BOR031	e x x avete conosciuto
-BOI115	cioé magari dei vostri compagni dell'università  che sono fuori sede  quindi che vengono da altre parti di italia
+BOI115	cioé magari dei vostri compagni dell'università che sono fuori sede quindi che vengono da altre parti di italia
 BOR031	sì
 BOR031	e si sono mai lamen~
-BOI116	cioè no lamentati  parlo sempre delle parti negative comunque hanno mai de~ si sono mai schierati riguardo bologna siccome loro vengono da altri posti
+BOI116	cioè no lamentati parlo sempre delle parti negative comunque hanno mai de~ si sono mai schierati riguardo bologna siccome loro vengono da altri posti
 BOI115	
 BOR031	mhmh
 BOI115	e riguardo la situazione degli affitti non lo so qualsiasi cosa
 BOR031	costano troppo
-BOI115	okay  quello che dicono sì
+BOI115	okay quello che dicono sì
 BOI115	costano tant~ sì costano troppo
 BOR031	e anche per mh un piccolo appartamento i prezzi sono alti
 BOR031	mhmh
@@ -1177,12 +1177,12 @@ BOI115	sì
 BOI116	infatti io conosco tutte persone che si dividono la stanza sono
 BOR031	x
 BOI115	ah
-BOR031	tre  o due tre
+BOR031	tre o due tre
 BOI115	in una stanza
 BOR031	cioè in un eh appartamento
 BOR031	sì sì
 BOI115	okay
-BOI115	e comunque non  n~ io non ho mai conosciuto una persona
+BOI115	e comunque non n~ io non ho mai conosciuto una persona
 BOI115	singola che si prende una casa a bologna
 BOR031	da fuori sede diciamo
 BOI115	eh in no in che se~ in cosa intendi xxxx
@@ -1203,15 +1203,15 @@ BOR031	ma invece anche che è difficile trovare delle degli appartamenti mi han 
 BOI115	ah sì
 BOR031	e infatti molte persone non sono riusciti a prenderla proprio in centro a bologna la casa ma si sono spostati non so a castenaso nei dintorni
 BOR031	mhmh
-BOI115	eh beh è scomodo  ci metti un po'
+BOI115	eh beh è scomodo ci metti un po'
 BOI115	mh
 BOR031	eh sì
-BOI115	vieni da d'altra parte mh dall'altra parte d'italia praticamente  e
+BOI115	vieni da d'altra parte mh dall'altra parte d'italia praticamente e
 BOR031	sì
 BOR031	wow
 BOR031	e
 BOR031	mh ci s~ mh ci sono dei mh
-BOI115	è una domanda un po' strana  dei cibi  di medicina
+BOI115	è una domanda un po' strana dei cibi di medicina
 BOR031	mhmh
 BOR031	magari che non sono molto tradizionali an~ nonostante sia medicina molto vicino a bologna
 BOI115	ehm perché una volta m'avevano raccontato di un cibo ora non me lo ricordo
@@ -1222,7 +1222,7 @@ BOR031	ah
 BOI116	okay
 BOI115	la cipolla di medicina
 BOI116	e il friggione sì è una è tipo cipolla con eh
-BOI115	cipolla stra co  tta
+BOI115	cipolla stra co tta
 BOI116	non lo so non l'ho mai assaggiata perché non non mi piace molto la cipolla
 BOI116	xx
 BOR031	con la cipolla caramella~
@@ -1234,7 +1234,7 @@ BOI115	okay
 BOI115	sì
 BOR031	che si mette di solito dentro i panini o le piadine
 BOI115	ah
-BOR031	qua vanno un sacco le piadine  vero
+BOR031	qua vanno un sacco le piadine vero
 BOI115	okay
 BOI116	xxx le piadine
 BOI115	
@@ -1243,7 +1243,7 @@ BOR031	sì sì
 BOI115	mh
 BOR031	poi non so se solo qua mh
 BOR031	okay
-BOI115	e e questo friggione non c'è a bolo~ cioé è una cosa proprio  di medicina
+BOI115	e e questo friggione non c'è a bolo~ cioé è una cosa proprio di medicina
 BOI116	è caratteristica di medicina
 BOR031	sì non l'abbiamo mai trovata
 BOI115	ah
@@ -1251,11 +1251,11 @@ BOR031	sì sì sì
 BOI115	eh io non l'avevo mai mai vis~ cioè mai sentito proprio quindi
 BOR031	sì sì la fanno qua a medicina
 BOR031	ah interessante
-BOR031	okay e qui~ e quindi non è una cosa diciamo  che non si fa più  cioè che era più non so come dirlo una cosa
+BOR031	okay e qui~ e quindi non è una cosa diciamo che non si fa più cioè che era più non so come dirlo una cosa
 BOI115	più tradizionale
 BOR031	sì è tradizionale però
 BOI116	cioè è rimasto però
-BOI115	è rimas~ poi le tradizioni non le conosciamo  benissimo comunque non avendo i genitori di qua
+BOI115	è rimas~ poi le tradizioni non le conosciamo benissimo comunque non avendo i genitori di qua
 BOI115	s~ sì
 BOR031	sì
 BOI115	mhmh
@@ -1272,12 +1272,12 @@ BOI115	vabbè è più asciutto
 BOR031	è più bolognese
 BOR031	okay
 BOR031	okay
-BOI115	e a proposito di calabria il cibo cosa cosa mi dite perché qua  qua c'è differenza sicuramente
+BOI115	e a proposito di calabria il cibo cosa cosa mi dite perché qua qua c'è differenza sicuramente
 BOI116	eh là anche là c'è la cipolla anche là c'è la cipolla di tropea
 BOR031	
 BOI115	okay
 BOI115	ehm mh
-BOR031	vabbè  là  si mangia  più pesce e si sente che è più buono e più
+BOR031	vabbè là si mangia più pesce e si sente che è più buono e più
 BOR031	okay
 BOI115	
 BOI115	più fresco
@@ -1303,21 +1303,21 @@ BOR031	se piccante entrambi solo che una è di maiale una è di di carne l'altra
 BOI115	mhmh
 BOI115	di pesce
 BOR031	le sardin~ no quello non lo ricordo
-BOI116	ah  okay
+BOI116	ah okay
 BOI115	no no mh dei pesci minuscoli che mi sa che non si possono neanche pescare adesso
 BOI115	pesci piccolini
 BOR031	mh
 BOI115	ah beh
 BOI116	mhmh
-BOR031	xx però lo fan lo stesso  è buona
+BOR031	xx però lo fan lo stesso è buona
 BOI115	mh
 BOI116	
 BOR031	
-BOR031	i~ io immagino che voi non riusciate andare al mare qua  perché
-BOR031	eh io ho dei parenti in sicilia e ci vado  s~ non ci vado spesso però
+BOR031	i~ io immagino che voi non riusciate andare al mare qua perché
+BOR031	eh io ho dei parenti in sicilia e ci vado s~ non ci vado spesso però
 BOI115	la sento la differenza non immagino voi
 BOI115	no
-BOR031	sì  si sente troppo cioé è bellissimo noi siamo andati tipo a riccione cervia
+BOR031	sì si sente troppo cioé è bellissimo noi siamo andati tipo a riccione cervia
 BOI115	mhmh
 BOI115	comunque son posti molto belli
 BOR031	ma il mare no cioè io non riesco a farmi il bagno là
@@ -1326,7 +1326,7 @@ BOI115	se hai se ci vai ci fai serata cioè la sera però
 BOR031	sì
 BOI115	mhmh
 BOR031	cioè io con mare intendo il mare del sud
-BOI116	sì  è quello il mare sì
+BOI116	sì è quello il mare sì
 BOI115	
 BOI116	io qua mh eh
 BOI115	sì una una volta all'anno penso ci andiamo
@@ -1341,7 +1341,7 @@ BOI116	ah qua okay
 BOI115	xx xx xx
 BOR031	sì sì qua ci andiamo pochissimo
 BOR031	okay okay okay
-BOI116	non ne vale la pena  secondo me
+BOI116	non ne vale la pena secondo me
 BOI115	
 BOI116	esatto è bello sì è bellino il posto però
 BOR031	più bello il resto però xx
@@ -1354,12 +1354,12 @@ BOR031	eh vo~ voi che avete visto più o meno a~ cioè come funziona la vita gi�
 BOI115	eh cioé io io avevo un'amica di origini napoletane lei poi si è è torna~ si è trasferita a napoli perché andando sempre a napoli si è cioè innamorata diciamo
 BOI116	ah ah
 BOR031	ah ah
-BOR031	e voi cioé  vedendo le due differenze
+BOR031	e voi cioé vedendo le due differenze
 BOR031	mh vi non so come dirlo
-BOI115	vi interessa di più rimanere qua  dato che eh o vi piacerebbe non lo so anche l'idea di
+BOI115	vi interessa di più rimanere qua dato che eh o vi piacerebbe non lo so anche l'idea di
 BOI115	sì
 BOI116	io non abiterei mai al sud
-BOR031	no mai  non eh mh
+BOR031	no mai non eh mh
 BOI115	okay
 BOI116	mh ma proprio perché sono un po'
 BOI115	no
@@ -1377,7 +1377,7 @@ BOI115	mh
 BOR031	era fatto un po' all'acqua di rose possiamo dire
 BOI115	okay
 BOI115	e mh
-BOI116	poi sì anche  per il lavoro là comunque vengono pagati di m~ di meno
+BOI116	poi sì anche per il lavoro là comunque vengono pagati di m~ di meno
 BOI115	sì
 BOI115	ehm nel nostro paesino poi hanno chiuso un ospedale
 BOR031	e quindi sì anche là
@@ -1389,7 +1389,7 @@ BOR031	esatto comunque sì non sono
 BOI115	mhmh
 BOI115	proprio
 BOR031	mh come dire avanzati
-BOI115	sì  okay okay
+BOI115	sì okay okay
 BOR031	preferisco stare qua
 BOI116	okay
 BOI116	sì diciamo forse tra le due na~ napoli è più
@@ -1397,12 +1397,12 @@ BOR031	come città
 BOI116	mh
 BOR031	già offre più opportunità è più
 BOI115	sì forse sì
-BOI116	però mh se ci fossero più opportunità anche al sud io mh  ce lo farei un pensierino
+BOI116	però mh se ci fossero più opportunità anche al sud io mh ce lo farei un pensierino
 BOR031	più centralizzata
 BOR031	okay
 BOI115	ho capito
 BOI116	anche perché s~ si vive meglio secondo me
-BOR031	infiliamo medicina  me~ medici~ medicina in calabria
+BOR031	infiliamo medicina me~ medici~ medicina in calabria
 BOI115	è più felice
 BOR031	eh si è più felice
 BOI115	eh
@@ -1411,13 +1411,13 @@ BOI116
 BOI115	
 BOR031	con il mare là poi noi abbiamo la casa proprio a cinque minuti dal mare
 BOI115	mhmh
-BOR031	quindi eh sarebbe davvero  bello
+BOR031	quindi eh sarebbe davvero bello
 BOR031	okay
 BOR031	ah me~ medicina ho da quello che ho capito facendo questa intervista anche ad altre persone piace molto
 BOI116	eh in generale cioè siete mol~ non non in bru~ non in modo brutto siete molto patriottici si può dire per una città
 BOI115	mh
 BOR031	sì
-BOR031	e non l'avrei detto non perché è una brutta città ma perché oggettivamente non è che ci sia  niente di particolare
+BOR031	e non l'avrei detto non perché è una brutta città ma perché oggettivamente non è che ci sia niente di particolare
 BOI115	però è una cosa bella xxxx
 BOR031	però sì alla fine si vive bene mh
 BOI115	okay
@@ -1431,9 +1431,9 @@ BOI115	che magari per eh
 BOR031	per noi giovani e magari ci dobbiam spostare
 BOI115	okay
 BOR031	però si vive bene
-BOI115	ma le scuole so~ cioé ci sono ma co~ il livello com'è  a medicina
+BOI115	ma le scuole so~ cioé ci sono ma co~ il livello com'è a medicina
 BOR031	mh buono
-BOI115	buono  okay
+BOI115	buono okay
 BOI116	molto buono
 BOR031	sì è un buon livello ci ha preparato abbastanza bene il liceo
 BOI115	okay
@@ -1461,9 +1461,9 @@ BOI115	ah ah
 BOR031	no sì è proprio bello
 BOR031	cioè da da da medicina vanno a studiare a imola
 BOI116	ehm
-BOI115	sì tantissime  tantissime
+BOI115	sì tantissime tantissime
 BOR031	sì
-BOI115	perché  cioé
+BOI115	perché cioé
 BOR031	o budrio
 BOI116	ma perché si pensano che non sia buona la scuola xxxx
 BOI115	budrio xxx
@@ -1475,12 +1475,12 @@ BOI116	ah
 BOR031	professionale
 BOI115	okay ah ci son solo questi ecco perché
 BOI116	sì
-BOR031	xx che ne so fai un itis eh tecnico e vai da qualche altra parte  vai a imola di solito
+BOR031	xx che ne so fai un itis eh tecnico e vai da qualche altra parte vai a imola di solito
 BOI115	mh
 BOI115	esatto
 BOI115	esatto
 BOI116	però io so
-BOI116	però  c'è qualcuno che va a fare anche
+BOI116	però c'è qualcuno che va a fare anche
 BOI115	lo scientifico
 BOI116	sì
 BOI115	lo scientifico a imola
@@ -1501,12 +1501,12 @@ BOI115	mhmh
 BOR031	solo che dopo cinque mesi eh son venuta a medicina
 BOR031	non eh
 BOI115	non
-BOR031	no no no  oltre che eravamo in trenta in classe
+BOR031	no no no oltre che eravamo in trenta in classe
 BOI115	osta
 BOR031	ed eravamo tantissimi
 BOI115	tantissimi sì
 BOR031	e poi gli insegnanti bravi ma non si facevano rispettare
-BOI115	ah  okay brutto quando è così sì
+BOI115	ah okay brutto quando è così sì
 BOI115	quindi
 BOI115	sì
 BOR031	poi sì troppo grande avevamo l'itis vicino e davvero facevano un casino

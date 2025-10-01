@@ -601,7 +601,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 62-1	BOI047	62	è	è	linguistic	none	_	_	_	_	_	_
 62-2	BOI047	62	[stata]	stata	linguistic	none	_	_	_	_	_	0-5(5)
 62-3	BOI047	62	la	la	linguistic	none	_	_	_	_	_	_
-62-4	BOI047	62	<deindustrializzazione>	deindustrializzazione	linguistic	none	_	End=328.174	_	Slow=0-21(0)	_	_
+62-4	BOI047	62	<deindustrializzazione>	deindustrializzazione	linguistic	none	_	End=328.174	_	Slow=0-21	_	_
 63-0	BOR006	63	[ehm]	ehm	linguistic	none	_	Begin=326.222|End=326.53	_	_	_	0-3(5)
 64-0	BOR006	64	quindi	quindi	linguistic	none	_	Begin=330.334	_	_	_	_
 64-1	BOR006	64	adesso	adesso	linguistic	none	_	_	_	_	_	_
@@ -2012,9 +2012,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 204-14	BOI047	204	dire	dire	linguistic	none	_	_	_	_	_	_
 204-15	BOI047	204	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 204-16	BOI047	204	e:h	eh	linguistic	none	_	_	0x1	_	_	_
-204-17	BOI047	204	<furono	furono	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-204-18	BOI047	204	portati	portati	linguistic	none	_	_	_	Slow=0-7(0)	_	_
-204-19	BOI047	204	avanti>	avanti	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+204-17	BOI047	204	<furono	furono	linguistic	none	_	_	_	Slow=0-6	_	_
+204-18	BOI047	204	portati	portati	linguistic	none	_	_	_	Slow=0-7	_	_
+204-19	BOI047	204	avanti>	avanti	linguistic	none	_	_	_	Slow=0-6	_	_
 204-20	BOI047	204	>da	da	linguistic	none	_	_	_	Fast=0-2	_	_
 204-21	BOI047	204	da	da	linguistic	none	_	_	_	Fast=0-2	_	_
 204-22	BOI047	204	da<	da	linguistic	none	_	_	_	Fast=0-2	_	_
@@ -2666,8 +2666,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 256-6	BOI048	256	città	città	linguistic	none	_	_	_	_	_	_
 256-7	BOI048	256	che	che	linguistic	none	_	_	_	_	_	_
 256-8	BOI048	256	sono	sono	linguistic	none	_	_	_	_	_	_
-256-9	BOI048	256	<grandi	grandi	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-256-10	BOI048	256	città>	città	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+256-9	BOI048	256	<grandi	grandi	linguistic	none	_	_	_	Slow=0-6	_	_
+256-10	BOI048	256	città>	città	linguistic	none	_	_	_	Slow=0-5	_	_
 256-11	BOI048	256	ovviamente	ovviamente	linguistic	none	_	End=1237.17	_	_	_	_
 257-0	BOI048	257	ma	ma	linguistic	none	_	Begin=1237.17	_	_	_	_
 257-1	BOI048	257	roma	roma	linguistic	none	_	_	_	_	_	_
@@ -3111,8 +3111,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 289-1	BOI048	289	dopo	dopo	linguistic	none	_	_	_	_	_	_
 289-2	BOI048	289	si	si	linguistic	none	_	_	_	_	_	_
 289-3	BOI048	289	è	è	linguistic	none	_	_	_	_	_	_
-289-4	BOI048	289	<andato	andato	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-289-5	BOI048	289	a>	a	linguistic	none	_	_	_	Slow=0-1(0)	_	_
+289-4	BOI048	289	<andato	andato	linguistic	none	_	_	_	Slow=0-6	_	_
+289-5	BOI048	289	a>	a	linguistic	none	_	_	_	Slow=0-1	_	_
 289-6	BOI048	289	ricondurre	ricondurre	linguistic	none	_	_	_	_	_	_
 289-7	BOI048	289	al	al	linguistic	none	_	_	_	_	_	_
 289-8	BOI048	289	centro	centro	linguistic	none	_	_	_	_	_	_
@@ -5163,7 +5163,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 459-0	BOR006	459	[sì]	sì	linguistic	none	_	Begin=2322.381|End=2322.625	_	_	_	0-2(49)
 460-0	BOI048	460	questo	questo	linguistic	none	_	Begin=2324.23	_	_	_	_
 460-1	BOI048	460	è	è	linguistic	none	_	_	_	_	_	_
-460-2	BOI048	460	<per>	per	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+460-2	BOI048	460	<per>	per	linguistic	none	_	_	_	Slow=0-3	_	_
 460-3	BOI048	460	quanto	quanto	linguistic	none	_	_	_	_	_	_
 460-4	BOI048	460	riguarda	riguarda	linguistic	none	_	_	_	_	_	_
 460-5	BOI048	460	le	le	linguistic	none	_	_	_	_	_	_
@@ -6394,7 +6394,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 556-12	BOI047	556	e::h	eh	linguistic	none	_	_	0x2	_	_	_
 556-13	BOI047	556	costruita	costruita	linguistic	none	_	End=2811.686	_	_	_	_
 557-0	BOI047	557	e:h	eh	linguistic	none	_	Begin=2812.727	0x1	_	_	_
-557-1	BOI047	557	<con>	con	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+557-1	BOI047	557	<con>	con	linguistic	none	_	_	_	Slow=0-3	_	_
 557-2	BOI047	557	e:h	eh	linguistic	none	_	_	0x1	_	_	_
 557-3	BOI047	557	i	i	linguistic	none	_	_	_	_	_	_
 557-4	BOI047	557	soldi	soldi	linguistic	none	_	_	_	_	_	_

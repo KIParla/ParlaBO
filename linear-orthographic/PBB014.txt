@@ -2,7 +2,7 @@ BOR005	allora
 BOR005	iniziamo
 BOI041	ehm appunto noi ci concentreremo in questa intervista sulla città di bologna
 BOR005	sì
-BOI041	quindi  intanto ti chiedo tu abiti a bologna
+BOI041	quindi intanto ti chiedo tu abiti a bologna
 BOR005	mh no provincia di modena abito
 BOI041	dove
 BOR005	savignano sul panaro
@@ -33,7 +33,7 @@ BOI041	quindi diciamo negli anni in cui ci sei cresciuta come ti sembrava come q
 BOI041	ma molto tranquillo io poi abitavo
 BOR005	nella zona dove adesso c'è l'euromercato il palazzetto dello sport
 BOI041	okay
-BOR005	che al tempo non c'era  il nulla
+BOR005	che al tempo non c'era il nulla
 BOR005	mhmh
 BOI041	
 BOR005	quindi tranquillo perché insomma c'era il nostro gruppetto di case e noi si giocava là in mezzo ai campi bello carino insomma non c'era il
@@ -83,7 +83,7 @@ BOI041	però c'è qualche aspetto negativo secondo te di bologna che potrebbe es
 BOI041	mh secondo me negli ultimi anni si è guada~
 BOR005	adesso parlo molto da tramviera però negli ultimi anni
 BOI041	mhmh
-BOR005	il traffico era stato molto lasciato a le regole  in generale diciamo insomma le regole
+BOR005	il traffico era stato molto lasciato a le regole in generale diciamo insomma le regole
 BOI041	
 BOI041	c'è un po' di anarchia
 BOR005	un po' si fa tutto quello che vuole e un po' poca sicurezza in alcuni quartieri forse
@@ -146,7 +146,7 @@ BOI041	vero quindi
 BOR005	e quindi l'abbiam fatto
 BOI041	no parlando anche con dei miei colleghi che sono di bologna o della zona vedo che molto spesso c'è un po' questa cosa del
 BOR005	eh
-BOI041	se succede questo  san luca
+BOI041	se succede questo san luca
 BOI041	sì
 BOI041	sì
 BOR005	sì sì sì nonostante io sia atea non ci sono andata per una cosa un voto dello
@@ -166,7 +166,7 @@ BOI041
 BOR005	bello
 BOR005	quello
 BOR005	quello sì assolutamente
-BOR005	e poi  ecco hai detto che ci sono delle zone che sono
+BOR005	e poi ecco hai detto che ci sono delle zone che sono
 BOI041	diciamo un po' più trasandate
 BOR005	mh
 BOI041	credo non solo a livello di portici intendevi
@@ -206,7 +206,7 @@ BOR005	tanto degra~ non eri neanche nato probabilmente
 BOI041	no son nato nel duemila quindi
 BOI041	ecco molto bene
 BOI041	eh mh
-BOR005	c'era molto più degrado secondo me  adesso non che sia uno dei quartieri più belli di bologna per l'amor di dio
+BOR005	c'era molto più degrado secondo me adesso non che sia uno dei quartieri più belli di bologna per l'amor di dio
 BOI041	ecco
 BOI041	questo no
 BOI041	però io
@@ -234,7 +234,7 @@ BOI041	vabbè come la barca alla fine
 BOR005	esatto e la barca uguale alla fine
 BOI041	una volta ero andato a finire alla barca perché mi ero dimenticato di scendere dall'autobus
 BOR005	oh non sei l'unico consolati
-BOI041	ero lì dicevo aiuto dove sono finito  tra l'altro era tipo novembre erano le cinque era già buio c'era tutta la nebbia
+BOI041	ero lì dicevo aiuto dove sono finito tra l'altro era tipo novembre erano le cinque era già buio c'era tutta la nebbia
 BOI041	dove sono
 BOI041	era già
 BOR005	sì è da matti tranquilloche sei in ottima compagnia lo fanno in un seguito tranquillo
@@ -327,7 +327,7 @@ BOR005	le prime e le ultime corse carichi sempre quasi sempre le stese persone q
 BOI041	
 BOI041	c'è un rapporto di e
 BOI041	e poi quella cosa che a bologna ogni due minuti sei fermo con una fermata
-BOR005	almeno ciao  almeno lì è un po' più
+BOR005	almeno ciao almeno lì è un po' più
 BOI041	sì
 BOR005	è un po' più libero
 BOI041	quello sì eh
@@ -345,7 +345,7 @@ BOI041	poi quando sei fuori puoi andare più veloce
 BOI041	fai meno fermate
 BOR005	e mi piace di più come tipo di lavoro
 BOR005	mh
-BOI041	poi ecco come dicevi c'è anche un  forse anche un rapporto diverso con i passeggeri cioè
+BOI041	poi ecco come dicevi c'è anche un forse anche un rapporto diverso con i passeggeri cioè
 BOI041	sì assolutamente
 BOR005	assolutamente
 BOI041	magari c'è anche un rapporto con
@@ -396,7 +396,7 @@ BOR005	mh
 BOR005	noi ora
 BOI041	ne approfitto perché guidi il trentasei io
 BOR005	mhmh
-BOI041	da  ormai da  cliente fisso
+BOI041	da ormai da cliente fisso
 BOR005	mh
 BOR005	del trentasei
 BOI041	perché è sempre in ritardo
@@ -413,12 +413,12 @@ BOI041	carichi giù
 BOI041	carichi
 BOI041	torni su
 BOI041	quando scende rifai
-BOR005	a perdere quattro  minuti uso ridere in tre quattro minuti qua là su e ne accumuli uno con l'alto poi è una linea molto lunga molto
+BOR005	a perdere quattro minuti uso ridere in tre quattro minuti qua là su e ne accumuli uno con l'alto poi è una linea molto lunga molto
 BOI041	mhmh
-BOI041	eh  mh
+BOI041	eh mh
 BOR005	quindi più è lunga la linea più accumuli ritardo c'è poco da fare
 BOR005	mh
-BOI041	poi secondo me un problema è che del trentasei poi tu potrai confermarmelo è che  per la linea che fa
+BOI041	poi secondo me un problema è che del trentasei poi tu potrai confermarmelo è che per la linea che fa
 BOR005	mh
 BOI041	è una linea piena di semafori
 BOI041	sì
@@ -524,10 +524,10 @@ BOR005	ti senti veramente trattato da numero
 BOI041	mhmh
 BOR005	ed è veramente brutto
 BOI041	sembra un po' quando tipo sei all'università che il professore fa lezione con trecento persone
-BOR005	con la matricola e tu sei la matricola eh  e io sono la matricola
+BOR005	con la matricola e tu sei la matricola eh e io sono la matricola
 BOI041	esatto
 BOR005	una volta era diverso c'era veramente più rapporto umano con i tuoi superiori era era diverso purtroppo questo si è perso parecchio sì
-BOI041	e  visto che lavori nell'ambito dei trasporti
+BOI041	e visto che lavori nell'ambito dei trasporti
 BOR005	mhmh
 BOI041	rimanendo nell'ambito ecco urbano quindi anche la tratta che ti capita di fare
 BOR005	mh
@@ -639,7 +639,7 @@ BOR005	continuo mi piace
 BOI041	e quali s~ possono essere i contro
 BOR005	questa è proprio una domanda puramente mh cioè del lavora perché di contro sono che non assumuno e non ci sono congedi cioè
 BOI041	mh
-BOR005	tu non ti puoi organizzare la vita  assolutamente e questo a lungo andare
+BOR005	tu non ti puoi organizzare la vita assolutamente e questo a lungo andare
 BOI041	in che senso non ci sono congedi
 BOI041	rompe
 BOI041	e
@@ -651,7 +651,7 @@ BOI041	ed il congedo
 BOI041	e tu sei capace di chiederlo sessanta giorni prima arrivare il giorno prima alle dieci di sera e sentirti dire no
 BOI041	io non ti do congedo domani sei a lavorare
 BOI041	e questa cosa un po' negli anni
-BOI041	e questa è una cosa che è peggiorata molto da  da @nomeazienda a @nomeazienda
+BOI041	e questa è una cosa che è peggiorata molto da da @nomeazienda a @nomeazienda
 BOI041	è la tua gestione della vita privata che
 BOR005	non sempre è facile perché tu comunque se chiedi una cosa due mesi prima avrai un
 BOI041	mh
@@ -663,7 +663,7 @@ BOI041
 BOR005	diventa anche dei problemi delle volte
 BOI041	a te è capitato
 BOI041	eh
-BOI041	ma a tutti cioè  con chiunque chiedi poi specialmente negli ultimi anni
+BOI041	ma a tutti cioè con chiunque chiedi poi specialmente negli ultimi anni
 BOI041	negli ultimi tre quattro anni un delirio
 BOR005	e questo per me è il lato più negativo di
 BOR005	mh
@@ -729,7 +729,7 @@ BOR005	gestibile insomma
 BOR005	e
 BOR005	c'è qualche evento in questi ventitré anni
 BOR005	di lavoro
-BOR005	c~ legato appunto all'ambito del lavoro qualcosa che ti è successo ma  che ti è rimasto impresso magari particolarmente bello
+BOR005	c~ legato appunto all'ambito del lavoro qualcosa che ti è successo ma che ti è rimasto impresso magari particolarmente bello
 BOI041	magari in negativo
 BOI041	
 BOR005	particolamente bello stavo pensando ma non mi viene in mente
@@ -740,7 +740,7 @@ BOI041	nie~
 BOI041	ma sì esa~ tanti quellli lì tanti
 BOI041	per l'amor di dio piccoli gesti tanti ma una cosa eclatante che mi venga in mente
 BOI041	così non
-BOI041	no  non ti so dire niente
+BOI041	no non ti so dire niente
 BOR005	no
 BOI041	e in negativo
 BOI041	negativo che mi hanno quasi ammazzato un giorno del resto
@@ -778,7 +778,7 @@ BOR005	ero fuori
 BOI041	beh se succedeva dentro la città potevano essere veramente
 BOI041	eh
 BOI041	ah ma anche lì guarda perché lui dopo ha continuato a sbandare e a darci mh
-BOI041	un benzinaio ma  di quelli grandi eh
+BOI041	un benzinaio ma di quelli grandi eh
 BOR005	si è andato a stampa~ contro il pallone con scritto sopra la marca del benzianio sai quei grossi
 BOI041	sì
 BOR005	il benzinaio era di questo colore qua mi fa se non si schianta lì che dopo è andato nel fosso mi fa mi viene contro alle pompe della benzina fa ma
@@ -804,11 +804,11 @@ BOI041	no anche perché poi con tutti i ragazzi in ospedale
 BOI041	sì ma infatti dopo paura perché poi tutti sti bimbi x bimbi no sti ragazzi insomma adesso scuole superiori tutti sti ragazzi
 BOI041	giustamente gran paura
 BOI041	dopo
-BOR005	elicotteri ambulanze è arrivato  tutto
+BOR005	elicotteri ambulanze è arrivato tutto
 BOI041	anche l'elicottero
 BOI041	sì
 BOI041	sì perché poi si era creata una gran fila allora per venire a portare via il camionista soprattutto che era quello messo peggio
-BOR005	eh sono venuti a non a prenderlo in elicottero mh  mh  mh
+BOR005	eh sono venuti a non a prenderlo in elicottero mh mh mh
 BOI041	mh mh
 BOI041	ehm
 BOR005	andata così mi è andata bene quindi dai
@@ -825,10 +825,10 @@ BOR005	assolutamente zero giustamente ci mancherebbe
 BOI041	vabbé
 BOR005	eh
 BOR005	beh insomma se
-BOI041	c'hai la responsabilità di tot persone  addosso
+BOI041	c'hai la responsabilità di tot persone addosso
 BOR005	x vabbé eh eh eh eh eh sì sì sì sì sì
 BOI041	invece quando sei in pausa vieni sempre qua al circolo
-BOI041	ma sì  sì sì quasi sempre
+BOI041	ma sì sì sì quasi sempre
 BOR005	sì sì
 BOI041	e hai iniziato a venirci da quando
 BOR005	da sempre da subito
@@ -850,7 +850,7 @@ BOI041	voi quanti giorni avete liberi a settimana uno o due
 BOR005	mh non non c'è non esiste una regola
 BOI041	quindi puoi lavorare sette siorni su sette
 BOI041	no
-BOI041	il settimo giorno è sacro  questo è intoccabile
+BOI041	il settimo giorno è sacro questo è intoccabile
 BOI041	eh qui qua questa è una regola che non non
 BOI041	toccano il settimo gior~ però ci sono delle settimane che riposi un giorno delle settimane due delle settimane magari fai fer~ fai riposi ormai dalla settimana e poi di nuovo la domenica
 BOI041	non c'è una
@@ -877,7 +877,7 @@ BOI041	quasi sicuramente il prossimo mese fai il pomeriggio
 BOI041	non sempre è così però insomma
 BOI041	in media è così
 BOI041	al meno che per un qualche motivo non puoi chiedere un turno preferenziale
-BOI041	e allora fai questo turno preferenziale  invece nell'extraurbano come noi ogni giorno cambi turno
+BOI041	e allora fai questo turno preferenziale invece nell'extraurbano come noi ogni giorno cambi turno
 BOI041	mattina pomeriggio lunga che vuol dire tutto il giorno
 BOR005	a rotazione
 BOR005	mh
@@ -893,7 +893,7 @@ BOR005
 BOR005	sì sì fra poco ti lascio andare
 BOR005	e quindi
 BOR005	insomma
-BOI041	però almeno  stai qua con i tuoi colleghi
+BOI041	però almeno stai qua con i tuoi colleghi
 BOI041	ma sì si fan due chiacchiere si mangia
 BOR005	vai di là che c'è
 BOI041	eh ho visto
@@ -941,7 +941,7 @@ BOI041	il dialetto
 BOR005	okay
 BOR005	perché appunto
 BOR005	stiamo tastando il territorio di bologna e provincia
-BOI041	tu  abitualmente parli di più in italiano o in dialetto
+BOI041	tu abitualmente parli di più in italiano o in dialetto
 BOR005	in italiano di più sicuramente
 BOR005	mh
 BOI041	e in quale contesto parli il dialetto
@@ -968,7 +968,7 @@ BOR005	sente parlare e allora anche lei c'ha le sue uscite così ogni tanto
 BOR005	
 BOI041	mhmh
 BOR005	
-BOI041	e allora visto che comunque in casa lo pratichi parecchio  ci sono delle parole
+BOI041	e allora visto che comunque in casa lo pratichi parecchio ci sono delle parole
 BOR005	eh
 BOR005	che magari sai in dialetto ma non sai in italiano
 BOI041	cioè que~ quella parola che sei talmente abituato a dirlo in dialetto
@@ -995,7 +995,7 @@ BOR005	bolognesi
 BOI041	bolognesi
 BOR005	sì sì assolutamente
 BOR005	termine sconosciuto
-BOI041	come  il tiro
+BOI041	come il tiro
 BOI041	il tiro
 BOI041	dammi il tiro c'sa vut
 BOR005	è così però è bolognese sì sì sì sì

@@ -2207,7 +2207,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 386-9	BOI108	386	po]meriggio	pomeriggio	linguistic	none	_	_	_	_	_	0-2(139)
 386-10	BOI108	386	e	e	linguistic	none	_	_	_	_	_	_
 386-11	BOI108	386	le	le	linguistic	none	_	_	_	_	_	_
-386-12	BOI108	386	<domeniche>	domeniche	linguistic	none	_	_	_	Slow=0-9(0)	_	_
+386-12	BOI108	386	<domeniche>	domeniche	linguistic	none	_	_	_	Slow=0-9	_	_
 386-13	BOI108	386	a	a	linguistic	none	_	_	_	_	_	_
 386-14	BOI108	386	farsi	farsi	linguistic	none	_	_	_	_	_	_
 386-15	BOI108	386	cioé	cioé	linguistic	none	_	_	_	_	_	_
@@ -3785,7 +3785,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 649-4	BOI108	649	qualcos'	qualcos'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 649-5	BOI108	649	altro	altro	linguistic	none	_	_	_	_	_	_
 649-6	BOI108	649	ma	ma	linguistic	none	_	_	_	_	_	_
-649-7	BOI108	649	<non>	non	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+649-7	BOI108	649	<non>	non	linguistic	none	_	_	_	Slow=0-3	_	_
 649-8	BOI108	649	a	a	linguistic	none	_	_	_	_	_	_
 649-9	BOI108	649	pestare	pestare	linguistic	none	_	_	_	_	_	_
 649-10	BOI108	649	una	una	linguistic	none	_	_	_	_	_	_
@@ -3868,7 +3868,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 661-0	BOI108	661	sotto	sotto	linguistic	none	_	Begin=1247.76	_	_	_	_
 661-1	BOI108	661	il	il	linguistic	none	_	_	_	_	_	_
 661-2	BOI108	661	portico	portico	linguistic	none	_	_	_	_	_	_
-661-3	BOI108	661	<con>	con	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+661-3	BOI108	661	<con>	con	linguistic	none	_	_	_	Slow=0-3	_	_
 661-4	BOI108	661	tutto	tutto	linguistic	none	_	_	_	_	_	_
 661-5	BOI108	661	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 661-6	BOI108	661	era	era	linguistic	none	_	_	_	_	_	_
@@ -4037,7 +4037,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 693-2	BOI108	693	un	un	linguistic	none	_	_	_	_	_	_
 693-3	BOI108	693	altro	altro	linguistic	none	_	_	_	_	_	_
 693-4	BOI108	693	dei	dei	linguistic	none	_	_	_	_	_	_
-693-5	BOI108	693	<cambiamenti>	cambiamenti	linguistic	none	_	End=1309.61	_	Slow=0-11(0)	_	_
+693-5	BOI108	693	<cambiamenti>	cambiamenti	linguistic	none	_	End=1309.61	_	Slow=0-11	_	_
 694-0	BOI108	694	che:	che	linguistic	none	_	Begin=1310.11|End=1310.65	2x1	_	_	_
 695-0	BOI108	695	in	in	linguistic	none	_	Begin=1311.05	_	_	_	_
 695-1	BOI108	695	negativo	negativo	linguistic	none	_	_	_	_	_	_
@@ -4067,7 +4067,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 701-7	BOI109	701	volta	volta	linguistic	none	_	_	_	_	_	_
 701-8	BOI109	701	poi	poi	linguistic	none	_	_	_	_	_	_
 701-9	BOI109	701	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-701-10	BOI109	701	[<quan>ti	quanti	linguistic	none	_	_	_	Slow=0-4(0)	_	0-6(245)
+701-10	BOI109	701	[<quan>ti	quanti	linguistic	none	_	_	_	Slow=0-4	_	0-6(245)
 701-11	BOI109	701	magari]	magari	linguistic	none	_	_	_	_	_	0-6(245)
 701-12	BOI109	701	ce	ce	linguistic	none	_	_	_	_	_	_
 701-13	BOI109	701	ne	ne	linguistic	none	_	_	_	_	_	_
@@ -6169,7 +6169,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1037-2	BOI108	1037	dei	dei	linguistic	none	_	_	_	_	_	_
 1037-3	BOI108	1037	monumenti	monumenti	linguistic	none	_	_	_	_	_	_
 1037-4	BOI108	1037	tutti	tutti	linguistic	none	_	_	_	_	_	_
-1037-5	BOI108	1037	<illuminati>	illuminati	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+1037-5	BOI108	1037	<illuminati>	illuminati	linguistic	none	_	_	_	Slow=0-10	_	_
 1037-6	BOI108	1037	delle	delle	linguistic	none	_	_	_	_	_	_
 1037-7	BOI108	1037	cose	cose	linguistic	none	_	_	_	_	_	_
 1037-8	BOI108	1037	particolari	particolari	linguistic	none	_	_	_	_	_	_
@@ -6410,7 +6410,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1078-5	BOI108	1078	sei	sei	linguistic	none	_	_	_	_	_	_
 1078-6	BOI108	1078	di	di	linguistic	none	_	_	_	_	_	_
 1078-7	BOI108	1078	mattina	mattina	linguistic	none	_	_	_	_	_	_
-1078-8	BOI108	1078	<quelli>	quelli	linguistic	none	_	End=2138.1	_	Slow=0-6(0)	_	_
+1078-8	BOI108	1078	<quelli>	quelli	linguistic	none	_	End=2138.1	_	Slow=0-6	_	_
 1079-0	BOI108	1079	che	che	linguistic	none	_	Begin=2139.44|End=2139.78	_	_	_	_
 1080-0	BOI108	1080	girano	girano	linguistic	none	_	Begin=2140.39	_	_	_	_
 1080-1	BOI108	1080	e	e	linguistic	none	_	_	_	_	_	_
@@ -8335,7 +8335,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1422-4	BOI108	1422	veramente	veramente	linguistic	none	_	_	_	_	_	_
 1422-5	BOI108	1422	noi	noi	linguistic	none	_	_	_	_	_	_
 1422-6	BOI108	1422	siamo	siamo	linguistic	none	_	_	_	_	_	_
-1422-7	BOI108	1422	<molto>	molto	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+1422-7	BOI108	1422	<molto>	molto	linguistic	none	_	_	_	Slow=0-5	_	_
 1422-8	BOI108	1422	vicini	vicini	linguistic	none	_	End=2798.45	_	_	_	_
 1423-0	BOI108	1423	e:h	eh	linguistic	none	_	Begin=2799.01	0x1	_	_	_
 1423-1	BOI108	1423	mh:	mh	linguistic	none	_	_	1x1	_	_	_
@@ -8589,7 +8589,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1472-21	BOI108	1472	prima	prima	linguistic	none	_	_	_	_	_	_
 1472-22	BOI108	1472	andare	andare	linguistic	none	_	_	_	_	_	_
 1472-23	BOI108	1472	verso	verso	linguistic	none	_	_	_	_	_	_
-1472-24	BOI108	1472	<bologna>	bologna	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+1472-24	BOI108	1472	<bologna>	bologna	linguistic	none	_	_	_	Slow=0-7	_	_
 1472-25	BOI108	1472	[o	o	linguistic	none	_	_	_	_	_	0-1(460)
 1472-26	BOI108	1472	comu]nque	comunque	linguistic	none	_	_	_	_	_	0-4(460)
 1472-27	BOI108	1472	muoversi	muoversi	linguistic	none	_	_	_	_	_	_
@@ -8770,8 +8770,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1508-0	BOI108	1508	del	del	linguistic	none	_	Begin=2940.89	_	_	_	_
 1508-1	BOI108	1508	della:	della	linguistic	none	_	End=2942.62	4x1	_	_	_
 1509-0	BOI108	1509	delle	delle	linguistic	none	_	Begin=2942.754	_	_	_	_
-1509-1	BOI108	1509	<gite	gite	linguistic	none	_	_	_	Slow=0-4(0)	_	_
-1509-2	BOI108	1509	turistiche>	turistiche	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+1509-1	BOI108	1509	<gite	gite	linguistic	none	_	_	_	Slow=0-4	_	_
+1509-2	BOI108	1509	turistiche>	turistiche	linguistic	none	_	_	_	Slow=0-10	_	_
 1509-3	BOI108	1509	di	di	linguistic	none	_	_	_	_	_	_
 1509-4	BOI108	1509	di	di	linguistic	none	_	_	_	_	_	_
 1509-5	BOI108	1509	°non	non	linguistic	none	Volume=Low	_	_	_	_	_

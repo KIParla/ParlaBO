@@ -1,6 +1,6 @@
-BOR001	bene è partita  ehm
-BOI001	allora  beh  inizierei chiedendoti mh appunto se tu  hai sempre vissuto qui  a bologna
-BOI001	io ho sempre vissuto a bologna  sì
+BOR001	bene è partita ehm
+BOI001	allora beh inizierei chiedendoti mh appunto se tu hai sempre vissuto qui a bologna
+BOI001	io ho sempre vissuto a bologna sì
 BOI001	fin dalla nascita io non sono nato a bologna sono nato in provincia di bologna in un paese san giovanni in persiceto
 BOI001	ma solo per una questione opportunistica dei miei genitori che vivevano comunque a bologna ma sono originari di quella zona
 BOR001	e mi portarono mi fecero nascere lì per una questione che forse adesso non è inerente a questa intervista
@@ -12,19 +12,19 @@ BOI001	per trent'anni eh in via san felice
 BOI001	e poi mi sono spostato dopo che mi sono sposato nella zona
 BOI001	dove vivo attualmente
 BOI001	quindi zona mazzini murri
-BOI001	che  che all'epoca conoscevo relativamente ecco perché la mia vita
+BOI001	che che all'epoca conoscevo relativamente ecco perché la mia vita
 BOI001	eh la mia infanzia la mia adolescenza l~ l'ho passata tutta nel centro di bologna per me
-BOI001	eh i miei anni diciamo  il mio cuore è rimasto nel centro di bologna poi la mia vita ha preso questa direzione sono venuto a vivere qua
+BOI001	eh i miei anni diciamo il mio cuore è rimasto nel centro di bologna poi la mia vita ha preso questa direzione sono venuto a vivere qua
 BOI001	non ho rimpanti questo assolutamente no ma non è stato semplice comunque
 BOI001	adattarmi a que~ a una zona che è completamente differente
 BOI001	è ovvio alla
 BOR001	a quella che può essere il centro storico di una città come bologna
 BOR001	mh quindi beh visto che l'hai menzionato ti chiederei
-BOI001	quali s~ quali sono appunto queste differenze  tra queste due zone tu che
+BOI001	quali s~ quali sono appunto queste differenze tra queste due zone tu che
 BOI001	beh le differenze sono sostanziali secondo me nel senso che vivere nel centro storico d'una città come bologna
 BOI001	eh ha un fascino che che che la prima periferia con tutto il rispetto per questa zona che comunque è una delle zone
 BOI001	comunque come prima periferia più belle di bologna piena di verde e comunque comoda perché comunque relativamente vicina al centro
-BOI001	però devo dir la verità  non è la stessa cosa
+BOI001	però devo dir la verità non è la stessa cosa
 BOI001	uscire di casa com'ero abituato io e trovarmi sotto i portici di bologna
 BOI001	avere tutto a portata di di piede cioè nel senso
 BOI001	eh quasi non avevo bisogno di usare la macchina se non per andare al lavoro
@@ -32,19 +32,19 @@ BOI001	quindi tutto diciamo la mia i~ gli anni appunto dell'infanzia dell'adoles
 BOI001	io al massimo giravo in bicicletta o comunque mi godevo la città mi godevo il centro storico di bologna
 BOI001	completamente a piedi
 BOI001	eh venendo ad abitare qua ehm in questa zona
-BOI001	per me  uscire e non avere più i~ il p~ inizialmente non avere più il portico sotto
+BOI001	per me uscire e non avere più i~ il p~ inizialmente non avere più il portico sotto
 BOI001	mh sotto la testa diciamo è stata forse lo shock sembra banale sembra stupido però è stata la la
 BOI001	la cosa a cui ho fatto più fatica ad abituarmi
 BOI001	eh uscire e attraversare un parco come qua a cui io non ero abituato perché per me
 BOI001	bologna era portico era strada era storia e lo è tutt'ora
 BOI001	è stato questa la più grande la più grande difficoltà inizialmente poi dopo è chiaro come in tutte le cose ci si abitua e
 BOI001	e si apprezzano comunque
-BOI001	i~ in modo  più sereno si vedono le differenze e si possono trarre delle conclusioni ogni cosa ha i suoi pro e i suoi contro perché poi dopo anche il centro di bologna
+BOI001	i~ in modo più sereno si vedono le differenze e si possono trarre delle conclusioni ogni cosa ha i suoi pro e i suoi contro perché poi dopo anche il centro di bologna
 BOR001	rispetto a com'era trenta quarant'anni fa è molto cambiato chiaramente
 BOI001	mh quindi in peggio è cambiato il centro di bologna
-BOI001	devo dire la verità eh in questi a~ in questi ultimi anni lo frequento molto meno  mh per una questione anche appunto di di di difficoltà ad arrivarci nonostante che
+BOI001	devo dire la verità eh in questi a~ in questi ultimi anni lo frequento molto meno mh per una questione anche appunto di di di difficoltà ad arrivarci nonostante che
 BOI001	io abiti in una distanza tutto sommato ci posso andare anche con una una camminata di mezz'ora però
-BOI001	e ci abitano ci abita ancora mio fratello cioè quindi i miei affetti  s~ ce li ho ancora a a bologna però ci vado sempre di meno
+BOI001	e ci abitano ci abita ancora mio fratello cioè quindi i miei affetti s~ ce li ho ancora a a bologna però ci vado sempre di meno
 BOI001	perché comunque è una città che è cambiata è cambiata profondamente rispetto a trenta a vent'anni fa ma anche di meno
 BOI001	si è molto omologata mh ha perso secondo me quella caratteristica mh quelle caratteristiche che aveva quando ero ragazzo io
 BOI001	cioè adesso è pieno di turisti una volta il turismo a bologna non esisteva di fatto
@@ -56,8 +56,8 @@ BOI001	eh cioè andare in nel centro di bologna di sabato o di domenica per me �
 BOR001	è quasi impossibile cioè mh troppa folla troppo
 BOI001	mh
 BOI001	n~ non non esistono più i negozi caratteristici di bologna che esistevano quando quando ero ragazzino io cioè so~ ci sono negozi che ormai trovi in qualsiasi altra città cioè veramente eh ha perso questa autenticità
-BOI001	poi ripeto  per me la qualità della vita di bologna è sempre molto alta questo assolutamente
-BOI001	in generale  però io noto proprio questa questa grande differenza ecco mh
+BOI001	poi ripeto per me la qualità della vita di bologna è sempre molto alta questo assolutamente
+BOI001	in generale però io noto proprio questa questa grande differenza ecco mh
 BOR001	rispetto al passato
 BOR001	mh
 BOR001	e c~
@@ -70,10 +70,10 @@ BOI001	eh per miei interessi personali
 BOI001	quasi tutte le cose che inte~ mi interessano sono mh nel centro di bologna i cinema i teatri
 BOI001	eh e tu~ eh e la storia diciamo a cui io sono interessato sono comunque tutti nel centro di bologna
 BOI001	e quindi vorrei tornare a a riviverlo come come l'ho vissuto per tanti anni e vedrò vedrò come come lo trove~ come la ritroverò ecco
-BOI001	per quello che  per quello che è la bologna adesso mh
+BOI001	per quello che per quello che è la bologna adesso mh
 BOI001	mh
 BOI001	ho un po' meno voglia di andarci ecco nel centro di bologna rispetto al passato perché
-BOI001	ho meno sì  mi attrae un po' di meno
+BOI001	ho meno sì mi attrae un po' di meno
 BOI001	ma spero che sia solo un momento forse sono cambiato io probabile che sia anche cambiato io non è detto
 BOR001	che sia solo bologna ad essere cùambiata
 BOR001	sì
@@ -84,11 +84,11 @@ BOI001	mh io giravo da bambino da solo
 BOI001	cosa che probabilmente adesso non si fa più mh
 BOI001	ma non solo nel centro ma proprio le famiglie con dei bambini piccoli
 BOI001	non lascerebbero mai andare i bambini di di di di di di di di otto dieci anni
-BOI001	da soli in giro  io lo facevo
+BOI001	da soli in giro io lo facevo
 BOI001	mi conoscevano tutti nella zona dove abitavo c'erano tutti eh come come dicevo inizialmente c'erano tutti i negozi tipici
-BOI001	eh di bologna il salumiere il fruttivendolo l'elettricista  mi conoscevano tutti
+BOI001	eh di bologna il salumiere il fruttivendolo l'elettricista mi conoscevano tutti
 BOI001	e miei genitori mi lasciavano andare tranquillamente non c'era alcun problema
-BOI001	oggi forse non è più possibile un po' perché questi negozi  non esistono più e un po' perché forse sì non ci sono forse più le condizioni
+BOI001	oggi forse non è più possibile un po' perché questi negozi non esistono più e un po' perché forse sì non ci sono forse più le condizioni
 BOI001	però ripeto io mh
 BOI001	problemi di sicurezza io non non non
 BOI001	ho sempre girato a bologna di sera di notte sotto i portici che magari
@@ -101,7 +101,7 @@ BOI001	a par~
 BOI001	sì anche in questa zona tutto sommato anche in questa zona
 BOI001	fortunatamente non non
 BOI001	o sono stato fortunato io però
-BOI001	mh io quando esco non ho mai di queste di queste  non mi pongo mai problemi di di sulla sulla sicurezza e
+BOI001	mh io quando esco non ho mai di queste di queste non mi pongo mai problemi di di sulla sulla sicurezza e
 BOI001	forse sono incosciente io non so però
 BOR001	non li ho mai percepiti ecco non li ho mai
 BOI001	mhm
@@ -113,12 +113,12 @@ BOR001	in questa zona ecco mh no
 BOI001	mhm
 BOR001	direi di no
 BOR001	sì sì
-BOR001	e  ehm
-BOR001	hai detto  appunto che oggi
+BOR001	e ehm
+BOR001	hai detto appunto che oggi
 BOR001	probabilmente non si fanno più
 BOR001	andare in giro i bambini da soli
 BOR001	come un tempo
-BOR001	ma  questa cosa  l'hai provata anche tu in prima persona coi tuoi figli
+BOR001	ma questa cosa l'hai provata anche tu in prima persona coi tuoi figli
 BOR001	cioè già era cambiato il loro modo di
 BOR001	vivere la città negli anni diciamo dell'infanzia
 BOI001	o
@@ -139,7 +139,7 @@ BOI001	forse
 BOI001	m~ m~ mi interesso anche di meno vedo ancora tanti genitori
 BOI001	coi bambini piccoli
 BOI001	forse le cose non sono cambiate più di tanto ecco però chiaro che
-BOI001	non ho non ho più queste problematiche  qua ecco
+BOI001	non ho non ho più queste problematiche qua ecco
 BOR001	
 BOI001	sì
 BOR001	per adesso non le ho
@@ -152,7 +152,7 @@ BOR001	mh
 BOI001	durante l'infanzia l'adolescenza comunque nei
 BOR001	sì
 BOR001	nei mh
-BOI001	quando eri più giovane cioè nei primi anni  così eh
+BOI001	quando eri più giovane cioè nei primi anni così eh
 BOR001	sì
 BOR001	li frequenti ancora esistono ancora magari
 BOI001	i bar dove andavi sono cambiati ci sono ancora mh
@@ -189,7 +189,7 @@ BOI001	però vedo che ultimamente mi sembra che siano stati recuperati perché l
 BOI001	ci parlavamo con eh
 BOI001	eravamo gruppi di bambini
 BOI001	veramente numerosissimi
-BOI001	eh  c'erano le mamme che comunque si trovavano e si sedevano nelle panchine
+BOI001	eh c'erano le mamme che comunque si trovavano e si sedevano nelle panchine
 BOI001	e comunque ci tenevano ci tenevano sott'occhio quelle mamme che non lavoravano
 BOI001	perché molte mamme lavoravano come la mia e
 BOI001	e quindi non lei non c'era io avevo un fratello più grande
@@ -201,7 +201,7 @@ BOI001	ah
 BOI001	ecco questi pa~ anche questi per me sono dei bellissimi ricordi
 BOI001	io frequentavo sia l'oratorio della mi~ della chiesa di via san felice che è santa maria della carità
 BOI001	e poi ap~ per per via di amicizie che avevo in zona tipo via sant'isaia frequentavo la chiesa di zo~ l'oratorio di via di via sant'isaia
-BOI001	e anche altri oratori anche fuori dal centro storico questo  alle scuole medie perché avevo amicizie
+BOI001	e anche altri oratori anche fuori dal centro storico questo alle scuole medie perché avevo amicizie
 BOI001	che erano nella zona mi ricordo di via andrea costa quindi parliamo di della parrocchia di san paolo
 BOI001	e q~
 BOI001	questo era un altr~ un altro ambiente che che
@@ -218,7 +218,7 @@ BOI001	i miei figli l'han~ hanno frequentato la parrocchia la nostra parrocchia 
 BOI001	non l'hanno frequentata secondo me tantissimo
 BOI001	come posso averla frequentata io l'hanno frequentata per i periodi
 BOI001	eh classici mh
-BOI001	per arrivare alla comunione alla cresima il ca~ il classico catechismo  secondo me proprio l'oratorio
+BOI001	per arrivare alla comunione alla cresima il ca~ il classico catechismo secondo me proprio l'oratorio
 BOI001	come l'ho vissuto io secondo me loro
 BOI001	eh non l'hanno vissuto forse federico che è
 BOI001	appunto è il raga~ è il figlio mio più grande forse l'ha vissuto un pochettino di più lui perché lui ha fatto anche
@@ -232,7 +232,7 @@ BOI001	però secondo me loro l'hanno vissuta in modo diverso ecco
 BOR001	l'hanno vissuto meno intensamente di come posso averla vissuta io
 BOR001	sì
 BOR001	ehm
-BOR001	i portici che già  li hai nominati più di una volta
+BOR001	i portici che già li hai nominati più di una volta
 BOI001	e
 BOR001	sì
 BOR001	quindi
@@ -240,7 +240,7 @@ BOR001	mh come per tutti i bolognesi
 BOR001	mi sembra di capire anche per te in particolare
 BOI001	hanno cioè sono importanti hanno un significato
 BOI001	beh
-BOI001	ma qua si~ potremmo stare qua a parlarne  mezz'ora perché il portico
+BOI001	ma qua si~ potremmo stare qua a parlarne mezz'ora perché il portico
 BOI001	io ho dei bellissimi ricordi
 BOI001	cosa ti posso dire per me il portico
 BOI001	forse è la vera
@@ -252,13 +252,13 @@ BOI001	penso che solo una città come bologna possa vantare di di avere
 BOI001	e
 BOI001	ci sono portici di
 BOI001	di tantissimi tipologie ci sono portici anche in periferia ma non non s~ non è la stessa cosa
-BOI001	eh io sono legato  potrei
+BOI001	eh io sono legato potrei
 BOI001	riconoscere i portici di bologna da una foto ti potrei dire
 BOI001	a quale strada appartengono cioè quelli di via san felice li conoscevo
 BOI001	o~ ogni singola colonna la la conoscevo ecco
 BOI001	ehm
 BOI001	cosa ti posso dire io s~
-BOI001	ci sono i portici nobilii ci sono i portici della bologna  popolare ci sono
+BOI001	ci sono i portici nobilii ci sono i portici della bologna popolare ci sono
 BOI001	i portici sgangherati ci sono i portici tenuti bene purtroppo adesso
 BOI001	lo sappiamo tutti sono son degradati sono degradati perché sono oggetto di di di di di di
 BOI001	di di
@@ -269,7 +269,7 @@ BOI001	e non capisco perché non non non non si debba tornare ad avere
 BOI001	ques~ questo rispetto ecco per una una
 BOI001	un aspetto per mh
 BOR001	che è di un autenticità unica ecco
-BOI001	mh perciò non era così  quando tu eri ragazzo non
+BOI001	mh perciò non era così quando tu eri ragazzo non
 BOI001	secondo me no non era cos~ sicuramente la la la il fatto di di di sporcarli
 BOI001	di di deturparli con le scritte forse poteva esserci qualcosa ma niente a che vedere come
 BOI001	com'è adesso ecco com'è adesso ormai sono tanti anni che è così putroppo e
@@ -288,7 +288,7 @@ BOI001	mh
 BOI001	non so esa~ esattamente quest'etichetta che è stata data di patrimonio dell'unesco se è solo un'etichetta o se è un qualcosa che porterà dei benefici
 BOI001	io questo non riesco non te lo riesco a dire
 BOI001	eh
-BOI001	non so se è appunto un'etichetta che serve per  pubblicizzare bologna nel mondo
+BOI001	non so se è appunto un'etichetta che serve per pubblicizzare bologna nel mondo
 BOI001	oppure e quindi finisce lì oppure se possa avere un tornaconto anche da un punto di vista magari anche economico che possa portare l'amministrazione a
 BOI001	ad attivare veramente al di là dei proclami che son stati fatti tutti questi anni dai vari sindaci di voler recuperare i portici
 BOI001	cosa che non è mai stata fatta
@@ -296,10 +296,10 @@ BOI001	a parte forse l'iniziativa che è stata fatta del portico del di via sara
 BOI001	e lì so che è stata fatta e è forse in corso ancora un'azione di restauro al portico più lungo
 BOR001	penso in italia forse in europa
 BOI001	sì
-BOI001	e merita merita di essere recuperato ma meritano di essere recuperati  i chilomentri e chilometri di portici che ci sono tutti i portici a bologna veramente dovrebbero essere
+BOI001	e merita merita di essere recuperato ma meritano di essere recuperati i chilomentri e chilometri di portici che ci sono tutti i portici a bologna veramente dovrebbero essere
 BOI001	poi se que~ se se il fatto che sia patrimonio unesco appunto possa portare a
 BOI001	a un recupero
-BOI001	ben venga ma  dubito perché secondo me qui è una questione proprio di inciviltà generale
+BOI001	ben venga ma dubito perché secondo me qui è una questione proprio di inciviltà generale
 BOI001	cioè tu puoi avere anche tutti i soldi che vuoi li puoi anche tutti abbellire però poi dopo se tu non
 BOI001	fintantoché c'è c'è gente così incivile che li sporca e e soprattutto rimane impunita perché purtroppo è così
 BOR001	per me non se ne arriverà mai a capo
@@ -311,11 +311,11 @@ BOR001	chiaramente
 BOI001	sì
 BOI001	magari in periferia ci si fa meno caso
 BOI001	è sbagliato perché comunque anche in periferia dovrebbe esserci un
-BOR001	un livello qualitativo alto però  in centro è chiaro è il fiore all'occhiello quindi
+BOR001	un livello qualitativo alto però in centro è chiaro è il fiore all'occhiello quindi
 BOR001	mh
 BOR001	ehm
 BOI001	e san luca invece visto che l'hai nominato anche quello è è un simbolo per te o lo senti di meno magari xx
-BOI001	mh sincer~ è  so che è un simbolo di bologna mh è conosciuto molto al di fuori di bologna per quanto mi riguarda
+BOI001	mh sincer~ è so che è un simbolo di bologna mh è conosciuto molto al di fuori di bologna per quanto mi riguarda
 BOI001	non ho dei grossissimi legami nel senso che non
 BOI001	sì
 BOI001	mh se è bello sicuramente in una posizione meravigliosa però diciamo che i miei ricordi i miei legami sono altri
@@ -330,11 +330,11 @@ BOI001	certe strade certi angoli
 BOI001	certi palazzi e mh
 BOR001	ma non san luca ecco
 BOR001	mh
-BOR001	e  mi è venuta in mente una cosa eh
+BOR001	e mi è venuta in mente una cosa eh
 BOR001	so che esistono
-BOR001	varie  mh
+BOR001	varie mh
 BOR001	storie direi aneddoti
-BOR001	tu  sai perché
+BOR001	tu sai perché
 BOR001	perché ci sono i portici da
 BOI001	da cosa hanno avuto origine
 BOI001	sì i portici per quanto ne ne so io sono un'estensione
@@ -351,13 +351,13 @@ BOR001	sì sì
 BOI001	no è interessante
 BOR001	mh
 BOR001	ehm
-BOR001	e  cos'è che volevo dire
-BOR001	ah si  e appunto hai detto tu hai cambia~ hai vissuto per tanti anni in quella zona e poi hai cambiato
+BOR001	e cos'è che volevo dire
+BOR001	ah si e appunto hai detto tu hai cambia~ hai vissuto per tanti anni in quella zona e poi hai cambiato
 BOR001	ma hai mantenuto
 BOR001	non so le amicizie
 BOR001	che avevi
 BOR001	mh
-BOR001	sono  cambiate con questo cambiamento
+BOR001	sono cambiate con questo cambiamento
 BOI001	di zona
 BOI001	le amicizie quelle che avevo proprio quelle dell'infanzia si sono un po' perse si sono perse quasi tutte
 BOI001	ne sono rimaste ma proprio pochissime
@@ -370,7 +370,7 @@ BOR001	purtroppo è così
 BOR001	e a~ e allora invece adesso quando
 BOR001	cioè
 BOR001	quando esci normalmente anche con magari
-BOR001	con la famiglia  o
+BOR001	con la famiglia o
 BOR001	nuovi amici magari nuove conoscenze che avrai fatto anche qui
 BOR001	eh frequenti luoghi diversi
 BOR001	da
@@ -408,7 +408,7 @@ BOI001	e anche gli stessi del centro storico ne sono rimasti davvero davvero poc
 BOI001	mh
 BOI001	io frequento per quello che riesco molto la cineteca che mi piace molto e
 BOI001	per il tipo di film che fa che son film
-BOI001	sono i miei film  i film a cui sono legato io e
+BOI001	sono i miei film i film a cui sono legato io e
 BOI001	mi riprometto di frequentarla appunto nei prossimi mesi che avrò più tempo mi riprometto di frequentarla ancora di più
 BOI001	altri cinema teatri sì sicuramente
 BOI001	amo di più il cinema rispetto al teatro però
@@ -429,7 +429,7 @@ BOI001	le attività della cineteca di bologna siano davvero un fiore all'occhiel
 BOI001	le le manifestazioni che
 BOI001	che organizza in estate
 BOI001	mh e durante comunque tutto il corso dell'anno
-BOI001	secondo me fai fatica a trovarle in altre città ecco  delle dimensioni di bologna magari le puoi trovare
+BOI001	secondo me fai fatica a trovarle in altre città ecco delle dimensioni di bologna magari le puoi trovare
 BOI001	ne~ in vari cineclub quei pochi che ancora esistono
 BOI001	a roma o milano
 BOI001	però per città delle dimensioni bologna
@@ -472,11 +472,11 @@ BOR001	ma
 BOI001	dico anche qui come l'hai vissuta bologna
 BOR001	eh
 BOR001	dal punto di vista mh
-BOI001	sportivo sia calcio che basket ma  sicuramente più  basket
+BOI001	sportivo sia calcio che basket ma sicuramente più basket
 BOI001	ma sai
 BOI001	più cioè più basket allora bologna lo s~ lo sappiamo bologna
 BOI001	vive di basket e vive di calcio soprattutto vi~
-BOI001	mh probabilmente in eg~ in egual misura ecco  però per quanto mi riguarda per me boh per me il basket io
+BOI001	mh probabilmente in eg~ in egual misura ecco però per quanto mi riguarda per me boh per me il basket io
 BOR001	io sono nato praticamente in via san felice quindi
 BOI001	xxx
 BOI001	è inutile dire a quale parrocchia appartengo
@@ -497,7 +497,7 @@ BOI001	e anche quello ha passato dei momenti
 BOI001	mh
 BOI001	così così è stato
 BOI001	oggetto di restauro adesso
-BOI001	comunque son~ so che ci sono delle iniziative museo del basket cose del genere  ben vengano ecco
+BOI001	comunque son~ so che ci sono delle iniziative museo del basket cose del genere ben vengano ecco
 BOI001	l'importante è che ecco si continui a fare sport perché ci sono stati dei periodi in cui
 BOI001	il basket non era più di casa e per secondo me è un sacrilegio perché
 BOI001	ripeto non esiste struttura per il basket più bella di quella e
@@ -505,18 +505,18 @@ BOR001	e
 BOR001	quindi sia per il basket che per il calcio
 BOR001	tu sei più a favore di
 BOR001	ehm
-BOR001	mantenere  e
+BOR001	mantenere e
 BOR001	mh
-BOR001	magari  ampliare ristrutturare però conservare
+BOR001	magari ampliare ristrutturare però conservare
 BOI001	il dall'ara il paladozza quelli sono luoghi simbolo che non vanno spostati fuori
 BOI001	allora su~
-BOI001	sul dall'ara sinceramente non ho un gran legame  io il calcio non l'ho mai vissuto più di tanto e
-BOI001	mh non saprei ecco  capisco che uno stadio praticamente quasi in centro abbia delle grosse difficoltà dal punto di vista logistico
+BOI001	sul dall'ara sinceramente non ho un gran legame io il calcio non l'ho mai vissuto più di tanto e
+BOI001	mh non saprei ecco capisco che uno stadio praticamente quasi in centro abbia delle grosse difficoltà dal punto di vista logistico
 BOI001	soprattutto per le persone che ci abitano perché ci abitano tante persone e quando ci sono le partite allo stadio gli abitanti hann~ subiscono dei disagi notevoli
 BOI001	io sono ancora un sentimentale e
 BOI001	io non lo sposterei ecco forse è una una visione un po' egoistica però
 BOI001	anche quello è un monumento
-BOI001	anzi  è un monumento che ha un'età ancora superiore alla al palazzo dello sport
+BOI001	anzi è un monumento che ha un'età ancora superiore alla al palazzo dello sport
 BOI001	però ripeto io non lo sposterei eh se c'è modo di di str~ ristrutturarlo ampliarlo ben venga
 BOI001	per quanto riguarda il mh
 BOI001	il palazzo dello sport è inutile cioè
@@ -535,7 +535,7 @@ BOI001	mh
 BOI001	altri altri esperimenti sono stati fatti ma secondo me sono esperimenti
 BOI001	
 BOI001	per chi abita a bologna lo sa
-BOI001	e e  e sono esperimenti secondo me
+BOI001	e e e sono esperimenti secondo me
 BOI001	fortemente negativi perché la la
 BOI001	un palazzo dello sport come l'unipol arena
 BOI001	che è nato secondo me con dei con dei presupposti assurdi perché doveva essere doveva
@@ -543,7 +543,7 @@ BOI001	eh fa e mh
 BOI001	accogliere sport che
 BOR001	non c'entrano nulla con la cultura di sportiva di bologna doveva esserci la pista di atletica
 BOI001	mh
-BOI001	e la pista di equitazione quindi  e il basket stesso s'è visto quello che che che poi è diventato
+BOI001	e la pista di equitazione quindi e il basket stesso s'è visto quello che che che poi è diventato
 BOI001	alla fine
 BOR001	secondo me è giusto quello che che che pe~ pe~ come ne viene pe~ come viene utilizzata adesso come grande arena per i concerti
 BOI001	sì
@@ -560,7 +560,7 @@ BOI001	è un progetto
 BOI001	da quel punto di vista lì fallimentare ecco
 BOR001	completamente fallimentare
 BOR001	e posso chiederti mh stando sul filone basket mh
-BOI001	com'è che  tu  hai scelto la fortitudo cos'è che ti ha  portato
+BOI001	com'è che tu hai scelto la fortitudo cos'è che ti ha portato
 BOR001	certo
 BOI001	a appassionarti alla fortitudo
 BOI001	mi ha portato perché come sempre c~ c'è una pers~ c'è una qualche persona una persona che che che che
@@ -571,11 +571,11 @@ BOI001	inconsciamente per me esisteva solo la fortitudo e
 BOI001	e quindi io ricordo ancora perfettamente la prima volta che ho messo piede al palazzo dello sport avevo
 BOI001	undic'anni dodic'anni
 BOI001	e io stavo molto addosso a mio fratello volevo che lui mi portasse alle partite ma lui chiaramente
-BOI001	era abbastanza più grande di me lui c'andava coi suoi amici e quindi io non  me ne dovevo stare a casa
+BOI001	era abbastanza più grande di me lui c'andava coi suoi amici e quindi io non me ne dovevo stare a casa
 BOI001	e non potevo assistere alle partite all'epoca non c'era
 BOI001	non c'era altro modo di vedere le partite come adesso né ascoltare la la la la la la radiocronaca non c'era assolutamente modo ecco e
 BOI001	e quindi per me è stato il mio faro è stato mio fratello poi
-BOI001	eh e lui a sua volta  per uno che nasce in via san felice
+BOI001	eh e lui a sua volta per uno che nasce in via san felice
 BOI001	non c'è scelta
 BOI001	via san felice c'è la sede della fortitudo e quindi
 BOI001	è o~ eh
@@ -583,12 +583,12 @@ BOR001	è obbligato ecco
 BOI001	mh
 BOI001	eh è d'obbligo ecco quella scelta
 BOR001	e per fortuna
-BOR001	ma  un tempo erano  più accessibili
+BOR001	ma un tempo erano più accessibili
 BOI001	le partite di basket cioè mh
 BOR001	xxx
 BOR001	a livello di costi dico perché io ques~
-BOR001	quest'anno ho provato a andare a vedere la virtus un po' di volte ma  cioè ci vai una volta ci vai due volte
-BOR001	ma  non è una cosa molto
+BOR001	quest'anno ho provato a andare a vedere la virtus un po' di volte ma cioè ci vai una volta ci vai due volte
+BOR001	ma non è una cosa molto
 BOI001	sostenibile da fare ogni domenica
 BOR001	
 BOI001	per dire un tempo
@@ -622,7 +622,7 @@ BOR001	sì
 BOR001	non s~
 BOI001	cioè
 BOR001	mhm
-BOR001	vedo  prezzo finale no e quest'anno l'hanno aumentato è perché adesso
+BOR001	vedo prezzo finale no e quest'anno l'hanno aumentato è perché adesso
 BOI001	stanno uscendo gli abbonamenti e a me costerebbe come mi costava prima tutto l'anno che adesso è già iniziato il campionato
 BOI001	ma eh bah secondo me la la la la il biglietto più economico della singola partita al palado~ che poi adesso i biglietti quasi non so nea~ perché è tu~ è tutto esaurito in abbonamenti
 BOI001	però facendo un eh una
@@ -631,28 +631,28 @@ BOI001	il numero delle partite secondo me siamo
 BOI001	in curva calori
 BOR001	che quindi a parte la curva schull che è la curva quella della fossa che p~ che è le~ leggermente più economico quella non la prendiamo in considerazione
 BOI001	sì
-BOR001	per me siamo quasi a  quasi a trenta euro a partita
-BOI001	eh  sì
+BOR001	per me siamo quasi a quasi a trenta euro a partita
+BOI001	eh sì
 BOR001	no no no è così
 BOI001	xx
 BOR001	no no è così è così
 BOI001	ma
-BOR001	però  forse bologna è una delle poche città che se lo può permettere perché c'è una passione tale
+BOR001	però forse bologna è una delle poche città che se lo può permettere perché c'è una passione tale
 BOI001	sì
 BOI001	e con due squadre
 BOI001	eh se l'è sempre potuto permettere ecco perché comunque se consideriamo la fortitudo
 BOI001	e che ha passato anni negli ultimi anni non certo belli è fallita è rinata
 BOI001	facendo campionati
 BOI001	di serie inferiore
-BOI001	e e e e già il primo anno faceva tremila abbonamenti poi subito dopo ne fac~  praticamente era tutto in
+BOI001	e e e e già il primo anno faceva tremila abbonamenti poi subito dopo ne fac~ praticamente era tutto in
 BOI001	in abbonamento voglio dire
 BOI001	problemi non non non
 BOI001	cioè qua c'è una un'amore tale per il basket che forse va al di là ecco de de di quelli che sono i costi ecco si sopportano ecco
 BOR001	forse in altre città non sarebbe non è così
 BOI001	mh
 BOR001	non sarebbe così
-BOR001	infatti qui forse c'è il problema oppost~ cioè mio padre anche mi raccontava d~ di quando  era ragazzo lui
-BOI001	che per riuscire a andare a vedere una parti~ era quasi impossibile  perché tutti erano abbonati
+BOR001	infatti qui forse c'è il problema oppost~ cioè mio padre anche mi raccontava d~ di quando era ragazzo lui
+BOI001	che per riuscire a andare a vedere una parti~ era quasi impossibile perché tutti erano abbonati
 BOR001	allora ecco ~co questo è un discorso legato alla virtus perché la virtus è sempre stata così cioè la virtus non s~ storicamente
 BOR001	e~ era
 BOI001	mh
@@ -663,7 +663,7 @@ BOI001	avere l'abbonamento alla virtus negli anni settanta negli anni ottanta
 BOI001	era
 BOR001	un privilegio cioè
 BOI001	sì
-BOR001	per averlo per averlo  tu dovevi dovevi aspettare che qualuno rinunciasse eh
+BOR001	per averlo per averlo tu dovevi dovevi aspettare che qualuno rinunciasse eh
 BOR001	xxx far la fila con la tenda
 BOI001	eh
 BOI001	con la fortitudo non era così
@@ -674,15 +674,15 @@ BOI001	eh il livello competitivo si è alzato la fortitudo ha cominciato a
 BOI001	a lottare per xx dieci anni di di di finali scudetto e quindi anche lì
 BOI001	eh anche il costo del biglietto si è alzato insomma
 BOI001	è cominciato a essere un pochettino più difficile ma anche negli ultimi anni comunque perché negli ultimi anni
-BOI001	eh se tu non eri stato  se tu non ti eri abbonato come mi sono abbonato io nel duemila e tredici quando è rinata la fortitudo dopo i due anni di fallimento
+BOI001	eh se tu non eri stato se tu non ti eri abbonato come mi sono abbonato io nel duemila e tredici quando è rinata la fortitudo dopo i due anni di fallimento
 BOR001	dopo negli anni successivi è stato è stato molto difficile eh c'erano pochi biglietti disponibili ecco
-BOR001	quindi  tu ancora segui
-BOI001	cioè vai al palazzo abbastanza spesso o  segui più
+BOR001	quindi tu ancora segui
+BOI001	cioè vai al palazzo abbastanza spesso o segui più
 BOR001	xx io sono abbonato ancora
 BOR001	da xx
 BOI001	sei abbonato ancora
 BOI001	sì sì sì io sono abbonato
-BOI001	e  e dopo un anno purtroppo di di di di
+BOI001	e e dopo un anno purtroppo di di di di
 BOI001	in cui non s~ non è stato possibile andare al palazzo dello sport fortunatamente quest'anno
 BOI001	siamo tornati al paladozza e
 BOR001	tutti felici e contenti
@@ -692,12 +692,12 @@ BOR001	xx
 BOI001	un po' tutto
 BOR001	eh sì
 BOR001	ehm
-BOR001	e invece e cambiando un attimo  ambito
+BOR001	e invece e cambiando un attimo ambito
 BOI001	per il lavoro tu lavori a bologna
-BOI001	sì  io lavoro ho sempre lavorato a bologna ho sempre lavorato nello stesso posto
+BOI001	sì io lavoro ho sempre lavorato a bologna ho sempre lavorato nello stesso posto
 BOI001	che è @nomeazienda
 BOI001	che è in zona santa viola una zona storica di bologna delle fabbriche di bologna
-BOR001	e  sono quarantun'anni che lavoro lì
+BOR001	e sono quarantun'anni che lavoro lì
 BOR001	mh
 BOR001	e
 BOR001	mh
@@ -706,24 +706,24 @@ BOI001	cioè è un problema il fatto dei trasporti o dover prendere la macchina 
 BOI001	sicuramente sì
 BOI001	purtroppo sì ma è così perché io abito in una zona che tra le più scomode per chi va a lavorare in p~
 BOI001	all'@nomeazienda
-BOI001	perché eh attrave~  perché devo attraversare tutta la città
+BOI001	perché eh attrave~ perché devo attraversare tutta la città
 BOI001	non è tanto una questione di dist~ di distanza perché io di fatto faccio otto chilometri andare otto chilometri tornare
 BOI001	ma sono otto chilometri infernali perché eh devo
-BOI001	devo  attraversa~ faccio i via~
+BOI001	devo attraversa~ faccio i via~
 BOI001	cioè io non faccio la tangenziale perché
 BOI001	sarebbe ancora peggio
 BOI001	quindi sono costretto a fare a seguire la viabilità quindi viali circonvallazione passo
 BOI001	mh negli orari tra l'altro i peggiori perché sono gli orari in cui
 BOI001	tutti si muovono quindi gli orari di punta
 BOI001	quindi per me sono s~ è sempre stato molto difficile
-BOI001	e  sia
+BOI001	e sia
 BOI001	muovendomi in macchina in automobile che muovendomi anche in autobus che io a volte
 BOR001	vado a lavorare anche in autobus anche per allentare un po' la tensione della macchina
 BOI001	mh
-BOI001	e  e i tempi non è che siano tanto differenti eh
+BOI001	e e i tempi non è che siano tanto differenti eh
 BOI001	cioè per fare quegli otto chilometri lì
 BOI001	ci vuo~ in macchina mai meno di mezzora non mh non ci si mette ecco
-BOR001	e quindi per me è mol~ è molto difficile ecco eh anche se  negli ultimi due anni
+BOR001	e quindi per me è mol~ è molto difficile ecco eh anche se negli ultimi due anni
 BOI001	sì
 BOI001	xxx gli ultimi anni li ho fatti tutti quasi tutti in smart working ho ricominciato a andare in azienda adesso nelle ultime settimane
 BOI001	ma ci vado una volta alla settimana ecco e
@@ -735,7 +735,7 @@ BOR001	è un problema irrisolvibile di questa città
 BOR001	ma la viabilità è cambiata cioè
 BOR001	venti trent'anni fa non era
 BOI001	non era così o è sempre stata un po'
-BOI001	mh beh beh beh non  magari non proprio così come adesso ma
+BOI001	mh beh beh beh non magari non proprio così come adesso ma
 BOI001	forse un pelino meglio ma mh
 BOI001	secondo me non tanto diverso da come è adesso ecco
 BOI001	soprattutto appunto p~
@@ -748,7 +748,7 @@ BOI001	un percorso che però lo fanno in tanti
 BOI001	lo fanno in tanti in uno stesso orario e quindi quindi o io
 BOI001	cambio
 BOI001	le mie abitudini quindi o anticipo
-BOI001	questo flusso o o lo o lo ritardo e allora sì ma  nel momento in cui lo fai tra le s~
+BOI001	questo flusso o o lo o lo ritardo e allora sì ma nel momento in cui lo fai tra le s~
 BOI001	tra le otto otto e mezza
 BOI001	è proprio
 BOI001	mh il mome~ il momento peggiore e
@@ -764,28 +764,28 @@ BOR001	sì dico
 BOR001	so che spesso cioè mh
 BOR001	le persone
 BOR001	cercano di trovare una casa che abbia il garage o cercano di acquistare il posto auto o il garage
-BOR001	che  costa anche tantissimo
+BOR001	che costa anche tantissimo
 BOR001	perché altrimenti perdi delle mezz'ore
 BOR001	ogni sera
 BOI001	a cercare se non ce l'hai
 BOI001	certo
 BOI001	e io già quando abitavo in centro era già per me lì già un problema
 BOI001	perché il mio ul~ l~ mh
-BOI001	diciamo io  parcheggiavo nella zona di via riva reno quando ancora non c'erano i parchimetri
+BOI001	diciamo io parcheggiavo nella zona di via riva reno quando ancora non c'erano i parchimetri
 BOI001	ed era comunque già difficile lì
 BOI001	eh trovare da parcheggiare io
 BOI001	tornavo a casa da lavorare e spesso dovevo girare varie volte via riva reno per trovare un posto quindi
 BOI001	e qui parliamo veramente di
 BOI001	almeno di trent'anni fa perché i parchimetri a bologna esistono secondo me dagli anni
-BOI001	mi sembra  anni fine anni ottanta primi anni novanta
+BOI001	mi sembra anni fine anni ottanta primi anni novanta
 BOI001	e dopo è stato ancora più difficile
 BOI001	poi dopo vabbè io mi sono allontanato dal centro sono venuto ad abitare qua
 BOI001	qua fortunatamente è una zona s~
 BOI001	dove
-BOI001	c'è abbastanza  possibilità di parcheggio che è stato da questo @nomeluogo
-BOI001	che però ultimamente è  peggioratissimo
-BOI001	è  peggioratissimo perché eh
-BOI001	non so se l'hai notato anche tu ma c'è  eh
+BOI001	c'è abbastanza possibilità di parcheggio che è stato da questo @nomeluogo
+BOI001	che però ultimamente è peggioratissimo
+BOI001	è peggioratissimo perché eh
+BOI001	non so se l'hai notato anche tu ma c'è eh
 BOI001	fino a qualch~ ma questo proprio negli ultimi mesi nell'ultimo anno
 BOI001	cioè fino a qualche tempo fa la gente si limitava a parcheggiare all'interno del del piazzale
 BOR001	adesso c'è quest'abitudine di di di parcheggiare anche al di fuori
@@ -800,7 +800,7 @@ BOI001	qu~ qu~ qu~ qu~ nelle strade qua adiacenti quindi a pagamento e quindi la
 BOR001	eh chiaramente pu~ pur di non pagare vengono nell'unico nell'unico sbocco che è questo largo qua
 BOI001	mh
 BOI001	dov'è ancora gratuito
-BOI001	del resto qui le multe non le fanno perché io mi sono informat~ qui abbiamo una stazione dei vigili che  è qua
+BOI001	del resto qui le multe non le fanno perché io mi sono informat~ qui abbiamo una stazione dei vigili che è qua
 BOI001	è qua dietr~ a cento metri
 BOI001	io sono andato a chiedere se era possibile
 BOI001	parcheggiare in questo modo mi han detto di sì
@@ -817,16 +817,16 @@ BOI001	sì
 BOI001	quindi problemi di parcheggio ci sono anche qua
 BOI001	sicuramente
 BOI001	e
-BOI001	i garage comunque c~  i garage ci sono in questa zona ma sono chiaramente insufficienti
+BOI001	i garage comunque c~ i garage ci sono in questa zona ma sono chiaramente insufficienti
 BOI001	peraltro questo è anche un parcheggio che viene utilizzato come sparcheggio c~ m~
 BOR001	come parcheggio scambiatore cioè tanta gente che viene ancor da più fuori
 BOI001	mh
 BOI001	lascia la macchina qua
 BOI001	poi magari da qui prende l'autobus per andare in centro
-BOI001	quindi  tra le macchine di chi ci abita
+BOI001	quindi tra le macchine di chi ci abita
 BOI001	le macchine di quelli che ci lavorano perché qua ci sono
 BOI001	supermercati e negozi
-BOI001	quindi e i gestori di queste  di chi lavora in queste strutture parcheggia qua
+BOI001	quindi e i gestori di queste di chi lavora in queste strutture parcheggia qua
 BOI001	più quelli che ci abitano
 BOI001	qui ormai siamo sommersi dalle macchine
 BOR001	e non era così fino a qualche tempo fa
@@ -834,7 +834,7 @@ BOR001	mhmh
 BOR001	ehm
 BOR001	quindi
 BOR001	però in generale
-BOR001	tu  ti trovi ancora bene a bologna
+BOR001	tu ti trovi ancora bene a bologna
 BOR001	cioè
 BOR001	o è più
 BOI001	un'amore che hai per la città
@@ -845,13 +845,13 @@ BOR001	non si vive più
 BOR001	bene come prima
 BOR001	o
 BOR001	pesando i pro e i contro
-BOI001	lo stesso  stai ancora bene
+BOI001	lo stesso stai ancora bene
 BOI001	è difficile
 BOI001	perché in questo momento
 BOI001	forse ripeto forse anche io sto un po' cambiando però
 BOI001	vedo magari l'allontanamento da bologna come un qualcosa magari di fattibile
-BOI001	cosa che fino a qualche tempo fa non avrei mai preso in considerazione  allontanamento di bologna vuol comunque dire
-BOI001	non andare a vivere in  paese
+BOI001	cosa che fino a qualche tempo fa non avrei mai preso in considerazione allontanamento di bologna vuol comunque dire
+BOI001	non andare a vivere in paese
 BOI001	in campagna o nonostante che io sia nato in campagna le mie il mio sangue dovrebbe essere legato alla campagna ma io non ho
 BOI001	sono
 BOR001	urbano e cittadino fino al cento percento
@@ -878,8 +878,8 @@ BOI001	sì
 BOI001	però chiaramente c'è una densità
 BOI001	di persone e di macchine inferiore a bolo~ a quella di bologna ecco
 BOI001	questo
-BOI001	quindi potrebbe essere anche una una  una possibilità ecco
-BOR001	oppure in est~ eh oppure  l'altra metà del mio cuore mi direbbe beh torna a vivere in centro perché comunque le mie radici sono rimaste quelle
+BOI001	quindi potrebbe essere anche una una una possibilità ecco
+BOR001	oppure in est~ eh oppure l'altra metà del mio cuore mi direbbe beh torna a vivere in centro perché comunque le mie radici sono rimaste quelle
 BOI001	mh
 BOR001	ma non penso che capiterà
 BOI001	mh
@@ -894,9 +894,9 @@ BOI001	dipende poi anche l~ dall'adattabilità
 BOI001	io sono un bambino
 BOI001	nato nel centro storico ho vissuto felicemente nel centro storico
 BOI001	eh
-BOI001	quindi forse  potrebbe essere così anche adesso non lo so
+BOI001	quindi forse potrebbe essere così anche adesso non lo so
 BOI001	non è facile
-BOI001	non è facile sinceramente da dire  dare una risposta
+BOI001	non è facile sinceramente da dire dare una risposta
 BOI001	però mh
 BOI001	nel centro storico di bologna ci vive tantissima gente non si può dire che il centro storico sia
 BOI001	sia spopolato anzi eh
@@ -905,7 +905,7 @@ BOR001	ci abitano ancora famiglie coi bambini perché comunque ci sono tante scu
 BOI001	sì infatti
 BOI001	e mh
 BOI001	quindi vuol dire che ci son
-BOI001	bambini cioè probabilmente ce ne sono  molto meno rispetto a quando ero bambino io però
+BOI001	bambini cioè probabilmente ce ne sono molto meno rispetto a quando ero bambino io però
 BOI001	ce ne sono eh
 BOI001	secondo me
 BOI001	con un po' di coraggio
@@ -917,7 +917,7 @@ BOI001	sì
 BOI001	che decide
 BOR001	non so dipende
 BOR001	dipende un po' anche da dove si lavora
-BOI001	perché  comunque se uno lavora in centro tutto è raggiungibile a piedi anche  xx
+BOI001	perché comunque se uno lavora in centro tutto è raggiungibile a piedi anche xx
 BOI001	dipe~
 BOI001	dipende dove si lavora certo
 BOI001	no no no certo
@@ -927,9 +927,9 @@ BOI001	io quando abitavo in centro ci mettevo la metà del tempo per andare a la
 BOR001	cioè la la la la la tutta la strada che faccio adesso per arrivare in centro me la risparmiavo
 BOI001	sì
 BOI001	quindi
-BOR001	queste  almeno un quarto d'ora in meno di tempo ecco
-BOI001	anche perché poi eri più già verso quel lato  della città
-BOI001	es~ esatto e es~ proprio così ero già  sì non ero in strada maggiore per dire ero  comunque in via san felice quindi  ero già in direzione via saffi
+BOR001	queste almeno un quarto d'ora in meno di tempo ecco
+BOI001	anche perché poi eri più già verso quel lato della città
+BOI001	es~ esatto e es~ proprio così ero già sì non ero in strada maggiore per dire ero comunque in via san felice quindi ero già in direzione via saffi
 BOR001	e via emilia ponente ecco che è do~ dove c'è l'@nomeluogo poi
 BOR001	sì
 BOR001	mh
@@ -938,7 +938,7 @@ BOR001	ehm
 BOR001	quindi comunque
 BOI001	cioè mh
 BOI001	no cioè il centro di bologna secondo me
-BOI001	ci si potrebbe vive~ però  è u~ va fatta una scelta molto ponderata
+BOI001	ci si potrebbe vive~ però è u~ va fatta una scelta molto ponderata
 BOI001	perché ci sono dei rischi enormi
 BOI001	eh nel senso che
 BOI001	uno può battezzare una una strada un angolo che gli piace una casa bella
@@ -947,18 +947,18 @@ BOI001	il giorno dopo ti apre un eh un locale sotto casa
 BOI001	e tu hai finito di vivere
 BOI001	cioè lo vediamo come
 BOI001	così
-BOI001	ormai  cioè un tempo
+BOI001	ormai cioè un tempo
 BOI001	eh io non ricordo tutti i dehor che ci sono adesso un tempo
 BOI001	beh i i i i i cioè saran stati so~ sono stato ragazzo anch'io ho frequentato le osterie
 BOI001	però si viveva
 BOI001	dentro i locali
-BOI001	non fuori  c'è questa moda di vivere f~
+BOI001	non fuori c'è questa moda di vivere f~
 BOI001	di vivere i locali fuori
 BOI001	noi l'abbiamo copiata da altri paesi non c'è mai stata questa
-BOI001	questa modalità di di di di fare casino diciamo  all'esterno
+BOI001	questa modalità di di di di fare casino diciamo all'esterno
 BOI001	quindi senza il rispetto delle persone che abitano
 BOI001	perché è questo il problema di bologna cioè che comunque in centro storico come dicevo ci abitano ancora tante famiglie
-BOI001	e quindi ci sono  c'è questa
+BOI001	e quindi ci sono c'è questa
 BOI001	incompatibilità tra tra i~ i~ il il casino
 BOI001	eh prodotto da questi locali che il casino di sicu~ si si si consuma all'esterno con
 BOI001	il diritto che hanno le persone di di ch~ che abitano in quel palazzo di di avere una
@@ -966,7 +966,7 @@ BOI001	di di di andare a dormire all'ora che vogliono e non sentire gli schiamaz
 BOI001	di di quelli che fanno casino all'esterno perché ripeto
 BOI001	questa è una moda che eh
 BOI001	che che è nata e si è sviluppata negli ultimi anni prima non era così
-BOR001	prima s~ si andava si andava all'osteria ma si stava  dentro
+BOR001	prima s~ si andava si andava all'osteria ma si stava dentro
 BOI001	mh
 BOI001	eh e adesso invece non è così
 BOI001	e quindi
@@ -977,18 +977,18 @@ BOR001	tu hai finito di vivere
 BOR001	mh
 BOI001	invece qua non è così cioè un po' meno
 BOI001	beh
-BOR001	non è totalmente  no non è non è meno è così anche qua
+BOR001	non è totalmente no non è non è meno è così anche qua
 BOI001	xx
 BOI001	perché comunque
 BOI001	questo questo piazzale @nomeluogo,
-BOI001	eh so~  mh
+BOI001	eh so~ mh
 BOI001	d'estate ma non solo è luogo di ritrovo anche questo di di di di compagnie di ragazzi che io
 BOI001	non capisco perché si debbono trovare in un posto del genere che non è niente di bello perché è un parcheggio
 BOI001	però amano venire qua
 BOI001	eh
 BOI001	e fanno casino anche qua
-BOI001	non siamo ai livelli della zona universitaria di bologna chiaramente però capita anche qua  e d'estate disturba
-BOI001	perché eh  ce li hai sotto casa ce li hai
+BOI001	non siamo ai livelli della zona universitaria di bologna chiaramente però capita anche qua e d'estate disturba
+BOI001	perché eh ce li hai sotto casa ce li hai
 BOI001	eh
 BOI001	quindi mh è un problema un po' generalizzato ecco
 BOI001	e secondo me nasce molto anche dall'inciviltà della delle persone perché ripeto
@@ -999,10 +999,10 @@ BOR001	e tu ti trovi a urlare e fare come se niente fosse ecco
 BOI001	sì
 BOR001	questo è un po' un problema ma non penso che sia solo di bologna è un po' un problema generalizzato questo qua
 BOI001	mh
-BOR001	e  e soprattutto non ci sono mai interventi da parte delle
+BOR001	e e soprattutto non ci sono mai interventi da parte delle
 BOI001	delle autorità
 BOI001	delle autorità per risolvere questa cos~ proprio non c'è c'è totale
-BOI001	eh permissivi  mh permissivismo ecco
+BOI001	eh permissivi mh permissivismo ecco
 BOR001	to~ totale proprio
 BOR001	mh
 BOR001	beh sì
@@ -1022,26 +1022,26 @@ BOI001	beh ti chiedo un'ultima cosa così per curiosità
 BOR001	sì
 BOR001	e ma mh
 BOR001	il dialetto bolognese tu
-BOR001	lo sai  lo capisci
+BOR001	lo sai lo capisci
 BOI001	o
 BOI001	io lo so perfettamente ma non l~ mh
 BOI001	non è il mio uso parlarlo ogni tanto mi capita di mettere qualche parola
 BOI001	di dialetto ma lo conosco perfettamente perché i miei genitori lo parlavano i miei parenti lo parlavano in campagna
 BOI001	dove appunto
-BOI001	tutti i miei paren~ quei pochi che sono rimasti  ma quando ero un bambino si parlava
-BOI001	parlavano  esclusivamente in dialetto quindi per me è una è una lingua
+BOI001	tutti i miei paren~ quei pochi che sono rimasti ma quando ero un bambino si parlava
+BOI001	parlavano esclusivamente in dialetto quindi per me è una è una lingua
 BOI001	totalmente comprensibile
 BOI001	e che mi piace tantissimo tra l'altro
 BOI001	mi piace tantissimo sentirla parlare
 BOI001	e
-BOI001	però ripeto io non non non non la parlo ma  volendo potrei parlarla ecco perché la la
+BOI001	però ripeto io non non non non la parlo ma volendo potrei parlarla ecco perché la la
 BOI001	però delle due mi piace più ascoltarla
 BOR001	ascoltarla è stu~ è bellissimo
 BOR001	mh
 BOI001	e ti
 BOI001	le commedie dialettali sentire gli anziani che parlano dialetto è
 BOR001	è bellissimo
-BOR001	e ti dispiace che stia  si stia un po' perdendo e penso che
+BOR001	e ti dispiace che stia si stia un po' perdendo e penso che
 BOR001	i giovani
 BOI001	cioè io son la prima a non saperlo
 BOR001	sì mi dispiace come tutte le cose però penso sia nell'ordine delle cose cioè non non

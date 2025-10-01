@@ -3776,8 +3776,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 479-16	BOR010	479	che	che	linguistic	none	_	_	_	_	_	_
 479-17	BOR010	479	volevo	volevo	linguistic	none	_	_	_	_	_	_
 479-18	BOR010	479	chiederle	chiederle	linguistic	none	_	End=1518.03	_	_	_	_
-480-0	BOR010	480	<secondo:	secondo	linguistic	none	_	Begin=1518.5	6x1	Slow=0-7(0)	_	_
-480-1	BOR010	480	lei>?	lei	linguistic	none	Intonation=Rising	_	_	Slow=0-3(0)	_	_
+480-0	BOR010	480	<secondo:	secondo	linguistic	none	_	Begin=1518.5	6x1	Slow=0-7	_	_
+480-1	BOR010	480	lei>?	lei	linguistic	none	Intonation=Rising	_	_	Slow=0-3	_	_
 480-2	BOR010	480	xxx	x	unknown	none	_	_	_	_	_	_
 480-3	BOR010	480	cioè:	cioè	linguistic	none	_	_	3x1	_	_	_
 480-4	BOR010	480	come:	come	linguistic	none	_	End=1521.23	3x1	_	_	_

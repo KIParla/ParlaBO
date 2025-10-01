@@ -545,8 +545,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 52-21	BOI040	52	gli	gli	linguistic	none	_	_	_	_	_	_
 52-22	BOI040	52	anziani,	anziani	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 52-23	BOI040	52	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-52-24	BOI040	52	era	era	linguistic	none	_	_	_	Slow=2-3(0)	_	_
-52-25	BOI040	52	<tutto>	tutto	linguistic	none	_	End=213.555	_	Slow=0-4(0)	_	_
+52-24	BOI040	52	era	era	linguistic	none	_	_	_	Slow=2-3	_	_
+52-25	BOI040	52	<tutto>	tutto	linguistic	none	_	End=213.555	_	Slow=0-4	_	_
 53-0	BOI040	53	adesso	adesso	linguistic	none	_	Begin=213.81	_	_	_	_
 53-1	BOI040	53	qualcosa	qualcosa	linguistic	none	_	_	_	_	_	_
 53-2	BOI040	53	è	è	linguistic	none	_	_	_	_	_	_
@@ -834,7 +834,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 85-2	BOR005	85	dicono	dicono	linguistic	none	_	_	_	_	_	_
 85-3	BOR005	85	che	che	linguistic	none	_	_	_	_	_	_
 85-4	BOR005	85	il	il	linguistic	none	_	_	_	_	_	_
-85-5	BOR005	85	<degra:do>	degrado	linguistic	none	_	_	4x1	Slow=0-7(0)	_	_
+85-5	BOR005	85	<degra:do>	degrado	linguistic	none	_	_	4x1	Slow=0-7	_	_
 85-6	BOR005	85	di	di	linguistic	none	_	_	_	_	_	_
 85-7	BOR005	85	questa	questa	linguistic	none	_	_	_	_	_	_
 85-8	BOR005	85	città	città	linguistic	none	_	_	_	_	_	_
@@ -1078,8 +1078,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 115-4	BOR005	115	problemi	problemi	linguistic	none	_	_	_	_	_	_
 115-5	BOR005	115	che	che	linguistic	none	_	_	_	_	_	_
 115-6	BOR005	115	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-115-7	BOR005	115	<per	per	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-115-8	BOR005	115	ora:>	ora	linguistic	none	_	End=414.45	2x1	Slow=0-3(0)	_	_
+115-7	BOR005	115	<per	per	linguistic	none	_	_	_	Slow=0-3	_	_
+115-8	BOR005	115	ora:>	ora	linguistic	none	_	End=414.45	2x1	Slow=0-3	_	_
 116-0	BOR005	116	si	si	linguistic	none	_	Begin=415.048	_	_	_	_
 116-1	BOR005	116	possono	possono	linguistic	none	_	_	_	_	_	_
 116-2	BOR005	116	considerare	considerare	linguistic	none	_	_	_	_	_	_
@@ -1128,7 +1128,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 118-12	BOI040	118	me	me	linguistic	none	_	_	_	_	_	_
 118-13	BOI040	118	ancora	ancora	linguistic	none	_	_	_	_	_	_
 118-14	BOI040	118	le	le	linguistic	none	_	_	_	_	_	_
-118-15	BOI040	118	<oasi>	oasi	linguistic	none	_	_	_	Slow=0-4(0)	_	_
+118-15	BOI040	118	<oasi>	oasi	linguistic	none	_	_	_	Slow=0-4	_	_
 118-16	BOI040	118	di	di	linguistic	none	_	_	_	_	_	_
 118-17	BOI040	118	pace	pace	linguistic	none	_	End=433.236	_	_	_	_
 119-0	BOR005	119	((ride))	((ride))	nonverbalbehavior	none	_	Begin=433.063|End=433.557	_	_	_	_
@@ -3907,7 +3907,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 509-5	BOR005	509	una	una	linguistic	none	_	_	_	_	_	_
 509-6	BOR005	509	cosa	cosa	linguistic	none	_	_	_	_	_	_
 509-7	BOR005	509	che	che	linguistic	none	_	End=1469.163	_	_	_	_
-510-0	BOR005	510	<indubbiamente>	indubbiamente	linguistic	none	_	Begin=1469.327	_	Slow=0-13(0)	_	_
+510-0	BOR005	510	<indubbiamente>	indubbiamente	linguistic	none	_	Begin=1469.327	_	Slow=0-13	_	_
 510-1	BOR005	510	anche	anche	linguistic	none	_	_	_	_	_	_
 510-2	BOR005	510	alla	alla	linguistic	none	_	_	_	_	_	_
 510-3	BOR005	510	compagnia	compagnia	linguistic	none	_	_	_	_	_	_
@@ -4277,7 +4277,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 550-12	BOR005	550	un	un	linguistic	none	_	_	_	_	_	_
 550-13	BOR005	550	po':	po'	linguistic	none	_	_	1x1	_	_	_
 550-14	BOR005	550	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-550-15	BOR005	550	<abbandona:ti>	abbandonati	linguistic	none	_	End=1592.6	8x1	Slow=0-11(0)	_	_
+550-15	BOR005	550	<abbandona:ti>	abbandonati	linguistic	none	_	End=1592.6	8x1	Slow=0-11	_	_
 551-0	BOI040	551	ecco	ecco	linguistic	none	_	Begin=1593.26	_	_	_	_
 551-1	BOI040	551	lì	lì	linguistic	none	_	_	_	_	_	_
 551-2	BOI040	551	dipende	dipende	linguistic	none	_	_	_	_	_	_
@@ -4304,8 +4304,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 552-15	BOI040	552	comu:ne	comune	linguistic	none	_	End=1603.944	3x1	_	_	_
 553-0	BOI040	553	se	se	linguistic	none	_	Begin=1604.301	_	_	_	_
 553-1	BOI040	553	sono	sono	linguistic	none	_	_	_	_	_	_
-553-2	BOI040	553	<condomini	condomini	linguistic	none	_	_	_	Slow=0-9(0)	_	_
-553-3	BOI040	553	priva:ti>	privati	linguistic	none	_	_	4x1	Slow=0-7(0)	_	_
+553-2	BOI040	553	<condomini	condomini	linguistic	none	_	_	_	Slow=0-9	_	_
+553-3	BOI040	553	priva:ti>	privati	linguistic	none	_	_	4x1	Slow=0-7	_	_
 553-4	BOI040	553	e:h	eh	linguistic	none	_	_	0x1	_	_	_
 553-5	BOI040	553	lì:	lì	linguistic	none	_	_	1x1	_	_	_
 553-6	BOI040	553	e:h	eh	linguistic	none	_	_	0x1	_	_	_
@@ -4351,7 +4351,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 558-1	BOI040	558	sono	sono	linguistic	none	_	_	_	_	_	_
 558-2	BOI040	558	anche	anche	linguistic	none	_	_	_	_	_	_
 558-3	BOI040	558	proprio	proprio	linguistic	none	_	_	_	_	_	_
-558-4	BOI040	558	<degradati>	degradati	linguistic	none	_	End=1624.708	_	Slow=0-9(0)	_	_
+558-4	BOI040	558	<degradati>	degradati	linguistic	none	_	End=1624.708	_	Slow=0-9	_	_
 559-0	BOR005	559	pur[troppo	purtroppo	linguistic	none	_	Begin=1626.26	_	_	_	3-9(120)
 559-1	BOR005	559	ecco:]	ecco	linguistic	none	_	End=1627.765	3x1	_	_	0-4(120)
 560-0	BOI040	560	[(se	se	linguistic	none	_	Begin=1626.553	_	_	0-2(0)	0-2(120)
@@ -4382,8 +4382,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 562-5	BOR005	562	gente	gente	linguistic	none	_	_	_	_	_	_
 562-6	BOR005	562	li	li	linguistic	none	_	_	_	_	_	_
 562-7	BOR005	562	collega	collega	linguistic	none	_	_	_	_	_	_
-562-8	BOR005	562	<direttame:nte	direttamente	linguistic	none	_	_	8x1	Slow=0-12(0)	_	_
-562-9	BOR005	562	subito>	subito	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+562-8	BOR005	562	<direttame:nte	direttamente	linguistic	none	_	_	8x1	Slow=0-12	_	_
+562-9	BOR005	562	subito>	subito	linguistic	none	_	_	_	Slow=0-6	_	_
 562-10	BOR005	562	>no	no	linguistic	none	_	_	_	Fast=0-2	_	_
 562-11	BOR005	562	magari	magari	linguistic	none	_	_	_	Fast=0-6	_	_
 562-12	BOR005	562	a	a	linguistic	none	_	_	_	Fast=0-1	_	_
@@ -4592,8 +4592,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 588-2	BOI040	588	danno	danno	linguistic	none	_	_	_	_	_	_
 588-3	BOI040	588	da	da	linguistic	none	_	_	_	_	_	_
 588-4	BOI040	588	fare,	fare	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
-588-5	BOI040	588	<ci	ci	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-588-6	BOI040	588	sono>	sono	linguistic	none	_	_	_	Slow=0-4(0)	_	_
+588-5	BOI040	588	<ci	ci	linguistic	none	_	_	_	Slow=0-2	_	_
+588-6	BOI040	588	sono>	sono	linguistic	none	_	_	_	Slow=0-4	_	_
 588-7	BOI040	588	>ci	ci	linguistic	none	_	_	_	Fast=0-2	_	_
 588-8	BOI040	588	sono<	sono	linguistic	none	_	_	_	Fast=0-4	_	_
 588-9	BOI040	588	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_

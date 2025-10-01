@@ -43,7 +43,7 @@ BOI049	e le scuole medie mh
 BOI049	dove le ho fatte
 BOI049	dove le ho f~
 BOR006	non mi ricordo
-BOI049	mh  okay
+BOI049	mh okay
 BOI049	in questo momento
 BOR006	mi sfugge
 BOR006	non ti preoccupare
@@ -61,7 +61,7 @@ BOR006	molto in periferia ecco non mh
 BOI049	mhmh
 BOI049	non c'è quasi niente sì
 BOI049	c'è il centro commerciale
-BOR006	e basta ecco  no
+BOR006	e basta ecco no
 BOI049	mh
 BOI049	prima ero più vicino al centro e mh
 BOI049	quindi mh mi trovavo meglio
@@ -82,7 +82,7 @@ BOI049	oddio eh
 BOR006	x nella zona
 BOR006	x
 BOR006	cioè ad esempio esempio se mi hai detto che sei molto in periferia
-BOI049	magari  s~ sulla questione trasporti
+BOI049	magari s~ sulla questione trasporti
 BOI049	beh gli autobus ci sono quello mh
 BOI049	non è un problema ecco mh
 BOI049	no beh ci sono i problemi di tutte le periferie insomma mh
@@ -121,13 +121,13 @@ BOI049	diciamo
 BOR006	sì
 BOR006	mhmh
 BOI049	capito infatti c'è c'è ancora la fermata del e dell'autobus che si chiama studentato battiferro però in realtà
-BOR006	non c'è più  da qualche anno mh
+BOR006	non c'è più da qualche anno mh
 BOR006	mhmh
 BOR006	e e però hanno spostato molti a fare l'università qui
 BOR006	quindi
 BOR006	non so cioè io sinceramente penso che mh che sia un po' un problema appunto per quello che hai detto tu cioè per la mancanza di servizi
 BOI049	il fatto che sia una zona molto periferica
-BOI049	sì per le str~ proprio  vicino alla tangenziale insomma siamo proprio
+BOI049	sì per le str~ proprio vicino alla tangenziale insomma siamo proprio
 BOI049	in periferia
 BOR006	periferia
 BOR006	mhmh
@@ -150,7 +150,7 @@ BOR006	prendo l'autobus oppure vado a piedi
 BOI049	ti piace passesggiare
 BOI049	sì mi piace
 BOI049	camminare sì mh
-BOR006	è l'unica attività  fisica
+BOR006	è l'unica attività fisica
 BOI049	
 BOR006	che mi piace fare sì
 BOR006	mhmh
@@ -241,7 +241,7 @@ BOR006	sta~
 BOR006	sempre rispetto a tu quando
 BOR006	quando andavi a scuola quando eri più giovane
 BOR006	sembra che
-BOR006	i i giovani  che
+BOR006	i i giovani che
 BOR006	che vedi adesso
 BOR006	eh in città vivano
 BOR006	eh
@@ -354,7 +354,7 @@ BOR006
 BOI049	voglia il professore di educazione fisica di fare lezione
 BOR006	ho capito
 BOR006	e ci portava lì
-BOI049	e quello valeva come lezione  di di educazione fisica
+BOI049	e quello valeva come lezione di di educazione fisica
 BOR006	beh effettivamente sì
 BOI049	
 BOR006	è una bella scarpinata
@@ -384,7 +384,7 @@ BOI049	quello proprio
 BOR006	sì eviterei di farli sui monumenti ecco quello sicuramente però per il resto mh
 BOR006	sì
 BOR006	però dai penso che
-BOI049	anche l'unesco sia d'accordo visto che  li ha nominati patrimonio
+BOI049	anche l'unesco sia d'accordo visto che li ha nominati patrimonio
 BOI049	beh certo eh
 BOI049	sono i portici
 BOR006	più lunghi del mondo qui a bologna
@@ -402,7 +402,7 @@ BOR006	se ti
 BOI049	mh fa strano non vedere i portici
 BOI049	sì
 BOR006	
-BOI049	perché  a me succede sempre
+BOI049	perché a me succede sempre
 BOI049	sì è vero sembra una cosa
 BOI049	eh così normale per noi che
 BOI049	che siamo qui a bologna che
@@ -447,7 +447,7 @@ BOI049	e per me
 BOR006	x
 BOI049	fanno la loro
 BOR006	
-BOI049	fanno la loro figura comunque  nonostante
+BOI049	fanno la loro figura comunque nonostante
 BOI049	sì ma son~ ho detto non mh
 BOR006	per me non mh le scritte sui muri neanche sono un problema
 BOR006	okay
@@ -497,7 +497,7 @@ BOR006	lo sport più popolare qui in italia penso
 BOR006	forse anche a bologna
 BOI049	e tu che squadra tifi
 BOR006	per il bologna
-BOR006	mhmh  okay
+BOR006	mhmh okay
 BOI049	e come mai eh magari è legato a qualche episodio in particolare
 BOI049	no fin da piccolo cioè mh la squadra della della mia città insomma e
 BOI049	per me è normale
@@ -541,7 +541,7 @@ BOR006	mh
 BOR006	mh
 BOI049	è infatti è un peccato perché il bologna ha una storia gloriosa comunque
 BOI049	è una storia sì però è
-BOR006	una storia  molto remota
+BOR006	una storia molto remota
 BOR006	eh lo so
 BOR006	ma eh tu
 BOI049	cioè immagino che conosci arpad weisz
@@ -567,10 +567,10 @@ BOR006	ha fatto una brutta fine
 BOR006	eh
 BOR006	purtroppo sì
 BOR006	e hm
-BOI049	poi  ti piace andare allo stadio
+BOI049	poi ti piace andare allo stadio
 BOR006	sì
 BOR006	e
-BOI049	quanto i~ adesso ovviamnete è più difficile  però
+BOI049	quanto i~ adesso ovviamnete è più difficile però
 BOR006	adesso o
 BOR006	
 BOR006	prima
@@ -685,7 +685,7 @@ BOR006	sì
 BOR006	x
 BOI049	li hai visti
 BOR006	sì sì
-BOI049	eh secondo me è molto carino  mh
+BOI049	eh secondo me è molto carino mh
 BOI049	bello sì
 BOR006	poi so che mh quando è morto lucio dalla mandavano le sue canzoni
 BOR006	eh gia
@@ -701,7 +701,7 @@ BOR006	s~ sei stato proprio dentro
 BOI049	sì
 BOR006	dentro a x
 BOI049	molto bello
-BOR006	ah io l'ho vista solo da fuori  che dentro mh
+BOR006	ah io l'ho vista solo da fuori che dentro mh
 BOI049	
 BOR006	non ci sono mai stato
 BOR006	sai era cioè
@@ -822,7 +822,7 @@ BOR006	mh peccato
 BOR006	e diciamo
 BOI049	e secondo me si trovano più o meno tutti i film ch~ che uno vuole vedere a bologna anche grazie alla cineteca
 BOI049	sì mh
-BOR006	a bologna è uno dei posti migliori sì sì perché  per chi ama il cinema sì sì
+BOR006	a bologna è uno dei posti migliori sì sì perché per chi ama il cinema sì sì
 BOR006	mhmh son d'accordo
 BOR006	e ultima domanda che cosa ne pensi del cinema sotto le stelle
 BOI049	quello in piazza maggiore

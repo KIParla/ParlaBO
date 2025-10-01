@@ -667,7 +667,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 97-8	BOI072	97	gruppo	gruppo	linguistic	none	_	_	_	_	_	_
 97-9	BOI072	97	mi	mi	linguistic	none	_	_	_	_	_	_
 97-10	BOI072	97	sa	sa	linguistic	none	_	End=210.425	_	_	_	_
-98-0	BOI073	98	<davvero>	davvero	linguistic	none	_	Begin=210.425|End=211.24	_	Slow=0-7(0)	_	_
+98-0	BOI073	98	<davvero>	davvero	linguistic	none	_	Begin=210.425|End=211.24	_	Slow=0-7	_	_
 99-0	BOI072	99	sì	sì	linguistic	none	_	Begin=211.24	_	_	_	_
 99-1	BOI072	99	forse	forse	linguistic	none	_	_	_	_	_	_
 99-2	BOI072	99	in	in	linguistic	none	_	_	_	_	_	_
@@ -707,9 +707,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 107-3	BOR018	107	amici	amici	linguistic	none	_	_	_	_	_	_
 107-4	BOR018	107	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 107-5	BOR018	107	università	università	linguistic	none	_	End=230.25	_	_	_	_
-108-0	BOI072	108	<sì	sì	linguistic	none	_	Begin=230.9	_	Slow=0-2(0)	_	_
-108-1	BOI072	108	diciamo	diciamo	linguistic	none	_	_	_	Slow=0-7(0)	_	_
-108-2	BOI072	108	che>	che	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+108-0	BOI072	108	<sì	sì	linguistic	none	_	Begin=230.9	_	Slow=0-2	_	_
+108-1	BOI072	108	diciamo	diciamo	linguistic	none	_	_	_	Slow=0-7	_	_
+108-2	BOI072	108	che>	che	linguistic	none	_	_	_	Slow=0-3	_	_
 108-3	BOI072	108	dopo	dopo	linguistic	none	_	_	_	_	_	_
 108-4	BOI072	108	che	che	linguistic	none	_	_	_	_	_	_
 108-5	BOI072	108	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -819,8 +819,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 121-11	BOI072	121	frequenterò	frequenterò	linguistic	none	_	_	_	_	_	_
 121-12	BOI072	121	un	un	linguistic	none	_	_	_	_	_	_
 121-13	BOI072	121	giorno	giorno	linguistic	none	_	End=275.25	_	_	_	_
-122-0	BOI072	122	<penso	penso	linguistic	none	_	Begin=275.71	_	Slow=0-5(0)	_	_
-122-1	BOI072	122	che>	che	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+122-0	BOI072	122	<penso	penso	linguistic	none	_	Begin=275.71	_	Slow=0-5	_	_
+122-1	BOI072	122	che>	che	linguistic	none	_	_	_	Slow=0-3	_	_
 122-2	BOI072	122	allora	allora	linguistic	none	_	_	_	_	_	_
 122-3	BOI072	122	inizialmente	inizialmente	linguistic	none	_	_	_	_	_	_
 122-4	BOI072	122	non	non	linguistic	none	_	_	_	_	_	_
@@ -2883,9 +2883,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 416-4	BOR018	416	non	non	linguistic	none	_	_	_	_	_	_
 416-5	BOR018	416	le	le	linguistic	none	_	_	_	_	_	_
 416-6	BOR018	416	tradizionali	tradizionali	linguistic	none	_	End=1022.57	_	_	_	_
-417-0	BOR018	417	<dal	dal	linguistic	none	_	Begin=1022.91	_	Slow=0-3(0)	_	_
-417-1	BOR018	417	mondo	mondo	linguistic	none	_	_	_	Slow=0-5(0)	_	_
-417-2	BOR018	417	occidentale>	occidentale	linguistic	none	_	End=1024.73	_	Slow=0-11(0)	_	_
+417-0	BOR018	417	<dal	dal	linguistic	none	_	Begin=1022.91	_	Slow=0-3	_	_
+417-1	BOR018	417	mondo	mondo	linguistic	none	_	_	_	Slow=0-5	_	_
+417-2	BOR018	417	occidentale>	occidentale	linguistic	none	_	End=1024.73	_	Slow=0-11	_	_
 418-0	BOR018	418	quindi:	quindi	linguistic	none	_	Begin=1024.81	5x1	_	_	_
 418-1	BOR018	418	suona	suona	linguistic	none	_	_	_	_	_	_
 418-2	BOR018	418	male	male	linguistic	none	_	_	_	_	_	_

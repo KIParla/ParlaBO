@@ -313,9 +313,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 39-10	BOI074	39	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 39-11	BOI074	39	è	è	linguistic	none	_	_	_	_	_	_
 39-12	BOI074	39	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-39-13	BOI074	39	immediate~	immediate~	linguistic	none	Interrupted=Yes	_	_	Slow=9-10(0)	_	_
-39-14	BOI074	39	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
-39-15	BOI074	39	immediatezza>	immediatezza	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+39-13	BOI074	39	immediate~	immediate~	linguistic	none	Interrupted=Yes	_	_	Slow=9-10	_	_
+39-14	BOI074	39	<l'	l'	linguistic	none	SpaceAfter=No	_	_	Slow=0-2	_	_
+39-15	BOI074	39	immediatezza>	immediatezza	linguistic	none	_	_	_	Slow=0-10	_	_
 39-16	BOI074	39	delle	delle	linguistic	none	_	_	_	_	_	_
 39-17	BOI074	39	situazioni:	situazioni	linguistic	none	_	_	9x1	_	_	_
 39-18	BOI074	39	sociali,	sociali	linguistic	none	Intonation=WeaklyRising	End=106.32	_	_	_	_
@@ -1252,7 +1252,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 155-1	BOI074	155	sarà	sarà	linguistic	none	_	_	_	_	_	_
 155-2	BOI074	155	un	un	linguistic	none	_	_	_	_	_	_
 155-3	BOI074	155	altro	altro	linguistic	none	_	_	_	_	_	_
-155-4	BOI074	155	<posto>	posto	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+155-4	BOI074	155	<posto>	posto	linguistic	none	_	_	_	Slow=0-5	_	_
 155-5	BOI074	155	dove	dove	linguistic	none	_	_	_	_	_	_
 155-6	BOI074	155	andare?	andare	linguistic	none	Intonation=Rising	End=380.45	_	_	_	_
 156-0	BOI075	156	sì:	sì	linguistic	none	_	Begin=380.532|End=380.731	1x1	_	_	_
@@ -1613,7 +1613,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 218-8	BOI075	218	sempre	sempre	linguistic	none	_	_	_	_	_	_
 218-9	BOI075	218	quando	quando	linguistic	none	_	_	_	_	_	_
 218-10	BOI075	218	passo	passo	linguistic	none	_	End=466.557	_	_	_	_
-219-0	BOR018	219	<petroni:>	petroni	linguistic	none	_	Begin=466.648|End=467.679	6x1	Slow=0-7(0)	_	_
+219-0	BOR018	219	<petroni:>	petroni	linguistic	none	_	Begin=466.648|End=467.679	6x1	Slow=0-7	_	_
 220-0	BOI074	220	s[e	se	linguistic	none	_	Begin=468.045	_	_	_	1-2(65)
 220-1	BOI074	220	ne	ne	linguistic	none	_	_	_	_	_	0-2(65)
 220-2	BOI074	220	ha]	ha	linguistic	none	_	_	_	_	_	0-2(65)
@@ -3869,7 +3869,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 565-15	BOR018	565	lo	lo	linguistic	none	_	_	_	_	_	_
 565-16	BOR018	565	so	so	linguistic	none	_	_	_	_	_	_
 565-17	BOR018	565	[e:::]hm	ehm	linguistic	none	_	End=1105.881	0x3	_	_	0-1(143)
-566-0	BOI074	566	[<mh>]	mh	linguistic	none	_	Begin=1105.152|End=1105.684	_	Slow=0-2(0)	_	0-2(143)
+566-0	BOI074	566	[<mh>]	mh	linguistic	none	_	Begin=1105.152|End=1105.684	_	Slow=0-2	_	0-2(143)
 567-0	BOR018	567	ti	ti	linguistic	none	_	Begin=1106.316	_	_	_	_
 567-1	BOR018	567	vedevo	vedevo	linguistic	none	_	_	_	_	_	_
 567-2	BOR018	567	già:	già	linguistic	none	_	_	2x1	_	_	_
@@ -4118,7 +4118,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 612-1	BOI074	612	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 612-2	BOI074	612	q[uello	quello	linguistic	none	_	_	_	_	_	1-6(159)
 612-3	BOI074	612	sì]	sì	linguistic	none	_	End=1186.031	_	_	_	0-2(159)
-613-0	BOI075	613	[<sole>]	sole	linguistic	none	_	Begin=1185.062|End=1185.465	_	Slow=0-4(0)	_	0-4(158)
+613-0	BOI075	613	[<sole>]	sole	linguistic	none	_	Begin=1185.062|End=1185.465	_	Slow=0-4	_	0-4(158)
 614-0	BOR018	614	[certo	certo	linguistic	none	_	Begin=1185.478	_	_	_	0-5(159)
 614-1	BOR018	614	cer]to	certo	linguistic	none	_	End=1186.204	_	_	_	0-3(159)
 615-0	BOI074	615	alla	alla	linguistic	none	_	Begin=1186.521	_	_	_	_

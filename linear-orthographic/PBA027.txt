@@ -1,15 +1,15 @@
 BOR036	okay
-BOI107	va bene  adesso io ve lo avvicino un pochino
+BOI107	va bene adesso io ve lo avvicino un pochino
 BOI107	ci siamo x
 BOR036	mhmh
 BOR036	esatto
 BOR036	ehm
 BOR036	da cosa cominciamo
-BOR036	ma eh  allora
-BOR036	questa  quindi questa ricerca è su
+BOR036	ma eh allora
+BOR036	questa quindi questa ricerca è su
 BOI107	sugli abitanti della città no
 BOR036	mhmh
-BOR036	voi comunque siete  di qui
+BOR036	voi comunque siete di qui
 BOI107	o no
 BOI106	nati qui
 BOI106	provincia cioè nel comune di bologna
@@ -25,15 +25,15 @@ BOR036	e ma
 BOI106	adesso cioè se~ hai sempre vissuto lì hai cambiato
 BOR036	sempre vissuto lì a granarolo
 BOI106	mhmh
-BOI106	e  fino a due anni fa vivevo con i miei
-BOI106	e invece da circa due anni  vivo da solo
+BOI106	e fino a due anni fa vivevo con i miei
+BOI106	e invece da circa due anni vivo da solo
 BOR036	in un appartamento sempre lì a granarolo
 BOR036	là
 BOI107	e non avevi pensato di trasferirti a bologna
 BOI106	ci siam~
-BOR036	col fatto che  il secondo appartamento era già dei m~ dei miei
+BOR036	col fatto che il secondo appartamento era già dei m~ dei miei
 BOI106	mh
-BOI106	eh  diciamo che ho escluso
+BOI106	eh diciamo che ho escluso
 BOR036	la possib~ la possibilità di venire a bologna
 BOI106	però
 BOI106	perché comunque lì mi trovavo bene e
@@ -43,7 +43,7 @@ BOR036	per spostarmi prendere la macchina raggiungere un posto raggiungere bolog
 BOR036	mhmh
 BOI107	comunque
 BOI107	c'è stato un momento nel quale
-BOI106	abbiamo  visto un paio di case a bologna in realtà
+BOI106	abbiamo visto un paio di case a bologna in realtà
 BOI106	ah
 BOI107	sì mol~ molto timida come
 BOI107	perché
@@ -70,10 +70,10 @@ BOR036	eh
 BOI106	ma
 BOR036	diciamo ho sfruttato questa possibilità
 BOI106	mhmh
-BOI106	ovvio che  in assenza di quella casa lì
+BOI106	ovvio che in assenza di quella casa lì
 BOI106	avrei cercato
 BOR036	probabilmente a bologna ecco
-BOI106	per  ma perché preferiresti vivere in città o
+BOI106	per ma perché preferiresti vivere in città o
 BOI106	perché
 BOI106	perché ho amici a bologna ho parenti a bologna e
 BOI106	lavoro a rastignano
@@ -99,7 +99,7 @@ BOI107	sì ah
 BOI106	quello che è stato appunto la
 BOI107	abbiamo visto una casa
 BOI107	la prova di due anni fa
-BOI106	ma  forse  due o tre
+BOI106	ma forse due o tre
 BOI106	no tu due forse
 BOI107	e io una
 BOI107	sì
@@ -108,7 +108,7 @@ BOI106	anche se doveva comprarla lui
 BOI106	xx
 BOR036	
 BOR036	no no ma quindi non
-BOI106	cioè  esperienze di affitti case in a~ no~ non
+BOI106	cioè esperienze di affitti case in a~ no~ non
 BOR036	no
 BOI106	stanza in affitto forse non l'avete fatta okay
 BOI107	xx in affitto io mai
@@ -119,20 +119,20 @@ BOI106	mhmh
 BOR036	quello un po' scoraggia
 BOI106	magari qualche amico
 BOI106	sì sì amici che
-BOR036	che cercano e che provano a spostarsi  fuori sede
-BOR036	e  ma durante il covid
+BOR036	che cercano e che provano a spostarsi fuori sede
+BOR036	e ma durante il covid
 BOR036	cioè perché mi ha stupito questa cosa che hai detto che
 BOR036	gli affittuari che c'erano
 BOR036	hanno voluto spostarsi a bologna per il covid
-BOI107	invece di so~ io ho sentito più  il contrario no
+BOI107	invece di so~ io ho sentito più il contrario no
 BOI106	il contrario
-BOI106	quello è stato  per un motivo lavorativo
-BOI106	nel senso  cioè è capitato scusa durante il covid
-BOI106	però il motivo era  diciamo  lavorativo
+BOI106	quello è stato per un motivo lavorativo
+BOI106	nel senso cioè è capitato scusa durante il covid
+BOI106	però il motivo era diciamo lavorativo
 BOI107	perché
 BOI106	forse si volevano avvicinare al luogo di lavoro
 BOI106	si volevano avvicinare ecco esatto
-BOI106	si volevano avvicinare  sono stati là sei anni e
+BOI106	si volevano avvicinare sono stati là sei anni e
 BOI106	però sai avanti e indietro
 BOI106	gli autobus e
 BOR036	è lunga eh
@@ -158,25 +158,25 @@ BOR036	non è pensabile andare
 BOI107	no il bellaria è lontano
 BOI107	eh
 BOI106	andarci in autobus quindi chiedo
-BOI107	sì diciamo che  ti porta in centro
+BOI107	sì diciamo che ti porta in centro
 BOI106	un passaggio se sono lì
 BOI106	poi dopo
 BOI106	se ti devi spostare
 BOI106	devi prendere un altro autobus magari tre autobus
-BOR036	eh  purtroppo non hanno
+BOR036	eh purtroppo non hanno
 BOI106	co~
 BOI106	diciamo
 BOI106	investito molto sul collegamento
-BOR036	ti porta a bologna  poi
+BOR036	ti porta a bologna poi
 BOI106	sì ma credo che sia così per tutti i paesi un po' intorno no
 BOI106	da lì
 BOI106	sì
 BOI106	se io dovessi andare a lavoro in autobus penso che ci metterei un'ora e mezza
 BOR036	al momento ci metto venticinque minuti
 BOR036	sì sì no no no
-BOR036	però in generale  comunque
+BOR036	però in generale comunque
 BOR036	i trasporti pubblici
-BOI106	cioè bologna è abbastanza un  un esempio  sì
+BOI106	cioè bologna è abbastanza un un esempio sì
 BOI106	all'interno della città
 BOI106	molto
 BOI106	sicuramente
@@ -186,19 +186,19 @@ BOR036	mh
 BOI106	e non c'è la stazione a granarolo
 BOI107	no
 BOI107	no
-BOI106	cioè  c'è a castenaso giusto  c'è a bentivoglio
-BOI107	c'è a castenaso c'è a budrio  castelmaggiore
+BOI106	cioè c'è a castenaso giusto c'è a bentivoglio
+BOI107	c'è a castenaso c'è a budrio castelmaggiore
 BOI106	ma lì no
 BOI106	salto
 BOR036	non c'è la linea
-BOI106	evidentemente  esatto è un po' spostato rispetto alla linea
+BOI106	evidentemente esatto è un po' spostato rispetto alla linea
 BOI107	sì
 BOR036	mh
 BOR036	eh un altro argomento che va molto adesso
 BOI106	con le interviste è la ci~ esatto è la città trenta
 BOI106	città trenta
 BOR036	ecco
-BOR036	non so  se avete
+BOR036	non so se avete
 BOR036	un'opinione forte a riguardo o
 BOI107	se vi siete rotti di parlarne già
 BOI107	
@@ -209,14 +209,14 @@ BOI106	sicuramente
 BOI107	io per andare a lavoro passo fuori da bologna
 BOR036	non
 BOI106	mh
-BOI106	cioè proprio  sto sul confine
-BOI106	ovvio  capita comunque
+BOI106	cioè proprio sto sul confine
+BOI106	ovvio capita comunque
 BOI106	di passare da bologna tipo oggi
 BOI107	però alla fine col traffico che c'è faresti fatica
 BOI106	sì ma infatti oddio
 BOI106	ad andare
-BOI107	cioè io n~  onestamente non ho sentito questo gran malessere
-BOI106	un po' di differenza  sì si sente
+BOI107	cioè io n~ onestamente non ho sentito questo gran malessere
+BOI106	un po' di differenza sì si sente
 BOR036	per questa cosa cioè
 BOI106	sì sì okay
 BOI106	non non ho
@@ -232,81 +232,81 @@ BOR036	e magari rendersi conto che invece
 BOR036	sì infatti
 BOR036	okay
 BOR036	e i~ invece tu mi dicevi che adesso stai lavorando in due ospedali
-BOI107	perché  stai proprio lavorando la~ lavorando cioè non è tirocinio
-BOI107	no no  è lavoro
+BOI107	perché stai proprio lavorando la~ lavorando cioè non è tirocinio
+BOI107	no no è lavoro
 BOI107	sì ho vinto un concorso
 BOI107	un annetto e mezzo fa
 BOI107	e quindi ho continuato a fare in realtà l'attività che facevo
 BOI107	e in un ambulatorio
 BOI107	mh di neuropsichiatria infantile
 BOI107	ehm
-BOI107	adesso  col fatto che quest'ambulatorio dal @nomeluogo si è spostato al @nomeluogo,
+BOI107	adesso col fatto che quest'ambulatorio dal @nomeluogo si è spostato al @nomeluogo,
 BOR036	e mi hanno splittato su due xxx e quindi da un lato c'è
 BOI107	okay
 BOI107	quest'ambulatorio al @nomeluogo
-BOI107	e dall'altro invece  ambulatorio obesità mh diabete
+BOI107	e dall'altro invece ambulatorio obesità mh diabete
 BOI107	eh altre patologie xx sidrome me~ di sindrome metabolica è al @nomeluogo
 BOI107	quindi sono xx lì da una parte xx dall'altra
-BOI107	ehm  motivo per cui mh
+BOI107	ehm motivo per cui mh
 BOI107	adesso sarebbe utile trovare un
 BOI107	insomma un mezzo
 BOI107	per spostarsi in maniera autonoma
 BOI107	in modo magari da trasferirsi anche fuori bologna
 BOR036	ehm
 BOI107	sì sì
-BOI106	questo è un po' l'obiettivo  sul lungo termine
+BOI106	questo è un po' l'obiettivo sul lungo termine
 BOR036	sì l'idea è di andare a convivere
 BOI106	mhmh mh
 BOI107	appena
 BOI107	sì
 BOR036	appena finita la magistrale sarà già diverso
-BOI107	che  stai finendo
-BOR036	a marzo  a fine marzo dovrei concludere tutto
+BOI107	che stai finendo
+BOR036	a marzo a fine marzo dovrei concludere tutto
 BOR036	eh
-BOR036	mh  ma
+BOR036	mh ma
 BOI107	tu quindi hai lavorato e fatto la magistrale
 BOR036	è stata lunga
 BOR036	perché io pensavo che tu stessi
 BOI107	che tu stessi già lavorando e basta
-BOR036	no no no  ho fatto entrambi
+BOR036	no no no ho fatto entrambi
 BOI107	cioè le mh
-BOI107	che poi  mh
+BOI107	che poi mh
 BOI106	per fortuna che x lavorando
 BOI107	prima la magistrale
 BOI107	ho iniziato una magistrale poi ho iniziato a lavorare dopo pochissimo
 BOI107	eh prima però con partita iva
 BOI107	ehm
 BOI107	e dopo
-BOI107	appunto lavorando ho rifatto la richiesta di  part-time
-BOR036	eh  con l'università
+BOI107	appunto lavorando ho rifatto la richiesta di part-time
+BOR036	eh con l'università
 BOI107	sì sì sì
 BOI107	quindi son riuscita a concludere adesso nei tempi
-BOR036	perché marzo resta assolutamente  nel tempo limite però
+BOR036	perché marzo resta assolutamente nel tempo limite però
 BOI107	eh si infatti
 BOI107	ci rimane
 BOR036	ehm
 BOI107	e mi dicevi che hai fatto uno studio per la tesi
 BOI107	sì
 BOI107	sì è uno studio ho preso quaranta pazienti
-BOI107	eh  è un follow up ambulatoriale di sei mesi
+BOI107	eh è un follow up ambulatoriale di sei mesi
 BOI107	ehm
 BOR036	devo dire che dà soddisfazione il fatto di esserci arrivata in fondo
 BOR036	eh ti immagino infatti
 BOR036	non so sì queste cose sul campo sono un po'
-BOI107	cioè sono un po' impegnative però  danno più
+BOI107	cioè sono un po' impegnative però danno più
 BOI107	mh
 BOR036	più soddisfazione
 BOI107	almeno per me sì
 BOR036	sì
 BOI107	di solito
-BOI107	sì  anche perché  poi vedi esattamente come
+BOI107	sì anche perché poi vedi esattamente come
 BOI107	evolve nel tempo e misuri
 BOI107	cioè mh indicizzi un po' i progressi li riesci a misurare
 BOI107	valutare anche quello che è stato l'operato seppur
 BOI107	non è
-BOI107	solo tuo  il lavoro in un'equipe quindi è sempre
-BOI107	multidisciplinare  non non è univoco
-BOI107	cioè non è non è unico  un intervento però
+BOI107	solo tuo il lavoro in un'equipe quindi è sempre
+BOI107	multidisciplinare non non è univoco
+BOI107	cioè non è non è unico un intervento però
 BOI107	insomma mh
 BOI107	dovrebbero essere comunque una mh
 BOR036	dei dati che potrebbero essere pubblicabili quindi
@@ -321,16 +321,16 @@ BOI107	è tutto in inglese
 BOI107	vabbè l'inglese didattico del dell'articoletto è molto
 BOR036	cioè è fattibile
 BOI107	sì sì sì sì
-BOI107	eh  se doves~ cioè
+BOI107	eh se doves~ cioè
 BOR036	a parlarlo
-BOI107	non lo so  se vi piace non vi piace l'inglese
+BOI107	non lo so se vi piace non vi piace l'inglese
 BOI107	eh
-BOI106	io non  non non
+BOI106	io non non non
 BOI107	mh io lo utilizzo un po' durante la giornata perché
 BOI106	per me è meno fluente
-BOI106	mi devo relazionare magari con  con clienti
+BOI106	mi devo relazionare magari con con clienti
 BOI106	che vengono dall'estero
-BOR036	con  colleghi anche magari dall'estero
+BOR036	con colleghi anche magari dall'estero
 BOI106	mh
 BOR036	con capi xxx
 BOI106	si giusto perché io
@@ -361,32 +361,32 @@ BOI106
 BOI106	è molto difficile
 BOI106	è molto difficile soprattutto con le persone
 BOI107	asiatiche
-BOI106	dell'est  mh
+BOI106	dell'est mh
 BOI106	asiatiche si fa molta fatica
 BOI106	con gli indiani lo sanno ma lo sanno a modo loro
 BOR036	
 BOI106	eh vabbè insomma
 BOI107	è un
-BOI106	si fanno capire  però
+BOI106	si fanno capire però
 BOI106	è un inglese veramente
 BOI106	molto travisato ecco molto
 BOI106	corretto
 BOI106	e
 BOR036	per il resto si riesce a comunicare
-BOI106	ma  soprattutto per iscritto o
+BOI106	ma soprattutto per iscritto o
 BOI106	però con gli asiatici
 BOI106	per iscritto quando ci si scambia le mail
 BOI106	e quando vengono qua
 BOR036	per eh
 BOI106	ah eh
-BOI106	collaudi  per eh diciamo
-BOR036	finalizzare quello ch'hanno  ch'hanno comprato si sta insieme
+BOI106	collaudi per eh diciamo
+BOR036	finalizzare quello ch'hanno ch'hanno comprato si sta insieme
 BOI106	sì non ci sono interpreti cioè xxx così
 BOI106	ma
-BOI107	no no no no assolutamente  assolutamente
+BOI107	no no no no assolutamente assolutamente
 BOI106	ma infatti anche quest'estate quando siamo andati via
 BOI107	xx
-BOI107	eh  era
+BOI107	eh era
 BOI106	par~ eri particolarmente fluente io facevo più fatica invece
 BOI106	xx
 BOI107	eh quando ho lavorato per gli indiani avevo imparato l'inglese
@@ -396,8 +396,8 @@ BOI107	un inglese indiano
 BOI107	e invece facevo più fatica perché
 BOI107	el~ al lavoro non lo parlo al massimo lo scritto
 BOR036	scrivo ma scrivere non è la stessa cosa che parlarlo
-BOI107	mh  però pazienti stranieri non capitano
-BOI107	in realtà poco  e se mh
+BOI107	mh però pazienti stranieri non capitano
+BOI107	in realtà poco e se mh
 BOI107	se capitano
 BOI107	difficilmente sanno l'inglese
 BOI107	nel senso quelli che vedo magari mh
@@ -414,29 +414,29 @@ BOR036	sì sì ogni tanto quando c'è necessità vengono contattati
 BOR036	okay
 BOI107	okay
 BOI107	ma comunque è raro
-BOI107	mh  perché comunque devi partire con molto con anticipo
+BOI107	mh perché comunque devi partire con molto con anticipo
 BOI107	sapere che quel paziente non parlerà l'italiano
 BOI107	e quindi dopo chiamare il mediatore
-BOR036	quindi non c'è di default  mh
+BOR036	quindi non c'è di default mh
 BOI106	no no lo so
 BOI107	ma son privati questi mediat~ cioè sono
 BOI106	ah penso siano sovvenzionati dall'ospedale
 BOI107	ah
 BOI106	mh
 BOI107	c'è un studio esterno
-BOI107	penso di sì  cioè mh
+BOI107	penso di sì cioè mh
 BOI106	saranno dipendenti ospedalieri e vengono conta~
 BOI106	ah dipendenti ospedalieri
 BOR036	xx
 BOR036	allora i mediatori che lavorano in ospedale sono
-BOI107	sono  di un'agenzia
+BOI107	sono di un'agenzia
 BOI106	ah
 BOR036	ah e vabbè in agenzia okay
 BOR036	esterna
-BOI106	che  vince l'appalto
+BOI106	che vince l'appalto
 BOI107	okay
 BOR036	okay
-BOI107	del servizio pubblico  e  li chiama a chiamata
+BOI107	del servizio pubblico e li chiama a chiamata
 BOI106	eh allora no
 BOI107	okay okay
 BOR036	non sono
@@ -444,8 +444,8 @@ BOI107	non sono assolutamente dipendenti dell'ospedale no
 BOR036	allora no
 BOI106	il motivo per cui de~ bisogna organizzarsi
 BOR036	eh sì xx chiamarli con anticipo sì sì sì
-BOI107	perché bisogna prenotarli  sì
-BOR036	sì sì  ovvio che quando magari c'è il paziente ics che non lo sa l'italiano lo rimandi e
+BOI107	perché bisogna prenotarli sì
+BOR036	sì sì ovvio che quando magari c'è il paziente ics che non lo sa l'italiano lo rimandi e
 BOI107	sì
 BOR036	sperando che arrivi il giorn~ la volta dopo perché poi se hai
 BOI107	sì
@@ -454,7 +454,7 @@ BOR036	il paziente non si presenta il che è possibile
 BOI107	può succedere
 BOR036	può succedere
 BOR036	sì sì sì
-BOR036	la parte osp~  dell'ospedale non la so cioè non so  come  fa
+BOR036	la parte osp~ dell'ospedale non la so cioè non so come fa
 BOI106	cioè chi è che si occupa di prenotare i mediatori così
 BOR036	sì
 BOI106	però la parte del mediatore è questa
@@ -463,64 +463,64 @@ BOI107	sì sì arriva una chiamata e
 BOI106	okay
 BOR036	sì ci sta che siano a chiamata o a
 BOR036	sì sì
-BOI107	funziona così ma  vabbè tanto per v~ ve~ vostra informazione
+BOI107	funziona così ma vabbè tanto per v~ ve~ vostra informazione
 BOR036	
 BOR036	ehm
-BOR036	okay  no allora
+BOR036	okay no allora
 BOR036	possiamo cambiare anche un po' argomento perché
 BOR036	una del
 BOR036	una delle cose che che ci piacerebbe
 BOR036	su cui ci piacerebbe far ricerca sono
-BOR036	vi sembrerà  vi sembrerà divertente
-BOI107	però sono un po' le  le tradizioni  dei
+BOR036	vi sembrerà vi sembrerà divertente
+BOI107	però sono un po' le le tradizioni dei
 BOR036	mhmh
-BOI107	dei bolognesi  tradizioni tipo
+BOI107	dei bolognesi tradizioni tipo
 BOI106	okay
 BOR036	mh
-BOR036	cosa si fa per le feste quali sono  i cibi tipici
+BOR036	cosa si fa per le feste quali sono i cibi tipici
 BOR036	ma non magari
 BOR036	il cibo tipico che uno si aspetta da da un bolognese
 BOR036	però proprio ad esempio nella tua famiglia
-BOR036	la tale cosa che  cosa si mangia nella tale occasione
+BOR036	la tale cosa che cosa si mangia nella tale occasione
 BOR036	così non so se
 BOI107	c'è qualche cosa che nelle vostre famiglie festeggiate particolarmente durante l'anno
 BOI107	beh
 BOI107	partiam dal natale
 BOI106	ch'è più facile
-BOR036	il natale  sì forse
+BOR036	il natale sì forse
 BOI106	mhmh
 BOI106	è la festività più sentita
 BOR036	per entrambe le famiglie
-BOI106	siete en~ e per en~  per entrambi okay
+BOI106	siete en~ e per en~ per entrambi okay
 BOI107	sì sì sì
 BOI106	sì
-BOR036	e poi direi  compleanni
+BOR036	e poi direi compleanni
 BOI106	compleanno
-BOI106	compleanni  sì
+BOI106	compleanni sì
 BOR036	la pasqua e ferragosto x molto meno
 BOR036	okay
-BOI106	primo dell'anno  non so
-BOI106	primo dell'anno solitamente  ognuno è
+BOI106	primo dell'anno non so
+BOI106	primo dell'anno solitamente ognuno è
 BOI107	xx da un'altra parte
 BOI106	ognuno per sé
 BOI107	sì esatto
 BOI106	sì sì
 BOR036	sì solitamente sì
-BOI106	voi di solito festeggiate la vigilia o  o il giorno di natale
+BOI106	voi di solito festeggiate la vigilia o o il giorno di natale
 BOR036	insieme
-BOI106	no  nel  boh no
+BOI106	no nel boh no
 BOI106	ah okay
-BOR036	no io  il pranzo di natale
+BOR036	no io il pranzo di natale
 BOI106	e la vigilia invece non
 BOI106	la vigilia no
 BOR036	mh
 BOI107	non si fa
 BOR036	a casa mia facciamo sia vigilia che pranzo di natale
-BOI107	per non farsi mancare nulla  sì
+BOI107	per non farsi mancare nulla sì
 BOI107	top
 BOR036	esatto
 BOR036	sì
-BOI107	e  avete un menù diciamo
+BOI107	e avete un menù diciamo
 BOR036	standardizzato
 BOR036	solito così
 BOI106	c'è un po' di d'inventiva o no
@@ -529,9 +529,9 @@ BOI106	sì da
 BOR036	la mia è puramente tradizionale
 BOI106	mh
 BOI106	c'è rimasta la
-BOI106	della serie  abbiamo sempre fatto così facciamo sempre così
+BOI106	della serie abbiamo sempre fatto così facciamo sempre così
 BOI106	cioè nel senso
-BOI106	eh  ci sono i tortellini in brodo
+BOI106	eh ci sono i tortellini in brodo
 BOI107	e
 BOI106	che iniziano ad essere fatti settimane prima
 BOR036	iniziano ad essere fatti un mese prima più o meno
@@ -539,10 +539,10 @@ BOI106	quindi li fate
 BOI106	sì li fa mia mamma con
 BOI106	adesso li fa solo mia mamma prima invece li faceva anche mia nonna
 BOI106	le mie due nonne
-BOI106	però adesso non ce la fanno più quindi  diciamo che
+BOI106	però adesso non ce la fanno più quindi diciamo che
 BOI106	hanno passato tutta
-BOI106	l'esperienza  a mia mamma e lei adesso ne fa
-BOI107	chili su chili  parte un mese prima
+BOI106	l'esperienza a mia mamma e lei adesso ne fa
+BOI107	chili su chili parte un mese prima
 BOI107	chili
 BOI106	più che altro sono famosi perché
 BOI107	son piccoli
@@ -550,7 +550,7 @@ BOI106	sono molto piccoli
 BOI106	molto piccoli
 BOI107	potrebbe vincere xx premio tortellino più piccolo
 BOI106	tipo
-BOR036	eh  se ci fosse
+BOR036	eh se ci fosse
 BOI107	la si potrebbe fare sì
 BOR036	
 BOR036	sì sì sì
@@ -564,7 +564,7 @@ BOI106	ah così eh
 BOR036	è vero è vero
 BOI107	ma per~ ti è capitato di essere qua con quaranta gradi e fare un pranzo di ferragosto
 BOI107	xxx
-BOI106	il primo  primo pranzo che ho fatto a casa loro
+BOI106	il primo primo pranzo che ho fatto a casa loro
 BOI106	sì ah
 BOI107	
 BOI106	a luglio era il quindici luglio abbiam mangiato i tortellini in brodo
@@ -573,7 +573,7 @@ BOI106	sì era metà luglio
 BOI107	ah sì vero
 BOI106	tortellini in brodo
 BOR036	sì il quindici luglio
-BOI107	mhmh  sì che forse è peggio che il quindici agosto effettivamente
+BOI107	mhmh sì che forse è peggio che il quindici agosto effettivamente
 BOR036	
 BOR036	forse sì
 BOI107	e e invece da te dicevi che c'è un po' più di creatività o no
@@ -581,10 +581,10 @@ BOI107	ma un pochino sì perché alla fine col fatto che mio fratello è cuoco
 BOR036	tendenzialmente ha voglia di esperimentare un po' di cose
 BOI107	non sapevo nulla okay
 BOI107	mh
-BOI107	ehm  quindi  vabbè
-BOI107	ovvio che i tortellini ci sono  però non li facciamo in casa almeno
-BOI107	mh  è più facile che li li compriamo
-BOI107	in particolare magari dall'amico di mio fratello che è sfoglino o  sì
+BOI107	ehm quindi vabbè
+BOI107	ovvio che i tortellini ci sono però non li facciamo in casa almeno
+BOI107	mh è più facile che li li compriamo
+BOI107	in particolare magari dall'amico di mio fratello che è sfoglino o sì
 BOI106	mh oppure xxxx quelli che vengono regalati esatto
 BOI107	o glieli regala la mamma
 BOI106	e
@@ -598,24 +598,24 @@ BOR036	x
 BOI106	non pensavo che ci fosse il limite al
 BOI107	xx
 BOI107	questo è il problema
-BOI107	vabbè  a me piaccion lo stesso comunque
+BOI107	vabbè a me piaccion lo stesso comunque
 BOI107	ehm
 BOI107	poi ecco sempre che la tua famiglia in realtà per tradizione periodo natalizio è la pinza
 BOI106	quella con l'uvetta e cioccolato
 BOI106	vero
 BOR036	si dopo
 BOI106	e quella viene regalata come i tortellini
-BOI106	sì esatto  si produce per tutti
+BOI106	sì esatto si produce per tutti
 BOI107	x diciamo quando si inizia a fare una cosa si fa in grandi quantità ecco poi
 BOR036	sì
 BOI106	la pinza con la mostarda
 BOI107	la pizza con la mostarda sì
 BOI106	sì
-BOI107	o anche con  cioccolato
+BOI107	o anche con cioccolato
 BOI107	sì
 BOI106	secondo me ci metti sia sia la mostarda
-BOI106	sì  fa du~ fa sempre due versioni
-BOR036	una  col cioccolato e una senza
+BOI106	sì fa du~ fa sempre due versioni
+BOR036	una col cioccolato e una senza
 BOI106	io col cioccolato
 BOR036	perché io sono allergico al cioccolato e alla frutta secca quindi
 BOI106	okay
@@ -628,39 +628,39 @@ BOR036	mh
 BOI107	anche da voi
 BOI106	no fine pasto pandoro eh pane~ eh panettone panettone
 BOR036	panettone pandoro sì
-BOI107	okay  okay okay
-BOI107	sì  fine pasto panettone
+BOI107	okay okay okay
+BOI107	sì fine pasto panettone
 BOI107	poi non so varia un po' a seconda del eh
-BOI107	di quello che  si  trova nel senso che il
+BOI107	di quello che si trova nel senso che il
 BOI107	magari la la vigilia dipende che pesce si trova
 BOI107	eh
 BOI107	e invece la il giorno di natale per dire quest'anno
 BOI107	era stato portato
 BOI107	eh un ehm
-BOI106	ehm  com'è che si chiama
+BOI106	ehm com'è che si chiama
 BOI107	la vigilia di natale
-BOI107	no ah  cos'è che abbiam mangiato al pranzo
+BOI107	no ah cos'è che abbiam mangiato al pranzo
 BOI106	quel quell'oca che aveva cacciato il
 BOI107	xxx
 BOI107	sì esatto era un'ochetta che aveva
 BOI107	che aveva portato un amico cacciatore di mio fratello
-BOI107	che tra l'altro  ehm  lo conosci anche tu
+BOI107	che tra l'altro ehm lo conosci anche tu
 BOR036	sono i rossi
 BOI107	ah sì sì
 BOI106	okay
-BOI107	ecco  cancelliamo ora
+BOI107	ecco cancelliamo ora
 BOR036	
 BOI107	vabbè
 BOI107	cancelliamo
-BOI107	ehm  e quindi avevamo mangiato quello a pranzo di natale
+BOI107	ehm e quindi avevamo mangiato quello a pranzo di natale
 BOR036	
 BOI107	non ho mai credo di non averla mai mangiata
 BOR036	vabbè
 BOR036	okay okay
 BOR036	quindi siete entrambi d'accordo che diciamo la cosa che si fa principalmente è il natale
-BOI107	poi  il resto n~ non
-BOI106	mh  nelle altre feste meno
-BOI107	sì poi  xx compleanni
+BOI107	poi il resto n~ non
+BOI106	mh nelle altre feste meno
+BOI107	sì poi xx compleanni
 BOI107	men~
 BOR036	meno ordinarie sì
 BOR036	e voi siete legati alla città cioè vi
@@ -669,7 +669,7 @@ BOI106	città di andare a vivere all'estero
 BOI107	mh ho un po' un mezzo sogno cioè nel senso
 BOR036	sì
 BOI106	ah eh
-BOI106	sì x un po'  una co~ una cosa da fare
+BOI106	sì x un po' una co~ una cosa da fare
 BOI106	nella vita cioè nel senso
 BOR036	non ho avuto l'opportunità di fare erasmus o
 BOI106	okay
@@ -680,12 +680,12 @@ BOI107	mh
 BOI107	beh a maggior ragione xxx sempre
 BOI106	fatto trasferte o cose
 BOI107	sì
-BOI106	cioè  periodi di lavoro fuori
+BOI106	cioè periodi di lavoro fuori
 BOI106	sì mi sono sempre spostato comunque per lavoro o
 BOR036	cioè però trasferte
 BOI106	periodi brevi
 BOI106	per periodi brevi esatto appunto son sempre tornato
-BOI106	e  però un'esperienza
+BOI106	e però un'esperienza
 BOI106	diciamo magari di un anno o due anni
 BOR036	per dire adesso mi sposto e comincio da qua
 BOI106	mhmh
@@ -695,10 +695,10 @@ BOR036	non per forza
 BOI106	non per forza okay
 BOR036	mh onestamente non mi sento così legato alla città nel senso
 BOR036	mh
-BOI106	e  però non hai cercato lavoro fuori
+BOI106	e però non hai cercato lavoro fuori
 BOI106	no
 BOR036	no
-BOR036	ma  ti d~ cioè
+BOR036	ma ti d~ cioè
 BOI106	ti piacerebbe andare da qualche parte nello specifico o
 BOI106	mh
 BOI106	un po'
@@ -708,9 +708,9 @@ BOI106	eh certo
 BOI106	cioè dove ci può essere quella cosa interessante che ne può valere la pena
 BOI106	se anche il posto è bello
 BOR036	sicuramente
-BOR036	ma la tua azienda ti  ti trasferirebbe diciamo
+BOR036	ma la tua azienda ti ti trasferirebbe diciamo
 BOI106	oppure dovrebbe essere una cosa scollegata dal lavoro
-BOI106	e  non lo so
+BOI106	e non lo so
 BOI106	cioè è capitato comunque
 BOI106	che alcuni colleghi
 BOR036	però cioè lo hanno fatto perché sono stati assunti diciamo già dall'inizio con quel determinato obiettivo
@@ -718,24 +718,24 @@ BOI106	mhmh
 BOI106	nel senso magari stai un anno qua e poi dopo
 BOI106	eh vai non lo so in russia
 BOI106	e diventi tipo
-BOI106	diciamo  area manager di quell'area
+BOI106	diciamo area manager di quell'area
 BOI106	nel senso tu hai i tuoi clienti e
 BOR036	te li gestisci tu da là direttamente
 BOI107	eh in russia è impegnativo
 BOI106	eh
 BOI106	sì sì c'era un ragazzo che è vissuto là due tre anni
-BOR036	però x bisognerebbe chiedere  sicuramente
-BOI106	quindi  secondo te la  bologna non è il posto più bello del mondo in cui vivere queste cose qui
+BOR036	però x bisognerebbe chiedere sicuramente
+BOI106	quindi secondo te la bologna non è il posto più bello del mondo in cui vivere queste cose qui
 BOI106	no
 BOI106	no assolutamente
-BOI106	cioè avendo  fortunatamente viaggiato  abbastanza
+BOI106	cioè avendo fortunatamente viaggiato abbastanza
 BOI106	ogni viaggio è xx è stato sempre bello nel senso
 BOI107	sempre trovato sempre stato bene in tutti i posti in cui sono stato
 BOI106	mh
 BOI106	anche se apparentemente potevano sembrare
-BOI106	diciamo non rosei  o non
+BOI106	diciamo non rosei o non
 BOR036	sempre tutti belli
-BOI107	e  tu hai fatto erasmus  così
+BOI107	e tu hai fatto erasmus così
 BOI107	in realtà no neanch'io
 BOI107	e
 BOI107	periodo di studio
@@ -749,7 +749,7 @@ BOR036	che sceglierla noi
 BOI107	mhmh
 BOI107	e ovvio che l'idea di
 BOI107	fare qualcosa di
-BOI107	mh  fare un periodo
+BOI107	mh fare un periodo
 BOI107	proprio di lavoro fuori sarebbe
 BOI107	sarebbe molto bello
 BOI107	eh
@@ -766,36 +766,36 @@ BOI107	dove iniziare la ricerca nel momento in cui volessi
 BOI106	trovare un'altra soluzione
 BOI107	sì come approcciarsi forse a questa
 BOI107	perché è ovvio che non
-BOI106	mh  cioè no~ non potrei di~
+BOI106	mh cioè no~ non potrei di~
 BOR036	vai su linkedin e cerchi non so
 BOI107	sì sì
 BOI106	eh ma non è così semplice soprattutto nell'ambito sanitario
 BOI107	esatto
-BOI107	ovvio  in un ambito sanitario privato
+BOI107	ovvio in un ambito sanitario privato
 BOI107	potrebbe essere più facile
-BOI107	ehm  da vedere  mh
+BOI107	ehm da vedere mh
 BOI107	no forse nell'ambito di ricerca appunto potrebbe essere più facile inserirsi
 BOI107	all'estero
 BOI106	quindi
 BOI107	mh
-BOI107	resta una cosa da valutare  mh
+BOI107	resta una cosa da valutare mh
 BOI107	potrebbe essere utile
 BOI107	ampliare la conoscenza sull'aspetto di ricerca in ambito sanitario
 BOI107	e poi
 BOR036	prendere un po' al volo così almeno questo per la mia parte
 BOI107	mhmh
 BOR036	mh
-BOR036	beh se  insomma se già usate un po' le lingue per lavoro
+BOR036	beh se insomma se già usate un po' le lingue per lavoro
 BOI107	penso che
 BOR036	potrebbe essere già
-BOI106	potrebbe esser più facile  magari
+BOI106	potrebbe esser più facile magari
 BOI107	sì sì sì insomma
 BOR036	mh
 BOI106	da quel punto di vis~
-BOR036	per quello non è un  un freno diciamo
+BOR036	per quello non è un un freno diciamo
 BOI106	cioè non vi scoccerebbe buttarvi magari con un po' di difficoltà iniziali linguistiche
 BOI106	no
-BOR036	al momento no quest'età  in questa situazione no
+BOR036	al momento no quest'età in questa situazione no
 BOI106	mhmh
 BOI107	non mi preoccuperebbe
 BOR036	mh
@@ -804,12 +804,12 @@ BOI107	è interessante
 BOI107	sì l'unico aspetto che magari dispiacerebbe un attimo è
 BOI107	quello di amici
 BOI107	e anche qua
-BOI107	no mh  è ovvio che
-BOI107	nel senso  tendenzialmente  restano
-BOI106	non è  non non la vedo una cosa da da chiudere
+BOI107	no mh è ovvio che
+BOI107	nel senso tendenzialmente restano
+BOI106	non è non non la vedo una cosa da da chiudere
 BOI106	me forse un po' più la famiglia
 BOI106	ma perché
-BOI106	so che la vivrebbero in maniera un po'  pesante questa cosa
+BOI106	so che la vivrebbero in maniera un po' pesante questa cosa
 BOR036	cioè
 BOI107	non sono abituati
 BOI106	xxxx
@@ -819,13 +819,13 @@ BOI106	nel senso non non
 BOI106	non hanno mai avuto troppo la cioè
 BOI106	mai avuto la fortuna di viaggiare
 BOI106	e quindi non sapendo comunque cosa c'è al di fuori
-BOI106	uno li spaventa  e due
+BOI106	uno li spaventa e due
 BOI106	vorrebbero
-BOI106	diciamo che il nucleo  si si si
+BOI106	diciamo che il nucleo si si si
 BOR036	si sviluppasse nei loro dintorni ecco
 BOI106	sì sì sì
 BOR036	quindi diciamo che
-BOI107	hanno comprato un'altra casa  sì
+BOI107	hanno comprato un'altra casa sì
 BOI106	chi xxxx
 BOI107	saprebbero
 BOI106	esa~
@@ -834,16 +834,16 @@ BOI106	chilometro zero proprio
 BOI107	tra virgolette deludere un diciamo aspettativa di
 BOI107	aspettativa
 BOR036	mh
-BOR036	beh allora x  è interessante che tu sei venuto fuori così
+BOR036	beh allora x è interessante che tu sei venuto fuori così
 BOI107	diverso diciamo un po' no
 BOI106	
-BOR036	sì  anche mia sorella
+BOR036	sì anche mia sorella
 BOI106	ma è secondo te è una cosa generazionale o
 BOI106	mh
 BOI106	un po' generazionale
 BOR036	ma magari dipende anche gli ambienti in cui sei
 BOI106	mhmh
-BOR036	sei cresciuto le esperienze che hai fatto  le
+BOR036	sei cresciuto le esperienze che hai fatto le
 BOI106	le amicizie
 BOI107	le amicizie
 BOR036	mh
@@ -854,23 +854,23 @@ BOR036	sì
 BOR036	cioè mi sembra che o uno rimane cioè
 BOI106	l'idea sia o di rimanere
 BOR036	ma perché no anche in italia comunque mi piacerebbe
-BOI106	eh  tipo in qual
+BOI106	eh tipo in qual
 BOR036	roma
 BOR036	ah okay
 BOI106	come mai
-BOI106	mi affascina roma  mi piace come città
+BOI106	mi affascina roma mi piace come città
 BOI107	cioè livello di
 BOI106	architettonico
 BOR036	sì monumentale magari
 BOI107	okay
 BOR036	mh
 BOI106	okay
-BOR036	eh  sì
-BOI106	e  ci siete stati per turismo insomma   per adesso
+BOR036	eh sì
+BOI106	e ci siete stati per turismo insomma per adesso
 BOI107	sì
 BOI106	io xx
-BOI107	tempo fa   troppo tempo fa forse
-BOR036	ho dei cugini lì  mh
+BOI107	tempo fa troppo tempo fa forse
+BOR036	ho dei cugini lì mh
 BOI107	okay
 BOR036	a roma
 BOI107	okay okay
@@ -894,7 +894,7 @@ BOI106	mh
 BOR036	di un lavoro
 BOR036	no sì
 BOI106	no un anno di vacanza
-BOI106	potrebbe cioè  si può sempre fare tutto però
+BOI106	potrebbe cioè si può sempre fare tutto però
 BOI106	potrebbe essere difficile una volta che hai assaporato la diciamo
 BOR036	la libertà
 BOI106	fantastico
@@ -906,17 +906,17 @@ BOI106	e quindi magari se dovessi fare una cosa così
 BOI106	magari farei qualche es~ esperienza lavorativa non so di volontariato
 BOR036	oppure più workaway dove tu vai
 BOI106	ah sì
-BOI106	e ti  in cambio
+BOI106	e ti in cambio
 BOR036	insomma del lavoro ti offrono vitto e alloggio
 BOI106	non ne hai mai fatto
 BOI107	no io no
 BOR036	io l'ho fatto una volta in grecia
 BOR036	mh
 BOI107	dimmi dimmi
-BOI107	ero in una famiglia  greca appunto
+BOI107	ero in una famiglia greca appunto
 BOI107	eh che mh
 BOI107	avev~ eh entrambi i genitori avevano vissuto
-BOI107	mh  lui in canada
+BOI107	mh lui in canada
 BOI107	lei in inghilterra comunque
 BOI107	abbastanza cosmopoliti
 BOI107	e sono poi tornati in grecia
@@ -931,10 +931,10 @@ BOI107	con i bambini
 BOR036	esatto con i bimbi esatto
 BOI107	mhmh
 BOI107	tenere un po' dietro alle cose di casa
-BOI107	ehm  soprattutto che
+BOI107	ehm soprattutto che
 BOI107	parlassero un'altra lingua e
 BOI107	insegnassero anche qualcosa della loro cultura ai loro figli
-BOI107	perché  per dire anche nella casa di lei
+BOI107	perché per dire anche nella casa di lei
 BOI107	era sempre stata fatta questa
 BOI107	era era
 BOI107	sì ordinario che venisse cioè ci fosse un po' di scambio
@@ -942,16 +942,16 @@ BOI107	tra culture
 BOI107	ehm
 BOR036	e quindi l'ha voluto riproporre poi in casa sua quando i bimbi erano piccoli
 BOI107	e quanto sei stata
-BOR036	ehm so stata  due tre settimane
+BOR036	ehm so stata due tre settimane
 BOI107	cioè quindi un periodo breve sì sì
-BOI107	sì  non tantissimo però
+BOI107	sì non tantissimo però
 BOI107	eh era stato
 BOI107	era bastato a
 BOI107	vedere mh
 BOI107	insomma anche assaporare una modalità che
 BOR036	sarebbe bello riproporre poi in un futuro
 BOR036	ma
-BOR036	perché poi i  i greci io non non non conosco nessuno
+BOR036	perché poi i i greci io non non non conosco nessuno
 BOR036	e a volte secondo me abbiamo la tentazione di pensare che sono simili a noi
 BOI107	perché siamo xx
 BOI106	mh
@@ -961,24 +961,24 @@ BOR036	mediterranei
 BOR036	n~
 BOI107	quando son stata in vacanza non
 BOR036	non così tanto
-BOI107	non ho avuto  non lo so come com'è stata la tua esperienza
+BOI107	non ho avuto non lo so come com'è stata la tua esperienza
 BOR036	a me s~ son sembrati molto ospitali
 BOI107	mh
 BOI107	ehm
-BOI107	però  appunto erano
+BOI107	però appunto erano
 BOR036	una famiglia forse un po' particolare
 BOI107	certo sì
 BOI107	molto agiata eh
 BOI107	che aveva sempre viaggiato
-BOI106	che era pronta a  mh
+BOI106	che era pronta a mh
 BOI107	accogliere
-BOI107	disporre  sì ad accogliere e disporre anche
-BOI107	eh  tutte le possibili
+BOI107	disporre sì ad accogliere e disporre anche
+BOI107	eh tutte le possibili
 BOI107	mh
 BOI107	possibilità anche economiche
 BOI107	perché i propri figli andassero a studiare all'estero
 BOI107	quindi
-BOI107	molto aperto al  comunque aperto al
+BOI107	molto aperto al comunque aperto al
 BOR036	molto aperti all'altro e al sì
 BOI107	dici magari non n e hai xxx così
 BOR036	non è ordinario
@@ -986,35 +986,35 @@ BOI107	sì sì sì
 BOR036	secondo me no
 BOR036	mhmh
 BOR036	e hai notato delle differenze
-BOI107	che non ti aspettavi  di di abitudini sì
-BOI107	tra  tra noi e loro
-BOR036	mh  bah mh
+BOI107	che non ti aspettavi di di abitudini sì
+BOI107	tra tra noi e loro
+BOR036	mh bah mh
 BOI107	di abitudini familiari di
-BOI107	e  non tutti
-BOI107	non  non era
+BOI107	e non tutti
+BOI107	non non era
 BOI107	non faceva parte della loro abitudine cenare insieme
 BOI107	eh a un orario preciso
-BOI106	cioè  eh chi aveva fame quando voleva cenava
+BOI106	cioè eh chi aveva fame quando voleva cenava
 BOI106	
 BOI107	apriva la dispensa
 BOI107	però ogni tanto
-BOI107	eh  si riusciva anche a organizzare per ah
-BOI107	non so fare  una sera abbiam fatto una cena insieme italiana
+BOI107	eh si riusciva anche a organizzare per ah
+BOI107	non so fare una sera abbiam fatto una cena insieme italiana
 BOI107	e gli ho cucinato io qualcosa
-BOI106	e  gli avevo fatto la cotoletta alla bolognese
+BOI106	e gli avevo fatto la cotoletta alla bolognese
 BOI107	cos'avevi fatto
 BOI106	che poi non è vero era solo cotoletta non era col prosciutto perché non potevo
 BOR036	addirittura
 BOI107	cioè hai impanato proprio
 BOR036	impanata impanato fritto certo
-BOI107	ah io non sono  non sono capace
+BOI107	ah io non sono non sono capace
 BOI107	
 BOI106	la volevo anche fare col prosciutto
 BOI107	impanato fritto poi prosciutto
-BOI106	eh ma quello no  se no non non trovavo tutti gli ingredienti
+BOI106	eh ma quello no se no non non trovavo tutti gli ingredienti
 BOI106	e
 BOI107	ah no
-BOI106	no ma che  eh
+BOI106	no ma che eh
 BOI106	no
 BOI107	xxxx
 BOI106	ci vorrebbe il prosciutto e il parmigiano
@@ -1029,33 +1029,33 @@ BOR036	è molto importante la
 BOI107	è molto importante tipo adeguarsi
 BOR036	la regola della tradizione
 BOI106	esatto
-BOR036	sì  sì secondo me sì
+BOR036	sì sì secondo me sì
 BOI106	eh perché
 BOR036	mh
 BOI107	ma in generale o solo nel cibo
 BOI106	
 BOI106	eh
-BOI107	secondo me in generale  x cioè
+BOI107	secondo me in generale x cioè
 BOI106	solo nel cibo
 BOI106	magari quando ti presenti all'altro no tu sei curioso di sapere
 BOI106	i suoi le sue tradizioni le sue
 BOI106	cioè perché questo è così perché come lo fate o
-BOI106	eh  e magari quando poi ti viene posta la stessa domanda a te
+BOI106	eh e magari quando poi ti viene posta la stessa domanda a te
 BOR036	è bello
 BOI106	sapere
-BOI106	sapere  e fi~ e diciamo farsi vedere
-BOR036	sul pezzo  preparati ecco
-BOI106	preparati  okay sì sì sì ho capito ho capito
+BOI106	sapere e fi~ e diciamo farsi vedere
+BOR036	sul pezzo preparati ecco
+BOI106	preparati okay sì sì sì ho capito ho capito
 BOR036	un po' un
 BOR036	sì sì
 BOR036	e quindi tipo le
 BOR036	cosa pensate delle rivisitazioni delle ricette tradizionali
 BOR036	se mh
 BOI107	secondo voi è una buona idea o è meglio mantenere
-BOI106	lo standard  no
+BOI106	lo standard no
 BOI107	no si può x
 BOI106	sì si può fare
-BOR036	si può variare si può  usare la creatività
+BOR036	si può variare si può usare la creatività
 BOI107	beh dicevi che tuo fratello fa il cuoco non so se
 BOR036	però lavora a londra mh
 BOI107	ah wow
@@ -1063,24 +1063,24 @@ BOI107	mh
 BOR036	e
 BOI107	non non lo sapevo proprio questa cosa
 BOI107	se passi da londra
-BOR036	no eh  lui fa fa cucina italiana
+BOR036	no eh lui fa fa cucina italiana
 BOI107	in un ristorante italiano o no
 BOI107	però in realtà
 BOI107	mh non così ap~
-BOI107	tradizionale per  così dire
+BOI107	tradizionale per così dire
 BOI107	mh
 BOI107	usa molti ingredienti che sono
 BOI107	non so mh
-BOI106	mh asiatici o  anche
+BOI106	mh asiatici o anche
 BOI107	provengono dall'italia
-BOI106	bah  molti ingredienti li se li fa arrivare mh
+BOI106	bah molti ingredienti li se li fa arrivare mh
 BOI107	okay
 BOI107	cap~ cioè direttamente dall'italia
-BOI107	però  eh
+BOI107	però eh
 BOI106	anche su altri as~ altri piatti
 BOI107	fa un misto tra cucina europea e asiatica
-BOI106	sì  sì anche qualcosa di asiatico
-BOI107	io non son mai stato a a londra nel suo ristorante  quindi
+BOI106	sì sì anche qualcosa di asiatico
+BOI107	io non son mai stato a a londra nel suo ristorante quindi
 BOI107	in realtà varia molto va un po' a mode
 BOI107	va un po' a mode magari c'è la cosa che va tantissimo in quel momento lì
 BOR036	e allora la propone anche lui
@@ -1088,9 +1088,9 @@ BOI107	beh sì x giusto
 BOI107	ed effettivamente è molto
 BOR036	molto buono
 BOR036	giusto giusto
-BOR036	e invece mi dicevate che  nel  insomma
+BOR036	e invece mi dicevate che nel insomma
 BOR036	vi piace viaggiare mi sembra di di aver capito
-BOI106	che  che viaggi avete fatto che vi son piaciuti particolarmente
+BOI106	che che viaggi avete fatto che vi son piaciuti particolarmente
 BOI106	ah l'anno scorso ad agosto siam stati in india
 BOR036	per quasi tre settimane
 BOI106	e com'è stato
@@ -1153,7 +1153,7 @@ BOR036	però non nessuna paura cioè nessuna
 BOI106	okay okay
 BOR036	nessun pericolo nessun
 BOR036	perché comunque io ho avuto dei racconti abbastanza
-BOI107	di gente che è rimasta abbastanza  terrificata dallo stato generale la pu~
+BOI107	di gente che è rimasta abbastanza terrificata dallo stato generale la pu~
 BOR036	mh
 BOI107	l~ l'igiene eccetera
 BOI106	mh
@@ -1165,7 +1165,7 @@ BOI107	purtroppo è così
 BOI106	
 BOI106	cioè
 BOI106	purtroppo sì sicuramente è molto sporca loro sotto alcuni aspetti sono incivili
-BOR036	perché  qualsiasi cosa che non gli serve la buttano così
+BOR036	perché qualsiasi cosa che non gli serve la buttano così
 BOI106	mh cioè da da quel punto di vista però
 BOR036	eh quindi o~ ovviamente
 BOI106	sìsì
@@ -1248,13 +1248,13 @@ BOI107	mh tendenzialmente non non mi parlavano mai
 BOI107	all'inizio anche la guida che ci faceva il tour
 BOI106	eh magari della città non mi parlava in maniera diretta eh si rivolgeva più spesso a lui poi dopo
 BOI106	
-BOI107	sì esatto  dopo
+BOI107	sì esatto dopo
 BOI106	si riusciva eh però
 BOI106	che stavamo vistando delle tombe imperiali
 BOI107	e questa guida parlava solamente con me
 BOI106	
-BOI107	e io a lei la vedo tipo a due metri di distanza  tutta un po' presa male
-BOR036	no io facevo x domande non mi rispondevano  vabbè
+BOI107	e io a lei la vedo tipo a due metri di distanza tutta un po' presa male
+BOR036	no io facevo x domande non mi rispondevano vabbè
 BOI106	
 BOI106	
 BOI107	e lui proprio non gli rivolgeva la parola
@@ -1271,7 +1271,7 @@ BOI107	e e mh
 BOI107	ma allora io ero già stata in india in realtà qualche anno fa
 BOI107	però avevo visto la parte sud che è proprio molto diversa è è più
 BOI107	è proprio l'isola felice si chiama caroline è una nazione che sta
-BOI107	a sud  eh mh
+BOI107	a sud eh mh
 BOI107	quindi lì non avevo sentito tanto questa differenza
 BOI107	dopo avevo preso un volo interno per andare anche x dove siamo stati eh
 BOI107	effettivamente un po' l'avevo notato era stato erano stati pochi giorni quindi nulla di particolare non mi aveva pesato figuriamoci
@@ -1293,7 +1293,7 @@ BOI107	x
 BOI106	la maggior parte però sono indù almeno in quella in quello stato lì
 BOI106	però sono indù
 BOR036	anche un po' buddisti credo siano verso la cina
-BOI106	mh sì beh sì  ci sta sìsì
+BOI106	mh sì beh sì ci sta sìsì
 BOI107	nord est no
 BOI106	sì
 BOR036	però la maggioranza è indù sì
@@ -1306,7 +1306,7 @@ BOI106	neanche troppo
 BOI107	sì nono esatto
 BOI107	eh
 BOR036	tu sì invece
-BOI107	no io avevo un po'  forse interiorizzato
+BOI107	no io avevo un po' forse interiorizzato
 BOI107	eh
 BOR036	mhmh
 BOR036	io questa cosa ma in realtà loro
@@ -1372,7 +1372,7 @@ BOI107	pantaloncini corti non li avevo portati ma comunque il mio vestito lungo
 BOR036	non era la stessa cosa
 BOI106	cioè
 BOR036	
-BOI107	non sì  cioè
+BOI107	non sì cioè
 BOI106	
 BOR036	
 BOI107	poi non non è succe~ cioè non ho avuto nessun tipo di episodio ma neanche implicito ecco cioè neanche delle occhiate cose strane
@@ -1423,7 +1423,7 @@ BOI106	in continuazione
 BOI107	tutti i giorni a delhi sembrava un'associazione a delinquere cioè nel senso fatta cioè
 BOI107	sì
 BOI106	
-BOI106	abbiamo  riscoperto alla fine che era proprio un'associazione perché
+BOI106	abbiamo riscoperto alla fine che era proprio un'associazione perché
 BOR036	quello che ci fermava dopo quello che ci aveva già fermato era complice di quello di prima
 BOI106	sì sì sì
 BOR036	cioè e e ribadiva la stessa cosa cioè magari era come tipo step per far sì che il turista si convinca sempre di più
@@ -1479,7 +1479,7 @@ BOI106	sì non siamo abituati a questo
 BOI107	te lo fai te lo fai andare giù
 BOR036	si anche perché non è che puoi chiedere scusi si si tolga sta a me
 BOI106	x
-BOI107	no come glielo dici  come glielo dici
+BOI107	no come glielo dici come glielo dici
 BOI107	come glielo dici
 BOR036	infatti
 BOI107	no la cosa del pacchetto mi è piaciuta
@@ -1501,7 +1501,7 @@ BOI106	iniziamo a fare il il giro in cammello con lui in mezzo al deserto e altr
 BOI106	
 BOI107	e due beduini
 BOI107	a una certa ci lasciano in mezzo alla duna
-BOI106	e ci dicono  passerete la notte qua ci vediamo domattina
+BOI106	e ci dicono passerete la notte qua ci vediamo domattina
 BOI106	voi passerete la notte qua
 BOR036	su una duna
 BOI106	così
@@ -1533,14 +1533,14 @@ BOI106	okay
 BOI106	abbiam fatto il deserto in marocco e abbiamo visto una certa situazione
 BOI106	cioè eh mh non so delle tende perse in mezzo alle alle dune eh questa cena magari nella nella tenda più grande tutti insieme
 BOI106	eh tutto insomma organizzato
-BOI107	e invece  questo villaggio per per locals
+BOI107	e invece questo villaggio per per locals
 BOI106	
 BOR036	sembrava tipo la sagra della castagna di
 BOI106	beh è fantastico
 BOI107	la sagra della castagna di di calderina sembrava
 BOI106	
 BOI106	eh mh e loro alla fine se la cantavano con questo deserto quando semplicemente avevano una chiazza di di sabbia che era veramente
-BOI106	cioè  duecento metri per trecento
+BOI106	cioè duecento metri per trecento
 BOI107	cioè oltretutto pieno di immondizia cioè e non potevi starci scalzo
 BOI106	sì probailmente tipo non so la spiaggia di della riviera dopo il il jova beach party una roba
 BOR036	dopo la notte rosa dopo la notte rosa
@@ -1585,7 +1585,7 @@ BOI107	mh
 BOR036	mh
 BOI107	e eh ti dice che arriva alle sei di mattina
 BOR036	mh
-BOI107	in realtà arriva alle quattro e mezzo così tu  ti molla in mezzo
+BOI107	in realtà arriva alle quattro e mezzo così tu ti molla in mezzo
 BOR036	al nulla
 BOI106	al nu~ no al nulla insomma nel paesino
 BOI106	eh

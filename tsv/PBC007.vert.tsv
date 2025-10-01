@@ -1110,7 +1110,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 201-5	BOI019	201	però	però	linguistic	none	_	End=526.84	_	_	_	_
 202-0	BOI019	202	io	io	linguistic	none	_	Begin=527.62	_	_	_	_
 202-1	BOI019	202	amavo	amavo	linguistic	none	_	_	_	_	_	_
-202-2	BOI019	202	<molto>	molto	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+202-2	BOI019	202	<molto>	molto	linguistic	none	_	_	_	Slow=0-5	_	_
 202-3	BOI019	202	i	i	linguistic	none	_	_	_	_	_	_
 202-4	BOI019	202	libri	libri	linguistic	none	_	End=529.35	_	_	_	_
 203-0	BOI019	203	avevo	avevo	linguistic	none	_	Begin=529.5	_	_	_	_
@@ -1382,7 +1382,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 247-1	BOI019	247	libri	libri	linguistic	none	_	_	_	_	_	_
 247-2	BOI019	247	a	a	linguistic	none	_	_	_	_	_	_
 247-3	BOI019	247	domicilio	domicilio	linguistic	none	_	_	_	_	_	_
-247-4	BOI019	247	<gratuitamente>	gratuitamente	linguistic	none	_	End=667.18	_	Slow=0-13(0)	_	_
+247-4	BOI019	247	<gratuitamente>	gratuitamente	linguistic	none	_	End=667.18	_	Slow=0-13	_	_
 248-0	BOI019	248	tant'	tant'	linguistic	none	SpaceAfter=No	Begin=668.34	_	_	_	_
 248-1	BOI019	248	è	è	linguistic	none	_	_	_	_	_	_
 248-2	BOI019	248	vero	vero	linguistic	none	_	_	_	_	_	_
@@ -2084,7 +2084,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 384-1	BOI019	384	le	le	linguistic	none	_	_	_	_	_	_
 384-2	BOI019	384	testimonianze	testimonianze	linguistic	none	_	_	_	_	_	_
 384-3	BOI019	384	dei	dei	linguistic	none	_	_	_	_	_	_
-384-4	BOI019	384	<pittori>	pittori	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+384-4	BOI019	384	<pittori>	pittori	linguistic	none	_	_	_	Slow=0-7	_	_
 384-5	BOI019	384	anche	anche	linguistic	none	_	_	_	_	_	_
 384-6	BOI019	384	bolognesi	bolognesi	linguistic	none	_	End=1006.129	_	_	_	_
 385-0	BOI019	385	della	della	linguistic	none	_	Begin=1006.46	_	_	_	_
@@ -3114,8 +3114,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 564-9	BOI019	564	stava	stava	linguistic	none	_	_	_	_	_	_
 564-10	BOI019	564	lavando	lavando	linguistic	none	_	_	_	_	_	_
 564-11	BOI019	564	e	e	linguistic	none	_	_	_	_	_	_
-564-12	BOI019	564	<piangeva>	piangeva	linguistic	none	_	End=1495.088	_	Slow=0-8(0)	_	_
-565-0	BOI019	565	<piangeva>	piangeva	linguistic	none	_	Begin=1495.59|End=1496.77	_	Slow=0-8(0)	_	_
+564-12	BOI019	564	<piangeva>	piangeva	linguistic	none	_	End=1495.088	_	Slow=0-8	_	_
+565-0	BOI019	565	<piangeva>	piangeva	linguistic	none	_	Begin=1495.59|End=1496.77	_	Slow=0-8	_	_
 566-0	BOI019	566	io	io	linguistic	none	_	Begin=1497.64	_	_	_	_
 566-1	BOI019	566	invece	invece	linguistic	none	_	_	_	_	_	_
 566-2	BOI019	566	ero	ero	linguistic	none	_	_	_	_	_	_
@@ -3296,7 +3296,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 595-3	BOI019	595	avuto	avuto	linguistic	none	_	_	_	_	_	_
 595-4	BOI019	595	dei	dei	linguistic	none	_	_	_	_	_	_
 595-5	BOI019	595	parenti	parenti	linguistic	none	_	_	_	_	_	_
-595-6	BOI019	595	<morti>	morti	linguistic	none	_	End=1579.51	_	Slow=0-5(0)	_	_
+595-6	BOI019	595	<morti>	morti	linguistic	none	_	End=1579.51	_	Slow=0-5	_	_
 596-0	BOI019	596	nella	nella	linguistic	none	_	Begin=1580.38	_	_	_	_
 596-1	BOI019	596	prima	prima	linguistic	none	_	_	_	_	_	_
 596-2	BOI019	596	guerra	guerra	linguistic	none	_	_	_	_	_	_
@@ -6800,9 +6800,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1120-2	BOI019	1120	fatto	fatto	linguistic	none	_	_	_	_	_	_
 1120-3	BOI019	1120	le	le	linguistic	none	_	_	_	_	_	_
 1120-4	BOI019	1120	superiori	superiori	linguistic	none	_	End=3163.07	_	_	_	_
-1121-0	BOI019	1121	<non	non	linguistic	none	_	Begin=3164.1	_	Slow=0-3(0)	_	_
-1121-1	BOI019	1121	lo	lo	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-1121-2	BOI019	1121	sapevamo>	sapevamo	linguistic	none	_	End=3165.84	_	Slow=0-8(0)	_	_
+1121-0	BOI019	1121	<non	non	linguistic	none	_	Begin=3164.1	_	Slow=0-3	_	_
+1121-1	BOI019	1121	lo	lo	linguistic	none	_	_	_	Slow=0-2	_	_
+1121-2	BOI019	1121	sapevamo>	sapevamo	linguistic	none	_	End=3165.84	_	Slow=0-8	_	_
 1122-0	BOI019	1122	e	e	linguistic	none	_	Begin=3169.36	_	_	_	_
 1122-1	BOI019	1122	lui	lui	linguistic	none	_	_	_	_	_	_
 1122-2	BOI019	1122	ci	ci	linguistic	none	_	_	_	_	_	_

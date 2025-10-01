@@ -7241,9 +7241,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1149-4	BOI110	1149	me	me	linguistic	none	Volume=Low	_	_	_	_	_
 1149-5	BOI110	1149	lo	lo	linguistic	none	Volume=Low	_	_	_	_	_
 1149-6	BOI110	1149	ricordo°	ricordo	linguistic	none	Volume=Low	End=2187.585	_	_	_	_
-1150-0	BOI110	1150	<al	al	linguistic	none	_	Begin=2187.9	_	Slow=0-2(0)	_	_
-1150-1	BOI110	1150	museo	museo	linguistic	none	_	_	_	Slow=0-5(0)	_	_
-1150-2	BOI110	1150	nazionale:>	nazionale	linguistic	none	_	End=2190.467	8x1	Slow=0-9(0)	_	_
+1150-0	BOI110	1150	<al	al	linguistic	none	_	Begin=2187.9	_	Slow=0-2	_	_
+1150-1	BOI110	1150	museo	museo	linguistic	none	_	_	_	Slow=0-5	_	_
+1150-2	BOI110	1150	nazionale:>	nazionale	linguistic	none	_	End=2190.467	8x1	Slow=0-9	_	_
 1151-0	BOI110	1151	°non	non	linguistic	none	Volume=Low	Begin=2191.58	_	_	_	_
 1151-1	BOI110	1151	mi	mi	linguistic	none	Volume=Low	_	_	_	_	_
 1151-2	BOI110	1151	ricordo°	ricordo	linguistic	none	Volume=Low	End=2192.313	_	_	_	_

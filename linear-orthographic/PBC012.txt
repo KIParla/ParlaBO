@@ -1,7 +1,7 @@
-BOI033	bene allora inziamo  e volevo chiedervi intanto giusto per conoscerci un po' in che quartiere di bologna vivete
+BOI033	bene allora inziamo e volevo chiedervi intanto giusto per conoscerci un po' in che quartiere di bologna vivete
 BOR005	bolognina
 BOI033	mhmh
-BOR005	che poi sarebbe navile  adesso
+BOR005	che poi sarebbe navile adesso
 BOI033	mh
 BOR005	e questa è una frazione che si chiama bolognina
 BOR005	mhmh
@@ -43,11 +43,11 @@ BOR005	adesso abbiamo quella la bolognina nuova
 BOI034	ah okay
 BOI034	che diventerà
 BOI033	diventerà la bolognina la nuova città questa qua
-BOR005	sì  e poco lontano da questi palazzi era tutta campagna
+BOR005	sì e poco lontano da questi palazzi era tutta campagna
 BOI034	mhmh
 BOI033	adesso fanno de be i grattacieli xxxxxxx
 BOI034	e fabbriche
-BOR005	diventerà  diventerà la la nuova bologna questa qua
+BOR005	diventerà diventerà la la nuova bologna questa qua
 BOI033	mh
 BOR005	sì
 BOI034	ah però
@@ -68,12 +68,12 @@ BOI034	quindi lo co~ lo conosco la zona
 BOR005	era una gran bella zona alberata
 BOI034	mh
 BOI034	tutti contadini fra i quali io son nato contadino
-BOR005	e son rimasto con la mente  nella terra
+BOR005	e son rimasto con la mente nella terra
 BOI034	
 BOI034	tutta la zona
 BOI034	fino a ca' de fabbri
 BOI034	era una zona alberata
-BOI033	tutti i campi erano pieni di alberi  con le viti  da fare il vino
+BOI033	tutti i campi erano pieni di alberi con le viti da fare il vino
 BOI034	eh sì eh
 BOI034	in più tutti eh
 BOI034	adesso è diventato una vallata
@@ -81,30 +81,30 @@ BOR005	è uno schifo
 BOI033	
 BOI034	c'erano anche le risaie
 BOI033	uno schifo
-BOR005	una volta c'erano anche le risaie  un po' più lontano
+BOR005	una volta c'erano anche le risaie un po' più lontano
 BOI034	mh
-BOI033	uno schifo  erano tutti
+BOI033	uno schifo erano tutti
 BOI034	non molto lontano da qui
-BOI034	i campi erano  tenuti in una maniera a orto a orto
+BOI034	i campi erano tenuti in una maniera a orto a orto
 BOI034	era una cosa stupenda stupenda era
 BOR005	guai se e un contadino non facevi fosse
 BOI034	
 BOI033	adesso va trovare una fo~
 BOI034	ah sì
-BOR005	dove e sono nato ancora la casa  è vuota
+BOR005	dove e sono nato ancora la casa è vuota
 BOI033	mh
-BOI034	ah beh certo  chi chi fa il contadino adesso
+BOI034	ah beh certo chi chi fa il contadino adesso
 BOI034	ancora vuota
 BOI034	perché la terra la terra l'hanno data a una
 BOI033	cooperativa di
 BOI034	sì
 BOR005	di di di di di lavorar la terra
 BOI034	mh
-BOI033	e quindi la casa  vuota
+BOI033	e quindi la casa vuota
 BOI034	però non l'han tirata giù
 BOI033	vuota
 BOI034	
-BOR005	e ancora ancora  diciamo
+BOR005	e ancora ancora diciamo
 BOI033	meglio di niente
 BOI034	è un pezzo storico
 BOI034	buona buona perché
@@ -112,7 +112,7 @@ BOI034	e noi gli abbiam fatto il tettoio
 BOI034	gli abbiamo fatto la tettoia così e allora eh
 BOR005	xxxxx bellissimo
 BOI034	mh
-BOR005	è là vuota  vuota
+BOR005	è là vuota vuota
 BOR005	mhmh
 BOI034	eh
 BOR005	pensa te
@@ -130,10 +130,10 @@ BOI033	noi tutta la nostra gioventù l'abbiam passata là
 BOI034	conta che è cresciuto il quartiere
 BOR005	xxx
 BOI034	mhmh
-BOI034	io abitavo a lovoleto però ho frequentato la la frazione  di san marino
+BOI034	io abitavo a lovoleto però ho frequentato la la frazione di san marino
 BOI034	eh
-BOI034	la mia casa faceva tre  comuni
-BOI034	di confine  granarolo
+BOI034	la mia casa faceva tre comuni
+BOI034	di confine granarolo
 BOI033	eh minerbio e bentivoglio
 BOR005	son tutti qua vicino
 BOI034	mhmh
@@ -148,59 +148,59 @@ BOI034	cos'è
 BOR005	una villa
 BOI034	ah
 BOI034	villa hai capito che era
-BOI033	è  ancora
-BOI034	diciamo loro giovani della  @nomeassociazione  ecco
+BOI033	è ancora
+BOI034	diciamo loro giovani della @nomeassociazione ecco
 BOI034	x x x
 BOI034	xx
 BOR005	xx
 BOI034	okay
-BOI034	andavamo  mi ricordo sempre
+BOI034	andavamo mi ricordo sempre
 BOI034	c'era una fontana e nel paesino
-BOI034	eravamo lì una sera  che si faceva lì conversazione di
+BOI034	eravamo lì una sera che si faceva lì conversazione di
 BOI034	allora uno di questi qua e un certo rossi
-BOI033	dice ma guarda qua  siamo qua i~ in quattordici eravamo
+BOI033	dice ma guarda qua siamo qua i~ in quattordici eravamo
 BOR005	che non è lui magari
 BOI034	
 BOI034	quattordici siamo qua xx che per divertirci dobbiamo andare al cinema a ca' de fabbri
-BOI033	a piedi  perché allora
+BOI033	a piedi perché allora
 BOI034	ah beh per forza
 BOI033	a piedi o in bicicletta
 BOI034	non c'era altro
 BOI034	e dice abbiamo una villa qui vuota
 BOI034	hai capito
-BOI034	sì ma s~ tipo e quei discorsi  volati così
-BOR005	e lì c'era  un signore che ehm sui quarant'anni che era il sarto del proprietario della villa
+BOI034	sì ma s~ tipo e quei discorsi volati così
+BOR005	e lì c'era un signore che ehm sui quarant'anni che era il sarto del proprietario della villa
 BOI034	mhmh
-BOI034	al dis debbo andare a provare i vestiti al padrone di verdi  si chiama
+BOI034	al dis debbo andare a provare i vestiti al padrone di verdi si chiama
 BOI034	al dis glielo chiedo
 BOI034	così
 BOI034	allora e hai capito
 BOI034	dopo sì fece la riunione dice guardate ragazzi
 BOI034	il proprietario ha detto che vi dà la villa
-BOI033	per sei anni senza una lira  senza una lira  purchè glielo pulite
+BOI033	per sei anni senza una lira senza una lira purchè glielo pulite
 BOI034	beh insomma non è poco
 BOR005	perché perché lì c'era stata un officina tedesca
 BOI034	mh
 BOR005	meccanica che aggiustavano i i mezzi da loro
 BOI034	mhmh
 BOI033	e li buttavano nel lago perché c'è un lago dentro
-BOR005	ah però  una bella discarica
+BOR005	ah però una bella discarica
 BOI034	
 BOR005	un lago che è bellissimo è bellissimo
 BOI034	mhmh
 BOI034	a~ allora fi~ figurati che eh ci siamo organizzati
 BOR005	perché c'eran quelli che facevan i muratori non avevamo una lira
 BOI034	mh
-BOR005	con i cerchi delle botti abbiam fatto i piani dei tavolini  tondi
+BOR005	con i cerchi delle botti abbiam fatto i piani dei tavolini tondi
 BOI033	mhmh
 BOR005	beh vedi
 BOI033	mhmh
-BOI034	que~ quello che si fa adesso  il riciclo
+BOI034	que~ quello che si fa adesso il riciclo
 BOR005	poi c'era c'era oc~ c'era una tenuta che aveva fatto un frutteto nuovo
 BOI034	esatto
 BOI033	allora tutti i vecchi i cosi del frutto abbiamo fatto i pali
 BOI034	vedi
-BOI033	abbiam piantato i pali a terra ed e e il tavolo sopra  pensa te
+BOI033	abbiam piantato i pali a terra ed e e il tavolo sopra pensa te
 BOR005	il tavolino
 BOI034	ma invece mi chiedevo poi e a quanti anni ha detto che si è trasferito qua a bologna
 BOI033	eh eh a bologna
@@ -208,7 +208,7 @@ BOR005	quando quanti anni avevi quando ti sei trasferito qui
 BOI034	quan~
 BOI033	qui a bologna
 BOI034	a bologna proprio a bolo~
-BOR005	no qua e guarda  dunque su su e da~ dal quaran~
+BOR005	no qua e guarda dunque su su e da~ dal quaran~
 BOI034	mhmh
 BOI033	quara~ qua~ quaranta quaranta
 BOI033	dopo la guerra
@@ -228,7 +228,7 @@ BOR005	sempre sempre qua si sempre qui semp~ nato qui e fe~ fatto la gioventù i
 BOR005	okay e
 BOR005	e negli anni e negli anni è cambiato molto questo quartiere
 BOI034	anche a livello di gente
-BOI033	ma si e avoglia  mi pia~
+BOI033	ma si e avoglia mi pia~
 BOI033	beh di gente sicuramente
 BOI034	allora qui ad esempio
 BOI033	facciamo paragone da die~ da dieci diciamo
@@ -237,7 +237,7 @@ BOI033	mhmh
 BOR005	da quando è venuto lui è cambiato tantissimo qui ad esempio tutta
 BOI034	mhmh
 BOI033	è cambia~ e tre volte trevolte ho cambiato casa
-BOR005	la zona la zona dove stava lui e dove sto io che è  un po' più in là
+BOR005	la zona la zona dove stava lui e dove sto io che è un po' più in là
 BOR005	sì
 BOI033	sì
 BOI034	era tutta una zona di fabbriche
@@ -271,7 +271,7 @@ BOR005	il trasferimento è stato così
 BOI033	ah
 BOI034	erano dalla campagna e si spostavano
 BOI034	questa era la zona industriale
-BOI033	tutta la parte dove c'è il comune adesso quella parte là  quella era tutta campagna
+BOI033	tutta la parte dove c'è il comune adesso quella parte là quella era tutta campagna
 BOI034	sì
 BOI033	sì
 BOI034	poi è stato abitato anche da gente tipo la mia famiglia
@@ -290,7 +290,7 @@ BOR005	e quindi quando quando sono nata io dove sto io adesso c'erano campagna e
 BOI033	mh
 BOI033	le prime fabbriche
 BOI034	dopodiché è diventato un quartiere abitativo cioè dopo la gente questa zona qui adesso è molto abitato da extracomunitari
-BOR005	xx questo quartiere dal dal dal  poi non
+BOR005	xx questo quartiere dal dal dal poi non
 BOI033	mhmh
 BOI034	è cambiato molto il
 BOI034	lo chiamavano lo cambia la la la la la lo chiamavano appunto la zona degli orti
@@ -300,7 +300,7 @@ BOI033	mhmh
 BOI034	andando verso corticella sai una volta corticella il signor
 BOR005	qua era tutto un orto
 BOI033	mh
-BOR005	e beh corticella una volta corticella  tanto tempo fa era un comune
+BOR005	e beh corticella una volta corticella tanto tempo fa era un comune
 BOI033	ah proprio un comune a parte
 BOR005	sì quando avevamo il navile che girava
 BOI033	mh mh
@@ -314,7 +314,7 @@ BOI033	noi qui a via di colle avevamo
 BOI034	c'è una chiusa della
 BOI033	qui c'era solo
 BOI034	del vecchio navile dove
-BOR005	qui  c'era  l'ippodromo
+BOR005	qui c'era l'ippodromo
 BOI034	mhmh
 BOI033	il ferroviario
 BOI034	sì
@@ -331,7 +331,7 @@ BOI034	l'hanno costruito
 BOI033	l'ippodromo è stato fatto mh
 BOR005	ma non c'era praticamente quasi niente
 BOI033	mh
-BOI034	era proprio  campagna c'erano alcune cose però c'erano  i collegamenti con  il navile
+BOI034	era proprio campagna c'erano alcune cose però c'erano i collegamenti con il navile
 BOI033	eh c'era quella cosa c'era
 BOI034	che trasportava le merci fino a un certo periodo xx
 BOI033	la santa ro~ la santa rosa era xx
@@ -348,7 +348,7 @@ BOR005	mh
 BOI034	mh mi chiedevo quando avete iniziato a frequentare invece proprio questo circolo il circolo @nomeluogo
 BOI034	ah i cento passi qua ho cominciato mhmh quando ha cominciato a far le feste
 BOI033	le feste del xx
-BOI034	sì nel duemilasette  abbiamo iniziato
+BOI034	sì nel duemilasette abbiamo iniziato
 BOI033	sì nel duemilasette sì
 BOI034	perché questa zona questo
 BOI033	questa era un'officina
@@ -375,12 +375,12 @@ BOI033	si è preso questo pezzo qui
 BOI033	e come di esse siamo entrati qui
 BOR005	e come pi di abbiamo incominciato a fare dei lavori
 BOI033	mhmh
-BOI034	nel duemilasette quando è nato il pi di  a lavorare ma prima c'era una sede proprio c'era la sede del di esse come quartiere navile qui
+BOI034	nel duemilasette quando è nato il pi di a lavorare ma prima c'era una sede proprio c'era la sede del di esse come quartiere navile qui
 BOI034	xx
 BOR005	dal duemilasette sì
 BOR005	mhmh
 BOI033	ah okay
-BOR005	poi a poco a poco sai  una cosa poi svanisce
+BOR005	poi a poco a poco sai una cosa poi svanisce
 BOI034	mhmh
 BOR005	ma era qui
 BOI034	
@@ -413,9 +413,9 @@ BOI034	qua che attività svolgete principalme~
 BOI033	lui dopo fa un riassunto
 BOR005	eh eh cioè dopo lui fa quello che gli pare dell'intervista
 BOR005	
-BOI034	eh  eh dopo e qua quando venite qua principalmente che attività svolgete voi quando vi incontrate qua mi sembra il sabato mattina
-BOI033	no  no no
-BOI034	sabato mattina diciamo che è nato  come idea di fare questa cosa del caffè
+BOI034	eh eh dopo e qua quando venite qua principalmente che attività svolgete voi quando vi incontrate qua mi sembra il sabato mattina
+BOI033	no no no
+BOI034	sabato mattina diciamo che è nato come idea di fare questa cosa del caffè
 BOI034	andiamo a compra~
 BOI033	ah sabato mattina cosa sarà tre tre sabati
 BOI034	sar~ no e son già più un mesetto e mezzo
@@ -426,11 +426,11 @@ BOI033	lo si fa per
 BOR005	sì
 BOI033	mhmh
 BOI034	facevamo più che altro attività di sagre
-BOI033	dopo si la~  si lavorava la cucina
-BOI034	poi qui dentro c'è  questa realtà qui che sono le cucine popolari
+BOI033	dopo si la~ si lavorava la cucina
+BOI034	poi qui dentro c'è questa realtà qui che sono le cucine popolari
 BOR005	eh
 BOR005	delle cucine
-BOI033	eh  che poi di cosa si occupa perché so che sono queste cucine popolari ma non ho ben capito il ruolo specifico
+BOI033	eh che poi di cosa si occupa perché so che sono queste cucine popolari ma non ho ben capito il ruolo specifico
 BOI034	loro loro praticamente fanno un servizio sociale
 BOR005	la la cucina popolare è durata quant'è t~ quattro anni tre anni al massimo
 BOI033	okay
@@ -447,21 +447,21 @@ BOR005	che ha proposto di fare questa cosa utilizzando la cucina che c'è qua
 BOI033	mhmh
 BOR005	per preparare i pasti per le persone disagiate
 BOI033	okay
-BOI033	quindi  hanno una struttura che funziona con
+BOI033	quindi hanno una struttura che funziona con
 BOR005	e gli vengono mandati dagli assistenti sociali che seguono un po' le famiglie
 BOI033	mhmh
 BOI033	e loro preparano da mangiare
-BOI033	prima  mangiavano qui dentro
+BOI033	prima mangiavano qui dentro
 BOI033	da quando c'è la pandemia loro fanno
 BOI033	perché gli viene dato il cibo mh gratuitamente
-BOR005	nel senso che  le coop quel~ i fornai c'è un fornaio che piuttosto che buttare via il pane
+BOR005	nel senso che le coop quel~ i fornai c'è un fornaio che piuttosto che buttare via il pane
 BOR005	mhmh
 BOI033	lo porta qua
 BOR005	lo porta qua la sera
 BOI033	mhmh
 BOR005	quindi loro fanno da mangiare
 BOI033	
-BOR005	e adesso lo distribuiscono con le borsine però c'hanno un tot di persone che son tutte persone  con dei problemi
+BOR005	e adesso lo distribuiscono con le borsine però c'hanno un tot di persone che son tutte persone con dei problemi
 BOR005	mhmh
 BOI033	mhmh
 BOR005	non è non è obbligatorio che siano dei barboni
@@ -471,9 +471,9 @@ BOI033	mhmh
 BOR005	e di queste cucine ne son già nate
 BOI033	ah
 BOR005	ne son già nate siamo già alla quinta credo
-BOI033	ah davvero  così tante
+BOI033	ah davvero così tante
 BOI034	nei vari punti della città è riuscita a far nascere
-BOI033	avevamo avevamo una bella struttura però eh  personale
+BOI033	avevamo avevamo una bella struttura però eh personale
 BOR005	ade~ però prima eravamo tutto pi di capito
 BOI034	mhmh
 BOI033	una bellastruttura una bella struttura abbiam montato tutto pezzo per pezzo
@@ -501,7 +501,7 @@ BOR005	e quello nelle feste quello nelle feste dell'unità
 BOR005	
 BOI033	
 BOR005	
-BOI034	e cosa avete fatto voi qua  a questi
+BOI034	e cosa avete fatto voi qua a questi
 BOI033	si face~ faceva la carne la carne
 BOR005	lui il friggitore
 BOI033	ah il friggitore
@@ -512,11 +512,11 @@ BOI033	e di tutto
 BOI034	patatine pesce
 BOR005	più che di tutto ma ultimamente specializzato in pesce
 BOI034	mh
-BOR005	perché noi siamo come  come diciamo ristorante anche che si fa le feste
+BOR005	perché noi siamo come come diciamo ristorante anche che si fa le feste
 BOI034	mhmh
 BOI033	ristorante del pesce
 BOI033	sì
-BOR005	lui è il friggitore ufficiale  anche quando facciamo le sagre qui dentro lui frigge il pesce sì dappertutto
+BOR005	lui è il friggitore ufficiale anche quando facciamo le sagre qui dentro lui frigge il pesce sì dappertutto
 BOI034	ah anche alle feste dell'unità
 BOI033	sì sì questo è nominato come ristorante del pesce praticamente
 BOR005	festa dell'unità
@@ -542,7 +542,7 @@ BOI034	quindi
 BOI033	per aiutare altri e ci siamo ma
 BOR005	ritirati noi ma vabbè
 BOR005	mh
-BOI034	ah okay ho capito  e
+BOI034	ah okay ho capito e
 BOI033	perché le cucine popolari è cominciata qui
 BOR005	sì beh ma loro sai fanno un altro tipo di distribuzione invece noi dobbiamo mettere seduta la gente quindi
 BOI034	ah
@@ -565,7 +565,7 @@ BOI034	vengono prendono
 BOI033	se tu vieni qui alla mattina dalle dieci a mezzogiorno c'è tutto il marciapiede pieno
 BOR005	eh sì perché
 BOI034	mh
-BOI033	e poi durante all'inizio  all'ini~
+BOI033	e poi durante all'inizio all'ini~
 BOR005	sono aumentati anche i problemi
 BOI033	mh
 BOR005	e
@@ -591,16 +591,16 @@ BOR005	aspetta che ci fa un'altra domanda
 BOI034	
 BOR005	avanti dì pure
 BOR005	e quindi
-BOI034	e quindi  tu co~
+BOI034	e quindi tu co~
 BOI033	fa' la domanda a lei che ha la voce
 BOR005	
-BOI034	beh insomma  parlate entrambi
+BOI034	beh insomma parlate entrambi
 BOR005	sì sì
 BOR005	perché adesso mi parlavate delle feste dell'unità e quindi pensavo le cucine popolari in qualche modo sono collegate anche con la festa dell'unità o
 BOI033	magari che ne so quello che avanzava da lì lo portavate qua
 BOI034	mh no no no
 BOI033	no
-BOI034	cioè no oddio  se è rarissimo che ti rimangono delle cose dalla festa dell'unità
+BOI034	cioè no oddio se è rarissimo che ti rimangono delle cose dalla festa dell'unità
 BOR005	no no mh
 BOI033	
 BOR005	però se dovesse proprio rimanere qualche cosa ma sono cose minime ma non c'è questo tipo di scambio
@@ -612,7 +612,7 @@ BOR005	gli arrivan le robe in beneficenza si può dire quindi
 BOI034	ah okay
 BOI033	loro tutta la roba che
 BOI034	è tutta cosa gratuita
-BOI033	tutta la roba che tutta la roba che ve va da lì  gratis
+BOI033	tutta la roba che tutta la roba che ve va da lì gratis
 BOI034	al massimo
 BOI033	ci son due tre bancali di zucchero
 BOI034	sì è tutta roba gratuita
@@ -651,7 +651,7 @@ BOR005	a prima l'avranno distrutta facendosi dare dei
 BOI034	eh buttata
 BOI033	perché qui è tutta roba tutta roba adesso xxxxx quello no ma quel latte a lunga conservazione che va bene
 BOI034	prima si facevano dare i soldi
-BOR005	ma la carne  la carne arriva un mucchio di carne
+BOR005	ma la carne la carne arriva un mucchio di carne
 BOI033	mhmh
 BOI034	e ma la carne la metti in freezer
 BOR005	tutta tutta roba da giorni due giorni due
@@ -659,17 +659,17 @@ BOI033	mhmh
 BOI034	ah ma tanto loro la fanno sai la distribuiscono nel
 BOR005	e loro la mandan via cioè
 BOI033	mhmh
-BOI034	mentre noi come pi di  dobbiamo comprarla la roba
+BOI034	mentre noi come pi di dobbiamo comprarla la roba
 BOR005	così è sta~ è una bella cosa è una bella cosa
 BOI033	ah
 BOR005	quindi perché noi poi dopo abbiamo è evidente le entrate le uscite no se tu hai il guadagno dopo togli le
 BOI033	sì
 BOR005	quindi noi come pi di è un'altra cosa
 BOI033	okay
-BOR005	è una cosa a parte  ecco
+BOR005	è una cosa a parte ecco
 BOR005	ah oka~
 BOI033	e voi qua come appunto come circolo qua all'interno della zona del @nomeluogo organizzate anche qualche iniziativa sociale proprio per il quartiere
-BOR005	più che altro sono  poche perché adesso in questo periodo
+BOR005	più che altro sono poche perché adesso in questo periodo
 BOR005	mhmh
 BOI033	vabbe il periodo non lo permette
 BOR005	però tendenzialmente sono iniziative politiche
@@ -678,16 +678,16 @@ BOR005	diciamo che sul sociale sono più loro che coinvolgono il prole~ noi
 BOI033	delle cucine popolari
 BOR005	quando si son fatte delle iniziative qui sono più politiche ecco
 BOI033	ad esempio
-BOR005	poi magari  coinvolgi anche le persone
+BOR005	poi magari coinvolgi anche le persone
 BOI033	mhmh
-BOR005	sempre che  riesci perché
+BOR005	sempre che riesci perché
 BOI033	mhmh
 BOR005	sai un conto è avvicinarsi a una struttura sociale un conto è avvicinarsi a un partito
 BOI033	mh
 BOI033	quindi
 BOI033	noi qui adesso
 BOI033	anni fa avevamo un contatto un po' più con gli extracomunitari ce ne abbiamo alcuni iscritti nel circolo
-BOR005	quindi sai  si facevano alcune cose però mh è un po' che abbiamo smesso perché con sta storia di sta pandemia
+BOR005	quindi sai si facevano alcune cose però mh è un po' che abbiamo smesso perché con sta storia di sta pandemia
 BOI033	mhmh
 BOR005	e poi è anche più difficile che la gente si co~ si avvicini
 BOR005	mh
@@ -702,17 +702,17 @@ BOR005	la struttura è della fondazione
 BOI033	mhmh
 BOR005	dei di esse
 BOI033	okay
-BOI033	perché è una str~ è una cosa un poco  un po' complicata ma non difficle
+BOI033	perché è una str~ è una cosa un poco un po' complicata ma non difficle
 BOI033	quando è nato il pi di
 BOI033	eh quello che era della margherita se lo son tenuti la margherita ex popolari ex democristiani
 BOI033	e quello che era del pi ci pi di esse di esse è rimasto in queste fondazioni
-BOI033	quindi questa struttura che era  stata costruita dai  pi ci pi di esse di esse
+BOI033	quindi questa struttura che era stata costruita dai pi ci pi di esse di esse
 BOI033	è rimasta la fondazione
-BOR005	quindi  la fondazione la sua intenzione sarebbe anche quella di creare una specie di casa del popolo
+BOR005	quindi la fondazione la sua intenzione sarebbe anche quella di creare una specie di casa del popolo
 BOI033	ah okay
 BOI033	come si faceva una volta
 BOI033	e quindi c'è dentro l'associazione ci siamoi noi
-BOR005	che  ognuno paga la sua parte di affitto e di e di cose e quindi
+BOR005	che ognuno paga la sua parte di affitto e di e di cose e quindi
 BOR005	mh
 BOI033	mhmh
 BOR005	è dalla fondazione il vero
@@ -727,12 +727,12 @@ BOR005	vedo che riescono a coinvolgere giovani
 BOI033	mhmh
 BOI034	perché è un'altra
 BOI033	x x x
-BOR005	è un'altra indicazione capito invece  noi ci proviamo ma non sempre
+BOR005	è un'altra indicazione capito invece noi ci proviamo ma non sempre
 BOR005	sì
 BOI033	mhmh
 BOR005	attiriamo il pubblico ecco
 BOI033	
-BOR005	perché  il partito poi da un po' di tempo a questa parte non lo vedono
+BOR005	perché il partito poi da un po' di tempo a questa parte non lo vedono
 BOI033	di buon occhio
 BOI033	io son sempre stata renziana quindi
 BOR005	periodo renzi per me è stato un grosso problema
@@ -748,19 +748,19 @@ BOI033	mhmh
 BOI034	
 BOR005	siamo nati assieme
 BOI034	
-BOR005	non nati nel senso  di vita
+BOR005	non nati nel senso di vita
 BOI034	mhmh
 BOI034	nel senso di lavoro qua eh cioè
 BOI033	quant'è che ci conosciamo
-BOR005	eh  io e te da una vita
+BOR005	eh io e te da una vita
 BOI034	
-BOI033	lei  quello che so io lo sa anche lei
+BOI033	lei quello che so io lo sa anche lei
 BOI034	
 BOI033	perché
 BOR005	da bambi~ da bamb~ ero bambina io e lui
 BOI034	figurati figurati
 BOI034	quello quello che capito eh
-BOR005	è un nastro diciamo  è unico
+BOR005	è un nastro diciamo è unico
 BOI034	mhmh
 BOI033	perché siam sempre stati eh assieme
 BOI034	nelle feste e
@@ -775,9 +775,9 @@ BOI033	più che altro che
 BOR005	non riesce facile
 BOI034	qualche congresso che magari ti è piaciuto particolarmente
 BOI033	e ne abbiamo avuti tanti ma xx
-BOI034	ma sì sai poi  molti congressi eran divisi
+BOI034	ma sì sai poi molti congressi eran divisi
 BOI033	tu e
-BOR005	perché ad esempio  i congressi più importanti i più che ci ricordiamo magari maggiormente berlinguer
+BOR005	perché ad esempio i congressi più importanti i più che ci ricordiamo magari maggiormente berlinguer
 BOI033	ah
 BOR005	queste eravamo sezioni divise
 BOI033	mh
@@ -785,7 +785,7 @@ BOI033	perché qui una volta di sezioni ce n'erano
 BOI034	fra bolognina ce n'erano cinque
 BOI034	sì
 BOI033	ce n'erano cinque sì
-BOI033	bolognina  nanni reggiani chiarini
+BOI033	bolognina nanni reggiani chiarini
 BOI034	eh la polischi
 BOI033	e poi e po~ e
 BOI034	e poi chi c'era e poi c'eravamo noi la @nomeluogo
@@ -801,7 +801,7 @@ BOI033	c'erano
 BOI034	cinque
 BOR005	cinque
 BOI033	mhmh
-BOR005	c'eran cinque adesso  siamo due
+BOR005	c'eran cinque adesso siamo due
 BOI033	mh
 BOI034	nello stesso territorio
 BOI033	sì sì siamo insieme agli altri
@@ -810,7 +810,7 @@ BOI033	mh
 BOI033	che erano
 BOI033	calcolando che una volta
 BOI033	il mio circolo che era uno dei più piccolini aveva centosessanta iscritti
-BOI033	adesso qui ne abbiam centoquindici  in tutta  più o meno
+BOI033	adesso qui ne abbiam centoquindici in tutta più o meno
 BOI033	quindi sai
 BOR005	erano staccati i congressi
 BOI033	mh
@@ -818,7 +818,7 @@ BOI033	diciamo adesso io non so lui io quelli che ho vissuto io
 BOI034	passaggio di berlinguer quando tutti protestavano e
 BOR005	no con te
 BOI033	mh
-BOR005	li abbiam fatto nel nostro circolo @nomeluogo  che era sicuramente più vissuto
+BOR005	li abbiam fatto nel nostro circolo @nomeluogo che era sicuramente più vissuto
 BOI033	mh
 BOI033	gli ultimi congressi che abbiamo fatto qui ahimè purtroppo
 BOR005	renzi
@@ -909,16 +909,16 @@ BOI034	ancora minorenne
 BOI034	però per eh l'ultimi
 BOI033	gli ultimi giorni diciamo gli ultimi mesi
 BOI034	però era resistenza anche quella
-BOI034	gli ultimi mesi  della guerra
+BOI034	gli ultimi mesi della guerra
 BOI034	che la guerra era ferma qua
 BOI033	che alla fi~ la la la la riga
-BOI034	ah beh certo  si aspettava di entrare
+BOI034	ah beh certo si aspettava di entrare
 BOR005	la li~ la linea maginò
 BOI034	mhmh
 BOI034	era ferma allora
 BOI034	gli u~ gli ultimi mesi tre quattro mesi prima del dell'attacco della xx venne
 BOI034	eh i carrarmati tedeschi
-BOI033	per far fronte sei  carrarmati e e i~ e il rifugio nella casa
+BOI033	per far fronte sei carrarmati e e i~ e il rifugio nella casa
 BOI034	
 BOI034	allora
 BOI034	allora
@@ -941,7 +941,7 @@ BOI034	chi sono
 BOI034	e di~ e dico mio cugino
 BOI034	al fe
 BOI034	apri l'occhio
-BOI034	eh aveva capito tutto  tutto
+BOI034	eh aveva capito tutto tutto
 BOI033	per eh però
 BOI034	però son stati zitti
 BOI033	avevo tutto l'interesse di da
@@ -949,16 +949,16 @@ BOI034	tanto ormai
 BOI033	sì eh tant'è vero
 BOI034	era finita la guerra
 BOI034	tant'è vero
-BOI034	che quando son partiti  che sono andati al fronte non sono arrivati
+BOI034	che quando son partiti che sono andati al fronte non sono arrivati
 BOI034	i~ li han distrutti prima
 BOI033	bombardati perché x
 BOI034	sì li hanno
-BOI034	noi e do~ un giorno  dopo un mese e vediamo uno a piedi
+BOI034	noi e do~ un giorno dopo un mese e vediamo uno a piedi
 BOI034	ti giuro che perdessi la vista
-BOI033	di~ eh dico  ma porca miseria si chiamava fritz
+BOI033	di~ eh dico ma porca miseria si chiamava fritz
 BOI034	ma non uno di quei soldati
 BOI034	mi ricordo ancora fritz
-BOI034	era un officiale  fritz
+BOI034	era un officiale fritz
 BOI033	tutto stracciato e a piedi
 BOR005	ah beh lo credo
 BOI034	
@@ -984,7 +984,7 @@ BOR005	dei bambini quindici sedici anni
 BOI034	beh
 BOR005	è meglio non
 BOI033	giovani
-BOR005	era una roba io io ho visto le foto sai io  mica c'ero
+BOR005	era una roba io io ho visto le foto sai io mica c'ero
 BOI033	mh
 BOI034	però
 BOI033	ma più che altro noi lì abbiamo subito più dai fascisti che ne da ehm dai tedeschi
@@ -996,14 +996,14 @@ BOI034	abbiamo subito più perché
 BOI034	adesso detto come vuol detto
 BOI034	che io lo io conoscevo tutti quelli che del paese
 BOI034	erano tutti quelli che noi
-BOI033	cioè noi  i i più e che li prendevano in giro perché poi poveretti sai come si faceva in campagna qua tu e lo prendevano in giro
+BOI033	cioè noi i i più e che li prendevano in giro perché poi poveretti sai come si faceva in campagna qua tu e lo prendevano in giro
 BOI033	sì
 BOI034	sì sì sì
 BOI033	erano diventati dei fascisti no
 BOI034	eh be sì
 BOI033	di vive~ eh vestiti
 BOI034	il cervellino era così
-BOI033	pan~  allora hai capito gli uni~ che abbiamo subito erano di lo~ perché non capivano che qua era sai non n n n n
+BOI033	pan~ allora hai capito gli uni~ che abbiamo subito erano di lo~ perché non capivano che qua era sai non n n n n
 BOI033	eh i fascisti
 BOI034	poi comunque erano cattivi
 BOI034	po~ mh
@@ -1012,7 +1012,7 @@ BOR005	erano
 BOI033	mh
 BOR005	sì un po' ignoranti anche
 BOI034	mhmh
-BOI033	del resto eh la la l'esercito in sè non le esse esse ma l'esercito in sè  erano stanchi
+BOI033	del resto eh la la l'esercito in sè non le esse esse ma l'esercito in sè erano stanchi
 BOI033	sì sì no no l'esrcito
 BOI034	certo
 BOI033	stanchi di fare la guerra
@@ -1020,7 +1020,7 @@ BOR005	due anni di guer~ tre anni di guerra
 BOI033	mh
 BOI034	dal millenovecentoquaranta al
 BOI034	no no avevan capito no avevan capito che non c'era più niente da fare
-BOI033	perché se no  la loro avevan capito che lì c'era un movimento che non era capito
+BOI033	perché se no la loro avevan capito che lì c'era un movimento che non era capito
 BOI033	eh sì eh
 BOI034	beh certo
 BOI033	mah
@@ -1029,7 +1029,7 @@ BOR005	mh
 BOI034	e quindi poi quando si è trasferito qua a bologna nel quarantasei o nel quarantotto
 BOR005	quarantatré
 BOR005	ah nel quarantatré
-BOI034	ma quindi quando ancora c'era  la guerra
+BOI034	ma quindi quando ancora c'era la guerra
 BOR005	eh ormai
 BOI034	era diverso diciamo la situazione da dove viene lei e qua a bologna
 BOI033	no mh cioè a bologna no conoscevo molto bene allora
@@ -1044,7 +1044,7 @@ BOI033	mh
 BOR005	porridge
 BOI033	mhmh
 BOI033	e la gente si mangiava con quello lì dice io ero diventato bianco magro
-BOR005	mia madre mi ha trasferito a castel maggiore che è  poco lontano da qui
+BOR005	mia madre mi ha trasferito a castel maggiore che è poco lontano da qui
 BOR005	mhmh
 BOI033	sì
 BOI033	al dis trasferito a castel maggiore
@@ -1052,7 +1052,7 @@ BOR005	dopo due mesi han cominciato a bombardare castel maggiore
 BOI033	maggiore
 BOI033	però sì sai se lui è venuto qua nel quarantatré bologna era una città che veniva bombardata sì
 BOI033	delle due si stava meglio in paese anche se se i paesi più lontani di castel maggiore
-BOI033	alcuni non hanno neanche visto la guerra  per dire
+BOI033	alcuni non hanno neanche visto la guerra per dire
 BOR005	io c'avevo una collega che abitava a castagnolino
 BOI033	mhmh
 BOI033	un paese là paesino là
@@ -1079,7 +1079,7 @@ BOI034	mhmh
 BOI033	noi abbiamo avuto
 BOR005	perché c'era la stazione poco lontana la ferrovia
 BOI033	ah
-BOR005	quindi caricavano questa gente sui treni e poi  li portavano in giro
+BOR005	quindi caricavano questa gente sui treni e poi li portavano in giro
 BOI033	mhmh
 BOR005	però effettivamente c'erano le caserme rosse durante la guerra
 BOI033	mhmh
@@ -1091,7 +1091,7 @@ BOI034	a cui le utilizzavano per smistare la gente da mandare
 BOR005	io quando ti ho dato quel libro
 BOI034	sì sì
 BOI034	le prime dieci venti pagine
-BOI033	sono la vita  mia di dei tempi de~ de~ de la guerra e avanti
+BOI033	sono la vita mia di dei tempi de~ de~ de la guerra e avanti
 BOR005	quello che hai fatto
 BOI034	mhmh
 BOI033	perché poi si dime~ si dimenti~ per modo di dire perché
@@ -1129,7 +1129,7 @@ BOI034	ah sì sì
 BOI033	la vita che si è fatto e che se~ eh
 BOR005	facci mo una domanda
 BOR005	
-BOI033	ma insomma se vogliamo parlare di qualcosa un po' più di allegro così ti mettiamo  il buonumore
+BOI033	ma insomma se vogliamo parlare di qualcosa un po' più di allegro così ti mettiamo il buonumore
 BOI034	di allegro dai
 BOI034	di di allegro parliamo parliamo
 BOR005	no beh ma quello che vuoi eh eh interessa anche sapere cosa succede
@@ -1151,24 +1151,24 @@ BOI033	io penso che bologna
 BOI034	io non so lui io due volte in tutta la mia vita
 BOR005	adesso io non ho mai girato per ragioni di non ho mai girato fuori
 BOI034	mhmh
-BOI034	no no io penso che bologna sia la citta che  chiunque  chiunque  venga a bologna
+BOI034	no no io penso che bologna sia la citta che chiunque chiunque venga a bologna
 BOI034	vien~ e s'inserisce e xxxx
 BOR005	per me è così
 BOI033	mh
-BOR005	sì poi  ci son delle cose che noi non conosciamo io per prima
+BOR005	sì poi ci son delle cose che noi non conosciamo io per prima
 BOI034	sì
 BOI034	ma vi che che io
 BOI034	perché
 BOI033	se parla uno che ha girato a e allora può esser diverso
 BOI034	ignorante x
-BOI033	ma io che sono  proprio  stabile diciamo come e di tutta la mia vita qua
+BOI033	ma io che sono proprio stabile diciamo come e di tutta la mia vita qua
 BOI034	poiché
 BOI034	e io tutta quella gente che ho trovato
 BOI034	fuori diciamo che ve~
 BOI034	si son sempre trovati bene
 BOI034	perché noi abbiamo un carattere
 BOI033	molto
-BOI034	beh sì sai  poi fa anche altro qui
+BOI034	beh sì sai poi fa anche altro qui
 BOI034	adesso sta cambian~
 BOI034	sai cos'è che adesso a
 BOI033	adesso quello che ha rovinato tutto è stato questo
@@ -1179,7 +1179,7 @@ BOI033	tu prima tu vedevi delle delle mh delle delle tavolate di amici a mangiar
 BOI034	vero
 BOI033	e ognuno ognuno che sì
 BOI034	è con il cellulare
-BOI033	ma non succedeva nella nostra gioventù  eh si parlava
+BOI033	ma non succedeva nella nostra gioventù eh si parlava
 BOR005	ah beh ma per forza non ce l'avevi
 BOI033	
 BOI034	va là che se ce l'avevi facevi la stessa co~
@@ -1193,7 +1193,7 @@ BOI034	mh
 BOI034	diciamo che mh
 BOI033	eh non so
 BOI033	ah ma poi basta che uno nel gruppo dica oh
-BOI034	facciam due chiacchiere invece che  vedrai
+BOI034	facciam due chiacchiere invece che vedrai
 BOR005	eh e si va avanti si va avanti con quello si va avanti con quello e vabbè eh eh eh però
 BOI034	mhmh
 BOI034	però
@@ -1215,12 +1215,12 @@ BOI034	sempre
 BOI033	è stata la mia salute
 BOI033	ma è una
 BOI034	a san luca
-BOI033	no  è stata la mia salute
-BOI033	ah ecco  no
+BOI033	no è stata la mia salute
+BOI033	ah ecco no
 BOI034	io pensavo che fossi
 BOI034	io quando avevo il negozio
 BOI034	quando avevo il negozio
-BOI033	fra il caffè e le sigarette  ero riuscito a non far più tre gradini e andare in casa
+BOI033	fra il caffè e le sigarette ero riuscito a non far più tre gradini e andare in casa
 BOI034	ah socc
 BOI034	a quarantaquattro anni
 BOI034	ho venduto l'attività sono andato a fare la guardia giurata
@@ -1244,7 +1244,7 @@ BOI034	tutta la collina se vieni in casa mia tutte le coppe tutte le cose
 BOI034	era un xx xx
 BOI034	la zeus
 BOI033	la zeus eh che faceva le biciclette
-BOI034	ahio non lo so perché io ho fatto fatica ad andarci a piedi  in bicicletta
+BOI034	ahio non lo so perché io ho fatto fatica ad andarci a piedi in bicicletta
 BOR005	io ho fatto
 BOI033	
 BOI034	e poi ci son andata una volta col trenino
@@ -1284,7 +1284,7 @@ BOI034	e siamo andati là col pullman
 BOI034	eh farlo mh
 BOI034	che era là corato di ma
 BOI034	poi dopo siamo andati in una fattoria
-BOI033	che era una volta eh eh le mucche eccetera dopo siamo anda~  ha fatto un ristorante
+BOI033	che era una volta eh eh le mucche eccetera dopo siamo anda~ ha fatto un ristorante
 BOI033	ci siete andati voi
 BOI034	eh beh vabbé
 BOI033	ma na roba
@@ -1303,7 +1303,7 @@ BOI033	io
 BOI034	nel senso che vedo che le ristruttura~
 BOI034	io
 BOI033	io dico
-BOR005	la pulizia per colpa dei cittadini  è un po' più difficile
+BOR005	la pulizia per colpa dei cittadini è un po' più difficile
 BOI034	mhmh
 BOI033	io
 BOI033	anche se non è che abbiamo dei portici così sporchi da dire però
@@ -1318,7 +1318,7 @@ BOI033
 BOI033	me l'ha detto lei che è delle marche io
 BOI033	devo dire che
 BOI033	diciamo che in fatto di pulizia non è che sono sporchssimi eh però rispetto a una volta
-BOI033	la struttura invece credo che  ci tengano dietro abbastanza bene anche perché motivo di più
+BOI033	la struttura invece credo che ci tengano dietro abbastanza bene anche perché motivo di più
 BOR005	visto che siamo diventati patrimonio dell'umanità
 BOI033	mhmh
 BOR005	motivo di più per tenere le strutture
@@ -1339,9 +1339,9 @@ BOR005	mh
 BOR005	tu gino che ne pensi
 BOI033	tu gino che ne pensi
 BOI034	de~ come son tenuti i portici
-BOI033	io beh penso  penso che ha ragione
+BOI033	io beh penso penso che ha ragione
 BOI034	come sono
-BOI034	ha ragione la  x x x
+BOI034	ha ragione la x x x
 BOI034	noi siamo dei vecchi bolognesi abbiamo mett~ xx qui e abbiam ragione
 BOR005	noi c'abbiamo i portici sono la cosa più bella del mondo alcuni portici
 BOI033	eh beh
@@ -1351,7 +1351,7 @@ BOI033	io l'altro giorno son andata in piazza
 BOI034	di giovedì era così di gente
 BOI034	poi adesso adesso adesso
 BOI034	mh non mh
-BOI034	io spero  che mh
+BOI034	io spero che mh
 BOI033	io ho ancora la fantasia dei tram
 BOI033	eh beh
 BOI034	ah io non l'ho mai visto il tram quindi
@@ -1375,7 +1375,7 @@ BOI034	lo stanno incominciando a fare i lavori quindi
 BOI034	perché bologna più eh che adesso il tempo eh cose da una volta il xx e
 BOI033	eh è più bello sotto che sopra
 BOI034	beh sì
-BOI033	come mh   per dire che
+BOI033	come mh per dire che
 BOI034	c'è tutta
 BOI033	ci son delle cose che
 BOR005	c'è tutta la parte antica hanno costruito un pezzo sopra l'altro
@@ -1408,7 +1408,7 @@ BOI034	no io no
 BOI033	no io sì
 BOI034	ma io
 BOI034	sì
-BOI034	poi  poi c'era
+BOI034	poi poi c'era
 BOI034	di più del eh eh della seggiovia sotto
 BOI033	c'era il sentiero
 BOI034	c'era il sentiero
@@ -1444,7 +1444,7 @@ BOR005	ehm co~ quando fanno la legna
 BOI034	mhmh
 BOR005	che fan la legna tu~ tutti i pezzettini della legna così
 BOI034	mhmh
-BOR005	sì  noi li chiama~ guarda quanto xx al breghel  quant al breghel
+BOR005	sì noi li chiama~ guarda quanto xx al breghel quant al breghel
 BOI033	
 BOI034	xx xx
 BOR005	allora poi dopo in italiano allora i brigoli
@@ -1460,7 +1460,7 @@ BOI033	mhmh
 BOI034	non sei di bologna
 BOI033	allora la la la la la noi c'era la la città
 BOI034	perché è diverso
-BOI033	ha diciassette porte  no
+BOI033	ha diciassette porte no
 BOI034	sì
 BOR005	diciassette diciassette porte
 BOI034	mhmh
@@ -1469,7 +1469,7 @@ BOI034	sì sì sì
 BOR005	porta è una zona
 BOI033	mhmh
 BOI034	eh sì galliera noi siamo
-BOI033	era  era una zona
+BOI033	era era una zona
 BOI034	fuori galliera
 BOI034	allora
 BOI034	una zona parlava un dialetto
@@ -1494,4 +1494,4 @@ BOI033	no in realtà siete stati molti utili anzi vi volevo dire che siamo arriv
 BOR005	bene
 BOI034	che abbiam fatto vi ringrazio molto per avermi dato questo aiuto
 BOI034	mo ma scherzi
-BOI034	te sei sempre  accettato
+BOI034	te sei sempre accettato

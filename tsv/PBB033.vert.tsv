@@ -6461,7 +6461,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 710-1	BOI119	710	sa]i	sai	linguistic	none	_	_	_	_	_	0-2(222)
 710-2	BOI119	710	di	di	linguistic	none	_	_	_	_	_	_
 710-3	BOI119	710	bolognesi	bolognesi	linguistic	none	_	_	_	_	_	_
-710-4	BOI119	710	<doc>	doc	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+710-4	BOI119	710	<doc>	doc	linguistic	none	_	_	_	Slow=0-3	_	_
 710-5	BOI119	710	ce	ce	linguistic	none	_	_	_	_	_	_
 710-6	BOI119	710	ne	ne	linguistic	none	_	_	_	_	_	_
 710-7	BOI119	710	sono	sono	linguistic	none	_	_	_	_	_	_
@@ -8157,7 +8157,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 907-8	BOI119	907	ho]	ho	linguistic	none	_	_	_	_	_	0-2(266)
 907-9	BOI119	907	fatta	fatta	linguistic	none	_	_	_	_	_	_
 907-10	BOI119	907	nel	nel	linguistic	none	_	_	_	_	_	_
-907-11	BOI119	907	<millenovecentosessantotto>	millenovecentosessantotto	linguistic	none	_	_	_	Slow=0-25(0)	_	_
+907-11	BOI119	907	<millenovecentosessantotto>	millenovecentosessantotto	linguistic	none	_	_	_	Slow=0-25	_	_
 907-12	BOI119	907	sessantanove	sessantanove	linguistic	none	_	_	_	_	_	_
 907-13	BOI119	907	non	non	linguistic	none	_	_	_	_	_	_
 907-14	BOI119	907	mi	mi	linguistic	none	_	_	_	_	_	_

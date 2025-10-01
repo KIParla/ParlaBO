@@ -33,7 +33,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 7-2	BOI078	7	io	io	linguistic	none	_	_	_	_	_	_
 7-3	BOI078	7	mi	mi	linguistic	none	_	_	_	_	_	_
 7-4	BOI078	7	chiamo	chiamo	linguistic	none	_	_	_	_	_	_
-7-5	BOI078	7	<leonardo>,	leonardo	linguistic	none	Intonation=WeaklyRising	End=15.46	_	Slow=0-8(0)	_	_
+7-5	BOI078	7	<leonardo>,	leonardo	linguistic	none	Intonation=WeaklyRising	End=15.46	_	Slow=0-8	_	_
 8-0	BOI078	8	e::h	eh	linguistic	none	_	Begin=16.41	0x2	_	_	_
 8-1	BOI078	8	faccio:::	faccio	linguistic	none	_	_	5x3	_	_	_
 8-2	BOI078	8	domani	domani	linguistic	none	_	_	_	_	_	_
@@ -431,7 +431,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 108-1	BOI078	108	è	è	linguistic	none	_	_	_	_	_	_
 108-2	BOI078	108	tipo	tipo	linguistic	none	_	_	_	_	_	_
 108-3	BOI078	108	una	una	linguistic	none	_	_	_	_	_	_
-108-4	BOI078	108	<b[olla>	bolla	linguistic	none	_	_	_	Slow=0-5(0)	_	1-5(37)
+108-4	BOI078	108	<b[olla>	bolla	linguistic	none	_	_	_	Slow=0-5	_	1-5(37)
 108-5	BOI078	108	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	0-3(37)
 108-6	BOI078	108	è	è	linguistic	none	_	_	_	_	_	0-1(37)
 108-7	BOI078	108	una	una	linguistic	none	_	_	_	_	_	0-3(37)
@@ -1228,7 +1228,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 261-6	BOI078	261	@nomeluogo?	@nomeluogo?	linguistic	none	_	End=394.348	_	_	_	_
 262-0	BOI078	262	si	si	linguistic	none	_	Begin=394.562	_	_	_	_
 262-1	BOI078	262	chiama	chiama	linguistic	none	_	_	_	_	_	_
-262-2	BOI078	262	<@nomeluogo>?	@nomeluogo?	linguistic	none	_	End=395.835	_	Slow=0-10(0)	_	_
+262-2	BOI078	262	<@nomeluogo>?	@nomeluogo?	linguistic	none	_	End=395.835	_	Slow=0-10	_	_
 263-0	BOR022	263	ma	ma	linguistic	none	_	Begin=396.736	_	_	_	_
 263-1	BOR022	263	quella	quella	linguistic	none	_	_	_	_	_	_
 263-2	BOR022	263	[che	che	linguistic	none	_	_	_	_	_	0-3(90)
@@ -2173,7 +2173,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 393-3	BOI078	393	an~	an~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 393-4	BOI078	393	non	non	linguistic	none	_	_	_	_	_	_
 393-5	BOI078	393	so	so	linguistic	none	_	_	_	_	_	_
-393-6	BOI078	393	<cioè>	cioè	linguistic	none	_	_	_	Slow=0-4(0)	_	_
+393-6	BOI078	393	<cioè>	cioè	linguistic	none	_	_	_	Slow=0-4	_	_
 393-7	BOI078	393	vedo	vedo	linguistic	none	_	_	_	_	_	_
 393-8	BOI078	393	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 393-9	BOI078	393	>proprio<	proprio	linguistic	none	_	_	_	Fast=0-7	_	_
@@ -2191,7 +2191,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 394-2	BOI078	394	queste	queste	linguistic	none	_	_	_	_	_	_
 394-3	BOI078	394	persone	persone	linguistic	none	_	_	_	_	_	_
 394-4	BOI078	394	che	che	linguistic	none	_	_	_	_	_	_
-394-5	BOI078	394	<armeggiano>	armeggiano	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+394-5	BOI078	394	<armeggiano>	armeggiano	linguistic	none	_	_	_	Slow=0-10	_	_
 394-6	BOI078	394	alle	alle	linguistic	none	_	_	_	_	_	_
 394-7	BOI078	394	tre	tre	linguistic	none	_	_	_	_	_	_
 394-8	BOI078	394	di	di	linguistic	none	_	_	_	_	_	_
@@ -4624,8 +4624,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 808-3	BOI079	808	[xxxx]	x	unknown	none	_	End=1310.661	_	_	_	0-4(281)
 809-0	BOI078	809	[>cioè<	cioè	linguistic	none	_	Begin=1310.058	_	Fast=0-4	_	0-4(281)
 809-1	BOI078	809	ai	ai	linguistic	none	_	_	_	_	_	0-2(281)
-809-2	BOI078	809	<ven]t'	vent'	linguistic	none	SpaceAfter=No	_	_	Slow=0-5(0)	_	0-3(281)
-809-3	BOI078	809	a:nni>	anni	linguistic	none	_	_	0x1	Slow=0-4(0)	_	_
+809-2	BOI078	809	<ven]t'	vent'	linguistic	none	SpaceAfter=No	_	_	Slow=0-5	_	0-3(281)
+809-3	BOI078	809	a:nni>	anni	linguistic	none	_	_	0x1	Slow=0-4	_	_
 809-4	BOI078	809	a	a	linguistic	none	_	_	_	_	_	_
 809-5	BOI078	809	meno	meno	linguistic	none	_	_	_	_	_	_
 809-6	BOI078	809	che	che	linguistic	none	_	_	_	_	_	_
@@ -6370,7 +6370,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1155-1	BOI078	1155	s~	s~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 1155-2	BOI078	1155	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 1155-3	BOI078	1155	però	però	linguistic	none	_	_	_	_	_	_
-1155-4	BOI078	1155	<lei>	lei	linguistic	none	_	End=1816.135	_	Slow=0-3(0)	_	_
+1155-4	BOI078	1155	<lei>	lei	linguistic	none	_	End=1816.135	_	Slow=0-3	_	_
 1156-0	BOI079	1156	°e	e	linguistic	none	Volume=Low	Begin=1816.729	_	_	_	_
 1156-1	BOI079	1156	vabbè°	vabbè	linguistic	none	Volume=Low	End=1817.112	_	_	_	_
 1157-0	BOI078	1157	°porca	porca	linguistic	none	Volume=Low	Begin=1817.633	_	_	_	_

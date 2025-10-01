@@ -1,27 +1,27 @@
 BOR034	okay
 BOR034	adesso sta registrando sì
 BOR034	grazie
-BOR034	allora  l~ mh
+BOR034	allora l~ mh
 BOR034	ti va di dirmi in ch~ di di che zona di bologna sei
 BOR034	da quanto tempo vivi qui
 BOI105	cioè quando sei nato qui e mh
 BOR034	allora
 BOR034	se hai cambiato casa
-BOI105	se hai v~  vissuto in altre zone della città
+BOI105	se hai v~ vissuto in altre zone della città
 BOI105	io da quando mi son trasferito qua
 BOI105	a settembre
 BOI105	è la prima volta che abito a bologna
 BOI105	perché prima ho vissuto a san lazzaro
 BOR034	cioè prima alla ponticella poi a san lazzaro
 BOI105	mhmh
-BOI105	per  praticamente tutta la mia vita
+BOI105	per praticamente tutta la mia vita
 BOI105	e a settembre duemilaventitré mi son trasferito qui
 BOI105	quindi bologna bologna
 BOI105	ci sono nato e ci sto vivendo adesso
 BOI105	però da fuori l'ho
 BOR034	cioè da fuori nel senso da fuorisede
 BOI105	mhmh
-BOI105	diciamo l'ho sempre  l'ho sempre vista
+BOI105	diciamo l'ho sempre l'ho sempre vista
 BOI105	ci son sempre andato son sempre andato in centro
 BOI105	e
 BOR034	i sampietrini li detesto
@@ -39,12 +39,12 @@ BOR034	e la volevo spostare
 BOR034	ed è stato terribile venire qua
 BOI105	perché mi rimbalzava tantissimo nel cestino
 BOI105	sul cestino
-BOR034	sì sì sì sì no io  non ce la faccio
+BOR034	sì sì sì sì no io non ce la faccio
 BOI105	
 BOI105	però stanno molto bene con tutto
 BOR034	con tutti gli edifici che ci sono
 BOR034	
-BOI105	quindi non credi che  sia sarebbe meglio asfaltare tutto no
+BOI105	quindi non credi che sia sarebbe meglio asfaltare tutto no
 BOI105	eh
 BOI105	sarebbe più comodo ma poi
 BOR034	si perderebbe della cultura
@@ -53,7 +53,7 @@ BOI105	x
 BOR034	meglio meglio così
 BOI105	no è una cosa che ho pensato anch'io moltissime volte
 BOR034	no ma capisco ma anche per camminarci sopra è scomodo ogni tanto
-BOR034	quindi comunque  tu per girare in città ch~ che mh
+BOR034	quindi comunque tu per girare in città ch~ che mh
 BOR034	come ti muovi di solito
 BOI105	già che abbiamo nominato
 BOI105	allora io
@@ -65,11 +65,11 @@ BOI105	mhmh
 BOI105	ehm ho sempre usato la bici
 BOI105	fino ai sedici anni
 BOI105	la usavo per andar dappertutto
-BOI105	in centro giardini  san michele su per i colli anche proprio
+BOI105	in centro giardini san michele su per i colli anche proprio
 BOR034	solo in bici
 BOI105	è x una bella bici
 BOI105	eh
-BOI105	no  fino
+BOI105	no fino
 BOI105	ai a quattordici anni mi son comprato una bella bici
 BOI105	una bella mountain bike
 BOI105	ma prima no
@@ -81,7 +81,7 @@ BOR034	mi ha formato molto
 BOI105	okay
 BOR034	quella bici lì mi ha formato molto
 BOR034	
-BOI105	però  tu abitavi un po' in collina a san lazzaro giusto o giù in pianura
+BOI105	però tu abitavi un po' in collina a san lazzaro giusto o giù in pianura
 BOR034	sì
 BOI105	quindi ti dovevi fare
 BOR034	no io abitavo un po' in collin~ esatto xx
@@ -95,19 +95,19 @@ BOI105	e poi io dovevo farmi
 BOI105	due chilometri due chilometri e mezzo di salita per arrivare a casa che
 BOI105	ti distruggevano
 BOI105	e poi
-BOI105	ehm a casa  mia a san lazzaro
+BOI105	ehm a casa mia a san lazzaro
 BOI105	ehm
 BOI105	le case son separate dai garage
-BOI105	e io avevo da fare almeno  centocinquanta scalini
+BOI105	e io avevo da fare almeno centocinquanta scalini
 BOI105	quindi perché mettevo via la bici in garage
 BOI105	dovevo farmi centocinquanta scalini e poi arrivavo nella
-BOR034	nella zona dove c'eran le case che era  terribile
+BOR034	nella zona dove c'eran le case che era terribile
 BOI105	ma nonostante tutto tu andavi lo stesso in giro in bici
 BOR034	certo
 BOI105	perché se no le alternative
 BOI105	l'alternativa o era stare a casa
 BOI105	perché mamma e papà non potevano portarmi
-BOR034	oppure rompere i maroni a mamma e papà e  rompere le scatole
+BOR034	oppure rompere i maroni a mamma e papà e rompere le scatole
 BOI105	
 BOI105	a mamma e papà
 BOI105	e per far~ per farmi portare in giro ma
@@ -127,12 +127,12 @@ BOR034	allora è lì dai garage vicino al mio garage
 BOI105	eh quindi c'è comunque un collegamento
 BOI105	sì
 BOI105	però gli orari erano molto strambi
-BOI105	perché  passava  l'autobus  alle sei e ventiquattro
+BOI105	perché passava l'autobus alle sei e ventiquattro
 BOI105	alle sei e cinquanta circa
 BOI105	poi alle sette e mezza
-BOI105	e uno alle otto e  e non mi ricordo
+BOI105	e uno alle otto e e non mi ricordo
 BOI105	e poi dopo si passava direttamente a quelli del pomeriggio
-BOR034	che ce n'erano uno all'una  uno alle due
+BOR034	che ce n'erano uno all'una uno alle due
 BOI105	ah okay
 BOR034	e uno verso le quattro
 BOR034	sì sì sì
@@ -141,7 +141,7 @@ BOI105	quindi comunque
 BOR034	io con la scuola eh probabilmente sì
 BOI105	mhmh
 BOI105	eh io andavo a scuola alle medie al san giuseppe
-BOR034	che è in via albertazzi  qua vicino
+BOR034	che è in via albertazzi qua vicino
 BOI105	qua
 BOI105	e alle superiori sono andato al manzoni
 BOI105	quindi erano
@@ -149,10 +149,10 @@ BOR034	sono tutte scuole lontane da mh da san lazzaro dove abito
 BOI105	mhmh
 BOI105	e e quindi
 BOI105	l'unica soluzione
-BOI105	se volevo prendere il bus  direttamente da casa mia
+BOI105	se volevo prendere il bus direttamente da casa mia
 BOI105	era prenderlo alle sei e ventiquattro
 BOI105	che significava svegliarsi alle sei
-BOR034	con  merenda  fatta la sera prima e zaino preparato la sera prima ovviamente
+BOR034	con merenda fatta la sera prima e zaino preparato la sera prima ovviamente
 BOI105	mhmh
 BOI105	e poi comunque sarei arrivato in anticipo a scuola
 BOR034	perché a quell'ora non c'è traffico quindi gli autobus vanno senza problemi
@@ -163,8 +163,8 @@ BOR034	o ci andavo in bici
 BOI105	okay e capitava abbastanza spesso
 BOR034	no fortunatamente no
 BOI105	okay
-BOI105	ehm  perché mio babbo ha mh  la sede a modena quindi dove lavora
-BOI105	eh e quindi  dovendo uscire
+BOI105	ehm perché mio babbo ha mh la sede a modena quindi dove lavora
+BOI105	eh e quindi dovendo uscire
 BOI105	praticament~ prima del covid
 BOI105	dovendo uscire praticamente ogni giorno per andare a modena
 BOR034	ci portava alla fermata del bus già diciamo in in città
@@ -179,7 +179,7 @@ BOI105	e lei scendeva parcheggiava tipo qui
 BOR034	mhmh
 BOI105	e poi prendeva l'autobus sì
 BOI105	no io in macchina non ci sono mai andato a scuola perché
-BOI105	ehm  il manzoni
+BOI105	ehm il manzoni
 BOR034	eh che è in zona cirenaica
 BOI105	mhmh
 BOI105	ehm ha i parcheggi tutti a pagamento
@@ -189,17 +189,17 @@ BOR034	andare in auto fino fino a scuola è già uno spreco di benzina poi
 BOI105	sì sì
 BOI105	metti anche i soldi per del parcheggio
 BOR034	non no xxxx
-BOR034	non so se poi tu avevi un'auto  a~ per te
+BOR034	non so se poi tu avevi un'auto a~ per te
 BOI105	solo a disposizione
 BOI105	no no no no cioè l'auto che
 BOI105	due auto ha la mia famiglia
 BOI105	quella che usa mio babbo e quella che usa mia mamma
 BOI105	eh
 BOI105	e quindi
-BOI105	se capitava che  c'era un giorno in cui potevo usar l'auto
-BOR034	io comunque non la usavo perché  andavo in motorino e in moto
+BOI105	se capitava che c'era un giorno in cui potevo usar l'auto
+BOR034	io comunque non la usavo perché andavo in motorino e in moto
 BOI105	mhmh
-BOI105	perché la mia scuola a~ aveva il parcheggio mh interno  per i motorini quindi
+BOI105	perché la mia scuola a~ aveva il parcheggio mh interno per i motorini quindi
 BOR034	era comodo così
 BOI105	mhmh
 BOI105	o se no c'aveva pro~ le griglie
@@ -209,16 +209,16 @@ BOI105	mhmh
 BOR034	aveva la griglia per le bici e quindi
 BOR034	mhmh
 BOI105	ma e al manzoni che indirizzo hai fatto
-BOR034	ho fatto  l'istituto tecnico trasporti e logistica
+BOR034	ho fatto l'istituto tecnico trasporti e logistica
 BOI105	mhmh
-BOI105	che  tradotto diciamo
+BOI105	che tradotto diciamo
 BOR034	è era l'areonautico l'indirizzo areonautico
 BOR034	mhmh
 BOI105	mhmh
-BOI105	quindi ho studiato  le parti degli aerei
+BOI105	quindi ho studiato le parti degli aerei
 BOI105	la fisica che c'è dietro mh
 BOI105	dietro agli studi delle forme degli aerei
-BOI105	e ho studiato  elettrotecnica
+BOI105	e ho studiato elettrotecnica
 BOI105	che
 BOI105	non so perché
 BOR034	non so
@@ -226,21 +226,21 @@ BOI105	qualcosa di metereologia
 BOI105	era una materia x inutile
 BOI105	metereologia
 BOI105	l'abbiam fatta x ehm
-BOI105	lo studio delle nuvole  mh della formazione delle nuvole l~ le
+BOI105	lo studio delle nuvole mh della formazione delle nuvole l~ le
 BOR034	temperature
 BOI105	mhmh
-BOI105	essenzialmente  è questa la meter~ meterologia che abbiam studiato
+BOI105	essenzialmente è questa la meter~ meterologia che abbiam studiato
 BOI105	ehm meccanica sì
 BOI105	e poi ovviamente logistica e navigazione aeree che che
 BOI105	erano le due materie più consistenti
-BOI105	logistica im~  impari a  pianificare  il volo
+BOI105	logistica im~ impari a pianificare il volo
 BOI105	e quindi
 BOI105	in base alla quantità dei passeggeri
 BOI105	al peso dell'aereo al peso senza carburante con carburante
-BOI105	e in base  ai vari mh orari
+BOI105	e in base ai vari mh orari
 BOI105	mh anche in base a quello vanno pianificati i voli perché
 BOI105	magari fai un volo di dodici ore non è che parti
-BOR034	a m~  metà pomeriggio e arrivi  di conseguenza a metà pomeriggio metà mattina
+BOR034	a m~ metà pomeriggio e arrivi di conseguenza a metà pomeriggio metà mattina
 BOI105	mhmh mhmh
 BOR034	insomma non ha
 BOI105	chiaro
@@ -254,9 +254,9 @@ BOI105	okay
 BOI105	nel senso che a seconda di uno dove va a far la scuola
 BOI105	eh fa proprio anche delle ore
 BOI105	non solo sul simulatore ma anche sull'aereo
-BOI105	la mia scuola è  piccolina
+BOI105	la mia scuola è piccolina
 BOI105	e quindi non diciamo non poteva permettersi di affittare un aereo con la quale
-BOI105	con il quale avremmo fatto  ore  di ore di volo
+BOI105	con il quale avremmo fatto ore di ore di volo
 BOI105	però
 BOI105	abbiamo volato tantissimo con mh con i simulatori
 BOI105	con tantissimi tipi di aerei diversi
@@ -269,30 +269,30 @@ BOR034	comunque
 BOI105	c'è anche a forlì vero
 BOR034	a forlì sì a forlì è pubblica
 BOI105	mhmh
-BOI105	eh ed è una delle scuole più più grandi mh  riguardanti questo indirizzo
+BOI105	eh ed è una delle scuole più più grandi mh riguardanti questo indirizzo
 BOI105	però
 BOI105	insomma
-BOI105	non è  molto rinomata per
+BOI105	non è molto rinomata per
 BOR034	per essere una buona scuola
-BOI105	comunque il viaggio da qui sarebbe stato  molto lungo cioè
+BOI105	comunque il viaggio da qui sarebbe stato molto lungo cioè
 BOI105	sarebbero stati sì cin~ cinquanta minuti di treno una roba del genere poi
 BOR034	io probabilmente se fossi andato lì sarei andato in in convitto
 BOR034	ah okay
 BOI105	cioè che c'è
-BOI105	ehm sì  sì
+BOI105	ehm sì sì
 BOR034	quindi sarei stato lì tutta la settimana sarei tornato il weekend
 BOI105	mhmh
 BOI105	eh i miei genitori facendo due calcoli
-BOR034	tra abbonamento del treno il convitto più ogni tanto  una serata  con gli amici
+BOR034	tra abbonamento del treno il convitto più ogni tanto una serata con gli amici
 BOI105	beh sì
-BOR034	più o meno il prezzo all'anno sarebbe stato quello  della scuola privata
+BOR034	più o meno il prezzo all'anno sarebbe stato quello della scuola privata
 BOR034	ah okay
 BOI105	ah okay
 BOI105	ehm
-BOI105	contando tutti i problemi che io ho avuto  eh  precedentemente a scuola
-BOI105	perché io sono  dislessico discalculo e disgrafico
-BOI105	e ho avuto molti problemi con  maestre dell'elementari e alle medie anche  con i professori
-BOR034	han detto va bene ti mandiamo  ti mandiamo alla scuola privata
+BOI105	contando tutti i problemi che io ho avuto eh precedentemente a scuola
+BOI105	perché io sono dislessico discalculo e disgrafico
+BOI105	e ho avuto molti problemi con maestre dell'elementari e alle medie anche con i professori
+BOR034	han detto va bene ti mandiamo ti mandiamo alla scuola privata
 BOI105	mhmh
 BOI105	tanto il prezzo più o meno è quello lì
 BOR034	c'hai il comfort di essere a casa di star con la tua famiglia
@@ -301,7 +301,7 @@ BOR034	abbastanza lontano
 BOI105	effettivamente
 BOI105	sì
 BOR034	e poi appunto
-BOR034	e ti sei trovato bene  al manzoni
+BOR034	e ti sei trovato bene al manzoni
 BOI105	mh
 BOI105	allora eh
 BOI105	noi in classe abbiam creato una piccola famiglia
@@ -316,15 +316,15 @@ BOR034	ci vediamo molto spesso
 BOI105	mhmh
 BOI105	ma al di fuori di questi quattro soggetti
 BOI105	eh la vita lì è stata difficile
-BOI105	perché mh  i professori non erano onesti  con noi
+BOI105	perché mh i professori non erano onesti con noi
 BOI105	eh e anche con loro stessi alla fine perché
 BOI105	raccontavano sempre un sacco di cavolate
 BOI105	dicevano che sarebbero stati attenti a noi
 BOI105	in una scuola privata
-BOR034	e invece  così
+BOR034	e invece così
 BOI105	assolutamente
 BOI105	a parte ovviamente
-BOR034	quei due professori che per fortuna  il cervello lo usavano
+BOR034	quei due professori che per fortuna il cervello lo usavano
 BOI105	
 BOI105	lo usavano per a non solo per far lezione
 BOR034	ma anche per per noi
@@ -332,12 +332,12 @@ BOI105	mhmh
 BOI105	è stata è stata veramente tosta perché
 BOI105	tò ti dico la prima verifica d'italiano che ho fatto
 BOI105	alla mia professoressa non andavano bene gli schemi
-BOI105	c'è una  legge
-BOI105	che dice  che
-BOI105	se la professoressa  vuole vedere gli schemi
+BOI105	c'è una legge
+BOI105	che dice che
+BOI105	se la professoressa vuole vedere gli schemi
 BOI105	per per la verifica
 BOI105	te li deve chiedere almeno tre giorni prima
-BOR034	se lei  non chiede gli schemi
+BOR034	se lei non chiede gli schemi
 BOI105	mhmh
 BOI105	tu puoi andare con
 BOR034	con con un~
@@ -359,22 +359,22 @@ BOI105	mi tolse la verifica mi mise tre
 BOI105	e mi disse io la prossima settimana ti interrogo non ti do più di sei
 BOR034	perché hai avuto più tempo degli altri per studiare
 BOI105	mh
-BOR034	questa  è stata la prima verifica la prima settimana
+BOR034	questa è stata la prima verifica la prima settimana
 BOI105	che bello
 BOR034	questo è stato il mio benvenuto al manzoni
 BOR034	mhmh
 BOI105	mhmh mh
 BOI105	ma
 BOI105	poi
-BOI105	vabbè io c'ho visto lungo anche con la professoressa di  elettrotecnica
+BOI105	vabbè io c'ho visto lungo anche con la professoressa di elettrotecnica
 BOI105	che
 BOI105	allora nel biennio ci ha fatto un po' di introduzione alla logistica
 BOI105	alla meccanica e all'elettrotecnica e poi nel nel triennio
 BOI105	ehm ci ha fatto semplicemente elettrotecni~
 BOI105	semplicemente no ci ha fatto nello specifico elettrotecnica
 BOI105	e matematica
-BOI105	io  dopo due settimane ho detto okay
-BOI105	questa  ne sa a pacchi
+BOI105	io dopo due settimane ho detto okay
+BOI105	questa ne sa a pacchi
 BOR034	ma non sa insegnare
 BOI105	mhmh
 BOR034	tutti mi dissero no non è vero è bravissima qua là
@@ -387,19 +387,19 @@ BOI105	tutta la cl~
 BOI105	sì
 BOI105	tutta la classe
 BOI105	a parte ovviamente i i due soggetti che prendon sempre voti alti
-BOI105	tutta la classe con lei in matematica e in elettrotecnica aveva sempre  sei
+BOI105	tutta la classe con lei in matematica e in elettrotecnica aveva sempre sei
 BOI105	o meno
 BOI105	praticamente nessuno riusciva a prender più di sei
 BOI105	e lei si lamentava con noi diceva eh non studiate non studiate
 BOI105	ma dopo tre anni che i tuoi studenti prendono solamente sei
-BOI105	e e noi eravamo  una delle classi con
+BOI105	e e noi eravamo una delle classi con
 BOI105	a livello di rendimento
 BOI105	più alte di tutta la scuola
-BOI105	avevamo la media  in classe più alta
+BOI105	avevamo la media in classe più alta
 BOI105	di tutta la scuola
 BOI105	avevam la media del eh dell'otto e mezzo come classe quindi
 BOI105	insomma
-BOI105	però  lei eh
+BOI105	però lei eh
 BOR034	con lei non non si riusciva
 BOR034	ma comunque l~
 BOR034	cioè io ricordi positivi dei miei prof
@@ -439,12 +439,12 @@ BOI105	era era così
 BOI105	non è
 BOR034	non è stata una bella esperienza sotto questo aspetto
 BOI105	quindi sei contento che è finito
-BOI105	sì  sì sì
+BOI105	sì sì sì
 BOI105	io è dalla mh
 BOR034	è dalla materna che dico che non voglio andare a scuola
 BOI105	
 BOR034	quindi
-BOI105	vabbè dai però ce l'hai fatta comunque  sei arrivato in fondo no
+BOI105	vabbè dai però ce l'hai fatta comunque sei arrivato in fondo no
 BOI105	ah sì sì sì
 BOI105	no assolutamente
 BOR034	e comunque
@@ -479,7 +479,7 @@ BOI105	mh già prima che finisse la scuola avevo cercato un pochettino per resta
 BOI105	e mi ero interessato a agli elicotteri
 BOI105	ehm
 BOI105	volevo far la scuola per elicotterista
-BOI105	eh ma poi per  un errore
+BOI105	eh ma poi per un errore
 BOI105	allora per fare mh per prendere
 BOI105	i brevetti che sono le patenti da elicotterista
 BOI105	o da pilota di aerei
@@ -489,20 +489,20 @@ BOI105	dove ti fanno gli esami del sangue
 BOI105	e gli esami della vista dell'udito
 BOI105	e gli esami psicologici fisici
 BOI105	insomma
-BOI105	ti controllano  tutto
+BOI105	ti controllano tutto
 BOI105	e per errore dello psichiatra
 BOI105	eh bastardo
 BOI105	che senza avere i risultati degli esami del sangue
 BOI105	che ovviamente furono negativi
 BOR034	lui scrisse che io facevo uso occasionale di sostanze stupefacenti
 BOI105	ma sulla base di cosa
-BOI105	perché io alla psichiatra avevo detto che  da piccolo
+BOI105	perché io alla psichiatra avevo detto che da piccolo
 BOI105	quando io l'ho fatto l'anno scorso che avevo diciotto anni
 BOI105	ehm avevo detto che da piccolo quando avevo quindici anni
 BOI105	avevo provato a fumare una canna
 BOR034	avevo detto che non mi piaceva
 BOR034	si và
-BOI105	come quasi tutti  sì
+BOI105	come quasi tutti sì
 BOI105	la psichiatra ha detto allo psi~
 BOI105	no lo p~ la psicologa ha detto allo psichiatra
 BOI105	questa cosa qui
@@ -516,24 +516,24 @@ BOI105	ehm
 BOI105	quando sono arrivati gli esami del sangue nel pomeriggio
 BOI105	io ovviamente son risultato negativo
 BOI105	e quindi ho detto va bene sono pagliacci anche qui sono
-BOI105	sono incompetenti  anche qui e allora
+BOI105	sono incompetenti anche qui e allora
 BOI105	bona
 BOR034	ho lasciato
 BOI105	quindi non non pensi di rifarlo
-BOI105	no perché di esser preso  in giro
+BOI105	no perché di esser preso in giro
 BOR034	a me non mi va
 BOI105	mhmh
 BOI105	nel frattempo mentre mentre facevo anche queste cose qui
 BOI105	la mh
 BOI105	la @nomesocietà
-BOI105	ginnastica mi ha offerto  un lavoro
+BOI105	ginnastica mi ha offerto un lavoro
 BOI105	come allenatore
-BOI105	inizialmente avevo  solamente
-BOI105	ehm un gruppo base  di
+BOI105	inizialmente avevo solamente
+BOI105	ehm un gruppo base di
 BOI105	di maschi
 BOI105	e praticamente in palestra
 BOI105	nella nostra palestra i livelli sono
-BOI105	un gruppo base  avanzato  preagonistica e agonistica
+BOI105	un gruppo base avanzato preagonistica e agonistica
 BOI105	inizialmente avevo solo un gruppo base
 BOI105	maschile
 BOI105	facevo qualche ora a settimana
@@ -551,7 +551,7 @@ BOI105	e che ho tuttora
 BOI105	ed eh lì è stato complicato
 BOI105	perché delle ra~ avere delle bambine di sette otto anni
 BOI105	sempre abituate a maestre femmine
-BOI105	che si trovano un maestro maschio che non hanno mai visto  in palestra
+BOI105	che si trovano un maestro maschio che non hanno mai visto in palestra
 BOI105	lì è stato complicatissimo
 BOR034	però ce l'abbiam fatta
 BOI105	
@@ -570,7 +570,7 @@ BOI105	e io
 BOI105	eh le sgridavo le facevo far punizioni
 BOI105	e quindi loro si si mh si incaponivano cioè si irrigidivano sempre di più
 BOI105	eh però per fortuna poi
-BOI105	abbiam trovato  una via d'uscita da questa
+BOI105	abbiam trovato una via d'uscita da questa
 BOI105	da questa situazione che è durata tre mesi
 BOI105	quindi sono stati tre mesi molto difficili
 BOI105	sia per me che per loro
@@ -587,10 +587,10 @@ BOI105	mhmh okay
 BOI105	quattro che
 BOR034	quest'anno nel duemilaventiquattro devono compiere nove anni
 BOI105	mhmh
-BOI105	una bambina  che ne deve compiere sette
+BOI105	una bambina che ne deve compiere sette
 BOR034	e una bambina che ne ha già compiuti sei a gennaio
 BOI105	eh son piccole
-BOI105	quindi sì  son piccoline
+BOI105	quindi sì son piccoline
 BOI105	solo che
 BOI105	col blocco che abbiamo avuto l'anno scorso
 BOI105	abbiam perso un sacco di tempo
@@ -607,12 +607,12 @@ BOR034	abbiam perso del tempo diciamo prezioso perché
 BOI105	mhmh
 BOI105	eh quando sono piccole così piccole
 BOI105	è il momento migliore per
-BOI105	sc~  togliere tutta la paura  degli attrezzi delle acrobazie
+BOI105	sc~ togliere tutta la paura degli attrezzi delle acrobazie
 BOI105	che hanno
 BOI105	e fargli prendere farle prendere confidenza
 BOI105	e noi ci siam persi un pochettino di questa parte
 BOI105	e già adesso che sono più grandi che cominciano
-BOI105	a ragionare  per conto loro decidono loro se ascoltare oppure no eh
+BOI105	a ragionare per conto loro decidono loro se ascoltare oppure no eh
 BOI105	indipendentemente dal fatto che tu le sgridi oppure no
 BOR034	è un po' più complicato
 BOR034	mhmh
@@ -623,7 +623,7 @@ BOR034	si riesce
 BOI105	quindi tu hai fatto sempre ginnastica da quando sei piccolo o hai fatto altri sport
 BOI105	no io prima di far ginnastica artistica
 BOI105	ho fatto altri sport
-BOI105	ho penso di aver fatto  nuoto
+BOI105	ho penso di aver fatto nuoto
 BOI105	ehm
 BOI105	un po' di karate
 BOR034	così ma proprio pochissimo non mi piaceva piangevo sempre
@@ -634,13 +634,13 @@ BOI105	e poi a quattro anni
 BOI105	eh
 BOI105	perché avevo i piedi piatti
 BOI105	e e da qui si ricollega anche il karate perché dovevo far degli sport col piede scalzo
-BOI105	e la mia mamma mi mi iscrisse  a fare  ginnastica
+BOI105	e la mia mamma mi mi iscrisse a fare ginnastica
 BOR034	ehm e da lì è nato
 BOI105	eh quindi comunque da
 BOR034	è nato l'amore
 BOI105	da cioè tantissimi anni
 BOI105	sì
-BOI105	però  ahm
+BOI105	però ahm
 BOI105	quando avevo circa undici anni
 BOR034	la società stava fallendo
 BOR034	ma dove andavi tu
@@ -659,9 +659,9 @@ BOI105	mh
 BOI105	e poi da lì ci siamo spostati di nuovo e siamo andati in un capannone
 BOI105	io sono allergico alla polvere
 BOI105	quel capannone lì era pieno di polvere
-BOI105	e  non
+BOI105	e non
 BOI105	io non riuscivo più ad allenarmi
-BOI105	nel mentre succedeva questa cosa qui da quando eravamo  diciamo
+BOI105	nel mentre succedeva questa cosa qui da quando eravamo diciamo
 BOI105	arrivati in quel capannone
 BOI105	io avevo già cominciato a fare atletica leggera
 BOI105	e quindi diciamo che
@@ -682,8 +682,8 @@ BOI105	i miei genitori me l'hanno proposto
 BOI105	l'ho fatta per tanti anni
 BOI105	mi sono allenato tanto tempo per il decathlon
 BOI105	che sono dieci discipline
-BOR034	devo  dirle
-BOI105	se ti va  ma
+BOR034	devo dirle
+BOI105	se ti va ma
 BOR034	beh vabbè sono
 BOI105	ma no no non
 BOI105	x okay
@@ -751,13 +751,13 @@ BOI105	una volta sì
 BOI105	una volta sì
 BOI105	stavo provando un'asta nuova
 BOI105	che mh lunga quattro metri e cinquanta
-BOI105	quindi fatta per saltare  oltre i cinque metri
+BOI105	quindi fatta per saltare oltre i cinque metri
 BOI105	stavo stavo provando quest'asta qui
 BOI105	e praticamente
 BOI105	più l'asta è lunga
 BOI105	più
-BOI105	tu ci devi mettere forza e  più devi correre veloce
-BOI105	per riuscire  a piegare quest'asta
+BOI105	tu ci devi mettere forza e più devi correre veloce
+BOI105	per riuscire a piegare quest'asta
 BOI105	io la riu~ la riuscii a piegare
 BOI105	andai su in altissimo
 BOI105	non abituato al mh
@@ -772,8 +772,8 @@ BOI105	pensando di andare dall'altra parte dell'asticella
 BOI105	e invece cadetti giù come una pera
 BOI105	dove si va ad imbucare
 BOI105	ehm l'asta
-BOI105	e io lì  ringraziai
-BOI105	tutti gli anni prima  di ginnastica artistica
+BOI105	e io lì ringraziai
+BOI105	tutti gli anni prima di ginnastica artistica
 BOI105	perché
 BOI105	ehm
 BOI105	son stato sveglio ho detto okay sto cadendo di schiena
@@ -788,7 +788,7 @@ BOR034	avanti
 BOI105	come un gatto
 BOR034	so~ sono stato molto fortunato
 BOR034	mamma
-BOI105	non ci posso pensare  cioè
+BOI105	non ci posso pensare cioè
 BOI105	stare
 BOR034	restare cosciente durante tutta
 BOI105	mamma
@@ -796,25 +796,25 @@ BOR034	la caduta
 BOI105	ma infatti
 BOR034	però
 BOI105	comunque poi hai ripreso ginnastica
-BOI105	era  bellissimo
+BOI105	era bellissimo
 BOI105	sì
 BOI105	dopo mh
-BOI105	dopo un po' di litigi diciamo col dirigente  della @nomesocietà
-BOI105	no è eh lì è su~ sono  andato ai campionati italiani di squadra
+BOI105	dopo un po' di litigi diciamo col dirigente della @nomesocietà
+BOI105	no è eh lì è su~ sono andato ai campionati italiani di squadra
 BOI105	okay quindi la squadra della @nomesocietà la squadra
 BOR034	del sa~ del salerno virtus per dire cioè
 BOR034	mhmh
 BOI105	mhmh
 BOI105	insomma eh campionati italiani di squadra
-BOI105	io avevo  due discipline da fare salto in alto e salto con l'asta
+BOI105	io avevo due discipline da fare salto in alto e salto con l'asta
 BOI105	io feci ovviamente salto con l'asta
 BOI105	ehm
-BOI105	la pista in cui  gareggiammo
+BOI105	la pista in cui gareggiammo
 BOI105	non era quella dove c'era il campionato era un'altra
 BOI105	e questa pista
 BOI105	aveva il tartan che è il materiale dove si corre
 BOI105	cioè il materiale della pista è il tartan
-BOI105	aveva il tartan  che era  durissimo
+BOI105	aveva il tartan che era durissimo
 BOI105	ma proprio
 BOI105	cioè sembrava cemento
 BOI105	a me è venuta la tendinite
@@ -828,33 +828,33 @@ BOI105	glielo dissi
 BOI105	e lui va~ fa va~ vabbè aspetta aspetta il pomeriggio
 BOI105	e io il pomeriggio ancora non riuscivo a gareggiare
 BOI105	e lui
-BOI105	con  tanti atleti che c'erano
+BOI105	con tanti atleti che c'erano
 BOI105	perché bisognava coprire tutte le discipline dell~ dell'atletica
-BOI105	con tanti atleti che c'erano lui non riuscì a trovare  un sostituto
-BOI105	che è  assurda come cosa perché
+BOI105	con tanti atleti che c'erano lui non riuscì a trovare un sostituto
+BOI105	che è assurda come cosa perché
 BOI105	di venti atleti che eravamo lì
-BOI105	non riesci a trovare  u~ uno che salta un metro e trenta
+BOI105	non riesci a trovare u~ uno che salta un metro e trenta
 BOR034	che magari adesso per una persona normale può sembrare tanto
 BOI105	sì sì
-BOI105	per e~ per per noi che abbiam vissuto  in pista
-BOI105	saltar un metro e trenta  è niente
+BOI105	per e~ per per noi che abbiam vissuto in pista
+BOI105	saltar un metro e trenta è niente
 BOI105	okay
 BOI105	e lui si arrabbiò tantissimo con me perché non feci la gara di salto in alto e perché lui non trovò un sostituto
 BOI105	bene
-BOI105	quello che poi  mi ha fatto incazzare  è che
+BOI105	quello che poi mi ha fatto incazzare è che
 BOI105	ehm
 BOI105	quando ci fu su~ la premiazione
 BOI105	e io rimasi sulle tribune perché avevo ancora male
 BOI105	ai tendini
-BOI105	vidi  ehm
+BOI105	vidi ehm
 BOI105	due ragazzi della mia squadra
-BOR034	che  che stavano facendo salto in alto
+BOR034	che che stavano facendo salto in alto
 BOI105	mh
 BOI105	uno
 BOI105	è tornato e ha detto eh ho saltato un metro e novanta
-BOI105	eh ho guardato  eh il presidente e gli ho detto ma scusi
+BOI105	eh ho guardato eh il presidente e gli ho detto ma scusi
 BOI105	io non sapevo neanche che lui facesse salto in alto
-BOI105	tu lo sapevi che lui  in passato aveva fatto salto in alto
+BOI105	tu lo sapevi che lui in passato aveva fatto salto in alto
 BOI105	salta più di me
 BOR034	perché non hai mandato lui
 BOI105	mhmh
@@ -862,24 +862,24 @@ BOR034	e lui fa ah eh
 BOI105	
 BOI105	no~ non seppe darmi una risposta
 BOI105	ehm
-BOI105	due settimane dopo i campionati italiani  di squadra
+BOI105	due settimane dopo i campionati italiani di squadra
 BOI105	il il mio allenatore
 BOI105	eh praticamente non riuscì più a seguirmi
 BOI105	perché e il presidente
-BOI105	gli aveva mandato un sacco di ragazzi aveva formato un gruppo  troppo grande
+BOI105	gli aveva mandato un sacco di ragazzi aveva formato un gruppo troppo grande
 BOI105	aveva fatto formare un gruppo troppo grande
-BOR034	e il mio allenatore non riusciva più  a seguirmi
+BOR034	e il mio allenatore non riusciva più a seguirmi
 BOI105	mhmh
-BOI105	io  mi sono strappato due volte ehm
+BOI105	io mi sono strappato due volte ehm
 BOI105	sulla coscia nel retro
 BOI105	ehm
 BOI105	allora ho detto vabbè
 BOI105	e io sono uno nei m~ dei migliori in italia a fare salto con l'asta
 BOI105	tu non riesci
-BOI105	non riesci  a~ ad accettare
+BOI105	non riesci a~ ad accettare
 BOI105	che io non ho fatto salto in alto ce l'hai con me
 BOI105	ho ho mi sono ho ringraziato tantissimo il mio allenatore che mi ha fatto crescere
-BOI105	sia come persona sia come atleta  a dei livelli veramente  spaziali
+BOI105	sia come persona sia come atleta a dei livelli veramente spaziali
 BOI105	l'ho ringraziato per tutto quello che ha fatto per tutto il tempo che abbiam passato insieme
 BOI105	e poi sono andato via
 BOR034	e sono venuto a far ginnastica
@@ -887,7 +887,7 @@ BOR034	mhmh
 BOI105	ma adesso stai facendo agonismo o no
 BOR034	sì adesso faccio agonismo
 BOI105	di ginnastica sì mhmh
-BOI105	sono in un momento di stallo  perché
+BOI105	sono in un momento di stallo perché
 BOI105	ho fatto un incidente da poco in moto
 BOI105	ho avuto dei punti e sulla caviglia
 BOI105	per fortuna a parte la pelle niente di di lesionato
@@ -900,18 +900,18 @@ BOI105
 BOI105	e quindi son stato fermo due settimane
 BOI105	son dovuto star fermo dal saltare due settimane
 BOI105	e poi dopo un pochettino ho ripreso prima sul trampolone e
-BOR034	da una settimana e mezzo circa ho ripreso a saltare anche  sulle pedane facilitanti
+BOR034	da una settimana e mezzo circa ho ripreso a saltare anche sulle pedane facilitanti
 BOI105	mhmh
 BOI105	e solo che
 BOI105	ancora un po'
-BOI105	e ogni tanto mi fa male quindi non posso  andare a spingere troppo
+BOI105	e ogni tanto mi fa male quindi non posso andare a spingere troppo
 BOI105	e allora faccio gli attrezzi dove ci sono dove si usan le mani
 BOI105	le che gli attrezzi che sono
 BOI105	dove si usan le mani sono anelli
 BOI105	cavallo
 BOI105	ehm sbarra e parallele
 BOI105	io faccio sbarra e parallele
-BOR034	c'ho le mani  aperte
+BOR034	c'ho le mani aperte
 BOR034	aperte
 BOI105	sì
 BOI105	e quindi
@@ -923,31 +923,31 @@ BOR034	mah eh
 BOR034	cioè
 BOI105	son sicura
 BOR034	ci mette ci mettono un po'
-BOR034	vabbè ma  okay
+BOR034	vabbè ma okay
 BOI105	allora se ti va di cambiare argomento per l'ult~ l'ultimo
 BOR034	no
 BOI105	eh lo so
 BOR034	xxx
-BOI105	no ma hai ragione perché  avrei molte domande sullo sport in realtà da farti
+BOI105	no ma hai ragione perché avrei molte domande sullo sport in realtà da farti
 BOI105	figurati
 BOR034	quindi no ma no sto scherzando xx
 BOR034	mi piacerebbe molto però proprio per mh
 BOR034	gli ultimi minuti diciamo così poi dopo ti lascio anche mangiare
 BOR034	ehm proprio cambiando completamente
-BOR034	mh perché  ci sono alcune cioè ci sono alcune domande che riguardano  un po' le tradizioni bolognesi
+BOR034	mh perché ci sono alcune cioè ci sono alcune domande che riguardano un po' le tradizioni bolognesi
 BOI105	che però n~ magari
 BOR034	okay
 BOI105	non ti devi immaginare che si tratta di tradizioni bolognesi per forza di chi abita sotto le due torri capito
 BOR034	okay okay
-BOR034	però non lo so  cioè la ci~ in città comunque ci sono un po' di di cose che si festeggiano
+BOR034	però non lo so cioè la ci~ in città comunque ci sono un po' di di cose che si festeggiano
 BOR034	mh non so a natale
 BOI105	fanno l'albero in piazza il venticinque aprile c'è la festa al pratello
 BOR034	okay ma in~ cioè ho visto
 BOI105	ehm
-BOR034	sì i~ l'albero  via d'azeglio con con le canzoni
+BOR034	sì i~ l'albero via d'azeglio con con le canzoni
 BOI105	mhmh
 BOR034	e mah poi per il resto
-BOI105	e via d'azeglio con le canzoni  ti sembra carino o
+BOI105	e via d'azeglio con le canzoni ti sembra carino o
 BOR034	s~ è molto turistico
 BOR034	mh
 BOI105	sì
@@ -957,7 +957,7 @@ BOR034	mhmh
 BOI105	sì non si riesce a passare perché c'è tutta la gente che fa le foto no sì
 BOR034	mamma mia
 BOI105	sì sì
-BOR034	mamma io ne~ in centro comunque  non mi sono mai trovato bene
+BOR034	mamma io ne~ in centro comunque non mi sono mai trovato bene
 BOR034	ma
 BOI105	mh
 BOI105	perché c'è c'è troppa troppa troppa gente
@@ -975,10 +975,10 @@ BOI105
 BOI105	devo andare via perché c'è troppo rumore impazzisco
 BOR034	quindi cioè di tradizioni di di feste che che mh avvengono in centro
 BOI105	sì sì
-BOR034	io ne so  zero
+BOR034	io ne so zero
 BOR034	zero
 BOR034	cioè comunque non è che è una questione di saperne o no è una questione
-BOI105	di partecipare o no ma mi sembra  di no
+BOI105	di partecipare o no ma mi sembra di no
 BOR034	no no no
 BOI105	sì
 BOI105	io ho sempre preferito stare
@@ -989,7 +989,7 @@ BOR034	e
 BOI105	però i~ natale lo passi in famiglia comunque
 BOI105	x xx
 BOI105	natale in famiglia sempre passato in famiglia
-BOI105	e la sera mi sono  praticamente sempre visto con con i miei amici quindi
+BOI105	e la sera mi sono praticamente sempre visto con con i miei amici quindi
 BOI105	la la mia tradizione a natale è il pranzo
 BOI105	alla mattina e pranzo con la famiglia
 BOR034	e la sera con con gli amici
@@ -1008,19 +1008,19 @@ BOI105	mhmh
 BOI105	e fanno fanno
 BOI105	l'impasto loro
 BOI105	fanno il ripieno loro fanno
-BOI105	fanno tutto tutto loro e poi la mia nonna  sempre materna
-BOR034	perché la mia nonna paterna a parte  che è morta a settembre
+BOI105	fanno tutto tutto loro e poi la mia nonna sempre materna
+BOR034	perché la mia nonna paterna a parte che è morta a settembre
 BOI105	ah okay
 BOI105	ehm
 BOI105	ma lei non cucinava
 BOR034	l'uni~ l'u~
 BOI105	ah vedi
-BOI105	sapeva cucinare molto bene  e le tagliatelle ai funghi
-BOR034	perché mia nonna x  e mio babbo son veneti
+BOI105	sapeva cucinare molto bene e le tagliatelle ai funghi
+BOR034	perché mia nonna x e mio babbo son veneti
 BOR034	x
 BOR034	mh
 BOI105	mhmh
-BOI105	e quindi la mia nonna  paterna
+BOI105	e quindi la mia nonna paterna
 BOR034	eh ha vissuto in veneto e allora lì si usavan molto i funghi allora li ha imparati
 BOI105	mhmh
 BOI105	a a cucinare
@@ -1036,16 +1036,16 @@ BOI105	e mo~
 BOR034	s~ son sempre state delle buone forchette quelli della mia famiglia
 BOR034	mhmh
 BOR034	e dopo di secondo perché
-BOR034	sui tortellini c'è proprio  è tutto
+BOR034	sui tortellini c'è proprio è tutto
 BOI105	lo dicono tutti invece magari sul secondo c'è più
 BOI105	eh secondo
 BOR034	faceva le cotolette
-BOI105	sto pensando a natale io soprattutto sì sì le cotolette  okay
+BOI105	sto pensando a natale io soprattutto sì sì le cotolette okay
 BOR034	cotolette pomodori gratinati
 BOI105	anche quello lo faceva anche la mia sì
 BOR034	e e bona e no anche il bollito
 BOI105	mh
-BOR034	mangiavamo il bollito perché quello che fa il brodo a casa mia  è babbo
+BOR034	mangiavamo il bollito perché quello che fa il brodo a casa mia è babbo
 BOR034	mhmh
 BOI105	ah okay
 BOI105	quindi papà faceva il brodo
@@ -1053,7 +1053,7 @@ BOI105	la nonna portava i tortellini perché si es~
 BOI105	ehm
 BOI105	da quando non non lo so
 BOI105	da quando abbiam cominciato ad essere un~ un po' più grandi io e i miei fratelli quindi ti parlo
-BOI105	da quando mio fratello ha  dodici anni quindi
+BOI105	da quando mio fratello ha dodici anni quindi
 BOI105	io quattordici e mia sorella sedici
 BOI105	eh abbiam cominciato a festeggiarlo
 BOI105	a casa a san lazzaro
@@ -1068,7 +1068,7 @@ BOI105	ehm
 BOI105	e si veniva su a san lazzaro da noi
 BOR034	ma secondo noi poco appunto
 BOI105	mhmh
-BOR034	le cotolette qualche verdurina il bollito  di babbo
+BOR034	le cotolette qualche verdurina il bollito di babbo
 BOR034	beh
 BOI105	sì sì sì
 BOI105	e bona dolce
@@ -1093,12 +1093,12 @@ BOR034	sì sì no
 BOI105	sì sì
 BOI105	cioè
 BOR034	lei ha fatto ha tipo due li~ due due agende piene di ricette
-BOI105	piene di  mhmh
+BOI105	piene di mhmh
 BOI105	e io che cucino
 BOR034	le vorrei avere
 BOI105	ah bene
 BOR034	sì
-BOR034	quindi  è una
+BOR034	quindi è una
 BOI105	oltre allo sport è una cos~ una cosa che ti piace fare
 BOR034	sì sì sì
 BOI105	cucinare
@@ -1137,7 +1137,7 @@ BOI105	okay no io non ne ho proprio idea effettivamente
 BOI105	e e
 BOI105	è abbastanza impegnativo
 BOI105	a livello economico
-BOI105	e poi è molto difficile perché devi memorizzare  un sacco di ricette
+BOI105	e poi è molto difficile perché devi memorizzare un sacco di ricette
 BOI105	e devi star sempre lì sul pezzo
 BOR034	e ricordartele e poi ovviamente ci sono anche i corsi quelli un po'
 BOI105	mhmh
@@ -1145,20 +1145,20 @@ BOR034	diciamo
 BOI105	meno seri
 BOI105	esatto
 BOI105	che che costano molto molto meno però io
-BOR034	volevo fare  le cose fatte seriamente e quindi
+BOR034	volevo fare le cose fatte seriamente e quindi
 BOR034	mhmh
 BOI105	vabbè la vita lunga
 BOI105	xx
-BOR034	sì  la vita la vita è lunga la vita è lunga
+BOR034	sì la vita la vita è lunga la vita è lunga
 BOR034	magari
 BOR034	sì
-BOR034	quindi comunque  nella tua famiglia la mh il la festa
+BOR034	quindi comunque nella tua famiglia la mh il la festa
 BOI105	c~ la cosa che festeggiate di più è il natale o ci sono delle altre occasioni durante l'anno
-BOR034	natale e  pasqua direi
-BOI105	mhmh  okay
+BOR034	natale e pasqua direi
+BOI105	mhmh okay
 BOR034	anche
 BOI105	sì
-BOI105	se no a marzo  facciamo
+BOI105	se no a marzo facciamo
 BOI105	facciamo i compleanni
 BOI105	perché c'è ehm
 BOI105	
@@ -1170,7 +1170,7 @@ BOR034	sì
 BOI105	abbastanza poco sì
 BOI105	e quindi ci vedevamo
 BOI105	tutti insieme e facevamo il compleanno di noi quattro
-BOR034	ehm  di noi quattro
+BOR034	ehm di noi quattro
 BOI105	mhmh
 BOI105	quindi anche quelli diciamo
 BOR034	gli eventi principali sì erano natale pasqua e
@@ -1196,7 +1196,7 @@ BOI105	importante sì sì
 BOR034	esatto importante da tenere il conto
 BOR034	no no ma
 BOR034	effettivamente neanche da noi
-BOR034	eh  in realtà
+BOR034	eh in realtà
 BOR034	a dir la verità
 BOR034	allora
 BOR034	mah
@@ -1211,7 +1211,7 @@ BOR034	eh
 BOI105	ma anche fuori città anche in zona
 BOI105	lo porterei vicino allo stadio
 BOR034	eh e allora zona monte donato
-BOI105	eh okay  mhmh
+BOI105	eh okay mhmh
 BOI105	eh lì è bellissima quella zona lì
 BOI105	oltre il verde c'è la bella vista
 BOI105	ci sono un sacco di strade poi u~ una volta arrivati su in cima
@@ -1246,7 +1246,7 @@ BOR034	ah
 BOR034	non so
 BOR034	ah non lo s~ la mia mamma lavora in quella zona ma
 BOR034	in realtà a parte quello non la conosco molto bene
-BOI105	cioè conosco san luca che  vabbè  ci sarai stato suppongo
+BOI105	cioè conosco san luca che vabbè ci sarai stato suppongo
 BOI105	
 BOR034	sì sì
 BOI105	immagino
@@ -1263,14 +1263,14 @@ BOR034	no no x non so non so se sappiamo
 BOI105	non so se c'è scritto da qualche parte quanti scalini sono
 BOI105	ma sicuramente
 BOI105	sicuramente c'è qualcuno che li ha contati perché se l'ha fatto mia nonna
-BOI105	quando aveva  settantanni
+BOI105	quando aveva settantanni
 BOR034	lo può fare chiunque
 BOR034	mhmh
 BOI105	e in bici hai mai fatto la salita
 BOR034	oh un sacco di volte
 BOI105	perché è tosta io non credo che ce la farei
 BOI105	un sacco
-BOI105	è tosta se se la vuoi fare  velocemente è tosta
+BOI105	è tosta se se la vuoi fare velocemente è tosta
 BOI105	se vuoi andar su pianino
 BOR034	eh
 BOI105	mh
@@ -1281,7 +1281,7 @@ BOI105	sì
 BOR034	puoi eh devi avere anche due gambe che sono grandi così eh
 BOI105	mhmh
 BOI105	però s~
-BOI105	sì ne ho fatte di di più  di più pendenti
+BOI105	sì ne ho fatte di di più di più pendenti
 BOR034	eh
 BOR034	anche in zona
 BOI105	o più in mont~ forse in montagna
@@ -1291,7 +1291,7 @@ BOR034	mh soprattutto per andare verso firenze io andavo molto in bici
 BOI105	mh
 BOR034	diciamo in val di zena
 BOI105	mhmh
-BOI105	poco per la futa  perché
+BOI105	poco per la futa perché
 BOI105	eh è molto trafficata
 BOI105	invece il val di zena che diciamo è una parallela che però parte da san lazzaro
 BOI105	è molto più tranquilla
@@ -1300,26 +1300,26 @@ BOI105	però è più fredda
 BOR034	molto più fredda
 BOR034	ma
 BOI105	n~ stiamo parlando comunque di mountain bike no non strada
-BOR034	no  di strada
+BOR034	no di strada
 BOI105	di strada okay
 BOR034	sì
 BOI105	sì
 BOR034	sì sì
 BOR034	quindi calanchi in discesa dalla
 BOR034	non li fai con la
-BOI105	con la mountain bike le discese  sul fango sul fango
+BOI105	con la mountain bike le discese sul fango sul fango
 BOI105	i
 BOI105	
-BOI105	eh le f~ da  da
+BOI105	eh le f~ da da
 BOR034	da piccolino
 BOI105	mh
 BOI105	appena comprata la mountain bike quella seria
-BOR034	con i miei amici andavamo nel bosco e facevamo noi  il percorso
+BOR034	con i miei amici andavamo nel bosco e facevamo noi il percorso
 BOI105	mh
 BOI105	andavamo con il piccone e con la vanga
 BOI105	e ci facevamo i percorsi noi
 BOI105	ci facevamo i salti
-BOR034	erano erano  bei tempi
+BOR034	erano erano bei tempi
 BOI105	
 BOR034	erano bei tempi perché
 BOI105	non
@@ -1336,13 +1336,13 @@ BOI105	far le piste per le bici
 BOI105	chi faceva il salto più alto con la bici chi faceva il salto più lungo
 BOI105	eh sì mountain bike io ci sono andato tantissimo
 BOI105	quando ho compiuto dicias~ sedici diciassette anni lì mi è partito
-BOI105	lo switch  non lo so
+BOI105	lo switch non lo so
 BOI105	e ho cominciato ad andar su strada
 BOI105	e
 BOI105	ho fatto ho fatto dei bei giri
-BOI105	il più  quello più bello
+BOI105	il più quello più bello
 BOI105	ma non perché è stato il più difficile ma proprio quello più bello
-BOI105	l'ho fatto con una bici  degli anni  novanta
+BOI105	l'ho fatto con una bici degli anni novanta
 BOI105	che era di mia mamma
 BOI105	ehm insieme ad un mio amico e abbiam fatto bologna firenze
 BOI105	facendo due passi di montagna in un giorno solo
@@ -1354,6 +1354,6 @@ BOI105	perché viaggiare su una bici così vecchia è stata
 BOR034	una bella esperienza
 BOI105	e ha tenuto
 BOI105	sì sì sì
-BOI105	ha tenuto  benissimo
+BOI105	ha tenuto benissimo
 BOR034	meglio di quella che uso adesso
 BOR034	dai bello

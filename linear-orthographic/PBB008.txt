@@ -1,20 +1,20 @@
 BOR004	d'accordo
 BOI026	allora come prima domanda quindi le chiedo se ha sempre abitato a bologna o se si è trasferita qui dopo
 BOI026	mh
-BOR004	allora  sono nata a bologna
+BOR004	allora sono nata a bologna
 BOI026	mhmh
 BOI026	emh ma non ho sempre vissuto a bologna
 BOI026	sono nata a bologna n nel settantaquattro
 BOI026	ehm abitavo in periferia
-BOI026	e ho vissuto a bologna fino  al millenovecentoottantuno
+BOI026	e ho vissuto a bologna fino al millenovecentoottantuno
 BOR004	fino ai sei anni e mezzo ho fatto fino alla prima elementare
 BOI026	mhmh
 BOI026	e poi purtroppo siccome
-BOI026	eravamo in affitto  i miei facevano i dirigenti scolastici erano ancora p~ mh sì
-BOI026	già  mia mamma aveva fatto il primo anno che già  da insegnante era diventata  preside
+BOI026	eravamo in affitto i miei facevano i dirigenti scolastici erano ancora p~ mh sì
+BOI026	già mia mamma aveva fatto il primo anno che già da insegnante era diventata preside
 BOI026	eh di scuola elementare
 BOI026	mio padre era già preside nella scuola dove ho fatto la prima elementare
-BOI026	ma  le case costavano tantissimo a bologna fin da allora
+BOI026	ma le case costavano tantissimo a bologna fin da allora
 BOI026	e e mh mh insomma ci siam trasferiti a padova
 BOI026	perché mh mh mia zia che era
 BOI026	mh anche lei insegnante nella scuola così
@@ -23,12 +23,12 @@ BOR004	e andiamo tutti a padova eh eh
 BOI026	
 BOR004	che bello che gioia che
 BOI026	
-BOI026	io  ero  tristissima ovviamente
-BOR004	si sono pentiti subito   dopo un paio d'anni
+BOI026	io ero tristissima ovviamente
+BOR004	si sono pentiti subito dopo un paio d'anni
 BOI026	mhmh
-BOI026	io  molto prima
+BOI026	io molto prima
 BOI026	e però ho fatto tutte le scuole a padova fino al tutto il liceo
-BOR004	e sono tornata con la scusa di fare  l'unica università che a padova non c'era il dams
+BOR004	e sono tornata con la scusa di fare l'unica università che a padova non c'era il dams
 BOI026	ok
 BOR004	e quindi son tornata poi per fare l'università a bologna fuggendo da quella orribile città
 BOI026	mhmh
@@ -38,7 +38,7 @@ BOI026	e ehm parallelamente ho cercato di entrare a una scuola di teatro ho fatt
 BOR004	però non mi ha~ anche se non mi hanno presa subito in realtà
 BOR004	mhmh
 BOI026	okay
-BOI026	eh ho  f~ fatto il propedeutico poi dopo l'anno dopo ci ho riprovato mi hanno mi hanno presa
+BOI026	eh ho f~ fatto il propedeutico poi dopo l'anno dopo ci ho riprovato mi hanno mi hanno presa
 BOI026	quindi ho fatto contemporaneamente poi l'università e la scuola di teatro
 BOI026	ehm
 BOI026	e quindi poi sono rimasta da allora sono rimasta sempre a bologna
@@ -60,7 +60,7 @@ BOR004	ad avere tutto a portata di dieci minuti soprattutto i consumi culturali 
 BOR004	
 BOI026	sì
 BOI026	per me sono molto importanti centrali nella vita
-BOI026	e non son più  riuscita ad uscire quindi  da studentessa ho abitato
+BOI026	e non son più riuscita ad uscire quindi da studentessa ho abitato
 BOI026	eh sempre
 BOI026	vicino insomma alla zona universita~ al primo primo anno in viale remorsella che era in zona santo stefano
 BOR004	poi dopo invece no un anno in periferia per pochi mesi e poi sempre in una traversa di via zamboni
@@ -71,7 +71,7 @@ BOR004	a v~ in via del in @nomeluogo
 BOI026	quindi sei affezionata comunque alla città
 BOI026	sì
 BOI026	non potrei abitare
-BOI026	da un'altra parte o almeno questo me lo sono detto fino  a pochissimi anni fa vabbè anche se adesso
+BOI026	da un'altra parte o almeno questo me lo sono detto fino a pochissimi anni fa vabbè anche se adesso
 BOI026	bologna è un po' peggiorata forse la qualità della della vita
 BOI026	a a bologna non è più un po' la bologna del
 BOI026	eh di bologna città della musica del duemila quell'esplosione culturale che c'è stata in quegli anni lì
@@ -93,30 +93,30 @@ BOI026	ma perché ancora sono così affezionata questa città
 BOI026	però
 BOI026	comunque rispetto ad altre città dove non succede assolutamemte nulla
 BOI026	è ovviamente mh
-BOI026	bologna  ha il suo punto di forza  i~ in questo comunque ci son tanti teatri
+BOI026	bologna ha il suo punto di forza i~ in questo comunque ci son tanti teatri
 BOI026	e cinema e mh
 BOI026	e quindi insomma
 BOI026	mh si riesce ad uscire
 BOI026	ad incontrare gente c'è voglia di stare insieme c'è voglia di
 BOI026	fare cose di partecipare
-BOI026	e no di fare  e tanti  progetti di rete vabbè io  sono poi
+BOI026	e no di fare e tanti progetti di rete vabbè io sono poi
 BOI026	eh presidente di un'associazione culturale
-BOI026	e e a bologna ci sono  più di
+BOI026	e e a bologna ci sono più di
 BOI026	ottomila ma credo anche molto di più perché l'ultimo dato che avevo era ottomila associazioni solo semplici eh associazioni
 BOI026	lfa
-BOI026	ma poi ce ne sono anche  molte di più poi in regione eccetera eccetera
-BOI026	eh di realtà  a associative
-BOI026	quindi c'è tantissima voglia di di  partecipare di lavorare in rete di fare cose
+BOI026	ma poi ce ne sono anche molte di più poi in regione eccetera eccetera
+BOI026	eh di realtà a associative
+BOI026	quindi c'è tantissima voglia di di partecipare di lavorare in rete di fare cose
 BOI026	insieme e questo
 BOI026	è una grande ricchezza
-BOI026	mh credo anche che venga poco  valorizzato questo questo questo mondo
-BOI026	e si dia  priorità poi a queste grandi istituzioni culturali e questo è un
+BOI026	mh credo anche che venga poco valorizzato questo questo questo mondo
+BOI026	e si dia priorità poi a queste grandi istituzioni culturali e questo è un
 BOI026	un altro capit~ è uno dei motivi
 BOI026	del
 BOR004	del magone che viene
 BOI026	okay
 BOI026	però insomma ancora ancora resiste rispetto ad altre città dove c'è il
-BOR004	il vuoto assoluto dove  non riuscirei  ad abitare
+BOR004	il vuoto assoluto dove non riuscirei ad abitare
 BOR006	okay
 BOR004	okay
 BOR006	sì sì sì
@@ -138,10 +138,10 @@ BOR006	e quindi quando vedi tantissime case orribili fatiscenti
 BOI026	sì sì
 BOI026	orripilanti
 BOI026	dove non vorresti
-BOR004	non la  vorresti neanche che ci abitasse il tuo peggior nemico
+BOR004	non la vorresti neanche che ci abitasse il tuo peggior nemico
 BOI026	mhmh
 BOI026	mh
-BOI026	e finalmente  l'agente immobiliare ti apre la porta
+BOI026	e finalmente l'agente immobiliare ti apre la porta
 BOI026	ti mostra una finestra
 BOI026	da cui si vedono le due torri
 BOI026	mh san francesco
@@ -158,13 +158,13 @@ BOI026	quello è stato un caso che fosse che fosse in questa strada
 BOI026	ehm
 BOR006	mh però il panorama che c'era da quella da quella finestrella
 BOI026	eh sì sì
-BOI026	la stanza è anche piccola  in realtà
+BOI026	la stanza è anche piccola in realtà
 BOI026	però mh quello che si vede da quella finestra è veramente bello
 BOI026	e anche adesso che avevo tentato anche di cambiare casa
 BOI026	e avrei potuto boh insomma vabbè volevo
 BOI026	avrei mh avrei potuto prendere magari una un pelino più grande eccetera eccetera
 BOI026	e e e e però non riesco a trovare
-BOR006	un panorama una vista  uguale
+BOR006	un panorama una vista uguale
 BOR004	que~ una vista
 BOI026	
 BOR004	e quindi rimango lì anche se un po' più piccolo e
@@ -186,18 +186,18 @@ BOI026	e quindi alla fine
 BOI026	rimango lì
 BOI026	con le mie micie
 BOI026	ehm
-BOI026	quindi  quartieri
-BOI026	no sicuramente poi mi sono anche radicata  in questo quartiere che è il quartiere porto saragozza
+BOI026	quindi quartieri
+BOI026	no sicuramente poi mi sono anche radicata in questo quartiere che è il quartiere porto saragozza
 BOI026	adesso poi si sono tutti ingranditi i quartieri ehm
-BOI026	che si s~ cioè con la ristrutturazione quindi sono tutti dei mega  quartieri
+BOI026	che si s~ cioè con la ristrutturazione quindi sono tutti dei mega quartieri
 BOI026	però mh voglio dire stavo molto bene anche nel quartiere mh
-BOI026	in via zamboni mh mi trovavo bene anche se adesso  è una via
-BOI026	che eh obiettivamente  ha tantissimi problemi
+BOI026	in via zamboni mh mi trovavo bene anche se adesso è una via
+BOI026	che eh obiettivamente ha tantissimi problemi
 BOR006	mh che è una c~ eh l'omologa diciamo di questa mh e adesso ci sono
 BOI026	sì
-BOI026	qui  ci son tantissimi problemi
+BOI026	qui ci son tantissimi problemi
 BOI026	mh per la movida serale eccetera ma anche là
-BOI026	perché eh perché  questa strada ha oggi eh c'ho un articolo sul giornale eh proprio ritraeva eh questa strada
+BOI026	perché eh perché questa strada ha oggi eh c'ho un articolo sul giornale eh proprio ritraeva eh questa strada
 BOI026	mh con troppa gente feste illegali danze illegali
 BOI026	e e
 BOI026	qui eh eh ma eh gli altri giorni c'era via zamboni
@@ -206,9 +206,9 @@ BOI026	culturali della città la gente che piscia per strada
 BOR004	qui come là
 BOI026	mh
 BOI026	ehm
-BOI026	una una volta qua  ho litigato con una mamma
+BOI026	una una volta qua ho litigato con una mamma
 BOI026	ehm di che f~ stava facendo pisciare la bambina di quattro anni
-BOR004	davanti  alla
+BOR004	davanti alla
 BOI026	
 BOI026	colonna davanti a casa mia
 BOR006	con un bar qui
@@ -216,39 +216,39 @@ BOR004	che dire
 BOI026	sì
 BOI026	che ab~ mh con tutti i bar della zona siamo d'accordo perché di qua c'era stato un
 BOI026	open space technology diversi anni fa
-BOI026	per  appunto cercare di dirimere i contrasti tra
+BOI026	per appunto cercare di dirimere i contrasti tra
 BOI026	ehm i condomini soprattutto del crusel che è l'incrocio tra @nomeluogo e via mh
 BOR004	@nomeluogo.
 BOI026	mhmh
-BOI026	che sono qu~ che erano  due condomini che
+BOI026	che sono qu~ che erano due condomini che
 BOI026	chiamavano la polizia ogni sera per le
 BOR004	gli schiamazzi così
 BOI026	mhmh
-BOI026	e e insomma e creare  armonia nella strada
+BOI026	e e insomma e creare armonia nella strada
 BOI026	in quell'occasione non mi ricordo che anno era però pro~ credo l'anno in cui sono arrivata qui mh
 BOI026	quindi duemilaotto duemilanove
-BOI026	quindi  avevano fatto questo cosa che po~ a~ al comune è costato tantissimo perché avevano preso
+BOI026	quindi avevano fatto questo cosa che po~ a~ al comune è costato tantissimo perché avevano preso
 BOI026	delle mediatrici che erano anche costate
-BOI026	parecchio anche famose adesso non mi vengono  i nomi
-BOI026	e era venuta una docente universitaria anche  di grido diciamo
+BOI026	parecchio anche famose adesso non mi vengono i nomi
+BOI026	e era venuta una docente universitaria anche di grido diciamo
 BOI026	per ehm
-BOI026	fare questa  mediazione
-BOI026	e insomma  ehm
+BOI026	fare questa mediazione
+BOI026	e insomma ehm
 BOI026	era venuto fuori insomma in quell'occasione
 BOI026	stavo dicendo
 BOR004	eh mi perdo poi quando parlo
 BOI026	della
 BOR004	e ah i ba~ ecco si era raggiunto un accordo con i bar per cui tutti i cittadini
 BOR006	della madre la madre della bimba
-BOI026	parlava della madre che  sì
+BOI026	parlava della madre che sì
 BOR004	che anche se non volevano consumare potevano usare i bagni
 BOI026	mhmh
-BOR004	e comunque  qua a cinquanta metri c'è un bagno pubblico
+BOR004	e comunque qua a cinquanta metri c'è un bagno pubblico
 BOR004	ah
 BOI026	mhmh
 BOI026	e la mamma si è messa a urlare che non avrebbe mai portato la sua bambina di quattro anni in un bagno pubblico
 BOI026	che è pulitissimo eh
-BOR004	cioè   è fatto apposta per
+BOR004	cioè è fatto apposta per
 BOR004	sì eh
 BOI026	mhmh mh
 BOR004	e ospitare i cittadini quando hanno bisogno di andare in bagno lei preferiscer farla pisciare come i cani accanto a una colonna
@@ -258,14 +258,14 @@ BOI026
 BOR004	davanti a una casa signori~ cioè mh io non ci~ non credevo alle mie orecchie al m~ mh
 BOR004	sì
 BOI026	sì
-BOR004	a quello che i miei occhi vedevano il portiere anche lui era fuori dai  coppi
+BOR004	a quello che i miei occhi vedevano il portiere anche lui era fuori dai coppi
 BOR006	
 BOI026	
-BOI026	perché  naturalmente
+BOI026	perché naturalmente
 BOI026	tocca a lui pulire perché il portico
 BOI026	i portici a bologna sono
 BOI026	priva~
-BOI026	cioè sono  di passaggio pubblico ma privati
+BOI026	cioè sono di passaggio pubblico ma privati
 BOI026	quindi sono di pertinenza del condominio
 BOR004	e il quindi il decoro la pulizia eccetera
 BOI026	mhmh
@@ -275,7 +275,7 @@ BOI026	tranne proprio quelli i pezzi storici insomma tipo il meloncello no
 BOI026	quelli lì che mh di di pertinenza proprio pubblica
 BOI026	gli altri se li deve restaurare o ripitturare eccetera eccetera il comun~ i condomini
 BOI026	ehm
-BOR004	per cui  hai mh questa grandiosità dei portici di bologna nati come abuso edilizio
+BOR004	per cui hai mh questa grandiosità dei portici di bologna nati come abuso edilizio
 BOR006	esatto
 BOR004	
 BOI026	
@@ -288,20 +288,20 @@ BOR004	sta bambina che mi guardava spaventatissima nascondendosi e eh
 BOI026	
 BOI026	io che urlavo la mamma che urlava
 BOI026	sì io faccio pisciare la mia bambina dove voglio io
-BOI026	se è questo quello che insegnano poi  a vent'anni mh quando vanno all'università invece di
-BOI026	mh essere la f~ sentirsi la  futura classe dirigente andare in giro in giacca e cravatta o che ne so io come
+BOI026	se è questo quello che insegnano poi a vent'anni mh quando vanno all'università invece di
+BOI026	mh essere la f~ sentirsi la futura classe dirigente andare in giro in giacca e cravatta o che ne so io come
 BOI026	negli anni sessanta ma anche no insomma va bene ma invece di sentirsi
 BOI026	mh dei~ l'avvenire di questo paese comunque
 BOR004	vanno in giro a bere birra e pisciare per strada
 BOI026	
-BOI026	non lo so io non l'ho mai fatto  neanche in un campo in campagna
+BOI026	non lo so io non l'ho mai fatto neanche in un campo in campagna
 BOR004	per cui mh a me sembra stranissimo poi di farlo in pieno centro a bologna
 BOI026	sì esatto
 BOR004	mh
 BOI026	mhmh mh
 BOI026	il rispetto
 BOI026	ma anche semplicemente mi vergognerei moltissimo
-BOR004	mh per cui neanche  in piazza  proprio
+BOR004	mh per cui neanche in piazza proprio
 BOI026	mhmh mh
 BOI026	non mi sognerei neanche
 BOI026	anche in piazza verdi adesso
@@ -324,7 +324,7 @@ BOR006	passiamo
 BOR006	sì sì
 BOR004	se
 BOR006	ok
-BOR004	perché noi volevamo proprio portarla  sull'argomento portici così quindi  direi che
+BOR004	perché noi volevamo proprio portarla sull'argomento portici così quindi direi che
 BOI026	ha già risposto
 BOR004	abbiamo abbiamo abbiamo dato
 BOI026	sì
@@ -340,39 +340,39 @@ BOI026	no invece parlando appunto del discorso della resistenza così insomma le
 BOI026	con anpi
 BOR004	sì
 BOI026	esatto
-BOI026	adesso per esempio con anpi faremo di nuovo un laboratorio per  educalè
+BOI026	adesso per esempio con anpi faremo di nuovo un laboratorio per educalè
 BOI026	che è un progetto del comune sulla legalità mh
 BOI026	ehm invito sempre anpi come testimone anpi saragozza
 BOI026	con cui collaboriamo
 BOI026	e emh canca rossi~ maria bianca rossini farà da testimone raccontando
 BOI026	a questa classe delle medie in questo caso
 BOI026	ehm testimonianze insomma sulle eh donne partigiane di bologna
-BOI026	e il primo incontro in realtà  i ragazzi vedranno un nostro spettacolo
+BOI026	e il primo incontro in realtà i ragazzi vedranno un nostro spettacolo
 BOI026	dell'associazione culturale youkali aps
 BOI026	e che s'intitola per il pane l'amor~ per il pane la pace
-BOI026	e  la libertà
+BOI026	e la libertà
 BOI026	prendendo
 BOI026	spunto da quel famoso quella famosa canzone
-BOI026	e lo spettacolo è nato nel  duemila e dieci
+BOI026	e lo spettacolo è nato nel duemila e dieci
 BOI026	me l'aveva chiesto il comitato il mh
 BOI026	e l~ il comitato donne anpi del di bologna
 BOR004	e l'avevamo fatto su a villa spada
 BOI026	mhmh
 BOR004	e
 BOI026	e c'è il monumento giusto
-BOR004	lì a~  al monumento delle partigiane
-BOI026	eh  mhmh
-BOI026	e  eccola qua
+BOR004	lì a~ al monumento delle partigiane
+BOI026	eh mhmh
+BOI026	e eccola qua
 BOI026	ehm l'avevamo fatto propr~ io l'avevo pensato per e i i bimbi insomma dai dieci anni in su per raccontargli un po'
 BOI026	la storia delle partigiane bolognesi insomma quello che
-BOI026	e l'opera di maternage che avevano compiuto le  partigiane in generale un po' in italia
+BOI026	e l'opera di maternage che avevano compiuto le partigiane in generale un po' in italia
 BOR004	ma prendendo spunto da quello che avevano fatto a bologna prendendo
 BOI026	mhmh
 BOI026	un delle testimonianze reali
-BOI026	che mi ha fornito anpi da  dai libroni
-BOI026	e e  mettendole in forma teatrale
+BOI026	che mi ha fornito anpi da dai libroni
+BOI026	e e mettendole in forma teatrale
 BOI026	quindi le testimonianze che sono nella comme~ nella nella nella nello spettacolo son tutte vere
-BOI026	solo che  le ho un po' unite
+BOI026	solo che le ho un po' unite
 BOI026	e in una trama
 BOI026	e la storia è quella di nonna lia
 BOI026	raccontata però da dalla nipote
@@ -400,14 +400,14 @@ BOI026	mh
 BOI026	mh sferruzzato ma~ eh per produrre maglie calde e avevano
 BOI026	portato cose da un posto all'altr~ insomma
 BOI026	per loro avevano fatto cose normali quello che bisognava fare avevano nascosto
-BOI026	le armi sotto le mele  avevano fatto tutte queste co~
-BOI026	e per loro eran~ magari erano  cose normali
+BOI026	le armi sotto le mele avevano fatto tutte queste co~
+BOI026	e per loro eran~ magari erano cose normali
 BOR004	piccole cose e invece avevano fatto tantissimo
 BOI026	mhmh
 BOI026	e allora tutte queste cose le ho volute raccontare insomma
 BOI026	e nonna lia come
 BOI026	tutte queste donne dopo non ha più fatto politica non ha fatto una vita normale andando ai concerti facendo la nonna
-BOI026	portando  la nipotina a danza mh
+BOI026	portando la nipotina a danza mh
 BOI026	eccetera eccetera
 BOI026	però non ha più parlato di tutte queste cose
 BOI026	però lei aveva lasciato
@@ -430,17 +430,17 @@ BOI026	e comincia a portare documenti e comincia con la bicicletta con la vecchi
 BOI026	insomma lo spettacolo anche molto carino abbiamo fatto anche un video l'anno scorso siccome
 BOI026	l'avremmo dovuto fare dal ve~ dal vivo
 BOI026	poi col lockdown
-BOI026	allora  lo abbiamo abbiam fatto un video
+BOI026	allora lo abbiamo abbiam fatto un video
 BOI026	mh abbiamo quindi venduto i biglietti online quindi
 BOI026	eventualmente se
 BOR006	lo volete vedere abbiamo il video
 BOR004	volentieri
 BOI026	sarei curiosa sì
 BOI026	ehm
-BOI026	il video  lo spettacolo lo abbiamo fatto quella prima volta  su a villa spada
+BOI026	il video lo spettacolo lo abbiamo fatto quella prima volta su a villa spada
 BOI026	e avevamo mh mh
 BOI026	pensavamo venissero tanti ragazzi
-BOR006	invece  c'erano soprattutto da i sessanta agli ottant'anni
+BOR006	invece c'erano soprattutto da i sessanta agli ottant'anni
 BOR004	
 BOI026	mh mhmh
 BOI026	tante mh anche ex partigiane
@@ -452,28 +452,28 @@ BOI026	a sempre a villa spada
 BOI026	altre volte
 BOI026	mh anche abbiamo tentato di fare
 BOI026	mh
-BOI026	l'abbiamo fatto su  al monumento delle partigia~
-BOI026	la prima volta l'abbiamo fatto  dentro al chiuso nella
+BOI026	l'abbiamo fatto su al monumento delle partigia~
+BOI026	la prima volta l'abbiamo fatto dentro al chiuso nella
 BOR004	il museo della tappezzeria
 BOI026	ah sì
-BOI026	eh che è stato un po'  drammatico perché  lo spazio è piccolo per far girare la bicicletta
-BOI026	però  era era freddo
+BOI026	eh che è stato un po' drammatico perché lo spazio è piccolo per far girare la bicicletta
+BOI026	però era era freddo
 BOI026	quindi l'abbiam fatto lì dentro
 BOI026	poi l'abbiam fatto d'estate su al monumento proprio
 BOI026	dentro alla nostra rassegna femminologica
-BOI026	e quindi noi  abbiam fatto
-BOI026	la prima  nel duemila e sedici
-BOI026	ehm e poi  adesso tutte le estati facciamo questa rassegna
+BOI026	e quindi noi abbiam fatto
+BOI026	la prima nel duemila e sedici
+BOI026	ehm e poi adesso tutte le estati facciamo questa rassegna
 BOI026	e appunto si intitola femminologica
-BOI026	la rassegna del  di teatro civile al femminile
+BOI026	la rassegna del di teatro civile al femminile
 BOI026	quindi scritto da donne recitato ehm soprattutto da donne
-BOI026	o comunque  con testi emh
+BOI026	o comunque con testi emh
 BOI026	o messi in scena da donne o regie o comunque
 BOI026	mh sulla creatività al femminile
-BOI026	o d'impegno  civile
+BOI026	o d'impegno civile
 BOI026	ehm
 BOI026	al~
-BOI026	spesso  sulla storia di bologna o comunque
+BOI026	spesso sulla storia di bologna o comunque
 BOI026	d'impegno
 BOI026	per noi era importante farlo proprio lì
 BOI026	perché
@@ -482,7 +482,7 @@ BOI026	anche perché l~ ludovica rossi bianchini la
 BOI026	mh architetta
 BOI026	eh avendo messo av~ ha messo un teatro dentro al monumento perché
 BOI026	eh venisse partecipato e quindi eh
-BOI026	l'idea  che poi  fosse eh ci fosse
+BOI026	l'idea che poi fosse eh ci fosse
 BOR004	eh qualcosa al femminile doveva essere per noi importante visto che era tutto
 BOI026	sì
 BOI026	l'unico docum~
@@ -490,16 +490,16 @@ BOI026	no è uno dei pochi monumenti
 BOI026	dedicati alle donne in italia
 BOI026	beh eh che anche il teatro fosse incentrato sul femminile
 BOI026	doveva essere insomma importante significativo
-BOI026	e  nessuno ci aveva ancora mai pensato
+BOI026	e nessuno ci aveva ancora mai pensato
 BOI026	eh noi da un po' di anni appunto ehm dal duemila e dieci siamo riusciti poi a cominciare la rassegna nel duemila e sedici
 BOI026	ce ne abbiamo messo un po' per trovare
 BOI026	fondi opportunità eccetera
 BOI026	e adesso è da un po' che
-BOI026	ehm è sostenuto  dalle pari opportunità
+BOI026	ehm è sostenuto dalle pari opportunità
 BOI026	questi ultimi due anni du~ ventuno e ventiudue
 BOI026	abbiamo ottenuto un finanziamento dalle pari opportunità
-BOI026	col bando per le pari opportunità e quindi  siam già sicuri di fare la prossima edizione a settembre
-BOI026	quindi  faremo altri spettacoli altre cose
+BOI026	col bando per le pari opportunità e quindi siam già sicuri di fare la prossima edizione a settembre
+BOI026	quindi faremo altri spettacoli altre cose
 BOI026	mh e comunque questo spettacolo abbiamo siamo riusciti anche a rifarlo
 BOI026	prima nel duemila e sedici e poi
 BOI026	due anni fa
@@ -518,10 +518,10 @@ BOI026	è piaciuto
 BOI026	e poi l'abbiamo fatto vedere alle classi e anche lì
 BOI026	sta funzionando stava fun~ funzionando bene questo progetto edukalè
 BOI026	e e quindi facciamo vedere tornan~ eh riavvolgendo il nastro
-BOI026	quindi  al primo incontro facciamo vedere lo spettacolo
-BOR004	ehm purtroppo non lo riusciamo a fare dal vivo adesso con il covid  però
+BOI026	quindi al primo incontro facciamo vedere lo spettacolo
+BOR004	ehm purtroppo non lo riusciamo a fare dal vivo adesso con il covid però
 BOI026	mhmh
-BOI026	magari  in futuro magari lo riusciremo anche a far dal vivo
+BOI026	magari in futuro magari lo riusciremo anche a far dal vivo
 BOI026	e gli facciamo vedere il video
 BOI026	eh secondo incontro viene eh l'anpi
 BOI026	quindi come testimone raccontiamo la sto~ insomma
@@ -542,27 +542,27 @@ BOI026	i to~ i temi che hanno portato queste ventid~ ventun donne mh nella costi
 BOI026	e qui~ quel poco che poi son riusciti a a infilare dentro
 BOI026	nella costituzione
 BOI026	e quindi nei negli articoli della costituzione
-BOI026	ma anche un  andiamo anche a ricercare un po' i il dibattito che c'è stato durante la costituente emh
+BOI026	ma anche un andiamo anche a ricercare un po' i il dibattito che c'è stato durante la costituente emh
 BOI026	dei temi che hanno portato loro
 BOI026	ehm sulla famiglia sui figli sulle donne
-BOI026	e un po' cerchiamo di andare a cercare quel filo tra  i valori eh che hanno messo nella nella resistenza e
+BOI026	e un po' cerchiamo di andare a cercare quel filo tra i valori eh che hanno messo nella nella resistenza e
 BOI026	mh
-BOI026	i valori che  sono entrati poi nella nostra nella nostra costituzione
+BOI026	i valori che sono entrati poi nella nostra nella nostra costituzione
 BOI026	e andiamo a chiedere poi
 BOI026	a i ragazzi e ragazze di andare a immaginare
 BOI026	c'è venuta quest'idea
-BOI026	di andare a immaginare  quali potrebbero essere
+BOI026	di andare a immaginare quali potrebbero essere
 BOI026	mh d~ dei punti
 BOI026	della costituzione
-BOI026	andando a leggere  alcuni articoli che non sono stati realizzati
+BOI026	andando a leggere alcuni articoli che non sono stati realizzati
 BOI026	quindi andando a immaginare dei punti
 BOI026	ancora da
-BOI026	da realizzare da mettere ancora  a regime
+BOI026	da realizzare da mettere ancora a regime
 BOI026	di quelle di quelle di quei valori
 BOI026	eh riprendendo tutto il filo
 BOI026	da dai valori che avevano partigiani e partigiane che
 BOI026	mettevano nella loro lotta
-BOI026	fino ad arrivare  ad oggi
+BOI026	fino ad arrivare ad oggi
 BOR004	cosa ancora non è stato realizzato per esempio di quell'articolo tre
 BOI026	mhmh
 BOI026	sulla parità
@@ -574,12 +574,12 @@ BOI026	varie vari vari vari argomenti
 BOI026	per cui lasciandoli liberi e ragionando su documenti e testi che tiriamo fuori eh
 BOI026	mh questo filone insomma sono bravi e brave e riescono a fare
 BOI026	dei bei ragionamenti
-BOI026	e quindi insomma un po' questi sono progetti che riusciamo a fare un po'  su questo filone resiste~ donne e resistenza
+BOI026	e quindi insomma un po' questi sono progetti che riusciamo a fare un po' su questo filone resiste~ donne e resistenza
 BOI026	e e lo spettacolo
-BOI026	poi  spesso abbiamo  prima di questo  eh
+BOI026	poi spesso abbiamo prima di questo eh
 BOI026	abbiamo fatto anche altri spettacoli un po' più semplici eh legati al venticinque aprile e
 BOI026	quindi con tante canzoni
-BOR004	ma anche qui ci son tante canzoni in realtà a un certo punto  cominciamo a cantare
+BOR004	ma anche qui ci son tante canzoni in realtà a un certo punto cominciamo a cantare
 BOI026	mhmh
 BOI026	eh non so festa d'aprile
 BOI026	eh ini~ lo spettacolo inizia con
@@ -592,14 +592,14 @@ BOI026	quando non mi vengono i
 BOI026	quando non mi vengono i i mh
 BOI026	ho portato il copione ma se poi non mi
 BOI026	
-BOR004	tutto im~  messo male
+BOR004	tutto im~ messo male
 BOR004	
 BOI026	no non si preoccupi insomma
 BOI026	avevamo vent'an~
 BOI026	oltre il ponte oh mi è venuta cantando il ritornel~
 BOI026	oltre il ponte di calvino
 BOI026	e poi ce ne sono un sacco
-BOI026	e ma anche le  siccome
+BOI026	e ma anche le siccome
 BOI026	noi partigiani bolognesi torniamo mh
 BOI026	e cantiamo anche mh la canzone mh
 BOI026	mh
@@ -617,20 +617,20 @@ BOI026	mhmh
 BOI026	ehm son la mondina son la sfruttata
 BOI026	e e no~ a noi
 BOI026	a me piace tantissimo cantare quindi eh c'è la musica dal vivo c'ho il musicista marco neri e quindi
-BOI026	mh e in scena ci sono io maria bianchi che è  la mia nipotina anche se
-BOR004	c'ha la mia stessa età quindi insomma  c'è questa cosa
+BOI026	mh e in scena ci sono io maria bianchi che è la mia nipotina anche se
+BOR004	c'ha la mia stessa età quindi insomma c'è questa cosa
 BOI026	
 BOI026	però insomma
 BOR004	a teatro si può tutto
 BOI026	sì
 BOI026	e quindi eh con la fantasia facciamo questa questa cosa
-BOR004	e quindi dicevo questi altri spettacoli invece facciamo tutto canzoni e  testi
+BOR004	e quindi dicevo questi altri spettacoli invece facciamo tutto canzoni e testi
 BOI026	mhmh
 BOI026	e e ehm e tes~ insomma mh citazioni di testi partendo che ne so da calamandrei
 BOI026	ehm
 BOI026	ehm
 BOI026	e po~ o o se no insomma
-BOI026	oppure articol~ legando gli articoli della costituzione a  appunto delle canzoni
+BOI026	oppure articol~ legando gli articoli della costituzione a appunto delle canzoni
 BOI026	o
 BOI026	appunto quelli sulla mh
 BOI026	mh
@@ -640,14 +640,14 @@ BOI026	ehm
 BOI026	o su bologna
 BOI026	una volta l'abbiamo fatto tutto sui momenti della giornata della liberazione sul ventuno aprile
 BOI026	tutti i momenti e abbiam trovato tutti i documenti quindi raccontando
-BOR004	mh perché anpi poi  spesso ci regala un sacco di libri per fare queste cose
+BOR004	mh perché anpi poi spesso ci regala un sacco di libri per fare queste cose
 BOI026	mhmh
 BOI026	quindi andando a scartabellare poi si trova tantissima roba
 BOI026	e quindi quella rob~
 BOR004	no questo non c'entra è un'altra co~
 BOI026	mhmh
-BOI026	quindi  mettendo insieme  documenti storici a noi piace tantissimo lavorare tra documenti storici e canzoni
-BOI026	eh quella  per esempio la canzone del partigiano sconosciuto
+BOI026	quindi mettendo insieme documenti storici a noi piace tantissimo lavorare tra documenti storici e canzoni
+BOI026	eh quella per esempio la canzone del partigiano sconosciuto
 BOI026	quella di a mo~ quel documento che è stato ritrovato
 BOI026	ehm a modena
 BOI026	ehm e che su cui poi è stata can~ è stata composta quella canzone il partigiano sconosciuto
@@ -661,12 +661,12 @@ BOI026	che s~
 BOI026	insomma tutti cantano e insomma ascoltano volentieri e
 BOI026	e si imparano anche delle cose insomma
 BOI026	ehm
-BOI026	o  l'xxx
+BOI026	o l'xxx
 BOI026	per il due giugno spesso anche li abbiamo fatti appunto legando articoli della costituzione e canzoni
 BOI026	e per ogni articolo della costituzione ci ispiriamo a
-BOR004	un canto  insomma una canzone un valore e così
+BOR004	un canto insomma una canzone un valore e così
 BOI026	mhmh
-BOI026	poi non so  ditemi voi quello che v'interessa poi abbiamo fatto tantissimi spettacoli su
+BOI026	poi non so ditemi voi quello che v'interessa poi abbiamo fatto tantissimi spettacoli su
 BOR004	la storia di bologna
 BOI026	mh okay okay
 BOI026	mh su su zanardi
@@ -681,11 +681,11 @@ BOI026	sì insomma poi abbiamo iniziato a farlo a zanardi
 BOI026	che è stato sindaco di bologna
 BOI026	mh e li abbiam fatti per la certosa
 BOI026	ehm perché la certosa
-BOI026	fa  una stagione teatrale
+BOI026	fa una stagione teatrale
 BOI026	d'estate
 BOI026	e quindi
 BOI026	è diventato un po' il nuo~ un altro nostro palcoscenico oltre a villa spada
-BOR004	sono  la signora della certosa
+BOR004	sono la signora della certosa
 BOI026	
 BOI026	e un altro mio collega che è stato prima di me il signor~ lu~ lu~ lu~ lui l'attore l'uomo della certosa
 BOI026	dopo di che anch'io gli sono andata un po' ditetro
@@ -696,7 +696,7 @@ BOI026	mhmh
 BOI026	e però l'ho raccontata attraverso diversi quadri tutto al femminile
 BOR004	anche lì con i personaggi perché mh non potevo raccontarla al maschile
 BOI026	mhmh
-BOI026	e  quindi mi sono inventata dei personaggi femminili che lo  raccontassero
+BOI026	e quindi mi sono inventata dei personaggi femminili che lo raccontassero
 BOI026	e poi ehm
 BOI026	l'ho rac~ il se~ il secondo anno
 BOI026	ho raccontato le donne della prima guerra mondiale
@@ -715,12 +715,12 @@ BOI026	la strage di palazzo d'accursio
 BOI026	ehm
 BOI026	e che riprende insomma
 BOI026	poi rip~ riprende anche lì ritorna la figura di zanardi anche lì perché
-BOI026	anche lui c'era  in consiglio comunale quella  quella giornata
+BOI026	anche lui c'era in consiglio comunale quella quella giornata
 BOI026	ehm
 BOI026	quindi insomma
 BOI026	mh in qualche modo
 BOI026	lì è l'inizio
-BOI026	del fascismo  la prima strage fascista d'italia
+BOI026	del fascismo la prima strage fascista d'italia
 BOI026	quindi poi
 BOI026	fascismo antifascismo sempre stato lì
 BOI026	mh in qualche modo parlando dell'uno si parla del di come si è anche costituito il primo
@@ -728,7 +728,7 @@ BOR004	la prima opposizione anche a~ al fascismo
 BOI026	sì
 BOR004	mhmh
 BOI026	mhmh
-BOI026	quindi l'uno va  di pari passo
+BOI026	quindi l'uno va di pari passo
 BOI026	e all'altro
 BOI026	e quindi anche in cimitero ci siamo ritrovati a cantare l'internazionale
 BOR004	e ste cose dove xxxx
@@ -745,7 +745,7 @@ BOR004	forse no
 BOR004	perché eh io l'ho vista no
 BOR004	e
 BOR004	ad un certo punto cantano bella ciao
-BOR004	è una  serie spagnola
+BOR004	è una serie spagnola
 BOI026	in cui cantano be~ bella ciao ma non c'entra assolutamente nulla con la resistenza
 BOR004	eh ma piace tanto quella canzone
 BOR006	eh quindi infatti
@@ -767,7 +767,7 @@ BOI026	cioè a un certo punto è diventata una hit un po' da ballare
 BOI026	sì
 BOI026	eh vabbè quella veramente la conosce tutto il m~
 BOI026	ma io mi son stupita io ero andata a fare
-BOI026	ancora  un po' prima di mh mettermi dentro tutta questa ricerca anche mh
+BOI026	ancora un po' prima di mh mettermi dentro tutta questa ricerca anche mh
 BOI026	ero alla scuola di teatro
 BOI026	stavo facendo un uno scambio tra scuole di teatro europeo ero andata in danimarca
 BOI026	e hanno detto canta una canzone
@@ -796,8 +796,8 @@ BOI026	e non non me n'ero mai cioè non c'avevo mai pensato
 BOI026	perché poi non avevo mai fatto studi prima
 BOR004	ancora studi sul canto popolare li ho fatti dopo
 BOI026	sì
-BOI026	forse  partendo da quella
-BOI026	da quel momento lì  topico
+BOI026	forse partendo da quella
+BOI026	da quel momento lì topico
 BOR004	eh sì pia~ piace piace tanto piace tantissimo
 BOI026	mhmh
 BOR004	poi neh bel ritmo è facile
@@ -828,12 +828,12 @@ BOI026
 BOR006	magari prima o poi mi taccio che
 BOR004	no no e
 BOR006	mhmh
-BOR006	poi  è sta~ molto interessante
+BOR006	poi è sta~ molto interessante
 BOR006	quello che ha detto perché c'è
-BOR006	vuol dire infatti non  pensavo che fosse così popolare
+BOR006	vuol dire infatti non pensavo che fosse così popolare
 BOR006	internazionalmente
 BOR006	magari diciamo cioè sì appunto il ritmo e fa un po' canzone antisistema
-BOR006	però  non credo colgano proprio il significato
+BOR006	però non credo colgano proprio il significato
 BOI026	poi non lo so
 BOI026	s~ se sappiano la storia della resistenza italiana non lo so
 BOR004	però magari un po' si sa un po' qualcosa poi si sa poi il resto è un po' il mito
@@ -874,7 +874,7 @@ BOI026	il focus un pochino del nostro lavoro o in generale è valorizzare il ruo
 BOI026	mh proprio perché pensiamo che non sia abbastanza raccontato
 BOI026	mhmh
 BOI026	e quindi poi un po' tutto il sessismo nella società nasce anche da
-BOI026	da questo che  la storia è stata raccontata sempre al maschile
+BOI026	da questo che la storia è stata raccontata sempre al maschile
 BOI026	raccontiamola anche dal punto di vista
 BOI026	eh delle delle donne
 BOI026	ce ne sono tantissimi
@@ -884,12 +884,12 @@ BOI026	e e questa cosastupenda
 BOI026	che le le mondine vediamo se lo riesco a trovare
 BOI026	è che nell'estate del quarantaquattro scioperarono anche le mondine
 BOI026	che chiedevano la riduzione
-BOI026	del lavoro  dalle otto alle sette ore e un aumento di paga
+BOI026	del lavoro dalle otto alle sette ore e un aumento di paga
 BOI026	i copertoni delle biciclette
-BOI026	la colazione con il latte  il pane il salame  il formaggio
+BOI026	la colazione con il latte il pane il salame il formaggio
 BOI026	la minestra a mezzogiorno
 BOI026	chiedevano di non essere più sfruttate dai padroni
-BOR006	di poter  sospendere il lavoro durante l'allarm~ cose  banalissime no eh
+BOR006	di poter sospendere il lavoro durante l'allarm~ cose banalissime no eh
 BOI026	sì
 BOR004	e durante l'allarme i bombardamenti perché le volevano far lavorare quindi anche durante i bombardam~ no voi continua~
 BOI026	pure
@@ -900,7 +900,7 @@ BOI026	ma le rivendicazioni salariali naturalmente erano tutte un pretesto per p
 BOI026	alle violenze e alla guerra
 BOI026	e l'otto marzo l'otto maggio
 BOI026	del quarantaquattro cinquecento braccianti e mondine scioperarono a malalbergo
-BOI026	dal quindici al venti incrociarono le braccia quelle di  medicina
+BOI026	dal quindici al venti incrociarono le braccia quelle di medicina
 BOI026	e pochi giorni dopo scesero in sciopero a molinella galliera e altri comuni
 BOI026	tutte insieme
 BOI026	come avevano sempre fatto e scioperarono più di cinquemila mondine
@@ -931,7 +931,7 @@ BOI026
 BOI026	no dopo
 BOI026	
 BOR004	scusate ragazzi però io
-BOR006	no no ma  si figuri
+BOR006	no no ma si figuri
 BOI026	non si preoccupi
 BOR004	è da tantissimo che non lo faccio lo spettacolo e
 BOI026	no ci mancherebbe
@@ -942,8 +942,8 @@ BOI026	eh
 BOI026	com'è che facevano i semini
 BOI026	son tutte robe vere che hanno raccontato
 BOI026	o mh
-BOI026	hanno raccontato nei nelle testimonianze e io le ho prese perché  erano uno più bello dell'altro
-BOI026	e  le hanno raccontate in tanti
+BOI026	hanno raccontato nei nelle testimonianze e io le ho prese perché erano uno più bello dell'altro
+BOI026	e le hanno raccontate in tanti
 BOI026	ehm
 BOI026	se riuscirò a trovarlo
 BOI026	ehm la bisnonna
@@ -955,7 +955,7 @@ BOI026	tutto messo in disordine perché
 BOI026	mh dov'è
 BOI026	mh
 BOI026	sì
-BOI026	non vi  faccio perdere
+BOI026	non vi faccio perdere
 BOI026	ecco
 BOI026	eh
 BOI026	anda~ eh allora andarono tutte da tartarotti avevano organizzato questa grandissima manifestazione
@@ -964,59 +964,59 @@ BOI026	mh
 BOI026	eh allora erano andate ehm
 BOI026	le le le mh le operaie della della fabbrica
 BOI026	mh si erano
-BOI026	mescolate in mezzo alle donne che erano i~ in fila  a chiedere sussidi di guerra
+BOI026	mescolate in mezzo alle donne che erano i~ in fila a chiedere sussidi di guerra
 BOI026	ehm e quindi si erano messe tutti sti fazzoletti neri in testa
 BOI026	tartarotti le aveva minacciate
 BOI026	tutte col mitra
 BOI026	e quindi anche quelle che erano in fila non se n'erano andate dicendo noi non c'entriamo mica niente
 BOI026	emh in mezzo a tutte ste partigiane che si erano infiltrate
-BOI026	e tutte sono rimaste  ferme
-BOI026	e tartarotti  voleva che i gli i soldati sparassero sulle donne
-BOI026	ma i poliziotti non volevano sparare su  madri che potevano essere anche madri loro
-BOI026	tartarotti insistette così tanto che alla fine che semplicemente i poliziotti  hanno disperso la manifestazione
-BOI026	le donne avevano cominciato a  ad andarsene
-BOI026	ne hanno arrestata  solo una
+BOI026	e tutte sono rimaste ferme
+BOI026	e tartarotti voleva che i gli i soldati sparassero sulle donne
+BOI026	ma i poliziotti non volevano sparare su madri che potevano essere anche madri loro
+BOI026	tartarotti insistette così tanto che alla fine che semplicemente i poliziotti hanno disperso la manifestazione
+BOI026	le donne avevano cominciato a ad andarsene
+BOI026	ne hanno arrestata solo una
 BOI026	era sta paola famosa che era una delle partigiane del gruppo de~ delle dirigenti dei gdd
 BOI026	andò dal prefetto
 BOI026	ehm e organizzò un piccolo gruppo per andare dal prefetto
-BOI026	e il prefetto ha detto bah  me la caverò con delle nove donnicciole
+BOI026	e il prefetto ha detto bah me la caverò con delle nove donnicciole
 BOI026	allora hanno chiesto la l~ liberazione dell'arrestata
 BOI026	e il prefetto ha detto sì sì le poteva anche rilasciare se loro avessero detto il motivo per cui mh avevano fatto la manifestazione
 BOI026	e e la anna che era un'altra di queste dirigenti
 BOI026	eh disse eh
 BOI026	che avrebbero detto il motivo solo dopo che avrebbero li~ rilasciato l'arrestata
-BOI026	e allora  hanno rilasciato l'arrestata
-BOI026	allora  la sta anna ha detto che volevano la distribuzione dei grassi e del sale
+BOI026	e allora hanno rilasciato l'arrestata
+BOI026	allora la sta anna ha detto che volevano la distribuzione dei grassi e del sale
 BOI026	e allora il prefetto l'ha presa in giro dicendo che lei era grassa che non poteva parlare di fame
-BOR004	allora  tutte non c'hanno visto più
+BOR004	allora tutte non c'hanno visto più
 BOI026	
 BOI026	
-BOI026	e allora si sono messe  a urlare
-BOI026	che non potevano  parlare e scherzare con delle madri di famiglia che non avevano nulla da dare da mangiare ai bambini
+BOI026	e allora si sono messe a urlare
+BOI026	che non potevano parlare e scherzare con delle madri di famiglia che non avevano nulla da dare da mangiare ai bambini
 BOI026	ehm
 BOI026	e allora
-BOI026	il prefetto ha acconsentito a anda~ a dare solo a loro nove  dei viveri
-BOI026	e loro  ancora più arrabbiate
+BOI026	il prefetto ha acconsentito a anda~ a dare solo a loro nove dei viveri
+BOI026	e loro ancora più arrabbiate
 BOI026	con fermezza hanno detto che non avrebbero preso nulla che non fosse dato a tutte
-BOI026	ma i viveri non ci sono  dobbiamo sostenere l'alleato che è venuto a salvarci
-BOI026	allora  cominciarono a dire basta con questa guerra siamo stanche
-BOI026	le ha minacciate  di fucilarle
-BOI026	poi però  le hanno mandate via
+BOI026	ma i viveri non ci sono dobbiamo sostenere l'alleato che è venuto a salvarci
+BOI026	allora cominciarono a dire basta con questa guerra siamo stanche
+BOI026	le ha minacciate di fucilarle
+BOI026	poi però le hanno mandate via
 BOI026	eh
 BOI026	quella volta gli è andata bene
-BOI026	però insomma  avevano fatto valere le loro ragioni quindi
+BOI026	però insomma avevano fatto valere le loro ragioni quindi
 BOI026	queste donne
 BOI026	hanno rischiato la vita
 BOI026	per avere
 BOI026	da dare da mangiare ai figli
-BOR004	cioè sembrano delle azioni  piccolissime
+BOR004	cioè sembrano delle azioni piccolissime
 BOI026	mhmh
 BOI026	andare dal com~ dal prefetto
 BOI026	come andare qua adesso vado da dal sindaco a lamentarmi
 BOI026	che qualcosa non va
 BOR004	però con quelli che ti puntano i mitra addosso
 BOI026	mhmh
-BOI026	cioè  sembra che non abbiano fatto niente
+BOI026	cioè sembra che non abbiano fatto niente
 BOI026	per cui non hanno voluto poi neanche il riconoscimento
 BOI026	ma hanno fatto tantissimo
 BOI026	re~ una resistenza morale
@@ -1037,10 +1037,10 @@ BOI026	e della della manifattura tabacchi
 BOI026	in quella grandissima manifestazione del sale
 BOI026	e anche lì le tiene tutto il giorno col mitra puntato in alcune le altre stanno lì a guardare e aspettano
 BOI026	poi alla fine le manda via
-BOI026	però le sfida tutte e alla fine n~ mh  sa che  se spara
-BOI026	a delle donne che semplicemente  chiedevano il sale
-BOI026	avrebbe  contro
-BOI026	tutte le bande partigiane  tutto tutta la popolazione
+BOI026	però le sfida tutte e alla fine n~ mh sa che se spara
+BOI026	a delle donne che semplicemente chiedevano il sale
+BOI026	avrebbe contro
+BOI026	tutte le bande partigiane tutto tutta la popolazione
 BOI026	quindi alla fine non gli spara a queste donne tartarotti
 BOI026	però avrebbe po~ benissimo potuto farlo
 BOI026	erano disarmate non avevano nulla
@@ -1050,7 +1050,7 @@ BOI026	ma era una manifestazione semplicemente dimostrativa
 BOI026	l'otto marzo mi pare del quarantaquattro
 BOI026	e son tutte così piccole cose piccole dimostrazioni piccole manifestazioni però
 BOI026	di grande di grande importanza
-BOI026	e e e tutte queste cose vanno raccontate perché  chi le sa
+BOI026	e e e tutte queste cose vanno raccontate perché chi le sa
 BOI026	solo gli studiosi che spulciano i documenti
 BOI026	sti sto librone gigantesco di testimonianze
 BOI026	che quanti mai l'avranno letto
@@ -1061,7 +1061,7 @@ BOI026	e in quello lì il cestino delle mele
 BOI026	il documentario mi pare s'intitoli
 BOI026	ce ne sono alcune di queste testimonianze sempre che raccontano che sotto
 BOI026	le armi nascoste sotto il cestino delle mele
-BOI026	ehm per fortuna tanti documentari video sono  facilmente
+BOI026	ehm per fortuna tanti documentari video sono facilmente
 BOI026	visibili ecco
 BOR004	però anche lo spettacolo teatrale arriva
 BOI026	mh
@@ -1077,12 +1077,12 @@ BOI026	perché i genitori ce li devono portare quindi è tutta una catena di edu
 BOI026	c'erano sempre pi~ piccini
 BOR006	ehm
 BOI026	logico
-BOI026	certo  non abbiamo la forza di farlo arrivare al teatro testoni lo spettacolo i due spettacoli insomma
+BOI026	certo non abbiamo la forza di farlo arrivare al teatro testoni lo spettacolo i due spettacoli insomma
 BOI026	per cui tutto
-BOI026	però  insomma noi ci proviamo coi nostri piccoli mezzi intanto seminiamo seminiamo qualcosa
+BOI026	però insomma noi ci proviamo coi nostri piccoli mezzi intanto seminiamo seminiamo qualcosa
 BOI026	qualcosa resterà
 BOI026	gli aneddoti son tanti sono bellissimi
-BOR006	però se vedete lo spettacolo poi  vi mando il link
+BOR006	però se vedete lo spettacolo poi vi mando il link
 BOR004	va benissimo
 BOR004	è meglio di sì
 BOR006	ah sì sì
@@ -1092,22 +1092,22 @@ BOR004	e ve lo ve lo vedete
 BOR004	accetto assoluamente
 BOI026	e grazie mille
 BOR006	ecco
-BOR006	no  volevo dirle
+BOR006	no volevo dirle
 BOR006	cioè
 BOR006	secondo me lei sta facendo molto
-BOR006	perché comunque  va nelle scuole
+BOR006	perché comunque va nelle scuole
 BOR006	cerca
-BOR006	che secondo me la cosa importante è appunto che  il pubblico non sia composto solo di persone che
+BOR006	che secondo me la cosa importante è appunto che il pubblico non sia composto solo di persone che
 BOR006	sanno già
-BOI026	queste cose ma  persone che hanno bisogno che gli si raccontino queste cose
-BOR006	eh  certo
+BOI026	queste cose ma persone che hanno bisogno che gli si raccontino queste cose
+BOR006	eh certo
 BOR006	quindi andando nelle scuole facendolo anche
 BOR006	con mezzi indipendenti
 BOR004	sta facendo insomma
 BOI026	mhmh
-BOI026	sì sì no  mh infatti
+BOI026	sì sì no mh infatti
 BOI026	poi a me piace
-BOI026	mi è  sempre piaciuto studiare ho sempre studiato quindi mettermi lì
+BOI026	mi è sempre piaciuto studiare ho sempre studiato quindi mettermi lì
 BOI026	con calma con tanti documenti spulciare scrivere
 BOI026	certo bisogna avere quel tempo lì
 BOR004	mh di mh
@@ -1117,7 +1117,7 @@ BOI026	per fortuna che
 BOI026	che c'è stato quel tempo lì e che ho avuto il tempo di scrivere
 BOI026	a volte poi se sommersi da duecento mila
 BOI026	cose si è
-BOR004	si fa più fatica a fare  ricerca bisognerebbe
+BOR004	si fa più fatica a fare ricerca bisognerebbe
 BOI026	mhmh
 BOI026	avere più tempo per fare per fare queste cose
 BOI026	però
@@ -1145,9 +1145,9 @@ BOI026	potevamo far passare attraverso il corpo attraverso le emozioni
 BOI026	ehm la storia
 BOI026	e quindi queste cose poi
 BOI026	si sedimentavano rimanevano
-BOR004	e molto di più  che solo imparando date a memoria
+BOR004	e molto di più che solo imparando date a memoria
 BOI026	sì
-BOI026	quindi una volta che l'hai  vissuto l'hai detto le battute hai  impersonato quel quel personaggio storico
+BOI026	quindi una volta che l'hai vissuto l'hai detto le battute hai impersonato quel quel personaggio storico
 BOI026	quelle cose ti rimangono dentro
 BOI026	molto molto di più che solo a studiare il capitolo
 BOI026	perché tu sei stato che ne so federico secondo di svevia
@@ -1162,46 +1162,46 @@ BOI026	che sei partito
 BOI026	per andare alla scoperta mh delle americhe mh
 BOI026	e quindi
 BOI026	ehm ti rimangono delle si sedimentano e
-BOI026	perché ti son  passate addosso
+BOI026	perché ti son passate addosso
 BOI026	s~
 BOI026	le hai impersonate
 BOI026	le emozioni attraverso il corpo e le emozioni hai vissuto quelle
 BOI026	quelle cose
-BOI026	quindi tan~  sia
-BOI026	poi  coi neuroni specchio ci ha insegnato l~ le neuroscienze
+BOI026	quindi tan~ sia
+BOI026	poi coi neuroni specchio ci ha insegnato l~ le neuroscienze
 BOI026	anche vedendo
 BOI026	teatro un po' si attivano gli stessi neuroni che facendo
-BOI026	cioè t~ in maniera  minore però
+BOI026	cioè t~ in maniera minore però
 BOI026	c'è anche lì quindi sia la visione teatrale
-BOI026	che è come il fare  teatro
-BOI026	e insomma in qualche modo tutte e due può  mh possono farti  rivivere quelle esperienze
-BOI026	con un po' anche  vedendo il teatro
+BOI026	che è come il fare teatro
+BOI026	e insomma in qualche modo tutte e due può mh possono farti rivivere quelle esperienze
+BOI026	con un po' anche vedendo il teatro
 BOI026	e magari anche facendolo
 BOI026	certo fa~ facendolo è ancora più
 BOR004	più interattivo più coinvolgente
 BOI026	mhmh
-BOI026	però insomma tutti questi tea~ tutti questi  progetti un po' qui un po' là
+BOI026	però insomma tutti questi tea~ tutti questi progetti un po' qui un po' là
 BOI026	speriamo che possano in qualche modo servire a queste nuove generazioni per
-BOR004	entrare dentro la storia e  tramandare
+BOR004	entrare dentro la storia e tramandare
 BOI026	mhmh
-BOI026	secondo me  è importantissimo farlo con la storia
+BOI026	secondo me è importantissimo farlo con la storia
 BOI026	contemporanea
-BOR004	perché  non la studiano
+BOR004	perché non la studiano
 BOR006	no
 BOI026	mhmh
-BOR006	non c'è  in nessun programma di studi
+BOR006	non c'è in nessun programma di studi
 BOI026	sì sì
 BOI026	cioè alla fine ci fermiamo
 BOI026	io mi son fermata al millenovecentotrentatré
 BOR006	la guerra non è neanche finita non è neanche cominciata non è finita
 BOI026	neanche quella
 BOI026	e quindi mh
-BOR006	come me  credo tanti
+BOR006	come me credo tanti
 BOI026	eh sì
 BOR004	eh
 BOI026	mhmh
 BOI026	e quindi credo sia proprio importante farlo con queste cose
-BOI026	alle elementari  non c'è proprio
+BOI026	alle elementari non c'è proprio
 BOI026	cioè si fermano ai romani
 BOR004	quindi
 BOI026	sì mhmh
@@ -1212,11 +1212,11 @@ BOI026	e quindi non si sa quand'è che devono studiare queste cose
 BOI026	e nell'ora di educazione civica ma quante ore sono ste ore di educazione civica
 BOI026	pochissime e ehm
 BOI026	e poi fanno sempre questi progettini sì ci infili dentro queste robe nei progettini
-BOR006	vabbè  basta
+BOR006	vabbè basta
 BOR004	
 BOI026	così
 BOR004	vado a far lezione
-BOR006	sì no  grazie mille
+BOR006	sì no grazie mille
 BOR004	la ringraziamo veramente tanto e la lasciamo andare
 BOI026	sì
 BOR004	starei qui a parlare altre duecento ore ma

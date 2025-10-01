@@ -1,4 +1,4 @@
-BOI090	perfetto  dunque io inizierei chiedendoti in che zona di bologna vivi
+BOI090	perfetto dunque io inizierei chiedendoti in che zona di bologna vivi
 BOR030	allra io vivo a sala bolognese che è in provincia di bologna un po' fuori dal centro
 BOR030	okay
 BOI090	e hai sempre vissuto lì
@@ -6,7 +6,7 @@ BOI090	sì
 BOR030	sempre vissuto qua
 BOI090	le scuole pure le hai frequentate lì
 BOI090	sì ho frequentato
-BOR030	elementari e medie a sala bolognese poi mi sono spostata in un'altra provincia  san giovanni in persiceto
+BOR030	elementari e medie a sala bolognese poi mi sono spostata in un'altra provincia san giovanni in persiceto
 BOR030	d'accordo
 BOI090	e con i tuoi amici ti senti ancora e sono vivono vicino a te
 BOI090	abbastanza sì son tutti nelle zone di bologna non nella mia stessa provincia però
@@ -25,14 +25,14 @@ BOI090	diciamo
 BOR030	non ben viste però diciamo che per il resto è tutto abbastanza comodo quindi no
 BOR030	d'accordo
 BOR030	e mh
-BOI090	trovi tutto quindi nel tuo quartiere o devi  spostarti
+BOI090	trovi tutto quindi nel tuo quartiere o devi spostarti
 BOI090	okay allora
 BOI090	per fare la spesa i beni di prima necessità forse è meglio spostarsi perché è vero c'è tutto ma è tutto molto piccolo
 BOI090	quindi ovviamente se bisogna trovare le comodità
 BOI090	diciamo
 BOI090	al cento per cento bisogna un po' spostarsi negli altri comuni
 BOI090	vero è che comunque c'è tutto farmacia centri commerciali
-BOR030	però  ecco sì
+BOR030	però ecco sì
 BOI090	e per muoverti che mezzi usi
 BOI090	allora abbiamo il treno
 BOI090	che è comodissimo perché è nel mio comune
@@ -42,21 +42,21 @@ BOR030	sì
 BOI090	e guidi
 BOR030	io mi muovo
 BOI090	anche
-BOI090	sì anche  guido ho la macchina
+BOI090	sì anche guido ho la macchina
 BOR030	ed è facilmente raggiungibile tutto
 BOR030	d'accordo
 BOR030	bologna è cambiata molto negli ultimi anni
 BOI090	e volevo chiederti se secondo te in bene o in male
 BOI090	allora io poi
 BOI090	sono piccolina nel senso che neg~ negli ultimi vent'anni della mia vita ecco
-BOI090	devo dire l'ho sempre vista in questo modo e  l'ho sempre apprezzata
+BOI090	devo dire l'ho sempre vista in questo modo e l'ho sempre apprezzata
 BOR030	non non vedo dei punti negativi così grandi per dire che bologna sia cambiata in peggio
 BOR030	però comunque
 BOI090	tutto sommato sei soddisfatta della città
 BOI090	sì assolutamente assolutamente abbiamo tutto e non non vedo il motivo per il quale dovrei
 BOR030	disprezzarla ecco
 BOR030	mh d'accordo
-BOR030	e in generale io ti chiederei pure  come possiamo dire
+BOR030	e in generale io ti chiederei pure come possiamo dire
 BOI090	e delle tradizioni di bologna
 BOR030	okay e
 BOI090	quindi mi sposterei più in su questo lato
@@ -64,7 +64,7 @@ BOR030	ne abbiamo tante
 BOI090	esatto
 BOI090	più che tradizioni abbiamo tanti slang abbiamo tante x x un modo di vivere diverso dalle altre province
 BOI090	nel senso che bologna è un mondo a sè
-BOI090	abbiamo  tanti modi di dire che nessuno capisce tante
+BOI090	abbiamo tanti modi di dire che nessuno capisce tante
 BOR030	è è bello così
 BOI090	come polleg
 BOI090	esatto come polleg come rusco
@@ -78,7 +78,7 @@ BOR030	e mh
 BOI090	per caso tu frequenti manifestazioni o eventi che si fanno a bologna
 BOI090	no
 BOI090	ma so che ce ne sono tante
-BOR030	si fan manifestazioni ogni motivo è buono per manifestare  in realtà io non ne ho mai preso parte perché ho sempre avuto un po' paura di questo tipo di di contesti
+BOR030	si fan manifestazioni ogni motivo è buono per manifestare in realtà io non ne ho mai preso parte perché ho sempre avuto un po' paura di questo tipo di di contesti
 BOI090	mh
 BOR030	però so che ce ne sono parecchie
 BOR030	d'accordo
@@ -87,10 +87,10 @@ BOI090	sì
 BOI090	sì sì sì
 BOI090	bologna assolutamente
 BOI090	manifesta per tutto e fa valere
-BOR030	tutte le l~ i contesti sociali ecco  se ne se ne prende molto cura
+BOR030	tutte le l~ i contesti sociali ecco se ne se ne prende molto cura
 BOI090	hai per caso mai sentito parlare dei sette segreti di bologna
 BOI090	no
-BOR030	questa mi è nuova  devo dir la verità questa mi è nuova
+BOR030	questa mi è nuova devo dir la verità questa mi è nuova
 BOI090	sarebbero tipo la porticina per che con cui vedi la piccola venezia
 BOI090	ah okay sì sì non la conoscevo così però sì
 BOI090	cioè ci sono luoghi molto caratteristici è vero tipo la la finestrella
@@ -112,11 +112,11 @@ BOI090	dai poi ci andremo so x
 BOR030	oh certo
 BOI090	proprio le due torri partirei così e tu cosa ne pensi del fatto che la garisenda stia
 BOI090	sì
-BOI090	è un colpo al cuore  è un colpo al cuore e tutti mi prendono in giro però io questa cosa l'ho presa molto a cuore perché cioè
+BOI090	è un colpo al cuore è un colpo al cuore e tutti mi prendono in giro però io questa cosa l'ho presa molto a cuore perché cioè
 BOR030	è il simbolo di bologna cioè come la torre di pisa per pisa per noi le due torri sono il simbolo di bologna
 BOI090	e secondo te cosa dovrebbero fare
 BOI090	oddio
-BOI090	adesso  da architetto non lo so
+BOI090	adesso da architetto non lo so
 BOI090	però x in qualche modo devono metterla a posto perché cioè se crolla la torre
 BOR030	crolla un pezzo di bologna crolla una parte del nostro cuore
 BOR030	d'accordo
@@ -136,7 +136,7 @@ BOI090	è san petronio anche qui
 BOI090	praticamente fanno scendere la madonna dalla chiesa
 BOI090	e poi la la portano in giro per osteria nuova per sala bolognese
 BOI090	e d è
-BOI090	l'unica tradizione che mi viene in mente perché  vent'anni che sono qua e vent'anni che la fanno
+BOI090	l'unica tradizione che mi viene in mente perché vent'anni che sono qua e vent'anni che la fanno
 BOI090	però per il resto direi che
 BOR030	abbiamo le stesse tradizioni di bologna centro
 BOR030	d'accordo
@@ -150,23 +150,23 @@ BOI090	casualmente appunto noi abbiamo come santo san petronio era bellissimo pe
 BOI090	a parte che stavi a casa da scuola ma
 BOI090	è un~ è la festa di bologna cioè è il santo patrono di bologna quindi è molto bello
 BOI090	quando ho iniziato magari ad andare a scuola in un altro comune dove si festeggia un altro santo andare a lavoare che purtroppo non te lo fanno festeggiare
-BOR030	è venuta un po' a perdersi questa cosa però in generale è molto bello  poi so che a bologna fanno tante feste su il quattro di ottobre quindi
+BOR030	è venuta un po' a perdersi questa cosa però in generale è molto bello poi so che a bologna fanno tante feste su il quattro di ottobre quindi
 BOI090	ad esempio sai qualcosa
-BOI090	mh x so che comunque delle m~ manifestazioni per l'appunto  in piazza e poi se non mi sbaglio fanno una specie di
+BOI090	mh x so che comunque delle m~ manifestazioni per l'appunto in piazza e poi se non mi sbaglio fanno una specie di
 BOI090	come dire
 BOI090	portano giù il santo anche lì
-BOR030	quindi un po' quello che fanno qua ma con san petronio  se non erro
+BOR030	quindi un po' quello che fanno qua ma con san petronio se non erro
 BOR030	d'accordo
 BOR030	eh mi dicevi appunto che
 BOI090	poi però ti sei trasferita a san giovanni per fare il liceo
 BOR030	sì esatto
 BOI090	e lì il il patrono è diverso
 BOI090	esatto lì appunto c'è san giovanni come patrono che se non erro viene festeggiato a giugno
-BOR030	e quindi quello non l'ho mai potuto vivere perché le scuole ini~  finiscono a inizio giugno quindi
+BOR030	e quindi quello non l'ho mai potuto vivere perché le scuole ini~ finiscono a inizio giugno quindi
 BOR030	giustamente
 BOI090	dunque visto che siamo in periodo natalizio
 BOR030	sì
-BOI090	io ti chiederei invece per natale se tu hai qualche tradizione particolare  anche in famiglia
+BOI090	io ti chiederei invece per natale se tu hai qualche tradizione particolare anche in famiglia
 BOI090	beh
 BOI090	la più famosa i tortellini
 BOI090	cioè è è la tradizione tipica
@@ -183,7 +183,7 @@ BOI090	poi vediamo sto pensando poi le altre tradizioni sono in realtà
 BOI090	molto comuni in tutta italia
 BOR030	però quella dei tortellini è sicuramente la più la più attinente ecco a bologna
 BOI090	e voi come li li fate
-BOR030	come facciamo i tortellini oh lo stai chiedendo a una futura sfoglina eh  allora noi
+BOR030	come facciamo i tortellini oh lo stai chiedendo a una futura sfoglina eh allora noi
 BOI090	mh
 BOI090	lo facciamo in casa io mia nonna che tra parentesi non è neanche di bologna
 BOI090	ma essendo qua da
@@ -216,7 +216,7 @@ BOI090	perché ci siamo dati proprio da fare
 BOI090	però sì in genere facciamo l'albero
 BOI090	grande enorme
 BOI090	e il presepe
-BOR030	che anche quello cioè ci diamo proprio alla pazza gioia noi che siamo poi m~ mezzi falegnami in casa cioè  facciamo un presepe della madonna
+BOR030	che anche quello cioè ci diamo proprio alla pazza gioia noi che siamo poi m~ mezzi falegnami in casa cioè facciamo un presepe della madonna
 BOI090	ma lo fate religioso o quello laico
 BOI090	quello laico
 BOI090	cioè
@@ -225,7 +225,7 @@ BOI090	l~ il significato del presepe c'è sempre ovvio che
 BOR030	non non stiamo a dargli troppo significato perché ormai è diventata una cosa più pagana che altro il presepe come anche l'albero
 BOI090	mh mhmh
 BOR030	però sì
-BOI090	e l'albero lo fate  avete delle tradizio~ tipo siete creativi sul fare l'albero o rimanete fermi
+BOI090	e l'albero lo fate avete delle tradizio~ tipo siete creativi sul fare l'albero o rimanete fermi
 BOI090	allora diciamo che noi sull'albero cioè abbiam sempre lo schema di colori no
 BOI090	ogni anno noi decidiamo un colore quello è
 BOI090	ci diam da fare facciamo le palline delle volte le facciamo anche noi le palline di natale
@@ -236,7 +236,7 @@ BOI090	è la giornata albero e presepe
 BOR030	lo facciamo tutti insieme rigorosamente tutti insieme in famiglia e lo facciamo di un colore solo per ogni albero che facciamo insomma
 BOI090	d'accordo
 BOR030	sì
-BOI090	e mentre in riferimento sempre al cibo natalizio  voi siete
+BOI090	e mentre in riferimento sempre al cibo natalizio voi siete
 BOR030	ah ah
 BOI090	team pandoro o team panettone
 BOI090	eh qua c'è una disputa
@@ -255,9 +255,9 @@ BOI090	x
 BOR030	è una cosa che a me non piace
 BOI090	tu mangi il pandoro ma puro
 BOI090	e~
-BOI090	esatto  il pandoro puro
+BOI090	esatto il pandoro puro
 BOI090	poi magari col mascarpone perché ogni tanto
-BOI090	si fa anche quello a natale  è il dolce tipico
+BOI090	si fa anche quello a natale è il dolce tipico
 BOR030	però si
 BOR030	d'accordo
 BOI090	mentre eh per capodanno
@@ -268,17 +268,17 @@ BOI090	a capodanno son sempre stata in famiglia o comunque magari con le mie ami
 BOI090	gli ultimi anni da quando son cresciuta
 BOI090	diciamo con le mie amiche cerco di organizzare sempre qualcosa di un po' più particolare però
 BOI090	non grandi viaggi
-BOI090	perché penso che alla fine anche il capodanno andarsi ad immischiare in grandi feste  sia
+BOI090	perché penso che alla fine anche il capodanno andarsi ad immischiare in grandi feste sia
 BOI090	perlomeno un po' pericoloso
 BOI090	quindi magari evito
 BOI090	mi ricordo un anno sono andata a milano
 BOI090	che
 BOI090	però siamo andate a ballare tranquille cioè proprio una cosa tranquillissima
 BOI090	poi gli anni del covid ovviamente li ho dovuti passare in casa
-BOI090	come  come è anche giusto che sia
+BOI090	come come è anche giusto che sia
 BOI090	quest'anno
 BOI090	andrò in montagna
-BOI090	anche lì molto tranquillo  localino proprio tranquillissimo con le mie amiche
+BOI090	anche lì molto tranquillo localino proprio tranquillissimo con le mie amiche
 BOR030	però sì non non ho mai fatto nulla di di strabiliante a capodanno
 BOI090	a bologna non sei mai andata a festeggiarlo
 BOI090	no a bologna non son mai andata perché so che a bologna capodanno è meglio non metterci piede io mi ricordo un anno che
@@ -322,7 +322,7 @@ BOI090	dovrebbe essere gemellato con il brasile
 BOI090	sì
 BOI090	esatto esatto esatto esatto
 BOI090	cioè mh fanno delle cose meravigliose poi ci passano gli anni a fare sti carri è è bellissimo
-BOI090	qui invece so che fanno il carnevale  perché lo fanno nel nostro comune che è diviso in frazioni ne fanno una domenica in uno e una domenica nell'altro comune
+BOI090	qui invece so che fanno il carnevale perché lo fanno nel nostro comune che è diviso in frazioni ne fanno una domenica in uno e una domenica nell'altro comune
 BOI090	son carri piccoli giusto per far f~
 BOI090	far festeggiare un po' i bambini però è anche carino però perché fanno le crescentine fanno il gnocco fritto è bello
 BOI090	è bello è bello se sei bambino
@@ -331,19 +331,19 @@ BOR030	capisco
 BOI090	e tu hai qualche aneddoto qualche ricordo di queste feste di quando eri piccola e lo festeggiavi
 BOI090	sì eh io ci andavo sempre con le mie amichette qui nel nostro comune proprio perché
 BOI090	come dicevo
-BOI090	per i bambini è molto bello il carnevale qui perché comunque  è divertente poi ci sono i carri  a tema piccolini
+BOI090	per i bambini è molto bello il carnevale qui perché comunque è divertente poi ci sono i carri a tema piccolini
 BOI090	non è particolarmente caotico
 BOI090	e quindi è molto bello io mi ricordo che con le mie amiche mi vestivo sempre da
-BOI090	o da principesse o facevamo tipo i gruppi di cantanti  che ci vestivamo con le parrucche era bellissimo
+BOI090	o da principesse o facevamo tipo i gruppi di cantanti che ci vestivamo con le parrucche era bellissimo
 BOR030	poi salire sui carri lanciavano i palloni eran~ lanciavano i peluche dai carri era stupendo
 BOI090	ne vincevi
-BOI090	è successo  è successo forse ce li ho ancora in casa devo andarli a cercare
+BOI090	è successo è successo forse ce li ho ancora in casa devo andarli a cercare
 BOR030	mi ha fatto venire in mente una cosa
 BOI090	adesso sono curiosa la principessa tu che principessa facevi in genere
 BOI090	allora
 BOI090	un anno ho fatto cenerentola
-BOI090	non si direbbe dai miei capelli  però ho fatto cenerentola
-BOI090	ho fatto mh belle  quella di bella e la bestia
+BOI090	non si direbbe dai miei capelli però ho fatto cenerentola
+BOI090	ho fatto mh belle quella di bella e la bestia
 BOI090	poi un anno ho fatto hanna montana
 BOI090	è stato bellissimo avevo la parrucca
 BOI090	bionda ero no vabbè
@@ -372,13 +372,13 @@ BOR030	sì
 BOI090	tu per caso sei mai andata al pratello il venticinque
 BOI090	no
 BOI090	no
-BOI090	mai  so che fanno
+BOI090	mai so che fanno
 BOI090	so che mh cioè
 BOI090	viene manifestato tanto
 BOR030	per non ci son mai andata
 BOI090	va bene
 BOI090	io poi non sono una persona che prende tanto luogo a queste manifestazioni
-BOI090	evito  se posso
+BOI090	evito se posso
 BOI090	però so che mh
 BOI090	che fanno
 BOI090	se non mi sbaglio fanno anche tipo una parata
@@ -412,9 +412,9 @@ BOI090	è sicura questa cosa
 BOI090	io
 BOI090	che ho la casa a lido di spina come tutti i bolognesi il ferragosto lo passo lì
 BOI090	e penso sia un po' tradizione di tutti in realtà nel senso che
-BOI090	si fa il falò  ci sono un sacco di feste
+BOI090	si fa il falò ci sono un sacco di feste
 BOI090	si può passare anche in tranquillità perché ci sono anche posti tranquilli
-BOI090	poi  essendo
+BOI090	poi essendo
 BOI090	mare comunque
 BOI090	cioè viene presa proprio seriamente la la faccenda ferragosto perché tutti i lidi fanno feste è bellissimo
 BOR030	cioè
@@ -444,20 +444,20 @@ BOI090	però tutti i provinciali come me
 BOI090	vanno al mare
 BOI090	o per lo meno la maggior parte
 BOI090	e tutti diciamo nelle zone più ehm verso ferrara comacchio
-BOI090	non tanto nella r~ riviera romagnola perché  è più scomoda
+BOI090	non tanto nella r~ riviera romagnola perché è più scomoda
 BOI090	arrivarci
 BOI090	per noi il posto più comodo
-BOI090	da arrivarci è a un'ora  da qui
+BOI090	da arrivarci è a un'ora da qui
 BOR030	è la riviera x ferrarese insomma comacchio i lidi di comacchio
 BOR030	d'accordo
 BOI090	quindi di montagna poco o niente
-BOI090	io per lo meno non saprei cosa dire da montagna perché non ci son mai stata ma ho tan  ti amici che come me non ci son mai stati
+BOI090	io per lo meno non saprei cosa dire da montagna perché non ci son mai stata ma ho tan ti amici che come me non ci son mai stati
 BOI090	cioè preferiscono di gran lunga il mare
 BOI090	e tra parentesi è bello
 BOI090	scoprire che magari
 BOI090	amici quando sei piccolo no
 BOI090	ti trovi qui a bologna e poi al mare li ritrovi casualmente nel tuo stesso posto e non sapevi
-BOR030	che erano del tuo stesso posto cioè è bellissimo perché  è un ritrovo estivo uguale a quello invernale
+BOR030	che erano del tuo stesso posto cioè è bellissimo perché è un ritrovo estivo uguale a quello invernale
 BOR030	bello bello
 BOR030	però secondo te il fatto che bologna si svuoti
 BOI090	soprattutto negli ultimi anni è dettato anche dal clima che è diventato
@@ -505,7 +505,7 @@ BOI090	certo
 BOI090	certo tantissimi
 BOI090	allora bologna e parlo proprio del centro
 BOI090	ogni posto in cui vai cammini tre mentri ne trovi una
-BOI090	cioè te ne potrei citare tantissime anche  solo  te ne  dico una così molto semplice bottega portici è sotto le due torri
+BOI090	cioè te ne potrei citare tantissime anche solo te ne dico una così molto semplice bottega portici è sotto le due torri
 BOI090	ed è in realtà
 BOI090	la più famosa perché è simile a un fast food fatto alla bolognese
 BOI090	nel senso che tu ordini con le macchinette automatiche il cibo bolognese
@@ -520,8 +520,8 @@ BOI090	ti davano il vino e tu ti portavi il mangiare da casa che adesso sono cam
 BOR030	però sì ce ne sono tantissime
 BOR030	d'accordo
 BOI090	e tra le varie piatti pietanze bolognesi hai delle preferite
-BOI090	oh certo  allora io mangerei tutto il cibo bolognese per me
-BOI090	perché è è la patria della pasta  un po' come roma anche bologna ha un sacco di primi piatti che per me sono
+BOI090	oh certo allora io mangerei tutto il cibo bolognese per me
+BOI090	perché è è la patria della pasta un po' come roma anche bologna ha un sacco di primi piatti che per me sono
 BOI090	devastanti buonissimi
 BOI090	tortellini o vero o il proprio
 BOI090	soprattutti
@@ -538,7 +538,7 @@ BOI090	tipicamente in brodo o anche in crema
 BOI090	allora
 BOI090	i tortellini andrebbero mangiati sempre in brodo
 BOI090	però
-BOI090	d'estate  è un po' difficile noi mangiamo i tortellini anche d'estate perché la tradizione non manca mai
+BOI090	d'estate è un po' difficile noi mangiamo i tortellini anche d'estate perché la tradizione non manca mai
 BOI090	si può concedere la panna
 BOI090	mai al ragù
 BOR030	è è un insulto alla tradizione mangiarli al ragù
@@ -572,7 +572,7 @@ BOI090	non tutti li conoscono è un piatto che in realtà sarebbe romagnolo
 BOI090	ma qua a bologna va tantissimo
 BOI090	che sono praticamente è un misto di uova formaggio e poco altro
 BOI090	e vengono schiacciati praticamente fatti in brodo
-BOR030	è un  piatto molto povero ma in realtà va tantissimo
+BOR030	è un piatto molto povero ma in realtà va tantissimo
 BOR030	d'accordo
 BOI090	per quanto riguarda invece le tradizioni contemporanee
 BOR030	mhmh
@@ -592,7 +592,7 @@ BOI090	cioè si può trovare a parte delle offerte incredibili ma non solo in re
 BOI090	perché ci sono anche tanti commercianti che sono proprio
 BOI090	cioè fedeli al mercato e vendono cose
 BOI090	belle
-BOI090	io poi vado a cercare il t~ i tessuti in realtà  in piazza otto agosto perché ci sono anche tanti tessutai
+BOI090	io poi vado a cercare il t~ i tessuti in realtà in piazza otto agosto perché ci sono anche tanti tessutai
 BOI090	in parallelo a pia~ a a a piazza otto agosto c'è anche quello della montagnola
 BOI090	di fianco
 BOI090	sempre il venerdì è un pochino più piccolo lì è più un mercatino dell'usato se possiam chiamarlo così
@@ -606,7 +606,7 @@ BOI090	apparte i tessuti comunque
 BOI090	ci sono tantissimi vestiti scarpe
 BOI090	offerte
 BOI090	cioè occasioni proprio
-BOR030	trovi dei vestiti magari di grandi marche è  comodo
+BOR030	trovi dei vestiti magari di grandi marche è comodo
 BOR030	d'accordo
 BOI090	e ti chiederei se per caso tu conosci l'iniziativa della cineteca di bologna il maxi schermo che fanno in piazza maggiore
 BOR030	sì assolutamente ci sono anche stata
@@ -617,12 +617,12 @@ BOI090	quell'anno sai che non me lo ricordo
 BOI090	non me lo ricordo però ci sono stata
 BOI090	ed è stato bellissimo
 BOR030	non mi ricordo che film ho visto ci dovrei pensare
-BOI090	ma  tanti anni fa è successo
+BOI090	ma tanti anni fa è successo
 BOR030	l'anno scorso
 BOI090	ah l'anno scorso
 BOR030	no no no sì cioè sì ci son stata anche perché prima c'era il covid quindi per qualche anno si son fermati
 BOI090	giusto
-BOI090	però è stato  bello cioè proprio una
+BOI090	però è stato bello cioè proprio una
 BOI090	una bella atmosfera anche perché lo fanno in piazza maggiore
 BOI090	con
 BOR030	l~ la mh la chiesa da un lato cioè è bellissimo
@@ -659,7 +659,7 @@ BOI090	ecco quello magari cioè quello però sta nel buon senso della gente
 BOI090	nel senso che
 BOI090	non è colpa della città in sè ma magari
 BOI090	di persone che dovrebbero ragionarci più su
-BOR030	perché  per me
+BOR030	perché per me
 BOI090	mh
 BOI090	cioé
 BOI090	sfregiare un patrimonio dell'unesco
@@ -727,7 +727,7 @@ BOI090	ecco perché è comunque un posto molto carino c'è il parchetto ci sono 
 BOI090	poi so che quest'estate
 BOI090	e cremonini ha fatto una un'iniziativa a san luca con i portici colorati le sue canzoni quindi era molto bello
 BOI090	se devo andare invece sui colli
-BOI090	che son sempre  zona san luca però magari è un po' più tranquillo lì c'è s~
+BOI090	che son sempre zona san luca però magari è un po' più tranquillo lì c'è s~
 BOI090	ci si può sbizzarrire
 BOI090	pic nic sui colli ci sono i trecento scalini che è bellissimo
 BOI090	che
@@ -742,7 +742,7 @@ BOR030	mhmh
 BOR030	ti farei domande un po' più
 BOI090	specifiche su di te
 BOR030	okay
-BOI090	ti chiedo innanzitutto se  lavori in questo momento
+BOI090	ti chiedo innanzitutto se lavori in questo momento
 BOI090	in questo momento no in questo momento studio
 BOI090	faccio moda
 BOR030	a breve finisco il corso e poi andrò a lavorare
@@ -785,8 +785,8 @@ BOI090	un po' spostata dal centro ecco ci son tanti comuni che sono
 BOI090	un po' più comodi perché
 BOI090	ovviamente raggiungi il centro di bologna in meno tempo
 BOI090	ed è comodo perché bologna comunque è anche nucleo di
-BOI090	co~ mh comodità diciamo primarie di uso primario  ospedali
-BOR030	centri commerciali quindi magari un pochino più vicina al centro forse sì  in centro no
+BOI090	co~ mh comodità diciamo primarie di uso primario ospedali
+BOR030	centri commerciali quindi magari un pochino più vicina al centro forse sì in centro no
 BOR030	okay
 BOI090	e secondo te però bologna è un buon posto per lavorare
 BOI090	sì
@@ -818,12 +818,12 @@ BOI090	centro commerciale dove lavoravo prima
 BOI090	e
 BOR030	nel mentre di questi tre lavori l'opportunità lavorativa c'era nel senso che io continuavo a cercare e mi arrivavano costantemente altre offerte lavorative
 BOR030	d'accordo
-BOR030	e  ti chiedo
+BOR030	e ti chiedo
 BOI090	tu adesso hai detto che stai studiando puoi dire esattamente cosa stai facendo dei corsi
 BOI090	sì
 BOI090	sì allora io sono in un istituto privato
 BOI090	a ferrara
-BOI090	studio modellistica sartoriale e  industriale
+BOI090	studio modellistica sartoriale e industriale
 BOI090	quindi col cad e a mano
 BOR030	l'obiettivo sarebbe quello di diventare una modellista e o una sarta
 BOI090	mhmh
@@ -840,7 +840,7 @@ BOI090	su cosa ti vorresti principalmente ambientare poi lavorativamente
 BOI090	allora
 BOI090	io come dicevo ho
 BOI090	diciamo quello scopo lì
-BOI090	ovvero andare a fare la modellista o  la sarta quindi o lavorare in produzione
+BOI090	ovvero andare a fare la modellista o la sarta quindi o lavorare in produzione
 BOI090	o comunque fare la progettista di modelli
 BOI090	per i vestiti
 BOI090	è un lavoro che qui in italia non pensavo
@@ -861,7 +861,7 @@ BOR030	okay
 BOR030	e ti chiedo innanzitutto eh mh
 BOI090	durante magari eh le tue uscite così cosa ti piace fare quante volte esci
 BOI090	mhmh oc~
-BOI090	allora ultimamente poco  nel senso che lo studio prende
+BOI090	allora ultimamente poco nel senso che lo studio prende
 BOI090	una grande parte della mia giornata e quindi
 BOI090	è anche difficile organizzarsi poi c'è da dire che più si cresce più
 BOI090	le persone con cui sei legata hanno altre ambizioni
@@ -893,7 +893,7 @@ BOI090	è sicura
 BOI090	di notte cioè per me è come la storia di capodanno che raccontavo prima
 BOI090	per me bologna di sera cioè s~
 BOI090	cambia completamente
-BOI090	fuorchè magari quando ci sono  quelle manifestazioni come il primo maggio no che magari è piena di
+BOI090	fuorchè magari quando ci sono quelle manifestazioni come il primo maggio no che magari è piena di
 BOI090	di sicurezza proprio nel vero senso della parola però le feste tipo capodanno o
 BOI090	le serate normali come il sabato sera
 BOR030	meglio evitarla bologna
@@ -902,10 +902,10 @@ BOR030	quindi anche data la situazione sanitaria
 BOR030	preferisci evitare luoghi
 BOI090	affollati
 BOI090	sì
-BOI090	sì diciamo di sì  anche perché
+BOI090	sì diciamo di sì anche perché
 BOI090	sì cioè non si sa mai cosa può girare o chi può girare in centro a bologna
-BOI090	la sera soprattutto  cioè penso di esserci stata una volta
-BOR030	l'anno scorso e ho detto bene  bologna di sera non la voglio più  vedere
+BOI090	la sera soprattutto cioè penso di esserci stata una volta
+BOR030	l'anno scorso e ho detto bene bologna di sera non la voglio più vedere
 BOR030	d'accordo
 BOI090	e fai sport per caso
 BOI090	adesso no
@@ -916,7 +916,7 @@ BOI090	e secondo te il basket è uno sport popolare a bologna
 BOI090	sì
 BOI090	molto
 BOI090	molto molto a bologna addirittura cioè a parte la virtus
-BOI090	c'è sempre un po' il e  diciamo la diatriba tra virtus e fortitudo
+BOI090	c'è sempre un po' il e diciamo la diatriba tra virtus e fortitudo
 BOI090	il basket in generale a bologna è molto molto frequentato come anche il calcio
 BOI090	però sì
 BOI090	mh
@@ -949,13 +949,13 @@ BOI090	d'accordo
 BOR030	è è quello
 BOI090	e sei mai andata a vedere le partite dal vivo o preferisci televisione
 BOI090	televisione
-BOI090	cioè io non ci son mai stata allo stadio devo dire è un'esperienza che  dovrei fare
+BOI090	cioè io non ci son mai stata allo stadio devo dire è un'esperienza che dovrei fare
 BOR030	vorrei e dovrei fare ma in realtà io non ci son mai stata
 BOR030	d'accordo
 BOI090	ti chiedo invece della musica allora
 BOR030	okay
 BOI090	quali generi preferisci
-BOI090	allora io ascolto  di tutto dal rap
+BOI090	allora io ascolto di tutto dal rap
 BOI090	all'indie
 BOI090	che qui tra l'altro va molto va davvero tanto
 BOR030	però sì ascolto generi abbastanza come dire tranquilli ecco
@@ -965,7 +965,7 @@ BOI090	sì
 BOR030	assolutamente sono una patita di concerti
 BOI090	a quali sei andata recentemente
 BOI090	recentemente ne ho fatti tre
-BOI090	mi pare  due o tre ho fatto quello di tedua
+BOI090	mi pare due o tre ho fatto quello di tedua
 BOI090	qualche giorno fa
 BOI090	ho fatto a settembre quello dei pinguini tattici nucleari
 BOI090	a gennaio quello di coez e frah quintale insomma
@@ -980,15 +980,15 @@ BOR030	io personalmente non non mi fanno impazzire ma è più il genere che altr
 BOR030	mhmh
 BOI090	per caso hai mai visto le luminarie in via d'azeglio
 BOI090	sì assolutamente
-BOR030	proprio le prime  luminarie proprio quelle con la f~ con le frasi di dalla perché poi le hanno cambiate hanno messo anche la carrà mh insomma
+BOR030	proprio le prime luminarie proprio quelle con la f~ con le frasi di dalla perché poi le hanno cambiate hanno messo anche la carrà mh insomma
 BOI090	e
 BOI090	ogni tanto gli piace diciamo cambiarle
 BOR030	io ho visto proprio le prime prime prime son bellissime
 BOI090	e c'è una canzone che vorresti vedere quest'anno
 BOI090	quest'anno
 BOI090	mh
-BOI090	mi ricordo che avevano messo quella di john lennon  imagine che quella secondo me ci poteva stare era la migliore tra tutte
-BOI090	una canzone che forse  oddio cioè
+BOI090	mi ricordo che avevano messo quella di john lennon imagine che quella secondo me ci poteva stare era la migliore tra tutte
+BOI090	una canzone che forse oddio cioè
 BOR030	tra i generi che ascolto è meglio che le canzoni che ascolto io non le mettano in via d'azeglio perche so~
 BOI090	
 BOR030	quindi direi che quelle che hanno messo vanno benissimo
@@ -996,7 +996,7 @@ BOR030	d'accordo
 BOI090	e ti chiedo invece sul cinema
 BOR030	okay sì
 BOI090	se ci sono dei delle dei tipi di film che ti piacciono particolarmente
-BOI090	allora io non sono una grande amante del cinema  devo dire nel senso che
+BOI090	allora io non sono una grande amante del cinema devo dire nel senso che
 BOI090	a parte che preferisco molto di più le serie tv ai film
 BOI090	però non x diciamo che se devo dire un
 BOR030	un tipo di film che guardo x più spesso
@@ -1013,10 +1013,10 @@ BOR030	d'accordo
 BOI090	però quello dell'aperto sì ci sei stata
 BOR030	sì assolutamente perché quello proprio è un tipo di cinema diverso ecco è più un'attrazione che che u un cinema
 BOR030	mhmh
-BOI090	e quindi una  cioè valuti bene l'esperienza
+BOI090	e quindi una cioè valuti bene l'esperienza
 BOR030	sì assolutamente
 BOR030	d'accordo
-BOI090	mentre  in televisione ci sono programmi che guardi magari
+BOI090	mentre in televisione ci sono programmi che guardi magari
 BOI090	certo
 BOI090	certo io sono io sono amante del gossip devo dirlo quindi tipo tutte tutti i talent tutti i reality show per me sono
 BOI090	cioè è il mio venerdì sera come il mio martedì sera
@@ -1025,12 +1025,12 @@ BOR030	quindi in quei due periodi della
 BOI090	della settimana guardi la sera di
 BOI090	ce~
 BOI090	sì esatto esatto assolutamente poi in realtà quando ci sono nel senso che più più reality guardo meglio è
-BOR030	x x  modo per passarmi il tempo
+BOR030	x x modo per passarmi il tempo
 BOR030	d'accordo
 BOI090	e usi la televisione anche per informarti di quello che succede magari con i telegiornali o
 BOI090	poco
 BOI090	poco nel senso che magari sì il telegiornale lo guardi la sera quando ceni con la tua famiglia
-BOR030	io però  preferisco informarmi magari su internet
+BOR030	io però preferisco informarmi magari su internet
 BOI090	mhmh
 BOI090	capitano le notizie anche solo sui social non dico per forza andare su i siti internet proprio ma magari dal social scopri
 BOR030	certi fatti di attualità e poi ti sposti ecco
@@ -1043,7 +1043,7 @@ BOI090	non so se x netflix o comunque tutti i posti dove puoi guardare serie tv
 BOI090	magari quelli
 BOI090	sì son sempre comunque legati alla televisione ma
 BOI090	puoi guardarli anche sul telefono smartphone e così via
-BOR030	comunque sì  quello ecco
+BOR030	comunque sì quello ecco
 BOR030	d'accordo
 BOI090	va bene allora direi che abbiamo finito
 BOR030	okay

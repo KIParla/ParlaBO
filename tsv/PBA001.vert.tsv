@@ -64,7 +64,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 20-0	BOI006	20	@nomeluogo	@nomeluogo	linguistic	none	_	Begin=21.975|End=22.519	_	_	_	_
 21-0	BOI006	21	la:	la	linguistic	none	_	Begin=22.561	1x1	_	_	_
 21-1	BOI006	21	pasticceria:?	pasticceria	linguistic	none	Intonation=Rising	End=23.723	10x1	_	_	_
-22-0	BOR003	22	<o[kay>]	okay	linguistic	none	_	Begin=23.922|End=24.928	_	Slow=0-4(0)	_	1-4(4)
+22-0	BOR003	22	<o[kay>]	okay	linguistic	none	_	Begin=23.922|End=24.928	_	Slow=0-4	_	1-4(4)
 23-0	BOI006	23	[(non)	non	linguistic	none	_	Begin=24.0	_	_	0-3(0)	0-3(4)
 23-1	BOI006	23	so	so	linguistic	none	_	_	_	_	_	0-2(4)
 23-2	BOI006	23	se	se	linguistic	none	_	_	_	_	_	0-2(4)
@@ -1423,7 +1423,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 332-3	BOR003	332	in	in	linguistic	none	_	_	_	_	_	_
 332-4	BOR003	332	mente	mente	linguistic	none	_	_	_	_	_	_
 332-5	BOR003	332	qualche	qualche	linguistic	none	_	_	_	_	_	_
-332-6	BOR003	332	<aneddoto>	aneddoto	linguistic	none	_	End=482.823	_	Slow=0-8(0)	_	_
+332-6	BOR003	332	<aneddoto>	aneddoto	linguistic	none	_	End=482.823	_	Slow=0-8	_	_
 333-0	BOR003	333	se	se	linguistic	none	_	Begin=482.873	_	_	_	_
 333-1	BOR003	333	sai	sai	linguistic	none	_	_	_	_	_	_
 333-2	BOR003	333	qualche	qualche	linguistic	none	_	_	_	_	_	_

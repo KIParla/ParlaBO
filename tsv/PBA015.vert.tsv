@@ -22,7 +22,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 5-1	BOR019	5	ti	ti	linguistic	none	_	_	_	_	_	_
 5-2	BOR019	5	piace,	piace	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 5-3	BOR019	5	lì,	lì	linguistic	none	Intonation=WeaklyRising	End=11.325	_	_	_	_
-6-0	BOI077	6	<s:ì>,	sì	linguistic	none	Intonation=WeaklyRising	Begin=12.9|End=13.685	0x1	Slow=0-2(0)	_	_
+6-0	BOI077	6	<s:ì>,	sì	linguistic	none	Intonation=WeaklyRising	Begin=12.9|End=13.685	0x1	Slow=0-2	_	_
 7-0	BOI077	7	non	non	linguistic	none	_	Begin=13.732	_	_	_	_
 7-1	BOI077	7	è	è	linguistic	none	_	_	_	_	_	_
 7-2	BOI077	7	una:	una	linguistic	none	_	_	2x1	_	_	_
@@ -701,7 +701,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 115-4	BOR019	115	di	di	linguistic	none	_	_	_	_	_	_
 115-5	BOR019	115	più,	più	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 115-6	BOR019	115	oppure:	oppure	linguistic	none	_	End=255.284	5x1	_	_	_
-116-0	BOI077	116	<allora>	allora	linguistic	none	_	Begin=255.758	_	Slow=0-6(0)	_	_
+116-0	BOI077	116	<allora>	allora	linguistic	none	_	Begin=255.758	_	Slow=0-6	_	_
 116-1	BOI077	116	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 116-2	BOI077	116	eh:	eh	linguistic	none	_	_	1x1	_	_	_
 116-3	BOI077	116	se	se	linguistic	none	_	_	_	_	_	_
@@ -810,8 +810,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 135-7	BOI077	135	si	si	linguistic	none	_	_	_	_	_	_
 135-8	BOI077	135	chiami,	chiami	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 135-9	BOI077	135	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-135-10	BOI077	135	<dolce	dolce	linguistic	none	_	_	_	Slow=0-5(0)	_	_
-135-11	BOI077	135	salato>?	salato	linguistic	none	Intonation=Rising	End=294.314	_	Slow=0-6(0)	_	_
+135-10	BOI077	135	<dolce	dolce	linguistic	none	_	_	_	Slow=0-5	_	_
+135-11	BOI077	135	salato>?	salato	linguistic	none	Intonation=Rising	End=294.314	_	Slow=0-6	_	_
 136-0	BOI077	136	che	che	linguistic	none	_	Begin=294.55	_	_	_	_
 136-1	BOI077	136	è	è	linguistic	none	_	_	_	_	_	_
 136-2	BOI077	136	tipo:	tipo	linguistic	none	_	_	3x1	_	_	_
@@ -866,7 +866,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 144-0	BOR019	144	oppure:	oppure	linguistic	none	_	Begin=312.107	5x1	_	_	_
 144-1	BOR019	144	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 144-2	BOR019	144	°no.°	no	linguistic	none	Intonation=Falling|Volume=Low	End=314.011	_	_	_	_
-145-0	BOI077	145	<troppi>,	troppi	linguistic	none	Intonation=WeaklyRising	Begin=315.149	_	Slow=0-6(0)	_	_
+145-0	BOI077	145	<troppi>,	troppi	linguistic	none	Intonation=WeaklyRising	Begin=315.149	_	Slow=0-6	_	_
 145-1	BOI077	145	non	non	linguistic	none	_	_	_	_	_	_
 145-2	BOI077	145	direi	direi	linguistic	none	_	_	_	_	_	_
 145-3	BOI077	145	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -1095,7 +1095,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 184-7	BOR019	184	è	è	linguistic	none	_	_	_	_	_	_
 184-8	BOR019	184	sicura?	sicura	linguistic	none	Intonation=Rising	End=400.963	_	_	_	_
 185-0	BOR019	185	(op)pure:	oppure	linguistic	none	_	Begin=401.998|End=402.681	5x1	_	0-2(0)	_
-186-0	BOI077	186	<a:llo:ra>	allora	linguistic	none	_	Begin=403.833|End=404.723	0x1,3x1	Slow=0-6(0)	_	_
+186-0	BOI077	186	<a:llo:ra>	allora	linguistic	none	_	Begin=403.833|End=404.723	0x1,3x1	Slow=0-6	_	_
 187-0	BOI077	187	m:h	mh	linguistic	none	_	Begin=404.916	0x1	_	_	_
 187-1	BOI077	187	sicura,	sicura	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 187-2	BOI077	187	non	non	linguistic	none	_	_	_	_	_	_
@@ -1758,8 +1758,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 279-0	BOI077	279	e::h	eh	linguistic	none	_	Begin=621.432	0x2	_	_	_
 279-1	BOI077	279	s:ì,	sì	linguistic	none	Intonation=WeaklyRising	_	0x1	_	_	_
 279-2	BOI077	279	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-279-3	BOI077	279	<non	non	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-279-4	BOI077	279	spesso>.	spesso	linguistic	none	Intonation=Falling	End=624.048	_	Slow=0-6(0)	_	_
+279-3	BOI077	279	<non	non	linguistic	none	_	_	_	Slow=0-3	_	_
+279-4	BOI077	279	spesso>.	spesso	linguistic	none	Intonation=Falling	End=624.048	_	Slow=0-6	_	_
 280-0	BOI077	280	ultimamente	ultimamente	linguistic	none	_	Begin=624.228	_	_	_	_
 280-1	BOI077	280	soprattutto	soprattutto	linguistic	none	_	_	_	_	_	_
 280-2	BOI077	280	anche	anche	linguistic	none	_	_	_	_	_	_
@@ -1837,7 +1837,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 289-3	BOR019	289	e:	e	linguistic	none	_	_	0x1	_	_	_
 289-4	BOR019	289	che	che	linguistic	none	_	_	_	_	_	_
 289-5	BOR019	289	teatro	teatro	linguistic	none	_	End=646.968	_	_	_	_
-290-0	BOI077	290	<allora>	allora	linguistic	none	_	Begin=648.605|End=649.481	_	Slow=0-6(0)	_	_
+290-0	BOI077	290	<allora>	allora	linguistic	none	_	Begin=648.605|End=649.481	_	Slow=0-6	_	_
 291-0	BOI077	291	uh	uh	linguistic	none	_	Begin=650.45	_	_	_	_
 291-1	BOI077	291	dio	dio	linguistic	none	_	_	_	_	_	_
 291-2	BOI077	291	in	in	linguistic	none	_	_	_	_	_	_
@@ -1900,7 +1900,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 297-2	BOR019	297	e	e	linguistic	none	_	_	_	_	_	_
 297-3	BOR019	297	invece	invece	linguistic	none	_	_	_	_	_	_
 297-4	BOR019	297	cinema?	cinema	linguistic	none	Intonation=Rising	End=668.526	_	_	_	_
-298-0	BOI077	298	<cinema>,	cinema	linguistic	none	Intonation=WeaklyRising	Begin=669.423	_	Slow=0-6(0)	_	_
+298-0	BOI077	298	<cinema>,	cinema	linguistic	none	Intonation=WeaklyRising	Begin=669.423	_	Slow=0-6	_	_
 298-1	BOI077	298	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 298-2	BOI077	298	m:h	mh	linguistic	none	_	_	0x1	_	_	_
 298-3	BOI077	298	non	non	linguistic	none	_	_	_	_	_	_
@@ -4125,8 +4125,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 632-0	BOI077	632	e::hm:	ehm	linguistic	none	_	Begin=1412.117|End=1413.508	0x2,2x1	_	_	_
 633-0	BOI077	633	tuttora:,	tuttora	linguistic	none	Intonation=WeaklyRising	Begin=1413.777|End=1414.764	6x1	_	_	_
 634-0	BOI077	634	m::h	mh	linguistic	none	_	Begin=1414.999	0x2	_	_	_
-634-1	BOI077	634	<non	non	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-634-2	BOI077	634	è>	è	linguistic	none	_	_	_	Slow=0-1(0)	_	_
+634-1	BOI077	634	<non	non	linguistic	none	_	_	_	Slow=0-3	_	_
+634-2	BOI077	634	è>	è	linguistic	none	_	_	_	Slow=0-1	_	_
 634-3	BOI077	634	la	la	linguistic	none	_	_	_	_	_	_
 634-4	BOI077	634	città	città	linguistic	none	_	_	_	_	_	_
 634-5	BOI077	634	che	che	linguistic	none	_	_	_	_	_	_

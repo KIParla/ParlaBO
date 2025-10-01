@@ -695,7 +695,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 170-6	BOI089	170	vivono	vivono	linguistic	none	_	_	_	_	_	_
 170-7	BOI089	170	da	da	linguistic	none	_	_	_	_	_	_
 170-8	BOI089	170	anni,	anni	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
-170-9	BOI089	170	<sì>.	sì	linguistic	none	Intonation=Falling	End=303.43	_	Slow=0-2(0)	_	_
+170-9	BOI089	170	<sì>.	sì	linguistic	none	Intonation=Falling	End=303.43	_	Slow=0-2	_	_
 171-0	BOI089	171	un	un	linguistic	none	_	Begin=303.642	_	_	_	_
 171-1	BOI089	171	po'	po'	linguistic	none	_	End=304.014	_	_	_	_
 172-0	BOI089	172	perché:	perché	linguistic	none	_	Begin=304.296	5x1	_	_	_
@@ -1435,7 +1435,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 325-3	BOR029	325	di:	di	linguistic	none	_	End=586.635	1x1	_	_	_
 326-0	BOR029	326	natale,	natale	linguistic	none	Intonation=WeaklyRising	Begin=587.124|End=587.698	_	_	_	_
 327-0	BOR029	327	tu	tu	linguistic	none	_	Begin=589.128	_	_	_	_
-327-1	BOR029	327	<senti>	senti	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+327-1	BOR029	327	<senti>	senti	linguistic	none	_	_	_	Slow=0-5	_	_
 327-2	BOR029	327	il	il	linguistic	none	_	_	_	_	_	_
 327-3	BOR029	327	natale:	natale	linguistic	none	_	_	5x1	_	_	_
 327-4	BOR029	327	come	come	linguistic	none	_	End=591.23	_	_	_	_
@@ -1772,7 +1772,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 386-3	BOI089	386	giorno.	giorno	linguistic	none	Intonation=Falling	End=724.567	_	_	_	_
 387-0	BOR029	387	abitudine	abitudine	linguistic	none	_	Begin=724.728|End=725.306	_	_	_	_
 388-0	BOI089	388	(un')	un'	linguistic	none	Truncated=Yes	Begin=725.307	_	_	0-3(0)	_
-388-1	BOI089	388	<abitudine>.	abitudine	linguistic	none	Intonation=Falling	End=726.195	_	Slow=0-9(0)	_	_
+388-1	BOI089	388	<abitudine>.	abitudine	linguistic	none	Intonation=Falling	End=726.195	_	Slow=0-9	_	_
 389-0	BOI089	389	(in)vece:	invece	linguistic	none	_	Begin=726.55	5x1	_	0-2(0)	_
 389-1	BOI089	389	la	la	linguistic	none	_	_	_	_	_	_
 389-2	BOI089	389	tradizione,	tradizione	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
@@ -2424,7 +2424,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 526-8	BOR029	526	ricoprirli,	ricoprirli	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 526-9	BOR029	526	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 526-10	BOR029	526	(op)pure:	oppure	linguistic	none	_	End=965.908	5x1	_	0-2(0)	_
-527-0	BOI089	527	<allora>	allora	linguistic	none	_	Begin=967.039|End=968.13	_	Slow=0-6(0)	_	_
+527-0	BOI089	527	<allora>	allora	linguistic	none	_	Begin=967.039|End=968.13	_	Slow=0-6	_	_
 528-0	BOI089	528	quest'	quest'	linguistic	none	SpaceAfter=No	Begin=969.632	_	_	_	_
 528-1	BOI089	528	anno,	anno	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 528-2	BOI089	528	son	son	linguistic	none	_	_	_	_	_	_
@@ -2814,7 +2814,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 601-0	BOI089	601	sinceramen~	sinceramen~	linguistic	none	Interrupted=Yes	Begin=1108.696	_	_	_	_
 601-1	BOI089	601	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 601-2	BOI089	601	~te,	~te	linguistic	none	Intonation=WeaklyRising	End=1110.394	_	_	_	_
-602-0	BOI089	602	<n:o>.	no	linguistic	none	Intonation=Falling	Begin=1111.474|End=1112.046	0x1	Slow=0-2(0)	_	_
+602-0	BOI089	602	<n:o>.	no	linguistic	none	Intonation=Falling	Begin=1111.474|End=1112.046	0x1	Slow=0-2	_	_
 603-0	BOI089	603	[ho]	ho	linguistic	none	_	Begin=1113.409|End=1113.614	_	_	_	0-2(37)
 604-0	BOR028	604	[mh]	mh	linguistic	none	_	Begin=1113.409|End=1113.614	_	_	_	0-2(37)
 605-0	BOR028	605	(°vabbè°)	vabbè	linguistic	none	Volume=Low	Begin=1116.295|End=1116.593	_	_	0-5(0)	_
@@ -3409,7 +3409,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 739-2	BOI089	739	riesci	riesci	linguistic	none	_	_	_	_	_	_
 739-3	BOI089	739	a	a	linguistic	none	_	_	_	_	_	_
 739-4	BOI089	739	dicri~	dicri~	linguistic	none	Interrupted=Yes	_	_	_	_	_
-739-5	BOI089	739	<distinguere>.	distinguere	linguistic	none	Intonation=Falling	End=1356.935	_	Slow=0-11(0)	_	_
+739-5	BOI089	739	<distinguere>.	distinguere	linguistic	none	Intonation=Falling	End=1356.935	_	Slow=0-11	_	_
 740-0	BOI089	740	°sì	sì	linguistic	none	Volume=Low	Begin=1358.267	_	_	_	_
 740-1	BOI089	740	sì°	sì	linguistic	none	Volume=Low	End=1358.748	_	_	_	_
 741-0	BOR028	741	mh	mh	linguistic	none	_	Begin=1358.975|End=1359.278	_	_	_	_

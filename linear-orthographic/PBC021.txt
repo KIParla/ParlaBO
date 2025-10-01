@@ -85,7 +85,7 @@ BOR012	non c'era l'autobus come c'è adesso c'era solo qualche ora al giorno per
 BOR012	eh
 BOR012	okay
 BOI051	
-BOR012	mezza giornata a bologna perché  non riuscivi a tornare a casa
+BOR012	mezza giornata a bologna perché non riuscivi a tornare a casa
 BOR012	
 BOR012	okay
 BOR012	ehm mi ricordo anche per esempio ehm
@@ -209,7 +209,7 @@ BOI051	oppure come è diventata ora
 BOR012	boh boh boh
 BOR012	cioè perché
 BOI051	sei venuta qua perché era una zona più distaccata meno inquinata magari oppure perché ti piaceva
-BOR012	no son son venuta perché il mercato delle case era più conveniente qua che altrove  solo per quello
+BOR012	no son son venuta perché il mercato delle case era più conveniente qua che altrove solo per quello
 BOR012	ah
 BOR012	okay
 BOR012	e l'avete deciso te e il nonno
@@ -306,7 +306,7 @@ BOI051	tipo all'epoca
 BOR012	ah niente cioè andavi a trovare queste persone ma
 BOR012	non c'era
 BOI051	s~ eri tue che dovevi andare da uno se volevi
-BOR012	sì  sì sì
+BOR012	sì sì sì
 BOI051	saperlo
 BOI051	se volevi vederlo se volevi sentirlo
 BOR012	averci a che fare così dovevi andare o venire lui da te o tu andare da lui
@@ -355,7 +355,7 @@ BOI051	ehm
 BOI051	cioè
 BOR012	potendo eh poi si sa le condizioni della vita a volte non si sa però potendo scegliere sarei rimasta sempre a bologna
 BOR012	sì sì
-BOI051	ehm anche al giorno d'oggi non  non la cambieresti
+BOI051	ehm anche al giorno d'oggi non non la cambieresti
 BOI051	no no mai no no
 BOR012	da viverci no
 BOR012	eh mh perché
@@ -385,7 +385,7 @@ BOR012	eh non so per i giovani
 BOR012	eh per esempio per me o
 BOI051	per i miei cugini di di svago di divertimento
 BOR012	secondo me sì poi dopo non è che la conoscono da quel punto di vista lì non la conosco
-BOI051	eh no mh per esempio dalle notizie che senti dal  dal ti gi
+BOI051	eh no mh per esempio dalle notizie che senti dal dal ti gi
 BOR012	però mh secondo me sì secondo me è una città che offre diverse possibilità
 BOR012	ehm
 BOR012	mh
@@ -447,7 +447,7 @@ BOR012	ehm
 BOI051	mh cosa ne pe~ cosa ne pensi ehm dei molti giovani che vengono a studiare a bologna
 BOR012	beh è positivo
 BOR012	e secondo te perché
-BOI051	eh  una domanda
+BOI051	eh una domanda
 BOR012	beh perché dicono che l'università sia un'università fra le migliori d'europa xx a bologna
 BOI051	sì sì
 BOR012	e poi perché come dicono come ho detto prima è una città accogliente bologna è una città che insomma
@@ -477,7 +477,7 @@ BOI051	mhmh
 BOI051	guarda io mi ricordo sempre una ragazza
 BOI051	che era venuta a lavorare da noi una studentessa che veniva
 BOI051	e venivano assunte per
-BOI051	mh  per dei periodi
+BOI051	mh per dei periodi
 BOI051	eh lei av~ aveva sempre lei credo fosse veneta o non so di quelle zone lì comunque dell'altitalia
 BOI051	lei aveva sempre detto che
 BOR012	quando aveva preso il treno da dal da casa sua per venire a bologna all'università appena scesa dal treno lei ha detto questa è la mia città
@@ -695,8 +695,8 @@ BOI051
 BOR012	andrea marcello e simona
 BOR012	ehm
 BOR012	ehm
-BOI051	com'è cambiata la tua vita dopo  che sono nati
-BOR012	compl~  completamente è cambiata
+BOI051	com'è cambiata la tua vita dopo che sono nati
+BOR012	compl~ completamente è cambiata
 BOR012	
 BOR012	eh
 BOI051	per esempio in in cosa
@@ -721,7 +721,7 @@ BOR012	un paio d'anni poi dopo è nata la terza e son stata a casa un po' fino a
 BOR012	okay
 BOR012	mh
 BOR012	chi era
-BOI051	il più buono  e chi era il più teppista
+BOI051	il più buono e chi era il più teppista
 BOR012	il più teppista andrea
 BOI051	
 BOR012	
@@ -932,7 +932,7 @@ BOI051	sì beh quand'era~ eran molt~ molto più nuovi
 BOI051	sai qual è il problema dei portici
 BOR012	che quando piove o quando nevica si scivola molto
 BOI051	eh
-BOR012	perché sotto sono  eh c'è un pavimento molto sdrucciolevole insomma è molto liscio molto
+BOR012	perché sotto sono eh c'è un pavimento molto sdrucciolevole insomma è molto liscio molto
 BOR012	il pavimento
 BOR012	iinfatti
 BOI051	tip~ quando vado all'università
@@ -977,7 +977,7 @@ BOR012	però ti dico a livello estetico sono molto belli perché
 BOI051	sì sono storici
 BOR012	ci son~ poi ci sono delle pavimentazioni che fanno tutte con dei disegni tutte veramente belli
 BOR012	sì
-BOI051	sì ecco anche quello magari è difficile  sistemare un pavimento che
+BOI051	sì ecco anche quello magari è difficile sistemare un pavimento che
 BOR012	appunto
 BOR012	è storico
 BOR012	ehm
@@ -1001,7 +1001,7 @@ BOR012	sì mi piaceva lavorare i cibi cuocerli
 BOR012	mhmh
 BOI051	prende~ vabbè mi hai detto prima un po' però eh prendevi dei mezzi di trasporto oppure andavi a piedi per andare a lavoro
 BOR012	ah ave~ andavo con l'autobus
-BOI051	con l'autobus  ecco
+BOI051	con l'autobus ecco
 BOR012	autobus
 BOR012	eh situazione autobus per esempio
 BOR012	eh che cambiamenti
@@ -1037,7 +1037,7 @@ BOR012	ehm
 BOR012	ah
 BOI051	che rapporto avevi con con i colleghi
 BOI051	buono
-BOR012	con alcuni buono con alcuni meno buono  come
+BOR012	con alcuni buono con alcuni meno buono come
 BOI051	hai magari instaurato delle amicizie quando
 BOR012	sì ho avuto delle amiche sì sì con qualcuna ci sentiamo ancora
 BOI051	ah sì
@@ -1067,9 +1067,9 @@ BOR012	lo sf~
 BOR012	lo sfogo eh lo sfogo ehm
 BOI051	lo svago cos'era andare al cinema
 BOR012	ecco alla domenica andavamo al cinema il resto facevam delle gran chiacchiere
-BOR012	sì  alla processione
+BOR012	sì alla processione
 BOI051	alla processione
-BOR012	processione  è vero alla processione
+BOR012	processione è vero alla processione
 BOI051	ehm
 BOR012	ma quella ero più piccolina ancora
 BOR012	ah okay
@@ -1140,7 +1140,7 @@ BOR012	ti volevo chiedere
 BOR012	andavi
 BOR012	forse non te eh forse mio padre
 BOI051	in quei mh quei posti dove si mandavano i figli in va~
-BOR012	in colonia anch'io ci sono andata tanti anni  sì sì sì sempre al mare
+BOR012	in colonia anch'io ci sono andata tanti anni sì sì sì sempre al mare
 BOR012	in colonia
 BOI051	eh anche te
 BOI051	lì andavamo a
@@ -1252,7 +1252,7 @@ BOI051	ca~
 BOR012	vado a spasso col cane
 BOI051	ecco anche quello
 BOR012	passeggiare col cane
-BOI051	che anche quello è sport perché tira   quindi
+BOI051	che anche quello è sport perché tira quindi
 BOI051	sì
 BOR012	no ma tira la simona io vado dietro
 BOI051	ah te non lo tieni
@@ -1358,7 +1358,7 @@ BOI051	nell'acqu~
 BOR012	è rimasta solo la pelle un po' rovinata ma
 BOR012	ehm le ultime domande
 BOR012	e non ah beh non so ehm
-BOR012	vabbè non so neanche se c'è da fare magari un  paragone però magari rispetto anche alla situazione attuale
+BOR012	vabbè non so neanche se c'è da fare magari un paragone però magari rispetto anche alla situazione attuale
 BOR012	eh della guerra cosa ne pensi
 BOI051	di quello che sta succedendo
 BOI051	beh non è molto bello eh

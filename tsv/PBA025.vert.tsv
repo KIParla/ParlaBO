@@ -173,7 +173,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 30-6	BOI096	30	lo	lo	linguistic	none	Volume=Low	_	_	Fast=0-2	_	_
 30-7	BOI096	30	so°<	so	linguistic	none	Volume=Low	_	_	Fast=0-2	_	_
 30-8	BOI096	30	i	i	linguistic	none	_	_	_	_	_	_
-30-9	BOI096	30	<fuorise:de>	fuorisede	linguistic	none	_	_	6x1	Slow=0-9(0)	_	_
+30-9	BOI096	30	<fuorise:de>	fuorisede	linguistic	none	_	_	6x1	Slow=0-9	_	_
 30-10	BOI096	30	sia::	sia	linguistic	none	_	_	2x2	_	_	_
 30-11	BOI096	30	il	il	linguistic	none	_	_	_	_	_	_
 30-12	BOI096	30	so:gno,	sogno	linguistic	none	Intonation=WeaklyRising	_	1x1	_	_	_
@@ -1773,8 +1773,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 283-13	BOI096	283	e	e	linguistic	none	_	_	_	_	_	_
 283-14	BOI096	283	lì::	lì	linguistic	none	_	End=743.997	1x2	_	_	_
 284-0	BOI096	284	era	era	linguistic	none	_	Begin=744.354	_	_	_	_
-284-1	BOI096	284	<il	il	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-284-2	BOI096	284	putiferio>	putiferio	linguistic	none	_	_	_	Slow=0-9(0)	_	_
+284-1	BOI096	284	<il	il	linguistic	none	_	_	_	Slow=0-2	_	_
+284-2	BOI096	284	putiferio>	putiferio	linguistic	none	_	_	_	Slow=0-9	_	_
 284-3	BOI096	284	di	di	linguistic	none	_	_	_	_	_	_
 284-4	BOI096	284	notte	notte	linguistic	none	_	_	_	_	_	_
 284-5	BOI096	284	infatti	infatti	linguistic	none	_	_	_	_	_	_
@@ -1884,8 +1884,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 295-7	BOI096	295	che	che	linguistic	none	_	_	_	_	_	_
 295-8	BOI096	295	mi	mi	linguistic	none	_	_	_	_	_	_
 295-9	BOI096	295	dice	dice	linguistic	none	_	_	_	_	_	_
-295-10	BOI096	295	<stai	stai	linguistic	none	_	_	_	Slow=0-4(0)	_	_
-295-11	BOI096	295	atte:nta>	attenta	linguistic	none	_	_	3x1	Slow=0-7(0)	_	_
+295-10	BOI096	295	<stai	stai	linguistic	none	_	_	_	Slow=0-4	_	_
+295-11	BOI096	295	atte:nta>	attenta	linguistic	none	_	_	3x1	Slow=0-7	_	_
 295-12	BOI096	295	>eccetera<	eccetera	linguistic	none	_	End=785.896	_	Fast=0-8	_	_
 296-0	BOI096	296	però	però	linguistic	none	_	Begin=786.351	_	_	_	_
 296-1	BOI096	296	ecco	ecco	linguistic	none	_	_	_	_	_	_
@@ -2033,7 +2033,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 308-0	BOR034	308	°mhmh°	mhmh	linguistic	none	Volume=Low	Begin=837.109|End=837.489	_	_	_	_
 309-0	BOI096	309	>cioè<	cioè	linguistic	none	_	Begin=837.885|End=838.159	_	Fast=0-4	_	_
 310-0	BOI096	310	la	la	linguistic	none	_	Begin=838.614	_	_	_	_
-310-1	BOI096	310	<conoscenza>	conoscenza	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+310-1	BOI096	310	<conoscenza>	conoscenza	linguistic	none	_	_	_	Slow=0-10	_	_
 310-2	BOI096	310	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_
 310-3	BOI096	310	mi	mi	linguistic	none	_	_	_	_	_	_
 310-4	BOI096	310	rende	rende	linguistic	none	_	_	_	_	_	_
@@ -2233,7 +2233,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 346-0	BOI096	346	o	o	linguistic	none	_	Begin=916.937	_	_	_	_
 346-1	BOI096	346	sarebbe	sarebbe	linguistic	none	_	_	_	_	_	_
 346-2	BOI096	346	tipo	tipo	linguistic	none	_	_	_	_	_	_
-346-3	BOI096	346	<asportarla>	asportarla	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+346-3	BOI096	346	<asportarla>	asportarla	linguistic	none	_	_	_	Slow=0-10	_	_
 346-4	BOI096	346	dall'	dall'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 346-5	BOI096	346	alto	alto	linguistic	none	_	_	_	_	_	_
 346-6	BOI096	346	ma	ma	linguistic	none	_	_	_	_	_	_
@@ -2827,7 +2827,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 445-7	BOI096	445	sempre	sempre	linguistic	none	_	_	_	_	_	_
 445-8	BOI096	445	una	una	linguistic	none	_	_	_	_	_	_
 445-9	BOI096	445	fila	fila	linguistic	none	_	_	_	_	_	_
-445-10	BOI096	445	<lunghi:::ssima>,	lunghissima	linguistic	none	Intonation=WeaklyRising	_	5x3	Slow=0-11(0)	_	_
+445-10	BOI096	445	<lunghi:::ssima>,	lunghissima	linguistic	none	Intonation=WeaklyRising	_	5x3	Slow=0-11	_	_
 445-11	BOI096	445	lugnghissima,	lugnghissima	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
 445-12	BOI096	445	lunghissima	lunghissima	linguistic	none	_	End=1138.988	_	_	_	_
 446-0	BOI096	446	e:::	e	linguistic	none	_	Begin=1139.825|End=1140.583	0x3	_	_	_
@@ -3603,8 +3603,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 564-3	BOI096	564	la	la	linguistic	none	_	_	_	_	_	_
 564-4	BOI096	564	gente	gente	linguistic	none	_	_	_	_	_	_
 564-5	BOI096	564	poi:	poi	linguistic	none	_	_	2x1	_	_	_
-564-6	BOI096	564	<si	si	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-564-7	BOI096	564	fe:rma:>	ferma	linguistic	none	_	_	1x1,4x1	Slow=0-5(0)	_	_
+564-6	BOI096	564	<si	si	linguistic	none	_	_	_	Slow=0-2	_	_
+564-7	BOI096	564	fe:rma:>	ferma	linguistic	none	_	_	1x1,4x1	Slow=0-5	_	_
 564-8	BOI096	564	la	la	linguistic	none	_	_	_	_	_	_
 564-9	BOI096	564	gente	gente	linguistic	none	_	_	_	_	_	_
 564-10	BOI096	564	che	che	linguistic	none	_	_	_	_	_	_
@@ -4327,10 +4327,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 666-0	BOI096	666	poi	poi	linguistic	none	_	Begin=1726.371	_	_	_	_
 666-1	BOI096	666	ci	ci	linguistic	none	_	_	_	_	_	_
 666-2	BOI096	666	sono	sono	linguistic	none	_	_	_	_	_	_
-666-3	BOI096	666	<tutti	tutti	linguistic	none	_	_	_	Slow=0-5(0)	_	_
-666-4	BOI096	666	i	i	linguistic	none	_	_	_	Slow=0-1(0)	_	_
-666-5	BOI096	666	gruppi	gruppi	linguistic	none	_	_	_	Slow=0-6(0)	_	_
-666-6	BOI096	666	studenteschi::>	studenteschi	linguistic	none	_	End=1729.406	11x2	Slow=0-12(0)	_	_
+666-3	BOI096	666	<tutti	tutti	linguistic	none	_	_	_	Slow=0-5	_	_
+666-4	BOI096	666	i	i	linguistic	none	_	_	_	Slow=0-1	_	_
+666-5	BOI096	666	gruppi	gruppi	linguistic	none	_	_	_	Slow=0-6	_	_
+666-6	BOI096	666	studenteschi::>	studenteschi	linguistic	none	_	End=1729.406	11x2	Slow=0-12	_	_
 667-0	BOI096	667	e::h	eh	linguistic	none	_	Begin=1730.162	0x2	_	_	_
 667-1	BOI096	667	i	i	linguistic	none	_	_	_	_	_	_
 667-2	BOI096	667	colletti:vi	collettivi	linguistic	none	_	End=1731.323	7x1	_	_	_

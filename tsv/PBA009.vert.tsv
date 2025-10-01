@@ -154,7 +154,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 26-1	BOR019	26	poi	poi	linguistic	none	_	_	_	_	_	0-3(3)
 26-2	BOR019	26	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(3)
 26-3	BOR019	26	auto]bu[s]	autobus	linguistic	none	_	End=67.89	_	_	_	0-4(3),5-7(4)
-27-0	BOI068	27	[<sì>	sì	linguistic	none	_	Begin=66.214	_	Slow=0-2(0)	_	0-2(3)
+27-0	BOI068	27	[<sì>	sì	linguistic	none	_	Begin=66.214	_	Slow=0-2	_	0-2(3)
 27-1	BOI068	27	e	e	linguistic	none	_	_	_	_	_	0-1(3)
 27-2	BOI068	27	poi	poi	linguistic	none	_	_	_	_	_	0-3(3)
 27-3	BOI068	27	(un)]	un	linguistic	none	_	End=67.163	_	_	0-2(0)	0-2(3)
@@ -386,7 +386,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 61-2	BOI068	61	servizio	servizio	linguistic	none	_	_	_	_	_	_
 61-3	BOI068	61	autobus:	autobus	linguistic	none	_	_	6x1	_	_	_
 61-4	BOI068	61	più	più	linguistic	none	_	_	_	_	_	_
-61-5	BOI068	61	<regolati>	regolati	linguistic	none	_	_	_	Slow=0-8(0)	_	_
+61-5	BOI068	61	<regolati>	regolati	linguistic	none	_	_	_	Slow=0-8	_	_
 61-6	BOI068	61	e	e	linguistic	none	_	_	_	_	_	_
 61-7	BOI068	61	anche	anche	linguistic	none	_	_	_	_	_	_
 61-8	BOI068	61	più	più	linguistic	none	_	_	_	_	_	_
@@ -631,7 +631,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 89-10	BOI068	89	quindi:	quindi	linguistic	none	_	End=254.05	5x1	_	_	_
 90-0	BOR019	90	come	come	linguistic	none	_	Begin=254.136	_	_	_	_
 90-1	BOR019	90	mai?	mai	linguistic	none	Intonation=Rising	End=254.621	_	_	_	_
-91-0	BOI068	91	<allora>	allora	linguistic	none	_	Begin=255.343	_	Slow=0-6(0)	_	_
+91-0	BOI068	91	<allora>	allora	linguistic	none	_	Begin=255.343	_	Slow=0-6	_	_
 91-1	BOI068	91	più	più	linguistic	none	_	_	_	_	_	_
 91-2	BOI068	91	che	che	linguistic	none	_	_	_	_	_	_
 91-3	BOI068	91	altro,	altro	linguistic	none	Intonation=WeaklyRising	End=256.836	_	_	_	_
@@ -643,7 +643,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 92-5	BOI068	92	alle	alle	linguistic	none	_	_	_	_	_	_
 92-6	BOI068	92	superiori	superiori	linguistic	none	_	_	_	_	_	_
 92-7	BOI068	92	del~	del~	linguistic	none	Interrupted=Yes	End=259.1	_	_	_	_
-93-0	BOI068	93	<della>	della	linguistic	none	_	Begin=259.386	_	Slow=0-5(0)	_	_
+93-0	BOI068	93	<della>	della	linguistic	none	_	Begin=259.386	_	Slow=0-5	_	_
 93-1	BOI068	93	mia	mia	linguistic	none	_	_	_	_	_	_
 93-2	BOI068	93	difficoltà	difficoltà	linguistic	none	_	_	_	_	_	_
 93-3	BOI068	93	>proprio<	proprio	linguistic	none	_	_	_	Fast=0-7	_	_
@@ -764,8 +764,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 110-8	BOI068	110	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 110-9	BOI068	110	era	era	linguistic	none	_	_	_	_	_	_
 110-10	BOI068	110	anche:	anche	linguistic	none	_	_	4x1	_	_	_
-110-11	BOI068	110	<il	il	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-110-12	BOI068	110	marketing>,	marketing	linguistic	none	Intonation=WeaklyRising	_	_	Slow=0-9(0)	_	_
+110-11	BOI068	110	<il	il	linguistic	none	_	_	_	Slow=0-2	_	_
+110-12	BOI068	110	marketing>,	marketing	linguistic	none	Intonation=WeaklyRising	_	_	Slow=0-9	_	_
 110-13	BOI068	110	eh	eh	linguistic	none	_	_	_	_	_	_
 110-14	BOI068	110	<la	la	linguistic	none	_	_	_	Slow=0-2	_	_
 110-15	BOI068	110	finanza>,	finanza	linguistic	none	Intonation=WeaklyRising	_	_	Slow=0-7	_	_
@@ -978,7 +978,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 135-18	BOR019	135	°insomma°	insomma	linguistic	none	Volume=Low	_	_	_	_	_
 135-19	BOR019	135	STUDENT[ESSA:	studentessa	linguistic	none	Volume=High	_	10x1	_	_	6-11(18)
 135-20	BOR019	135	ADOLESC]E[NTE:]	adolescente	linguistic	none	Volume=High	End=393.586	10x1	_	_	0-7(18),7-11(19)
-136-0	BOI068	136	[<allora>]	allora	linguistic	none	_	Begin=391.993|End=392.665	_	Slow=0-6(0)	_	0-6(18)
+136-0	BOI068	136	[<allora>]	allora	linguistic	none	_	Begin=391.993|End=392.665	_	Slow=0-6	_	0-6(18)
 137-0	BOI068	137	[allora]	allora	linguistic	none	_	Begin=393.143|End=393.619	_	_	_	0-6(19)
 138-0	BOI068	138	bologna	bologna	linguistic	none	_	Begin=393.765	_	_	_	_
 138-1	BOI068	138	in	in	linguistic	none	_	_	_	_	_	_
@@ -990,7 +990,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 138-7	BOI068	138	alle:	alle	linguistic	none	_	_	3x1	_	_	_
 138-8	BOI068	138	fino	fino	linguistic	none	_	_	_	_	_	_
 138-9	BOI068	138	alle	alle	linguistic	none	_	_	_	_	_	_
-138-10	BOI068	138	<medie>	medie	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+138-10	BOI068	138	<medie>	medie	linguistic	none	_	_	_	Slow=0-5	_	_
 138-11	BOI068	138	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
 138-12	BOI068	138	quasi	quasi	linguistic	none	_	_	_	_	_	_
 138-13	BOI068	138	la	la	linguistic	none	_	End=399.667	_	_	_	_
@@ -1142,8 +1142,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 161-4	BOI068	161	solite:	solite	linguistic	none	_	_	5x1	_	_	_
 161-5	BOI068	161	zone	zone	linguistic	none	_	_	_	_	_	_
 161-6	BOI068	161	tipo	tipo	linguistic	none	_	_	_	_	_	_
-161-7	BOI068	161	<via	via	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-161-8	BOI068	161	rizzoli>	rizzoli	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+161-7	BOI068	161	<via	via	linguistic	none	_	_	_	Slow=0-3	_	_
+161-8	BOI068	161	rizzoli>	rizzoli	linguistic	none	_	_	_	Slow=0-7	_	_
 161-9	BOI068	161	diciamo	diciamo	linguistic	none	_	_	_	_	_	_
 161-10	BOI068	161	proprio	proprio	linguistic	none	_	_	_	_	_	_
 161-11	BOI068	161	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -1332,7 +1332,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 200-0	BOI068	200	piuttosto	piuttosto	linguistic	none	_	Begin=534.876	_	_	_	_
 200-1	BOI068	200	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 200-2	BOI068	200	più	più	linguistic	none	_	_	_	_	_	_
-200-3	BOI068	200	<elementare>	elementare	linguistic	none	_	_	_	Slow=0-10(0)	_	_
+200-3	BOI068	200	<elementare>	elementare	linguistic	none	_	_	_	Slow=0-10	_	_
 200-4	BOI068	200	che:	che	linguistic	none	_	_	2x1	_	_	_
 200-5	BOI068	200	diciamo:	diciamo	linguistic	none	_	_	6x1	_	_	_
 200-6	BOI068	200	elevata	elevata	linguistic	none	_	_	_	_	_	_
@@ -1368,7 +1368,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 202-17	BOI068	202	madrelingua	madrelingua	linguistic	none	_	_	_	_	_	_
 202-18	BOI068	202	che	che	linguistic	none	_	_	_	_	_	_
 202-19	BOI068	202	era	era	linguistic	none	_	_	_	_	_	_
-202-20	BOI068	202	<brav[issimo]>	bravissimo	linguistic	none	_	End=550.332	_	Slow=0-10(0)	_	4-10(35)
+202-20	BOI068	202	<brav[issimo]>	bravissimo	linguistic	none	_	End=550.332	_	Slow=0-10	_	4-10(35)
 203-0	BOR019	203	[a::]h	ah	linguistic	none	_	Begin=549.751|End=550.513	0x2	_	_	0-1(35)
 204-0	BOI068	204	e:	e	linguistic	none	_	Begin=550.951	0x1	_	_	_
 204-1	BOI068	204	ci	ci	linguistic	none	_	_	_	_	_	_
@@ -1378,7 +1378,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 204-5	BOI068	204	tanto	tanto	linguistic	none	_	_	_	_	_	_
 204-6	BOI068	204	dialogo	dialogo	linguistic	none	_	End=553.313	_	_	_	_
 205-0	BOR019	205	mh	mh	linguistic	none	_	Begin=553.313|End=553.694	_	_	_	_
-206-0	BOI068	206	<mentre>	mentre	linguistic	none	_	Begin=553.694	_	Slow=0-6(0)	_	_
+206-0	BOI068	206	<mentre>	mentre	linguistic	none	_	Begin=553.694	_	Slow=0-6	_	_
 206-1	BOI068	206	alle	alle	linguistic	none	_	_	_	_	_	_
 206-2	BOI068	206	superiori	superiori	linguistic	none	_	_	_	_	_	_
 206-3	BOI068	206	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -1392,7 +1392,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 208-2	BOI068	208	che	che	linguistic	none	_	_	_	_	_	_
 208-3	BOI068	208	era	era	linguistic	none	_	End=558.062	_	_	_	_
 209-0	BOI068	209	veramente	veramente	linguistic	none	_	Begin=558.223	_	_	_	_
-209-1	BOI068	209	<rigida>	rigida	linguistic	none	_	End=559.805	_	Slow=0-6(0)	_	_
+209-1	BOI068	209	<rigida>	rigida	linguistic	none	_	End=559.805	_	Slow=0-6	_	_
 210-0	BOI068	210	però	però	linguistic	none	_	Begin=560.167	_	_	_	_
 210-1	BOI068	210	bravissima	bravissima	linguistic	none	_	_	_	_	_	_
 210-2	BOI068	210	una	una	linguistic	none	_	_	_	_	_	_
@@ -1468,7 +1468,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 222-3	BOI068	222	un	un	linguistic	some	_	_	_	_	_	_
 222-4	BOI068	222	prof	prof	linguistic	some	_	_	_	_	_	_
 222-5	BOI068	222	molto	molto	linguistic	some	_	_	_	_	_	_
-222-6	BOI068	222	<scialla>	scialla	linguistic	some	_	_	_	Slow=0-7(0)	_	_
+222-6	BOI068	222	<scialla>	scialla	linguistic	some	_	_	_	Slow=0-7	_	_
 222-7	BOI068	222	nel	nel	linguistic	some	_	_	_	_	_	_
 222-8	BOI068	222	senso	senso	linguistic	some	_	_	_	_	_	_
 222-9	BOI068	222	molto	molto	linguistic	some	_	_	_	_	_	_
@@ -1478,7 +1478,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 224-0	BOI068	224	comunque	comunque	linguistic	none	_	Begin=591.701|End=592.645	_	_	_	_
 225-0	BOI068	225	non	non	linguistic	none	_	Begin=592.806	_	_	_	_
 225-1	BOI068	225	era	era	linguistic	none	_	_	_	_	_	_
-225-2	BOI068	225	<serio>	serio	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+225-2	BOI068	225	<serio>	serio	linguistic	none	_	_	_	Slow=0-5	_	_
 225-3	BOI068	225	quanto	quanto	linguistic	none	_	_	_	_	_	_
 225-4	BOI068	225	la	la	linguistic	none	_	_	_	_	_	_
 225-5	BOI068	225	prof	prof	linguistic	none	_	_	_	_	_	_
@@ -1572,7 +1572,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 239-7	BOI068	239	lo	lo	linguistic	none	_	_	_	_	_	_
 239-8	BOI068	239	schermo	schermo	linguistic	none	_	_	_	_	_	_
 239-9	BOI068	239	del	del	linguistic	none	_	_	_	_	_	_
-239-10	BOI068	239	<computer>	computer	linguistic	none	_	_	_	Slow=0-8(0)	_	_
+239-10	BOI068	239	<computer>	computer	linguistic	none	_	_	_	Slow=0-8	_	_
 239-11	BOI068	239	perché	perché	linguistic	none	_	_	_	_	_	_
 239-12	BOI068	239	così	così	linguistic	none	_	End=635.101	_	_	_	_
 240-0	BOI068	240	e:h	eh	linguistic	none	_	Begin=635.345	0x1	_	_	_
@@ -1580,7 +1580,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 240-2	BOI068	240	potevamo	potevamo	linguistic	none	_	_	_	_	_	_
 240-3	BOI068	240	avere	avere	linguistic	none	_	_	_	_	_	_
 240-4	BOI068	240	degli	degli	linguistic	none	_	_	_	_	_	_
-240-5	BOI068	240	<appunti>	appunti	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+240-5	BOI068	240	<appunti>	appunti	linguistic	none	_	_	_	Slow=0-7	_	_
 240-6	BOI068	240	in	in	linguistic	none	_	_	_	_	_	_
 240-7	BOI068	240	schermate	schermate	linguistic	none	_	_	_	_	_	_
 240-8	BOI068	240	<diverse>	diverse	linguistic	none	_	_	_	Slow=0-7	_	_
@@ -1791,8 +1791,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 271-1	BOR019	271	okay	okay	linguistic	none	_	End=710.795	_	_	_	_
 272-0	BOI068	272	mentre	mentre	linguistic	none	_	Begin=711.634	_	_	_	_
 272-1	BOI068	272	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-272-2	BOI068	272	<lo	lo	linguistic	none	_	_	_	Slow=0-2(0)	_	_
-272-3	BOI068	272	spagnolo>	spagnolo	linguistic	none	_	_	_	Slow=0-8(0)	_	_
+272-2	BOI068	272	<lo	lo	linguistic	none	_	_	_	Slow=0-2	_	_
+272-3	BOI068	272	spagnolo>	spagnolo	linguistic	none	_	_	_	Slow=0-8	_	_
 272-4	BOI068	272	che	che	linguistic	none	_	_	_	_	_	_
 272-5	BOI068	272	è	è	linguistic	none	_	_	_	_	_	_
 272-6	BOI068	272	la	la	linguistic	none	_	_	_	_	_	_
@@ -1924,8 +1924,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 290-7	BOR019	290	estero,	estero	linguistic	none	Intonation=WeaklyRising	End=762.801	_	_	_	_
 291-0	BOR019	291	o::	o	linguistic	none	_	Begin=762.984|End=763.434	0x2	_	_	_
 292-0	BOI068	292	allora	allora	linguistic	none	_	Begin=763.488	_	_	_	_
-292-1	BOI068	292	<all'	all'	linguistic	none	SpaceAfter=No	_	_	Slow=0-4(0)	_	_
-292-2	BOI068	292	estero>	estero	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+292-1	BOI068	292	<all'	all'	linguistic	none	SpaceAfter=No	_	_	Slow=0-4	_	_
+292-2	BOI068	292	estero>	estero	linguistic	none	_	_	_	Slow=0-6	_	_
 292-3	BOI068	292	sono	sono	linguistic	none	_	_	_	_	_	_
 292-4	BOI068	292	stata	stata	linguistic	none	_	_	_	_	_	_
 292-5	BOI068	292	in	in	linguistic	none	_	_	_	_	_	_
@@ -2022,7 +2022,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 307-7	BOR019	307	oppure	oppure	linguistic	none	_	_	_	_	_	_
 307-8	BOR019	307	da	da	linguistic	none	_	_	_	_	_	_
 307-9	BOR019	307	sola	sola	linguistic	none	_	End=802.307	_	_	_	_
-308-0	BOI068	308	<adesso>	adesso	linguistic	none	_	Begin=802.826	_	Slow=0-6(0)	_	_
+308-0	BOI068	308	<adesso>	adesso	linguistic	none	_	Begin=802.826	_	Slow=0-6	_	_
 308-1	BOI068	308	abito	abito	linguistic	none	_	_	_	_	_	_
 308-2	BOI068	308	ancora	ancora	linguistic	none	_	_	_	_	_	_
 308-3	BOI068	308	con	con	linguistic	none	_	_	_	_	_	_
@@ -2033,7 +2033,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 309-1	BOI068	309	però	però	linguistic	none	_	_	_	_	_	_
 309-2	BOI068	309	stavo	stavo	linguistic	none	_	_	_	_	_	_
 309-3	BOI068	309	pensando:	pensando	linguistic	none	_	_	7x1	_	_	_
-309-4	BOI068	309	<appena>	appena	linguistic	none	_	_	_	Slow=0-6(0)	_	_
+309-4	BOI068	309	<appena>	appena	linguistic	none	_	_	_	Slow=0-6	_	_
 309-5	BOI068	309	e:h	eh	linguistic	none	_	_	0x1	_	_	_
 309-6	BOI068	309	comunque	comunque	linguistic	none	_	_	_	_	_	_
 309-7	BOI068	309	ho	ho	linguistic	none	_	_	_	_	_	_
@@ -2105,7 +2105,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 318-0	BOI068	318	no	no	linguistic	none	_	Begin=838.441|End=838.873	_	_	_	_
 319-0	BOR019	319	(°ho	ho	linguistic	none	Volume=Low	Begin=839.623	_	_	0-2(0)	_
 319-1	BOR019	319	[capi~]°)	capi~	linguistic	none	Interrupted=Yes|Volume=Low	End=840.211	_	_	0-5(0)	0-5(51)
-320-0	BOI068	320	<[per]ché>	perché	linguistic	none	_	Begin=839.79	_	Slow=0-6(0)	_	0-3(51)
+320-0	BOI068	320	<[per]ché>	perché	linguistic	none	_	Begin=839.79	_	Slow=0-6	_	0-3(51)
 320-1	BOI068	320	allora	allora	linguistic	none	_	_	_	_	_	_
 320-2	BOI068	320	a	a	linguistic	none	_	_	_	_	_	_
 320-3	BOI068	320	bologna,	bologna	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_
@@ -2575,7 +2575,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 399-2	BOI068	399	in	in	linguistic	none	_	_	_	_	_	_
 399-3	BOI068	399	tper	tper	linguistic	none	_	_	_	_	_	_
 399-4	BOI068	399	per	per	linguistic	none	_	_	_	_	_	_
-399-5	BOI068	399	<anni>	anni	linguistic	none	_	End=1023.401	_	Slow=0-4(0)	_	_
+399-5	BOI068	399	<anni>	anni	linguistic	none	_	End=1023.401	_	Slow=0-4	_	_
 400-0	BOR019	400	mh	mh	linguistic	none	_	Begin=1023.531|End=1023.713	_	_	_	_
 401-0	BOI068	401	e	e	linguistic	none	_	Begin=1023.719	_	_	_	_
 401-1	BOI068	401	ora	ora	linguistic	none	_	_	_	_	_	_
@@ -2618,7 +2618,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 408-5	BOR019	408	o:	o	linguistic	none	_	End=1042.906	0x1	_	_	_
 409-0	BOR019	409	anche	anche	linguistic	none	_	Begin=1043.101	_	_	_	_
 409-1	BOR019	409	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-409-2	BOR019	409	<bar>	bar	linguistic	none	_	_	_	Slow=0-3(0)	_	_
+409-2	BOR019	409	<bar>	bar	linguistic	none	_	_	_	Slow=0-3	_	_
 409-3	BOR019	409	che	che	linguistic	none	_	_	_	_	_	_
 409-4	BOR019	409	frequenti	frequenti	linguistic	none	_	_	_	_	_	_
 409-5	BOR019	409	così	così	linguistic	none	_	End=1045.213	_	_	_	_
@@ -2692,8 +2692,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 419-20	BOI068	419	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 419-21	BOI068	419	è	è	linguistic	none	_	_	_	_	_	_
 419-22	BOI068	419	il	il	linguistic	none	_	_	_	_	_	_
-419-23	BOI068	419	<the	the	linguistic	none	_	_	_	Slow=0-3(0)	_	_
-419-24	BOI068	419	space>	space	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+419-23	BOI068	419	<the	the	linguistic	none	_	_	_	Slow=0-3	_	_
+419-24	BOI068	419	space>	space	linguistic	none	_	_	_	Slow=0-5	_	_
 419-25	BOI068	419	[dove	dove	linguistic	none	_	_	_	_	_	0-4(62)
 419-26	BOI068	419	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(62)
 419-27	BOI068	419	è]	è	linguistic	none	_	End=1071.654	_	_	_	_
@@ -2935,10 +2935,10 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 465-3	BOR019	465	la	la	linguistic	none	_	_	_	_	_	_
 465-4	BOR019	465	casa	casa	linguistic	none	_	_	_	_	_	_
 465-5	BOR019	465	lì	lì	linguistic	none	_	End=1169.749	_	_	_	_
-466-0	BOI068	466	<allora>	allora	linguistic	none	_	Begin=1170.122|End=1171.333	_	Slow=0-6(0)	_	_
-467-0	BOI068	467	<la	la	linguistic	none	_	Begin=1171.433	_	Slow=0-2(0)	_	_
-467-1	BOI068	467	zona>,	zona	linguistic	none	Intonation=WeaklyRising	End=1172.754	_	Slow=0-4(0)	_	_
-468-0	BOI068	468	<allora>	allora	linguistic	none	_	Begin=1172.854|End=1173.825	_	Slow=0-6(0)	_	_
+466-0	BOI068	466	<allora>	allora	linguistic	none	_	Begin=1170.122|End=1171.333	_	Slow=0-6	_	_
+467-0	BOI068	467	<la	la	linguistic	none	_	Begin=1171.433	_	Slow=0-2	_	_
+467-1	BOI068	467	zona>,	zona	linguistic	none	Intonation=WeaklyRising	End=1172.754	_	Slow=0-4	_	_
+468-0	BOI068	468	<allora>	allora	linguistic	none	_	Begin=1172.854|End=1173.825	_	Slow=0-6	_	_
 469-0	BOI068	469	e:h	eh	linguistic	none	_	Begin=1174.533	0x1	_	_	_
 469-1	BOI068	469	diciamo:,	diciamo	linguistic	none	Intonation=WeaklyRising	End=1175.98	6x1	_	_	_
 470-0	BOI068	470	la	la	linguistic	none	_	Begin=1176.038	_	_	_	_
@@ -3049,9 +3049,9 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 493-1	BOR019	493	basket	basket	linguistic	none	_	End=1225.665	_	_	_	_
 494-0	BOI068	494	oddio	oddio	linguistic	none	_	Begin=1225.77|End=1226.445	_	_	_	_
 495-0	BOI068	495	eh	eh	linguistic	none	_	Begin=1226.644|End=1226.944	_	_	_	_
-496-0	BOI068	496	<calcio>,	calcio	linguistic	none	Intonation=WeaklyRising	Begin=1227.249|End=1228.301	_	Slow=0-6(0)	_	_
-497-0	BOI068	497	<non	non	linguistic	none	_	Begin=1228.854	_	Slow=0-3(0)	_	_
-497-1	BOI068	497	tantissimo>	tantissimo	linguistic	none	_	End=1230.454	_	Slow=0-10(0)	_	_
+496-0	BOI068	496	<calcio>,	calcio	linguistic	none	Intonation=WeaklyRising	Begin=1227.249|End=1228.301	_	Slow=0-6	_	_
+497-0	BOI068	497	<non	non	linguistic	none	_	Begin=1228.854	_	Slow=0-3	_	_
+497-1	BOI068	497	tantissimo>	tantissimo	linguistic	none	_	End=1230.454	_	Slow=0-10	_	_
 498-0	BOI068	498	e:h	eh	linguistic	none	_	Begin=1230.886|End=1231.47	0x1	_	_	_
 499-0	BOI068	499	sì	sì	linguistic	none	_	Begin=1231.607	_	_	_	_
 499-1	BOI068	499	tifo	tifo	linguistic	none	_	_	_	_	_	_
@@ -3066,7 +3066,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 500-6	BOI068	500	della:	della	linguistic	none	_	_	4x1	_	_	_
 500-7	BOI068	500	della	della	linguistic	none	_	_	_	_	_	_
 500-8	BOI068	500	mia	mia	linguistic	none	_	_	_	_	_	_
-500-9	BOI068	500	<città>	città	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+500-9	BOI068	500	<città>	città	linguistic	none	_	_	_	Slow=0-5	_	_
 500-10	BOI068	500	poi	poi	linguistic	none	_	_	_	_	_	_
 500-11	BOI068	500	perché	perché	linguistic	none	_	_	_	_	_	_
 500-12	BOI068	500	diciamo:	diciamo	linguistic	none	_	End=1237.812	6x1	_	_	_
@@ -3179,11 +3179,11 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 517-3	BOI068	517	mai	mai	linguistic	none	_	_	_	_	_	_
 517-4	BOI068	517	stata	stata	linguistic	none	_	_	_	_	_	_
 517-5	BOI068	517	proprio	proprio	linguistic	none	_	End=1281.996	_	_	_	_
-518-0	BOI068	518	<un>	un	linguistic	none	_	Begin=1282.123|End=1282.659	_	Slow=0-2(0)	_	_
+518-0	BOI068	518	<un>	un	linguistic	none	_	Begin=1282.123|End=1282.659	_	Slow=0-2	_	_
 519-0	BOI068	519	un'	un'	linguistic	none	SpaceAfter=No	Begin=1282.817	_	_	_	_
 519-1	BOI068	519	appassionata	appassionata	linguistic	none	_	_	_	_	_	_
 519-2	BOI068	519	delle	delle	linguistic	none	_	_	_	_	_	_
-519-3	BOI068	519	<squadre>	squadre	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+519-3	BOI068	519	<squadre>	squadre	linguistic	none	_	_	_	Slow=0-7	_	_
 519-4	BOI068	519	di	di	linguistic	none	_	_	_	_	_	_
 519-5	BOI068	519	calcio	calcio	linguistic	none	_	_	_	_	_	_
 519-6	BOI068	519	basket	basket	linguistic	none	_	_	_	_	_	_
@@ -3402,7 +3402,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 564-13	BOI068	564	parcheggi	parcheggi	linguistic	none	_	_	_	_	_	_
 564-14	BOI068	564	il	il	linguistic	none	_	_	_	_	_	_
 564-15	BOI068	564	biglie[tto]	biglietto	linguistic	none	_	End=1372.556	_	_	_	6-9(80)
-565-0	BOR019	565	[<mh>	mh	linguistic	none	_	Begin=1368.449	_	Slow=0-2(0)	_	0-2(79)
+565-0	BOR019	565	[<mh>	mh	linguistic	none	_	Begin=1368.449	_	Slow=0-2	_	0-2(79)
 565-1	BOR019	565	mhmh]	mhmh	linguistic	none	_	End=1369.26	_	_	_	0-4(79)
 566-0	BOR019	566	[cer]to	certo	linguistic	none	_	Begin=1372.302|End=1372.686	_	_	_	0-3(80)
 567-0	BOI068	567	abbiamo	abbiamo	linguistic	none	_	Begin=1373.023	_	_	_	_
@@ -3488,7 +3488,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 580-4	BOR019	580	hai	hai	linguistic	none	_	_	_	_	_	_
 580-5	BOR019	580	visto	visto	linguistic	none	_	_	_	_	_	_
 580-6	BOR019	580	lì	lì	linguistic	none	_	End=1400.291	_	_	_	_
-581-0	BOI068	581	<allora>	allora	linguistic	none	_	Begin=1400.412	_	Slow=0-6(0)	_	_
+581-0	BOI068	581	<allora>	allora	linguistic	none	_	Begin=1400.412	_	Slow=0-6	_	_
 581-1	BOI068	581	all'	all'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 581-2	BOI068	581	unipol	unipol	linguistic	none	_	_	_	_	_	_
 581-3	BOI068	581	arena,	arena	linguistic	none	Intonation=WeaklyRising	_	_	_	_	_

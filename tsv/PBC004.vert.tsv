@@ -219,8 +219,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 34-2	BOI011	34	fatto	fatto	linguistic	none	_	_	_	_	_	_
 34-3	BOI011	34	vedere	vedere	linguistic	none	_	_	_	_	_	_
 34-4	BOI011	34	cose	cose	linguistic	none	_	_	_	_	_	_
-34-5	BOI011	34	<molto	molto	linguistic	none	_	_	_	Slow=0-5(0)	_	_
-34-6	BOI011	34	piccole>	piccole	linguistic	none	_	_	_	Slow=0-7(0)	_	_
+34-5	BOI011	34	<molto	molto	linguistic	none	_	_	_	Slow=0-5	_	_
+34-6	BOI011	34	piccole>	piccole	linguistic	none	_	_	_	Slow=0-7	_	_
 34-7	BOI011	34	che	che	linguistic	none	_	_	_	_	_	_
 34-8	BOI011	34	anche	anche	linguistic	none	_	End=77.61	_	_	_	_
 35-0	BOI011	35	i	i	linguistic	none	_	Begin=78.293	_	_	_	_

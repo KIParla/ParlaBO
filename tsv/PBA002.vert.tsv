@@ -844,7 +844,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 144-19	BOR010	144	per	per	linguistic	none	_	_	_	_	_	_
 144-20	BOR010	144	dire	dire	linguistic	none	_	End=316.725	_	_	_	_
 145-0	BOR010	145	diciamo	diciamo	linguistic	none	_	Begin=317.19|End=317.629	_	_	_	_
-146-0	BOI053	146	<sì>	sì	linguistic	none	_	Begin=318.09|End=318.631	_	Slow=0-2(0)	_	_
+146-0	BOI053	146	<sì>	sì	linguistic	none	_	Begin=318.09|End=318.631	_	Slow=0-2	_	_
 147-0	BOI053	147	la	la	linguistic	none	_	Begin=318.9	_	_	_	_
 147-1	BOI053	147	mentalità	mentalità	linguistic	none	_	_	_	_	_	_
 147-2	BOI053	147	è	è	linguistic	none	_	_	_	_	_	_
@@ -1667,7 +1667,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 309-7	BOI054	309	caratteristica	caratteristica	linguistic	none	_	_	_	_	_	_
 309-8	BOI054	309	nel	nel	linguistic	none	_	_	_	_	_	_
 309-9	BOI054	309	senso	senso	linguistic	none	_	End=643.892	_	_	_	_
-310-0	BOI054	310	<archittettonicamente>	archittettonicamente	linguistic	none	_	Begin=644.52	_	Slow=0-20(0)	_	_
+310-0	BOI054	310	<archittettonicamente>	archittettonicamente	linguistic	none	_	Begin=644.52	_	Slow=0-20	_	_
 310-1	BOI054	310	parlando	parlando	linguistic	none	_	End=646.535	_	_	_	_
 311-0	BOI054	311	c(io)è	cioè	linguistic	none	_	Begin=646.71	_	_	1-3(0)	_
 311-1	BOI054	311	adesso	adesso	linguistic	none	_	_	_	_	_	_
@@ -2845,7 +2845,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 538-3	BOI053	538	sono	sono	linguistic	none	_	_	_	_	_	_
 538-4	BOI053	538	ancora	ancora	linguistic	none	_	_	_	_	_	_
 538-5	BOI053	538	diventata	diventata	linguistic	none	_	_	_	_	_	_
-538-6	BOI053	538	<proprietaria>	proprietaria	linguistic	none	_	End=1119.411	_	Slow=0-12(0)	_	_
+538-6	BOI053	538	<proprietaria>	proprietaria	linguistic	none	_	End=1119.411	_	Slow=0-12	_	_
 539-0	BOI053	539	della	della	linguistic	none	_	Begin=1119.93	_	_	_	_
 539-1	BOI053	539	pizzeria	pizzeria	linguistic	none	_	_	_	_	_	_
 539-2	BOI053	539	((ride))	((ride))	nonverbalbehavior	none	_	End=1121.5	_	_	_	_
@@ -3189,7 +3189,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 618-2	BOI054	618	delle	delle	linguistic	none	_	End=1260.964	_	_	_	_
 619-0	BOI054	619	più	più	linguistic	none	_	Begin=1261.45	_	_	_	_
 619-1	BOI054	619	grandi	grandi	linguistic	none	_	_	_	_	_	_
-619-2	BOI054	619	<°diciamo°>	diciamo	linguistic	none	Volume=Low	_	_	Slow=0-7(0)	_	_
+619-2	BOI054	619	<°diciamo°>	diciamo	linguistic	none	Volume=Low	_	_	Slow=0-7	_	_
 619-3	BOI054	619	produttrici	produttrici	linguistic	none	_	_	_	_	_	_
 619-4	BOI054	619	a	a	linguistic	none	_	_	_	_	_	_
 619-5	BOI054	619	livello	livello	linguistic	none	_	_	_	_	_	_
@@ -4099,7 +4099,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 783-0	BOI054	783	eh	eh	linguistic	none	_	Begin=1614.8	_	_	_	_
 783-1	BOI054	783	beh	beh	linguistic	none	_	End=1615.265	_	_	_	_
 784-0	BOI053	784	gli	gli	linguistic	none	_	Begin=1615.38	_	_	_	_
-784-1	BOI053	784	<shottini>	shottini	linguistic	none	_	End=1616.993	_	Slow=0-8(0)	_	_
+784-1	BOI053	784	<shottini>	shottini	linguistic	none	_	End=1616.993	_	Slow=0-8	_	_
 785-0	BOR010	785	(la	la	linguistic	none	_	Begin=1617.53	_	_	0-2(0)	_
 785-1	BOR010	785	prossima	prossima	linguistic	none	_	_	_	_	0-8(0)	_
 785-2	BOR010	785	volta)	volta	linguistic	none	_	_	_	_	0-5(0)	_

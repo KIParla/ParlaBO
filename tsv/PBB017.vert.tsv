@@ -147,8 +147,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 35-7	BOR011	35	tanto	tanto	linguistic	none	_	_	_	_	_	_
 35-8	BOR011	35	tempo?	tempo	linguistic	none	Intonation=Rising	_	_	_	_	_
 35-9	BOR011	35	((ride))	((ride))	nonverbalbehavior	none	_	End=54.217	_	_	_	_
-36-0	BOI050	36	<un	un	linguistic	none	_	Begin=54.687	_	Slow=0-2(0)	_	_
-36-1	BOI050	36	anno>	anno	linguistic	none	_	_	_	Slow=0-4(0)	_	_
+36-0	BOI050	36	<un	un	linguistic	none	_	Begin=54.687	_	Slow=0-2	_	_
+36-1	BOI050	36	anno>	anno	linguistic	none	_	_	_	Slow=0-4	_	_
 36-2	BOI050	36	e:	e	linguistic	none	_	_	0x1	_	_	_
 36-3	BOI050	36	qualche	qualche	linguistic	none	_	_	_	_	_	_
 36-4	BOI050	36	mese	mese	linguistic	none	_	End=56.864	_	_	_	_
@@ -1692,7 +1692,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 275-2	BOI050	275	anni	anni	linguistic	none	_	_	_	_	_	_
 275-3	BOI050	275	scusami	scusami	linguistic	none	_	_	_	_	_	_
 275-4	BOI050	275	due	due	linguistic	none	_	_	_	_	_	_
-275-5	BOI050	275	<an[ni]>	anni	linguistic	none	_	End=634.96	_	Slow=0-4(0)	_	2-4(39)
+275-5	BOI050	275	<an[ni]>	anni	linguistic	none	_	End=634.96	_	Slow=0-4	_	2-4(39)
 276-0	BOR011	276	[e	e	linguistic	none	_	Begin=634.543	_	_	_	0-1(39)
 276-1	BOR011	276	dov'	dov'	linguistic	none	SpaceAfter=No	_	_	_	_	0-4(39)
 276-2	BOR011	276	è]	è	linguistic	none	_	_	_	_	_	0-1(39)
@@ -2807,7 +2807,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 416-2	BOI050	416	me	me	linguistic	none	_	_	_	_	_	0-2(65)
 416-3	BOI050	416	l'	l'	linguistic	none	SpaceAfter=No	_	_	_	_	0-2(65)
 416-4	BOI050	416	hai	hai	linguistic	none	_	_	_	_	_	0-3(65)
-416-5	BOI050	416	<ricor]dato>	ricordato	linguistic	none	_	End=1003.75	_	Slow=0-9(0)	_	0-5(65)
+416-5	BOI050	416	<ricor]dato>	ricordato	linguistic	none	_	End=1003.75	_	Slow=0-9	_	0-5(65)
 417-0	BOR011	417	ma	ma	linguistic	none	_	Begin=1003.959	_	_	_	_
 417-1	BOR011	417	perché	perché	linguistic	none	_	_	_	_	_	_
 417-2	BOR011	417	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
@@ -10639,8 +10639,8 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1513-3	BOI050	1513	immagino	immagino	linguistic	none	_	_	_	_	_	_
 1513-4	BOI050	1513	venezia	venezia	linguistic	none	_	End=3757.88	_	_	_	_
 1514-0	BOR011	1514	mh	mh	linguistic	none	_	Begin=3758.04|End=3758.51	_	_	_	_
-1515-0	BOI050	1515	<deserta:	deserta	linguistic	none	_	Begin=3758.54	6x1	Slow=0-7(0)	_	_
-1515-1	BOI050	1515	wow>	wow	linguistic	none	_	End=3760.34	_	Slow=0-3(0)	_	_
+1515-0	BOI050	1515	<deserta:	deserta	linguistic	none	_	Begin=3758.54	6x1	Slow=0-7	_	_
+1515-1	BOI050	1515	wow>	wow	linguistic	none	_	End=3760.34	_	Slow=0-3	_	_
 1516-0	BOR011	1516	molte	molte	linguistic	none	_	Begin=3760.35	_	_	_	_
 1516-1	BOR011	1516	per~	per~	linguistic	none	Interrupted=Yes	_	_	_	_	_
 1516-2	BOR011	1516	per	per	linguistic	none	_	_	_	_	_	_
@@ -10912,7 +10912,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 1544-8	BOI050	1544	di	di	linguistic	none	_	_	_	_	_	_
 1544-9	BOI050	1544	un	un	linguistic	none	_	_	_	_	_	_
 1544-10	BOI050	1544	tempo.	tempo	linguistic	none	Intonation=Falling	End=3853.61	_	_	_	_
-1545-0	BOR011	1545	<sì>	sì	linguistic	none	_	Begin=3853.62|End=3854.31	_	Slow=0-2(0)	_	_
+1545-0	BOR011	1545	<sì>	sì	linguistic	none	_	Begin=3853.62|End=3854.31	_	Slow=0-2	_	_
 1546-0	BOI050	1546	non:	non	linguistic	none	_	Begin=3854.31|End=3855.74	2x1	_	_	_
 1547-0	BOR011	1547	dopo	dopo	linguistic	none	_	Begin=3855.75	_	_	_	_
 1547-1	BOR011	1547	quanto?	quanto	linguistic	none	Intonation=Rising	End=3856.56	_	_	_	_

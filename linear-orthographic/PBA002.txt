@@ -1,25 +1,25 @@
 BOR010	okay
-BOR010	partito  si  si okay
+BOR010	partito si si okay
 BOR010	e allora
-BOI053	dicevamo che quindi voi siete  abitate a bologna o siete più diciamo spostati
-BOI054	e non proprio bologna abitiamo io abito a san lazzaro  quindi un po' in periferia
+BOI053	dicevamo che quindi voi siete abitate a bologna o siete più diciamo spostati
+BOI054	e non proprio bologna abitiamo io abito a san lazzaro quindi un po' in periferia
 BOR010	io abito verso castel san pietro quindi verso imola
-BOR010	ah okay perfetto giusto   non mi ricordavo
+BOR010	ah okay perfetto giusto non mi ricordavo
 BOI053	equindi però comunque fate molte attività a bologna oppure vi cioè vi venite qua spesso oppure
-BOR010	beh  andiamo a fare danza irlandese
+BOR010	beh andiamo a fare danza irlandese
 BOI053	
-BOR010	e vabbè io ho l'università quindi devo andarci tutti i giorni vicino alla stazione però come dire in centro proprio mh  non spessissimo  non ci vado spesissimo
+BOR010	e vabbè io ho l'università quindi devo andarci tutti i giorni vicino alla stazione però come dire in centro proprio mh non spessissimo non ci vado spesissimo
 BOR010	eh xx non la conosci allora
 BOI053	non la conosci allora
 BOR010	così così
-BOI053	accidenti  tutte domande su bologna
+BOI053	accidenti tutte domande su bologna
 BOR010	eh infatti
-BOR010	sarà fantastico  eil signor
+BOR010	sarà fantastico eil signor
 BOI053	
 BOI054	il signor stefano xx
-BOI054	io non ci  non ci giro molto non ci bazzico spesso però  le volte che ci vado si è per andare o a danza irlandese o per quanto riguarda delle attività
-BOR010	di mh  diciamo figuranti  per diciamo l'associazione della pro loco di ozzano
-BOI054	e non ho idea di cosa sia onestamente  però
+BOI054	io non ci non ci giro molto non ci bazzico spesso però le volte che ci vado si è per andare o a danza irlandese o per quanto riguarda delle attività
+BOR010	di mh diciamo figuranti per diciamo l'associazione della pro loco di ozzano
+BOI054	e non ho idea di cosa sia onestamente però
 BOR010	faccio il figurante non so per eventi a bologna o
 BOI053	xx
 BOI054	ma n~ cioè eh com'è è manifestazionista e che
@@ -36,7 +36,7 @@ BOR010
 BOR010	e
 BOR010	quindi vabbè p~ ehm
 BOI053	quindi immagino che non abbiate cioè avete sempre vissuto comunque a san lazzaro e lì in zona non penso bologna eh deduco
-BOI054	no io a bologna non ho mai  non ho mai vissuto
+BOI054	no io a bologna non ho mai non ho mai vissuto
 BOI053	vissuto neanch'io
 BOR010	anche se mia mamma è di bologna
 BOI053	ah e~ ah okayay
@@ -88,7 +88,7 @@ BOI053	si sentiva xx per il lanciafiamme
 BOR010	
 BOR010	lo sapevo
 BOR010	e
-BOI053	invece  bologna vabbè non so se la conoscete abbastanza però un minimo saprete
+BOI053	invece bologna vabbè non so se la conoscete abbastanza però un minimo saprete
 BOR010	un minimo
 BOI054	sapete se c'è qualcosa che avete notato di
 BOI053	da migliorare
@@ -125,7 +125,7 @@ BOR010	immagino
 BOR010	arrivo anch'io quindi
 BOR010	e poi cosa volevo chiedervi ehm
 BOR010	vabbè e quindi comunque siete cioè per attività che fate comunque vi
-BOR010	vi  v~ cioè nel senso vi piace anche come città comunque secondo voi bologna preferite non so altre città eh
+BOR010	vi v~ cioè nel senso vi piace anche come città comunque secondo voi bologna preferite non so altre città eh
 BOI053	o le città in cui vivete non so
 BOR010	a me piace perché
 BOI053	x xx
@@ -135,14 +135,14 @@ BOR010	mi perdo come dire
 BOI053	xx
 BOR010	e invece
 BOI053	bologna è piccolina adesso
-BOR010	beh  rispetto ad altre sì
+BOR010	beh rispetto ad altre sì
 BOR010	sì in effetti
 BOR010	mh sì
 BOR010	quindi beh siete contenti direi qui
-BOI053	e ecco una cosa che volevo che  volevo chiedervi visto che comunque siete anche diciamo avete più o meno la mia la mia età e siete giovani no
+BOI053	e ecco una cosa che volevo che volevo chiedervi visto che comunque siete anche diciamo avete più o meno la mia la mia età e siete giovani no
 BOR010	mhmh
 BOR010	ma eh cioè bologna quindi secondo voi è una città che comunque dà anche diciamo l'opportunità di
-BOR010	non so conoscere al~  tre realtà nuove non so anche visto che parlavate di balli irlandesi anche di per dire
+BOR010	non so conoscere al~ tre realtà nuove non so anche visto che parlavate di balli irlandesi anche di per dire
 BOI053	diciamo
 BOI053	sì
 BOI053	la mentalità è molto
@@ -253,7 +253,7 @@ BOR010	o comunque andrebbe migliorato qualcosa
 BOI053	visto che
 BOI053	ultimamenti mi sembra che un po' di lavori li abbiano fatti
 BOI053	però
-BOI053	sì c'è ancora un po' di pulizia da migliorare anche  i cassonetti spesso si vedono
+BOI053	sì c'è ancora un po' di pulizia da migliorare anche i cassonetti spesso si vedono
 BOI054	sacchetti lasciati in mezzo alla strada anche sotto i portici
 BOI053	perché c'è la raccolta
 BOI054	sì lo so lo so
@@ -283,7 +283,7 @@ BOI053	è patrimonio nostro
 BOI054	però al di fuori
 BOI053	boh
 BOI053	sì ma magari se vai in america
-BOI053	non sanno neanche dove sia bologna figurati se sanno do~  che
+BOI053	non sanno neanche dove sia bologna figurati se sanno do~ che
 BOI053	la caratteristica principale di bologna sono i portici
 BOI053	cioè andrebbero più
 BOR010	sponsorizzati
@@ -391,13 +391,13 @@ BOI054	il fatto che era una vecchia città
 BOI054	marittima diciamo arrivava anche a
 BOI054	quattro cinque porti
 BOI054	all'interno della città
-BOI054	adesso  tutt'ora
+BOI054	adesso tutt'ora
 BOI054	ci sono diciamo dei proble~ non sono problemi secondo me ma comuqnue
 BOI054	delle divergenze anche con i treni
 BOI054	sotterranei proprio perché bologna
 BOI054	è una venezia pratica~ in pratica costruita sopra
 BOI054	sopra il
-BOI054	un fiume diciamo quindi  i sotterranei di bologna sono altro delle cose visitabili
+BOI054	un fiume diciamo quindi i sotterranei di bologna sono altro delle cose visitabili
 BOI054	con guida
 BOI054	o anche
 BOI054	l'università più antica
@@ -423,7 +423,7 @@ BOI053	e
 BOI054	non lo so qualcuno si è sbagliato magari siamo noi
 BOR010	probabile probabile
 BOR010	ma no xxxxx
-BOI053	ah tra tra l'altro ah beh tu è vero non fai neanche cioè non fai proprio l'università di bologna  quindi
+BOI053	ah tra tra l'altro ah beh tu è vero non fai neanche cioè non fai proprio l'università di bologna quindi
 BOR010	no no no
 BOI053	e
 BOR010	neanche quello
@@ -435,7 +435,7 @@ BOI053	che sta vicino alla stazione
 BOI053	vicino a via boldrini
 BOI053	e via amendola
 BOR010	tipo all'incrocio tra via boldrini e via amendola
-BOI053	mh non ho già beh xx  esatto
+BOI053	mh non ho già beh xx esatto
 BOR010	non hai capito però
 BOI053	faccio finta di
 BOR010	stazione
@@ -443,7 +443,7 @@ BOR010	okay viale della stazione
 BOR010	ma
 BOR010	se
 BOR010	scusa eh già che ci sono bombardo di domande
-BOI053	ma l'hai scelta cioè  perché ti interessava
+BOI053	ma l'hai scelta cioè perché ti interessava
 BOR010	oddio
 BOI053	non so perché speravi di trovare lavoro dopo non so
 BOI053	sì più che altro perché
@@ -486,11 +486,11 @@ BOI053	per lavorare non so
 BOR010	a meno che tu non voglia fare l'i~ l'insegnante non è che sia utlissimo
 BOI053	mi sto pentendo di aver scelto l'unibo okay
 BOR010	no no vabbè dipende da che cosa vuoi fare
-BOR010	eh infatti l'insegnante è l'ultima cosa  proprio
+BOR010	eh infatti l'insegnante è l'ultima cosa proprio
 BOR010	eh che bello
 BOR010	e perché ultimamente x mi son dimentica~ ah e
 BOR010	ah ecco volevo chiederti se quindi se lavoravi anche comunque come
-BOI053	dicevi che lavoravi anche cioè lavorava~  lavoravate anche
+BOI053	dicevi che lavoravi anche cioè lavorava~ lavoravate anche
 BOI053	sì lavoriamo
 BOI053	vabbè io faccio qualcosa che non c'entra niente con il cinese perché faccio la cameriera in un pizzeria
 BOI053	ehm
@@ -577,7 +577,7 @@ BOI053	impari
 BOR010	o non sopravvivi
 BOI053	che bello
 BOR010	quindi
-BOI053	simpatico eh  l'approccio
+BOI053	simpatico eh l'approccio
 BOR010	sì
 BOI053	in pratica dovresti soprattutto imparare
 BOI053	sì soprattutto imparare
@@ -603,7 +603,7 @@ BOR010	ho sempre vissuto qua
 BOI053	ah ci sta
 BOR010	ho tutti i ricordi qua
 BOR010	
-BOI054	stefano è silenzioso  in tutto questo
+BOI054	stefano è silenzioso in tutto questo
 BOI054	no sì sì non
 BOR010	non mi sento preso in causa diciamo
 BOR010	xxx
@@ -683,7 +683,7 @@ BOI053	beh sì cas~
 BOI054	più in campagna diciamo
 BOR010	castel san pietro è un po'
 BOI053	ah beh giusto è vero
-BOR010	è molto  periferica
+BOR010	è molto periferica
 BOI053	immagino che solo a bologna
 BOR010	sì sì no qua costerebbe molto di più
 BOR010	eh immagino perché vedo i miei compagni tutti eh ragazzi devo cercare una casa aiuto
@@ -693,7 +693,7 @@ BOR010	domande sugli studi direi che
 BOR010	ah beh ecco una cosa che
 BOR010	non vi ho mai cioè
 BOR010	no~ non so voi
-BOR010	parte~ pa~ eh  partecipate molto alla anche movida
+BOR010	parte~ pa~ eh partecipate molto alla anche movida
 BOR010	bolognese alla sera oppure
 BOI053	visto che parlavate di tornare presto alla sera
 BOI053	ah mh
@@ -734,7 +734,7 @@ BOI054	in centro però
 BOI054	non lo sfrutto molto questo
 BOI054	quest'opportunità di girare
 BOR010	xxx
-BOR010	non so e  vabbè ci ci sta almeno ogni tanto girate
+BOR010	non so e vabbè ci ci sta almeno ogni tanto girate
 BOI053	perché non so almeno da studenti la cosa più bella è la movida alla sera
 BOI054	eh lo so
 BOI054	nel senso x
@@ -748,7 +748,7 @@ BOR010	tutti insieme
 BOR010	tra l'altro non so che ore siano speriamo che
 BOI053	
 BOR010	cinquantaquattro
-BOR010	ah o~  ~kay dai ci stiamo dentro
+BOR010	ah o~ ~kay dai ci stiamo dentro
 BOR010	e
 BOR010	tra l'altro sì dai so~ son
 BOR010	son contenta almeno
@@ -783,7 +783,7 @@ BOR010
 BOI054	eh vedi
 BOI053	eh beh
 BOR010	gli shottini
-BOI053	la prossima volta non vivevate la vita  xxxx
+BOI053	la prossima volta non vivevate la vita xxxx
 BOI053	con tutti i vari gusti poi buonissimi
 BOI053	anche il mirtillo
 BOR010	sì sì
@@ -805,7 +805,7 @@ BOR010	son proprio
 BOI053	sono un po' stupide quindi
 BOR010	no vabbè ormai ci hai spremuti abbastanza
 BOR010	esatto sebbene che ci ho provato ma
-BOI053	dai eh  s~
+BOI053	dai eh s~
 BOR010	va bene arrivederci prof
 BOI053	arrivede~ no non mi non mi ubriaco
 BOI053	

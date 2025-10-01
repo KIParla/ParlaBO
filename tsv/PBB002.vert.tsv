@@ -313,7 +313,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 37-8	BOI003	37	ci	ci	linguistic	none	_	_	_	_	_	_
 37-9	BOI003	37	sono	sono	linguistic	none	_	_	_	_	_	_
 37-10	BOI003	37	molti	molti	linguistic	none	_	_	_	_	_	_
-37-11	BOI003	37	<stranie:[ri]>	stranieri	linguistic	none	_	_	6x1	Slow=0-9(0)	_	7-9(9)
+37-11	BOI003	37	<stranie:[ri]>	stranieri	linguistic	none	_	_	6x1	Slow=0-9	_	7-9(9)
 37-12	BOI003	37	così	così	linguistic	none	_	_	_	_	_	_
 37-13	BOI003	37	è	è	linguistic	none	_	_	_	_	_	_
 37-14	BOI003	37	sempre	sempre	linguistic	none	_	_	_	_	_	_
@@ -3076,7 +3076,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 410-1	BOI003	410	era	era	linguistic	none	_	_	_	_	_	_
 410-2	BOI003	410	sempre	sempre	linguistic	none	_	_	_	_	_	_
 410-3	BOI003	410	una	una	linguistic	none	_	_	_	_	_	_
-410-4	BOI003	410	<suora>	suora	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+410-4	BOI003	410	<suora>	suora	linguistic	none	_	_	_	Slow=0-5	_	_
 410-5	BOI003	410	in	in	linguistic	none	_	_	_	_	_	_
 410-6	BOI003	410	un	un	linguistic	none	_	_	_	_	_	_
 410-7	BOI003	410	angolino	angolino	linguistic	none	_	_	_	_	_	_
@@ -3259,7 +3259,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 439-6	BOI003	439	ricordo:	ricordo	linguistic	none	_	End=1255.254	6x1	_	_	_
 440-0	BOI003	440	con	con	linguistic	none	_	Begin=1255.787	_	_	_	_
 440-1	BOI003	440	più	più	linguistic	none	_	_	_	_	_	_
-440-2	BOI003	440	<gioia>	gioia	linguistic	none	_	_	_	Slow=0-5(0)	_	_
+440-2	BOI003	440	<gioia>	gioia	linguistic	none	_	_	_	Slow=0-5	_	_
 440-3	BOI003	440	così	così	linguistic	none	_	_	_	_	_	_
 440-4	BOI003	440	perché	perché	linguistic	none	_	_	_	_	_	_
 440-5	BOI003	440	proprio	proprio	linguistic	none	_	_	_	_	_	_

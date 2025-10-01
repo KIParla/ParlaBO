@@ -14,7 +14,7 @@ BOR005	io no
 BOI024	e in che zo~ mh e in che zona abitavi
 BOR005	casteldebole
 BOR005	e
-BOI024	da quando sei nata fino a quando non ti sei trasferita a funo hai sempre abitato lì  o anche in altre zone di bologna
+BOI024	da quando sei nata fino a quando non ti sei trasferita a funo hai sempre abitato lì o anche in altre zone di bologna
 BOI024	no
 BOI024	mh no ho abitato a milano
 BOR005	e poi basta no
@@ -34,11 +34,11 @@ BOI024	mhmh
 BOI024	era un po' il periodo
 BOR005	in cui c'erano pare~ c'era parecchio spaccio a casteldebole quindi
 BOI024	mhmh
-BOR005	non eravamo così tanto liberi di girare almeno mamma  non ci faceva andare in giro così tanto ecco
+BOR005	non eravamo così tanto liberi di girare almeno mamma non ci faceva andare in giro così tanto ecco
 BOR005	mhmh
 BOR005	mh
 BOI024	mhmh
-BOR005	per dire non potevamo  frequentare la baracchina dei gelati mentre tutti gli altri bam~ ragazzini
+BOR005	per dire non potevamo frequentare la baracchina dei gelati mentre tutti gli altri bam~ ragazzini
 BOR005	mhmh
 BOI024	
 BOI025	forse d~ genitori un po' più ingenui
@@ -57,12 +57,12 @@ BOR005	non m'è mai piaciuto molto anche quando ero più grande
 BOR005	mh
 BOR005	però comunque
 BOI024	facendo le scuole vi è capitato comunque di frequentare bologna città
-BOR005	eh si perché noi  dopo le elementari abbiamo sempre frequentato il centro
+BOR005	eh si perché noi dopo le elementari abbiamo sempre frequentato il centro
 BOI024	mhmh
 BOR005	perché andavamo a scuola in centro
 BOR005	mhmh
-BOI025	anche tu xxx  mhmh
-BOI024	sì  sì
+BOI025	anche tu xxx mhmh
+BOI024	sì sì
 BOR005	e andavo a alle gandino
 BOI024	mhmh
 BOI025	le gandino erano
@@ -81,7 +81,7 @@ BOR005	sì
 BOR005	okay
 BOR005	ehm
 BOR005	rispetto
-BOR005	cioè pensando  a bologna qua~ il centro storico soprattuto il sabato sera
+BOR005	cioè pensando a bologna qua~ il centro storico soprattuto il sabato sera
 BOR005	quando magari lo frequentavate voi come magari può essere adesso non not~ lo ave~ ehm cioè avete notato un grande cambiamento nella città anche
 BOI024	nei luoghi
 BOI025	moltissimo
@@ -102,9 +102,9 @@ BOI024	no è sempre stata uguale cioè l~ l~ l~ l~
 BOI025	molto più vuota adesso
 BOI024	è molto più vuota ma questo è dato dal eh dal covid
 BOI025	ma no
-BOI025	questo anch'io l'ho pensato però io penso al eh  periodo
+BOI025	questo anch'io l'ho pensato però io penso al eh periodo
 BOI025	pre covid cioè due tre anni fa le volte che mi capitava di andare in centro la sera rarissime
-BOI024	non la trovavo una zona  mh completamente diversa da come l'avevo lasciata io dieci anni prima
+BOI024	non la trovavo una zona mh completamente diversa da come l'avevo lasciata io dieci anni prima
 BOI025	ah io sì io sì molto diversa
 BOI024	ma no ma la piccola grande delinquenza c'è sempre stata
 BOI025	sono cambiati i locali
@@ -113,29 +113,29 @@ BOI025	sì ho capito però c'era molta meno gente molti meno studenti
 BOI024	ho capito xxx
 BOI024	cioè
 BOI024	anni fa via zamboni
-BOI024	e mh  piazza verdi erano
-BOR005	pieni di ragazzi  è gente della nostra età non gente che faceva a botte cioè gente tranquilla anche
+BOI024	e mh piazza verdi erano
+BOR005	pieni di ragazzi è gente della nostra età non gente che faceva a botte cioè gente tranquilla anche
 BOI024	mh
 BOR005	vabbè ovvio sì che è vero a tutti quanti però era c'era tanta tanta gente in centro
 BOR005	mhmh
 BOI024	mhmh
-BOI024	era più  bello
-BOR005	forse perché io ero più giovane  non lo so
+BOI024	era più bello
+BOR005	forse perché io ero più giovane non lo so
 BOI025	
 BOI025	ma secondo me il grasso mh il grosso cambiamento c'è stato da dal lockdown dalla
 BOI025	dai due anni di pandemia
-BOI024	e quello lì è tanto cambiata perché  i rag~ molti ragazzi
+BOI024	e quello lì è tanto cambiata perché i rag~ molti ragazzi
 BOI025	secondo me xxxxx prima
-BOI025	per dire io noto che a a funo  i ragazzi ci sono molto più spesso la sera
+BOI025	per dire io noto che a a funo i ragazzi ci sono molto più spesso la sera
 BOI025	al parco che stanno lì tra di loro
 BOI025	a far niente fondamentalmente
 BOI025	e una volta non era così
-BOI025	e probabilmente una volta andavano più verso bologna  e adesso invece tendono a stare vicino casa diciamo
+BOI025	e probabilmente una volta andavano più verso bologna e adesso invece tendono a stare vicino casa diciamo
 BOI025	secondo me
 BOR005	impressione che ho avuto io poi
 BOI025	xxxx che col covid non si spostano più in città
-BOI025	se~ a io ho avuto quell'impressione lì  che tendono a spostarsi di meno poi chiaramente
-BOI024	i locali in via zamboni sono chiusi  tutt'ora  perché non
+BOI025	se~ a io ho avuto quell'impressione lì che tendono a spostarsi di meno poi chiaramente
+BOI024	i locali in via zamboni sono chiusi tutt'ora perché non
 BOI025	son chiusi
 BOI024	eh i pub
 BOI025	xx saranno aperte adesso
@@ -155,7 +155,7 @@ BOR005	vabbè comunque so' state chiuse fino adesso hanno riaperto chiuso quindi
 BOI025	mh
 BOR005	per tornare alla normalità ci ci vuole un po' di tempo non è che
 BOI025	mh
-BOI025	boom  e come riapro ci si fionda tutti
+BOI025	boom e come riapro ci si fionda tutti
 BOR005	in due anni i ragazzi anche loro si saranno abituati a non andare nei locali
 BOI025	sì
 BOI025	e quindi
@@ -164,20 +164,20 @@ BOI025	come anche i ra~ ristorante come andare a fare
 BOR005	eh lo shopping come qualsiasi cosa la gente si è abituata poi dopo si con calma col tempo si xxx
 BOI025	
 BOR005	ad andare di persona
-BOI025	sì probabilmente la vita di bologna ne ha risentito molto  del covid
+BOI025	sì probabilmente la vita di bologna ne ha risentito molto del covid
 BOR005	secondo me sì
 BOI025	mh
 BOR005	mh il centro storico eh sempre il centro non è che di bologna non è che parliamo di una metropoli
 BOI024	mhmh
 BOI024	sì però già prima già vedi tutti quei movimenti di protesta di
-BOI024	ehm come si chiamano  i comitati cittadini che hanno fatto la guerra a tutti i locali
+BOI024	ehm come si chiamano i comitati cittadini che hanno fatto la guerra a tutti i locali
 BOI024	in via del pratello ah non si dorme
 BOI025	cioè il centro si è spopolato non è così
-BOI024	sì  sì sì sì
+BOI024	sì sì sì sì
 BOI024	per colpa degli affitti che sono aumentati a dismisura e quindi un ragazzo normale che magari
 BOI024	quindici anni fa quando
-BOI024	andavamo noi in centro un ragazzo che frequentava l'università  abitava in centro quindi usciva e popolava la città
-BOI024	invece adesso un ragazzo  lo stesso ragazzo con lo stesso reddito
+BOI024	andavamo noi in centro un ragazzo che frequentava l'università abitava in centro quindi usciva e popolava la città
+BOI024	invece adesso un ragazzo lo stesso ragazzo con lo stesso reddito
 BOR005	mh dei genitori non si può permettere probabilmente di vivere in centro
 BOI024	no
 BOI024	e quindi ovviamente n~ poi non va in centro
@@ -186,7 +186,7 @@ BOI025	sta nella sua zona
 BOR005	anche perché negli ultimi due anni la gente non ha neanche magari affittato l'appartamento
 BOI024	
 BOI024	ma questa è una cosa che è successa anche prima amo cioè
-BOI024	veniamo da  diec'anni di crisi economica cioè  e hm
+BOI024	veniamo da diec'anni di crisi economica cioè e hm
 BOI024	che che bologna si sia svuotata
 BOI024	eh che mh i prezzi siano inavvicinabili in centro è così da diec'anni non è il covid
 BOR005	secon~ io la penso così
@@ -196,32 +196,32 @@ BOR005	secondo voi il cioè il vivere fuori bologna comunque in in un mh in un c
 BOI024	ha più dei pro o dei con~ cioè più pro o più contro rispetto magari al vivere proprio in città
 BOR005	adesso con i tempi di adesso ha più pro
 BOI025	sì
-BOI024	ha più pro se però è comunque ben servito  a al eh con i mezzi pubblici a bologna ben collegato
+BOI024	ha più pro se però è comunque ben servito a al eh con i mezzi pubblici a bologna ben collegato
 BOR005	sì
 BOI025	mhmh
-BOI024	ben collegato a bologna  con i mezzi pubblici
+BOI024	ben collegato a bologna con i mezzi pubblici
 BOI024	cioè noi vivendo fuori viviamo bene vabbè che noi i mezzi pubblici neanche li usiamo però a livello di traffico
 BOR005	ci muoviamo in macchina non è non è invivibile non è insostenibile il traffico
 BOI024	mhmh
 BOR005	nella zona dove abitiamo noi per muoverci verso il centro
 BOI024	mh
 BOI024	e quindi
-BOR005	comunque è comodo  a livello economico conviene
+BOR005	comunque è comodo a livello economico conviene
 BOI024	mhmh
 BOI024	perché ovviamente
 BOI025	vabbè per noi è gratis
-BOI024	no cioè io  paragono a dove vivevo prima a san marino che c'erano cinque autobus al giorno e basta  tre quattro la mattina
+BOI024	no cioè io paragono a dove vivevo prima a san marino che c'erano cinque autobus al giorno e basta tre quattro la mattina
 BOI025	sì
-BOI025	e poi  due o tre la sera per tornare a casa quindi il mezzo pubblico
+BOI025	e poi due o tre la sera per tornare a casa quindi il mezzo pubblico
 BOR005	era completamente inutilizzabile
 BOI025	mhmh
-BOI024	x rispetto a dove siamo adesso è molto più vivibile perché  volendo ci puoi raggiungere il centro in dieci minuti con eh i mezzi pubblici
+BOI024	x rispetto a dove siamo adesso è molto più vivibile perché volendo ci puoi raggiungere il centro in dieci minuti con eh i mezzi pubblici
 BOI025	i mezzi sì sì
 BOI024	quindi adesso secondo me c'è più un vantaggio nel vivere
 BOI025	nel fuori
-BOR005	nella  sì nella periferia
+BOR005	nella sì nella periferia
 BOR005	mhmh
-BOI025	invece a livello lavorativo secondo voi bologna è una buona città per cercare lavoro e  per lavorarci stabilmente
+BOI025	invece a livello lavorativo secondo voi bologna è una buona città per cercare lavoro e per lavorarci stabilmente
 BOI024	secondo me sì
 BOI025	sì
 BOI025	secondo me sì perché ti offre grandi opportunità secondo me cioè è un eh
@@ -232,7 +232,7 @@ BOR005	è anche in una posizione geografica italiana di snodo tra nord e sud dic
 BOR005	mhmh
 BOI024	mh
 BOI024	sì sì
-BOI025	l'unica cosa è che magari  è più  cara rispetto
+BOI025	l'unica cosa è che magari è più cara rispetto
 BOI024	a ferrara
 BOI025	a ferrara per dire
 BOI025	mhmh
@@ -241,7 +241,7 @@ BOI024	e quindi
 BOI024	c'è il vantaggio che sicuramente magari hai più possibilità
 BOR005	ma il costo della vita è più alto cioè
 BOR005	mhmh
-BOI024	e  vi è capitato per lavoro di dovervi spostare in altre città
+BOI024	e vi è capitato per lavoro di dovervi spostare in altre città
 BOI025	sì
 BOI025	mh ni no
 BOI025	nel senso che io poi ho lavorato solo presso un'altra azienda che aveva aperto un'ufficio a bologna ma l'azienda
@@ -250,7 +250,7 @@ BOI025	quindi
 BOR005	io lavoravo a bologna poi chiaro che c'erano le trasferte a udine ma quello non eh
 BOI025	mhmh
 BOI025	non è che mi sia dovuto spostare di città
-BOR005	quindi io personalmente no  ma non ho grande esperienza lavorativa
+BOR005	quindi io personalmente no ma non ho grande esperienza lavorativa
 BOR005	mh
 BOR005	ehm
 BOR005	come dire in queste diciamo esperienze lavorative fuori porta
@@ -263,12 +263,12 @@ BOR005	io son andata a milano a vivere per un anno
 BOI024	mh
 BOI024	mh alla fine il lavoro che facevo bene o male era lo stesso però
 BOI024	eh la gente è differente
-BOI024	e non conosci i posti milano è mh una mh posto  una città enorme
-BOR005	in cui però sei sempre solo  cioè non  non ci sono non lo so non lo vedevo
+BOI024	e non conosci i posti milano è mh una mh posto una città enorme
+BOR005	in cui però sei sempre solo cioè non non ci sono non lo so non lo vedevo
 BOI024	mh
 BOI024	non vede~ non non conoscendola non sapevo dove ci potessero essere
 BOI024	eh mh posti dove si aggregano quelli della mia età ecco mh
-BOR005	andavo  lavori e basta  cioè non non vivi la città ma forse non ho avuto neanche il tempo di abituarmici però
+BOR005	andavo lavori e basta cioè non non vivi la città ma forse non ho avuto neanche il tempo di abituarmici però
 BOR005	mhmh
 BOR005	mh
 BOR005	mh
@@ -287,7 +287,7 @@ BOI025	e andavo spesso su a udine
 BOI025	eh
 BOI025	per quel poco che ho posso dire è che sembra che là ci sia
 BOI025	più la vi~ più
-BOI025	mh sembra che la vita là sia più incentrata  sul lavoro cioè la base
+BOI025	mh sembra che la vita là sia più incentrata sul lavoro cioè la base
 BOI025	della vita è il lavoro
 BOI025	rispetto a bologna
 BOI024	però sai non non non hanno
@@ -295,26 +295,26 @@ BOR005	cioè a milano sembrava che corressero tutti
 BOI024	mhmh
 BOR005	alla fine anche se non avevi niente da fare correvi anche tu
 BOI024	
-BOI024	cioè  sì
-BOI025	eh sembra strano però  tipo
+BOI024	cioè sì
+BOI025	eh sembra strano però tipo
 BOI024	sì c'è un flusso talmente grande che ti fai trasportare
 BOI024	sì
 BOI024	sì una volta tipo mio padre venne
-BOI024	a milano  per perché dovevo firmare il contratto d'affitto
+BOI024	a milano per perché dovevo firmare il contratto d'affitto
 BOR005	allora volevo che ci fosse anche lui avevo paura di truffe così magari due quattro occhi invece di due
 BOR005	mhmh
 BOI024	
 BOI024	ehm e allora è venuto e
 BOI024	e dalla stazione centrale mh
 BOI024	dovevamo andare in metro in centro adesso non mi ricordo dove
-BOI024	e e io si vedeva che che pedalavo stavo in me~ cioè seguivo il flusso di  questa gente che corre tutta
+BOI024	e e io si vedeva che che pedalavo stavo in me~ cioè seguivo il flusso di questa gente che corre tutta
 BOR005	mio padre tranquillo camminava perchè tanto non eravamo in ritardo cioè ero io che
 BOI024	
-BOR005	ero nel mood  non lo so
+BOR005	ero nel mood non lo so
 BOI024	invece a bologna la vita è più tranquilla mettiamola così
 BOI024	secondo me sì
 BOI025	
-BOR005	xxx posso paragonare ai greci che sì molto più tranquilli x grecia  molto più tranquilli
+BOR005	xxx posso paragonare ai greci che sì molto più tranquilli x grecia molto più tranquilli
 BOI024	
 BOR005	
 BOI024	
@@ -326,9 +326,9 @@ BOI024
 BOI025	vivono meglio secondo me
 BOR005	xxx
 BOR005	di sicuro
-BOI024	no però ecco  bello vedere che comunque si sen~  mh sentivi un po' la mancanza della città
+BOI024	no però ecco bello vedere che comunque si sen~ mh sentivi un po' la mancanza della città
 BOI024	sì
-BOI025	beh piangevo quando c'era xx  quando facevano vedere bologna
+BOI025	beh piangevo quando c'era xx quando facevano vedere bologna
 BOI024	bologna in tv xxxxx
 BOR005	è vero
 BOI024	capisco questo sentimento
@@ -357,11 +357,11 @@ BOR005	qualcosa che proprio dite che della città
 BOI024	veramente non va
 BOI024	ci devo pensare non lo so
 BOR005	che proprio non va
-BOI025	o comunque che va  ma che potrebbe migliorare
-BOR005	xx quello tutto  cioè qualsiasi cosa è migliorabile però  mh grossissimi problemi
+BOI025	o comunque che va ma che potrebbe migliorare
+BOR005	xx quello tutto cioè qualsiasi cosa è migliorabile però mh grossissimi problemi
 BOI025	
 BOI025	mhmh no non saltano all'occhio
-BOI025	xx magari è chiaro che il servizio degl~ degli autobus magari uno può dire che però si  io lavorando in centro
+BOI025	xx magari è chiaro che il servizio degl~ degli autobus magari uno può dire che però si io lavorando in centro
 BOI024	gli autobus passano mo~ molto di frequente poi
 BOI024	ma insomma adesso parlando di autobus cioè cosa c'è da migliorare
 BOI024	hanno hanno il parco il parco macchine
@@ -372,14 +372,14 @@ BOI024	in grosso modo
 BOR005	in grosso modo
 BOI024	
 BOR005	xxx
-BOI025	non dilunghiamoci troppo  sulla puntualità
+BOI025	non dilunghiamoci troppo sulla puntualità
 BOI025	beh quando siamo andati a londra gli autobus erano molto più di frequente
 BOI025	cioè era die~ era
-BOI024	prati~ vabbè che  londra x x x sì
+BOI024	prati~ vabbè che londra x x x sì
 BOI025	parli di una metropoli cioè
 BOI024	però se paragoni il numero di di autobus cioè là non corri cioè a londra non correvi mai per prender l'autobus qua
-BOI025	sì noi xxx abbiamo corso dietro lo~ dietro dietro a  all'autobus
-BOI024	eh  perché noi siamo abitua~
+BOI025	sì noi xxx abbiamo corso dietro lo~ dietro dietro a all'autobus
+BOI024	eh perché noi siamo abitua~
 BOI025	e subito dietro ce n'era un altro
 BOI025	perché noi qua siamo abituati che devi correre e prendere quello non eh
 BOI025	far con calma dici tanto passa in continuazione ecco quello però
@@ -395,7 +395,7 @@ BOI025	ci vorrebbero più parchi parchi più curati
 BOI025	xxxxxxxx
 BOI024	può essere anche che ti posso dire una stronzata può essere anche le
 BOI024	credimi
-BOI024	ecco  per dire le piste ciclabili
+BOI024	ecco per dire le piste ciclabili
 BOR005	cioè si sono inventati sta cosa di fare una striscia per terra e dire che è una pista ciclabile
 BOI024	
 BOI024	cioè sono le piste ciclabili più pericolose al mondo secondo me
@@ -417,9 +417,9 @@ BOI024	la pista ciclabile deve essere protetta dev'essere una zona
 BOI024	per il ciclista non
 BOI024	per la macchina che si deve parcheggiare
 BOI025	oppure di per quello che deve superare a destra quello che sta svoltando e rischia di falciare il ciclista
-BOI024	problema di bologna lo so io qual è  il parcheggio
+BOI024	problema di bologna lo so io qual è il parcheggio
 BOI025	anche
-BOR005	il parcheggio x  problema più grosso di bologna è il parcheggio sì
+BOR005	il parcheggio x problema più grosso di bologna è il parcheggio sì
 BOI025	ma solo in centro o in generale
 BOR005	comune di bologna secondo me
 BOI025	mh
@@ -428,15 +428,15 @@ BOI025	sì in generale è è una criticità
 BOI025	comune di bologna quindi anche la prima periferia di bologna quindi zona di corticella zone limitrofe
 BOI025	è è un problema perché non si trova se si trova
 BOI024	hanno aumentato nell'ultimo periodo anche i prezzi quindi insomma è sempre più difficoltoso non c'è il culto del parcheggio
-BOI024	cioè per andarti a fare un giro in centro in macchina  oltre a fare una fila eterna
+BOI024	cioè per andarti a fare un giro in centro in macchina oltre a fare una fila eterna
 BOI024	per entrare in qualsiasi xxx lì come si chiamano
-BOI024	oltre a fare una fila eterna poi spendi sette otto  dieci euro di parcheggio per stare
+BOI024	oltre a fare una fila eterna poi spendi sette otto dieci euro di parcheggio per stare
 BOI024	in giro tre ore cioè
 BOR005	è un po' esagerato secondo me
 BOI024	può essere visto questo magari come un incentivo per prendere i mezzi pubblici
 BOI024	
 BOI024	sì però se consideri che
-BOR005	mediamente una famiglia di  quattro persone si va a fare un giro in centro e cioè spende uguale cioè comunque è costoso cioè
+BOR005	mediamente una famiglia di quattro persone si va a fare un giro in centro e cioè spende uguale cioè comunque è costoso cioè
 BOR005	mh
 BOI025	
 BOI025	eh è quello il punto che cioè
@@ -450,9 +450,9 @@ BOI024	in più un autobus che mediamente devi aspettare non è che
 BOI024	poi non ci sono
 BOR005	non ci sono zone di interscambio
 BOI024	mhmh
-BOI024	dove  chi viene dalla non dalla periferia  ma dalla provincia
-BOI024	può  arrivare con la sua macchina
-BOI024	lasciarla  in una zona sicura
+BOI024	dove chi viene dalla non dalla periferia ma dalla provincia
+BOI024	può arrivare con la sua macchina
+BOI024	lasciarla in una zona sicura
 BOI025	e prendere il mezzo pubblico per raggiungere il centro non ci sono queste zone di interscambio mo me ne viene in mente una che la stanno abbattendo adesso
 BOI024	il giuriolo
 BOI025	lì dietro al cadoro
@@ -474,11 +474,11 @@ BOI025	cioè il giuriolo era nato così
 BOI024	negli anni no~ nel eh xx nel mondiale dell'italia novanta
 BOR005	sì eh
 BOI025	mh
-BOI025	sì arrivava lì  parcheggiavi la macchina da lì
+BOI025	sì arrivava lì parcheggiavi la macchina da lì
 BOI024	per andare allo stadio di bologna mh
 BOI024	devi anche renderli appetibili perché
 BOI024	se mi costa
-BOI024	prendere l'autobus  parcheggiare la macchina fuori  metterci un'ora a arrivare in centro
+BOI024	prendere l'autobus parcheggiare la macchina fuori metterci un'ora a arrivare in centro
 BOR005	non c'è la convenienza allora vado e mi parcheggio nel centro faccio la fila congestion~ riempio di traffico la città insomma
 BOR005	mhmh
 BOR005	e invece parlando appunto sempre della città di bologna
@@ -496,12 +496,12 @@ BOI024	mhmh
 BOI024	
 BOR005	andavamo in piazza otto agosto a fare i giri quando
 BOI024	mhmh
-BOR005	c'era la piazzola ma sì  non andavamo in piazzola in realtà
+BOR005	c'era la piazzola ma sì non andavamo in piazzola in realtà
 BOI024	
 BOI024	nel eh nel parco del eh
 BOR005	non mi ricordo più il nome
 BOI024	la montagnola
-BOR005	la montagnola si andavamo ma prima che diventasse una zona  impraticabile
+BOR005	la montagnola si andavamo ma prima che diventasse una zona impraticabile
 BOR005	ah ecco
 BOI024	
 BOR005	è proprio questo che ti dico è lì che è cambiato cioè
@@ -510,7 +510,7 @@ BOI024	è molto meno sicura cioè ci sono posti dove adesso io onestamente non a
 BOI024	e non ci manderei neanche mio figlio se ne avessi uno
 BOR005	cioè mh
 BOR005	mhmh
-BOR005	e a voi sembra che i giovani  di oggi vivano la città
+BOR005	e a voi sembra che i giovani di oggi vivano la città
 BOR005	viverla in generale
 BOI024	meglio o peggio o uguale a come la vivevate voi
 BOI024	non ho mh un metro cioè nel senso che non ho a che fare poi con così tanti ragazzi
@@ -520,12 +520,12 @@ BOI024	boh cioè la sera io ne vedo pochi cioè
 BOI025	quelle poche volte che sono andata in centro
 BOI024	cioè adesso anch'io non non non non ho un metro di paragone cioè non conosco ragazzi
 BOI025	c'è meno gente
-BOI025	adoloscenti  quindi non so dire loro che zone frequentino di più
-BOI024	io quando andavo a scuola quando facevi fuga cioè in centro era pieno di ragazzi  delle varie scuole che facevano fuga e c'erano xxx eh
+BOI025	adoloscenti quindi non so dire loro che zone frequentino di più
+BOI024	io quando andavo a scuola quando facevi fuga cioè in centro era pieno di ragazzi delle varie scuole che facevano fuga e c'erano xxx eh
 BOI024	sì lo so bene
 BOR005	
 BOI025	
-BOI024	e c'erano i vari bar che erano i punti di ritrovo io  non eh mh
+BOI024	e c'erano i vari bar che erano i punti di ritrovo io non eh mh
 BOI025	ah è vero
 BOI025	cioè c'erano comunque tanti ragazzi in centro io poi x
 BOR005	adesso lavorandoci di giorno non non sono mai in centro
@@ -539,7 +539,7 @@ BOI025	che vita orribile
 BOI024	eh e quindi secondo me mh
 BOI025	cioè subito sgamati proprio
 BOI024	eh
-BOI025	io che  io che avevo la la la la firma falsa di mamma
+BOI025	io che io che avevo la la la la firma falsa di mamma
 BOI024	xxxxxx
 BOI025	era più facile
 BOI025	eh anch'io quando facevo le firme false eh
@@ -552,7 +552,7 @@ BOR005	bowling di @nomeluogo
 BOI024	era in centro
 BOR005	in @nomeluogo
 BOI024	ah vicino casa mia
-BOI025	sì  non girava bella gente al bowling
+BOI025	sì non girava bella gente al bowling
 BOI024	no bruttissima
 BOR005	bruttissima gente però loro stavano la la brutta gente stava alle macchinette a quei giochi lì
 BOI025	
@@ -560,7 +560,7 @@ BOI024	non davano fastidio alla fine
 BOI024	al proprio vero e proprio bowling c'erano i ragazzini come noi
 BOR005	che ci divertivamo molto al bowling
 BOI025	mh
-BOI024	chiuso  sì
+BOI024	chiuso sì
 BOR005	sì penso di sì
 BOI024	sì è chiuso
 BOI025	chiuso non c'è
@@ -585,7 +585,7 @@ BOR005	faccio un es~ m'è venuto in mente una cosa
 BOI024	mh
 BOI024	qualche
 BOI024	qualche tempo fa siamo andati in un posto
-BOI025	a mangiare in centro ti ricordi  con michela
+BOI025	a mangiare in centro ti ricordi con michela
 BOI024	mh
 BOR005	che non ha mangiato al flower burger
 BOI024	buonissimo flower burger
@@ -593,14 +593,14 @@ BOI025	mh okay
 BOI024	
 BOI024	stendiamo un velo pietoso su flower burger
 BOI024	però prima di andare lì
-BOI024	eravamo in centro  vicino all'osteria dell'orsa
+BOI024	eravamo in centro vicino all'osteria dell'orsa
 BOI024	io ho notato
 BOI024	che i ragazzi
 BOI024	cioè paragonando a quando io giravo
 BOI024	e da ragazzina
 BOI024	i ragazzi adesso
 BOI024	giran~ cioè escono molto prima vanno a mangiare fuori
-BOI024	e magari rimangono all'osteria  cioè noi uscivamo per dire già mangiati
+BOI024	e magari rimangono all'osteria cioè noi uscivamo per dire già mangiati
 BOI024	si usciva più tardi
 BOI025	c'era vita notturna adesso i ragazzi secondo me si sono un po' anticipati
 BOI024	ma eh
@@ -611,7 +611,7 @@ BOI024	ha disincentivato queste
 BOI024	anche anche a livello
 BOI024	di gestione dei dei locali notturni
 BOI024	gli hanno messo a tutti quanti gli orari cioè
-BOI025	alle due devi  all'una x all'una devi chiudere devi tirare giù la serranda
+BOI025	alle due devi all'una x all'una devi chiudere devi tirare giù la serranda
 BOI024	ah okay
 BOI024	è ovvio che
 BOI024	la smorzi la vita notturna per quello ti sto dicendo che il centro è vuoto
@@ -622,14 +622,14 @@ BOI024	quando
 BOI024	xx quando uscivo il sabato sera
 BOI024	a volte mangiavo
 BOI024	mi
-BOI024	mi mi preparavo  magari mi facevo pure una pennichella
+BOI024	mi mi preparavo magari mi facevo pure una pennichella
 BOI025	e uscivo a mezzanotte di casa
 BOI024	si usciva a mezzanotte xxxx
 BOI025	cioè noi uscivamo a mezzanotte per andare in centro
 BOI024	sì sì
 BOR005	sì
 BOI024	
-BOI025	papà poi ci dava i soldi per il taxi  perché se no rimanevamo a piedi
+BOI025	papà poi ci dava i soldi per il taxi perché se no rimanevamo a piedi
 BOI024	a lei
 BOI024	però sì si usciva tardissimo
 BOR005	adesso no i ragazzi vanno fuori a cena
@@ -637,7 +637,7 @@ BOI024	a mezzanotte si torna
 BOI025	e a mezzanotte si torna a casa
 BOI025	eh eh
 BOI024	è cambiata la vita notturna
-BOI024	cioè noi tornavano noi tornavamo  a
+BOI024	cioè noi tornavano noi tornavamo a
 BOI024	diciassette anni prima di essere maggiorenni secondo me
 BOI024	tornavamo a casa all'una di notte ma perché si prendeva l'ultimo autobus
 BOI024	c'era la regola
@@ -652,8 +652,8 @@ BOI024	ristretto sempre di più
 BOI024	e quindi
 BOR005	cambiano le abitudini perché ovviamente se i locali si chiudono
 BOI024	mh
-BOI024	la gente non non  insomma  va da un'altra parte
-BOR005	a casa a dormire  immagino
+BOI024	la gente non non insomma va da un'altra parte
+BOR005	a casa a dormire immagino
 BOI025	
 BOI025	ci sono anche altre forme cioè i ragazzi anche ognuno in casa sua eh può essere molto più facilmente in contatto con tutto il suo gruppo di amici con una semplice videochiamata anche eh
 BOI024	cosa che nei nostri nei nostri tempi non c'era
@@ -687,15 +687,15 @@ BOI025
 BOI025	per il problema di prima
 BOI025	che andare in centro è impegnativo cioè devi riprendere la macchina devi andare in un parcheggio devi cioè
 BOI024	diventa una trafila un pochino un più impegnativa devi proprio avere
-BOI025	ma io a livello anche  lavorativo cioè non è che c'abbia questa gran vita cioè
+BOI025	ma io a livello anche lavorativo cioè non è che c'abbia questa gran vita cioè
 BOI024	mh
-BOI024	per  a causa del lavoro
-BOR005	non ho questa  gran vita sociale eh
+BOI024	per a causa del lavoro
+BOR005	non ho questa gran vita sociale eh
 BOI024	mh
 BOI024	perché lavorando su turni
-BOI024	eh per me non esistono feste  weekend  mh  cioè
+BOI024	eh per me non esistono feste weekend mh cioè
 BOI024	io magari posso uscire un martedì sera chi esce con me il martedì sera
-BOR005	neanche lui  neanche lui che vive con me eh però la mattina deve alzarsi per andare a lavorare capito
+BOR005	neanche lui neanche lui che vive con me eh però la mattina deve alzarsi per andare a lavorare capito
 BOR005	mh
 BOI024	mh
 BOI024	e quindi io
@@ -711,7 +711,7 @@ BOR005	non andare in giro in centro ecco
 BOI024	mhmh
 BOI024	la vivi di meno la città e poi
 BOI024	noi vabbè negli ultimi
-BOI024	o~  otto dieci anni
+BOI024	o~ otto dieci anni
 BOI024	abbiam cambiato completamente le nostre abitudini perché andando a vivere insieme
 BOI024	abbiamo
 BOI024	insomma
@@ -739,15 +739,15 @@ BOI024	mortadella
 BOR005	no
 BOR005	
 BOR005	e
-BOI024	che sono  in realtà i i portici e san luca
+BOI024	che sono in realtà i i portici e san luca
 BOR005	ah
-BOI024	anche perché i portici sono diventati  patrimonio dell'unesco
+BOI024	anche perché i portici sono diventati patrimonio dell'unesco
 BOR005	ohibò
 BOR005	
-BOR005	e  mh
+BOR005	e mh
 BOR005	come dire dei portici mh
-BOR005	c'è qualche  aneddoto  magari legato a qualcosa che vi è successo sotto i portici che vi è capitato di osservare
-BOI024	o di vedere mh nei portici  sui portici
+BOR005	c'è qualche aneddoto magari legato a qualcosa che vi è successo sotto i portici che vi è capitato di osservare
+BOI024	o di vedere mh nei portici sui portici
 BOR005	cosa abbiam visto sui portici
 BOI025	cioè
 BOI024	xxxx
@@ -803,22 +803,22 @@ BOI024	ma era indipendenza
 BOI025	via indipendenza scusa
 BOI024	ah infatti dicevo xxx
 BOI024	no mi so' sbagliata
-BOI024	e più o meno lì dove c'è il negozio della lego  e lui suonava
+BOI024	e più o meno lì dove c'è il negozio della lego e lui suonava
 BOI024	con questi due cani
 BOI025	quelli con tutte le rughe
 BOI024	xx
 BOI025	xxx
-BOI024	no  i chow chow quelli col pelo
+BOI024	no i chow chow quelli col pelo
 BOI025	sì avevano le rughe
 BOI024	no pieni di pelo ovunque sono i chow chow
-BOI025	beh però erano tutti xx  erano grandi e xx
+BOI025	beh però erano tutti xx erano grandi e xx
 BOI024	sì taglia grande
 BOI025	xxxx vabbè dai erano xxx
 BOI024	due tre erano xx cioè xxx forse anche quattro xxxx sì
 BOR005	sì
 BOI024	mhmh
 BOI025	molto belli stavano sempre buoni quei cani non si muovevano mai
-BOR005	lui era l'uomo simbolo del  dei portici di via indipendenza xx
+BOR005	lui era l'uomo simbolo del dei portici di via indipendenza xx
 BOI024	mhmh
 BOI025	mhmh
 BOR005	e poi c'è anche il portico quello che ha le frecce sul soffitto
@@ -857,7 +857,7 @@ BOI024	l'avete fatto più di una volta
 BOR005	no senti una è bastata
 BOI025	
 BOI025	io l'ho fatta l'abbiam fatta insieme io ero in debito con la coscienza perché avevo promesso che se fossi stato
-BOI024	promosso all'esame di maturità sarei andato a san luca  a piedi
+BOI024	promosso all'esame di maturità sarei andato a san luca a piedi
 BOI025	
 BOR005	dodic'anni dopo sono andato a san luca a piedi
 BOI024	
@@ -869,7 +869,7 @@ BOI024
 BOR005	ci son dei pezzi dove c'hanno i dove ci sono i gradini alti
 BOI024	mhmh
 BOI024	e io facevo fatica
-BOR005	ah  beh sì certo
+BOR005	ah beh sì certo
 BOI025	
 BOR005	e sì però eh
 BOR005	ma è così faticosa
@@ -878,14 +878,14 @@ BOI024	mh no io non l'ho trovato così faticoso
 BOI024	ma c'è un pun~ c'è un punto verso la fine
 BOI024	dove i gradini sono parecchio alti
 BOI024	io sono bassa
-BOR005	ero già stanca  e l'ho vissuta malissimo proprio
+BOR005	ero già stanca e l'ho vissuta malissimo proprio
 BOI025	mh
 BOI024	beh le orfanelle
 BOI025	mhmh
 BOI025	eh vabbè sì è la curva storia che è
 BOI024	una pendenza esagerata
 BOI025	no un po' più su secondo me delle orfanelle ci sono i gradini
-BOI024	vabbè comunque sì non è mica niente  cioè si fa
+BOI024	vabbè comunque sì non è mica niente cioè si fa
 BOR005	però è molto bello eh
 BOR005	mhmh
 BOI024	l'avete fatto di giorno o di sera
@@ -907,7 +907,7 @@ BOI025	un po' xxx
 BOR005	eh xxxxx
 BOI024	
 BOI024	
-BOI024	una volta a xxx  è sceso dalla macchina e c'era un guardone che strisciava
+BOI024	una volta a xxx è sceso dalla macchina e c'era un guardone che strisciava
 BOI025	e lui non s'era manco accorto
 BOI024	avevo pisciato
 BOI024	doveva fare la pipì gliel'ha fatta praticamente in faccia
@@ -917,10 +917,10 @@ BOI024
 BOR005	ho avuto quasi paura quella volta
 BOR005	xxx
 BOR005	
-BOR005	e  mh
+BOR005	e mh
 BOR005	i portici mh
 BOR005	sempre un po' sulla linea delle domande che vi ho fatto adesso su bologna
-BOR005	come pensate che siano  tenuti cioè lo stato attuale dei portici
+BOR005	come pensate che siano tenuti cioè lo stato attuale dei portici
 BOI025	cioè sono ben tenuti c'è qualcosa che potrebbe essere migliorato
 BOR005	beh potrebbero passare più spesso a pulirli
 BOI025	
@@ -936,7 +936,7 @@ BOI025	più
 BOI024	approfonditamente non lo so
 BOI024	cioè poi mh s~ dipende sempre però mh da dalla zona
 BOI024	perché anche lì mh mh secondo me
-BOI024	buona parte della manutenzione  dei portici
+BOI024	buona parte della manutenzione dei portici
 BOI024	è fatta da chi magari ha attività commerciali lì
 BOI024	e quindi
 BOI024	ha tutto l'interesse di tenere pulito ecco
@@ -958,12 +958,12 @@ BOR005	sì no non oberdan però non mi ricordo qual è
 BOI024	xxx sì è quella di fianco
 BOI025	non è via oberdan
 BOI024	una parallela di via indipendenza
-BOI024	eh lì i portici  che tra l'altro è una zona bellissima
+BOI024	eh lì i portici che tra l'altro è una zona bellissima
 BOR005	eh non son curati per niente son tenuti malissimo ed è centralissimo cioè
 BOI024	allora sì è via oberdan via oberdan
 BOI024	ci sono
 BOI024	è via oberdan ci sono barboni a tutte le ore
-BOR005	cioè che c'ha tipo il retro ce l'ha il  il crai il conad un supermercato x eh
+BOR005	cioè che c'ha tipo il retro ce l'ha il il crai il conad un supermercato x eh
 BOI024	ah la conad sì sì
 BOI024	e cioè è tenuto proprio male
 BOR005	puzza
@@ -985,7 +985,7 @@ BOI024	mh
 BOI024	fa niente cioè lì
 BOR005	eh non non non può essere tutto demandato
 BOI024	mh
-BOR005	al eh  al cittadino cioè
+BOR005	al eh al cittadino cioè
 BOI024	mh
 BOI024	si pagano le tasse anche perché
 BOI024	si puliscano e si mantengano le strade con un minimo di decoro
@@ -993,17 +993,17 @@ BOI024	ecco cioè
 BOR005	insomma
 BOR005	mh
 BOR005	mh
-BOR005	un'ultima domanda sempre sulla  sul tema portici
-BOR005	visto che a bologna sono  praticamente dappertutto
+BOR005	un'ultima domanda sempre sulla sul tema portici
+BOR005	visto che a bologna sono praticamente dappertutto
 BOR005	e diciamo che hanno anche una loro funzionalità
-BOR005	quando  magari capita di andare in altre città e di non trovare i portici
+BOR005	quando magari capita di andare in altre città e di non trovare i portici
 BOI024	cioè vi vi fa un determinato effetto o non ci fate caso
 BOI025	no è strano
 BOI025	sì sì sì
 BOI024	mancano subito quelli di bologna
 BOI024	è strano
 BOI025	subito mancano i nostri portici
-BOI024	cioè lì ti rendi conto davvero della specialità della  che hanno
+BOI024	cioè lì ti rendi conto davvero della specialità della che hanno
 BOI024	l'unica città che c'ha i portici
 BOR005	simili a bologna ma non belli come i nostri torino
 BOI024	mhmh
@@ -1029,7 +1029,7 @@ BOI024	beh xxx sì
 BOR005	non sotto al portico ecco
 BOR005	mhmh
 BOI024	sì perché cammini in mezzo alla strada
-BOI024	sì per noi è  cioè
+BOI024	sì per noi è cioè
 BOI025	camminare sotto i portici è una cosa talmente normale che quando poi vai da un'altra parte è assurdo
 BOI024	eh eh eh andando da un'altra parte ti rendi davvero conto dell'unicità dei portici di bologna
 BOR005	sì
@@ -1037,7 +1037,7 @@ BOI025	mhmh
 BOI025	vivendoli tutti i giorni ti sembra normale dici beh è normale
 BOI025	come è giusto che sia poi quando vai effettivamente in un'altra città dici ma ma come
 BOI025	incredibile che non ci siano
-BOI024	quanto  sono comodi quelli che abbiamo a bologna
+BOI024	quanto sono comodi quelli che abbiamo a bologna
 BOR005	oi
 BOR005	
 BOR005	bene allora

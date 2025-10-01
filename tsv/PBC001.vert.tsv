@@ -4372,7 +4372,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 474-7	BOR001	474	sicuramente	sicuramente	linguistic	none	_	_	_	_	_	_
 474-8	BOR001	474	più	più	linguistic	none	_	_	_	_	_	_
 474-9	BOR001	474	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
-474-10	BOR001	474	<basket>	basket	linguistic	none	_	End=1650.442	_	Slow=0-6(0)	_	_
+474-10	BOR001	474	<basket>	basket	linguistic	none	_	End=1650.442	_	Slow=0-6	_	_
 475-0	BOI001	475	ma	ma	linguistic	none	_	Begin=1650.616	_	_	_	_
 475-1	BOI001	475	sai	sai	linguistic	none	_	End=1651.395	_	_	_	_
 476-0	BOI001	476	più	più	linguistic	none	_	Begin=1651.621	_	_	_	_

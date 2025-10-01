@@ -1,5 +1,5 @@
 BOR007	okay
-BOR007	allora  intanto ti chiedo che ehm che lavoro fai tu
+BOR007	allora intanto ti chiedo che ehm che lavoro fai tu
 BOI031	di cosa ti occupi
 BOI031	allora io
 BOI031	lavoro in una pizzeria
@@ -76,7 +76,7 @@ BOI031	che dove l~ dove lo facevi
 BOR007	l'ho fatto con lei mh
 BOI031	sempre qua a bolo~
 BOI031	da
-BOI031	l'ho fatto  al @nomeluogo
+BOI031	l'ho fatto al @nomeluogo
 BOI031	e poi ho lavorato in un bar in via massarenti
 BOR007	il primo anche che mi son trasferita qui
 BOI031	mhmh
@@ -184,7 +184,7 @@ BOR007	così
 BOR007	okay
 BOI031	e quindi da quanto tempo da quanto tempo sei qua a bologna tu
 BOR007	quattordici anni
-BOI031	mh e hai sempre vissuto  qua in questa zona o
+BOI031	mh e hai sempre vissuto qua in questa zona o
 BOI031	no
 BOR007	allora io il mio primo anno ho vissuto a ozzano nell'emilia
 BOI031	mhmh
@@ -235,7 +235,7 @@ BOI031	giù da me
 BOR007	sì sì sì sì
 BOR007	esatto
 BOR007	okay
-BOR007	e  i tuoi amici sono ancora
+BOR007	e i tuoi amici sono ancora
 BOI031	ehm in a potenza oppure hai trovato anche degli amici anche qua a bologna
 BOI031	allora
 BOI031	mh
@@ -490,7 +490,7 @@ BOI031	ma sotto la città quindi
 BOI031	sì
 BOR007	sì sì sì sì
 BOI031	non avevo mai s~ mai sentita di questa cosa
-BOR007	e diciamo che io in quattordici anni ho avuto  ho avuto la possibilità di girarla e conoscerla e mi è piaciuta molto
+BOR007	e diciamo che io in quattordici anni ho avuto ho avuto la possibilità di girarla e conoscerla e mi è piaciuta molto
 BOR007	mhmh
 BOI031	sì
 BOR007	sì

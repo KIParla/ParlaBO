@@ -4611,7 +4611,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 626-15	BOI058	626	ne	ne	linguistic	none	_	_	_	_	_	_
 626-16	BOI058	626	avevo	avevo	linguistic	none	_	_	_	_	_	_
 626-17	BOI058	626	messe	messe	linguistic	none	_	_	_	_	_	_
-626-18	BOI058	626	<ventotto>	ventotto	linguistic	none	_	End=2189.67	_	Slow=0-8(0)	_	_
+626-18	BOI058	626	<ventotto>	ventotto	linguistic	none	_	End=2189.67	_	Slow=0-8	_	_
 627-0	BOI058	627	perciò	perciò	linguistic	none	_	Begin=2189.811	_	_	_	_
 627-1	BOI058	627	((ride))	((ride))	nonverbalbehavior	none	_	_	_	_	_	_
 627-2	BOI058	627	io	io	linguistic	none	_	_	_	_	_	_

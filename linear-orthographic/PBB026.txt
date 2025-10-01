@@ -28,19 +28,19 @@ BOI094	in questa zona
 BOR031	non c'è più quella casa perché è stata abbattuta
 BOI094	sì
 BOR031	perché era molto nuova
-BOR032	okay  sì eh
+BOR032	okay sì eh
 BOI093	
 BOI093	eh così mh eh
 BOR031	la sua famiglia sì eh suo padre suo nonno era sempre di qua quindi in questa zona
-BOR032	okay  sì sì
+BOR032	okay sì sì
 BOI093	lei invece no
 BOR032	vabbè io abitavo a medicina
 BOR031	sì però tipo la nonna è abruzzese
 BOI093	ah
 BOR031	sì
 BOI093	okay
-BOR031	mia nonna  cioè mia mamma è abruzzese mio papà è di castel san pietro
-BOI093	ah  mio padre è di castel san pietro no sul serio non ho mai incontrato una persona  di castel san pietro x
+BOR031	mia nonna cioè mia mamma è abruzzese mio papà è di castel san pietro
+BOI093	ah mio padre è di castel san pietro no sul serio non ho mai incontrato una persona di castel san pietro x
 BOI093	
 BOR031	sì s~ e più precisamente di poggio grande che è una frazione di castel san pietro
 BOR031	okay
@@ -55,7 +55,7 @@ BOI093	ah ho capito quindi avete frequentato le scuole qui
 BOR031	sempre sì sempre a medicina
 BOR031	okay
 BOR032	okay okay
-BOR031	papà anche con le scuole non si è spostato molto da qui  è di fronte
+BOR031	papà anche con le scuole non si è spostato molto da qui è di fronte
 BOR031	
 BOR032	ah osta
 BOI094	sì
@@ -88,11 +88,11 @@ BOI093	beh è è interessante sì
 BOR032	sì e poi a medicina
 BOI093	per far capire che siamo cittadini x
 BOR031	a medicina c'è anche il liceo scientifico e una scuola mh professionale
-BOI093	okay okay okay okay  quindi avete frequentato proprio tutte le scuole x no okay
+BOI093	okay okay okay okay quindi avete frequentato proprio tutte le scuole x no okay
 BOR031	no no eh noi vabbè il liceo la~ eh solo negli ultimi anni che c'è a medicina
 BOI093	mh
 BOR031	noi abbiamo fatto ragioneria lui l'ha fatta a bologna e io a molinella
-BOI093	ah okay e vi posso chiedere come vi siete conosciuti dove siccome siete entrambi di medicina cioè si può  son curioso
+BOI093	ah okay e vi posso chiedere come vi siete conosciuti dove siccome siete entrambi di medicina cioè si può son curioso
 BOI094	eh sì ci siamo tramite
 BOR031	oh dillo
 BOI093	
@@ -107,10 +107,10 @@ BOI094	eh
 BOR031	ah mi mi fa mia sorella deve fare la dichiarazione dei redditi le puoi insegnare dico ah vabbè
 BOI093	ah
 BOR031	e dopo poi abbiamo finito lui mi ha chiesto di uscire
-BOI094	carino bello  carino carino
+BOI094	carino bello carino carino
 BOR031	uno sbaglio
 BOI093	
-BOI093	eh vabbè ce~  certi sbagli si pagano
+BOI093	eh vabbè ce~ certi sbagli si pagano
 BOR031	e così
 BOI093	vabbè dai immagino non sia un vero sbaglio dai scherziamo un po'
 BOR031	eh sì
@@ -145,7 +145,7 @@ BOR031	perché c'erano le scienze applicate anche a medicina allora
 BOI093	ah
 BOR031	ha detto
 BOI093	ma sì dai è più vicino
-BOR032	sì sì poi  sì sì
+BOR032	sì sì poi sì sì
 BOI093	andavain macchina quindi è fortunato
 BOR031	andavo
 BOI093	ah
@@ -176,7 +176,7 @@ BOI094	sì
 BOR032	cioè prima elementare prima media
 BOI094	mh sì sì sì eh cancella l'ultima parte
 BOR031	mh
-BOR031	no  non c'è bisogno
+BOR031	no non c'è bisogno
 BOR031	va bene ma quindi siete siete siete sempre stati qua a medicina e tutto ma
 BOR032	per caso voi siccome vivete vicino anche a bologna avete mai pensato magari anche di spostarvi oppure è sempre stata
 BOI094	sì
@@ -222,7 +222,7 @@ BOI094	eh il centro è bello ci sono dei be~
 BOR031	puoi stare in compagnia con gli amici quando sei in giro a passeggiare
 BOR031	okay
 BOI093	sì sì sì sì
-BOR031	sì fermarci in un bar prendere un caffè un pasticcino  vabbè
+BOR031	sì fermarci in un bar prendere un caffè un pasticcino vabbè
 BOR031	okay
 BOI094	
 BOR032	no c'è anche un altro fatto che a medicina
@@ -237,7 +237,7 @@ BOI094	mh
 BOI094	invece se vai già a bologna vai in giro vedi gente
 BOR031	è diverso
 BOI094	giusto sì sì sì
-BOR031	io quando  io avevo vent'anni venticinque anni tu andavi a medicina c'erano tanti ragazzi che si trovavano
+BOR031	io quando io avevo vent'anni venticinque anni tu andavi a medicina c'erano tanti ragazzi che si trovavano
 BOI094	mh
 BOR031	eh stavano lì in giro
 BOI094	sì
@@ -247,21 +247,21 @@ BOI094	no è che adesso i ragazzi appena diventano abbastanza grandi vanno a bol
 BOI093	no
 BOI094	sì
 BOI094	no perché comunque
-BOR032	quando io ero più giovane si trovavano per strada a medicina stavano un po' così in compagnia  e poi decidevano dove andare
+BOR032	quando io ero più giovane si trovavano per strada a medicina stavano un po' così in compagnia e poi decidevano dove andare
 BOR032	eh però adesso non lo vogliono più fare
 BOI094	adesso non lo vogliono più fare si mettono d'accordo al massimo si ritrovano alla fermata della corriera per andare a bologna
 BOI094	adesso non c'è più questo
 BOI094	sì però
 BOI094	cioè mh medicina da questo punto di vista è un paese morto
-BOR031	allora fra settimana di fronte in piazza garibaldi sulle panchine  ci sono gli ultra settantenni
-BOI094	ecco  sì
+BOR031	allora fra settimana di fronte in piazza garibaldi sulle panchine ci sono gli ultra settantenni
+BOI094	ecco sì
 BOR031	poi si danno il cambio verso sera con gli extra comunitari
 BOR031	osta
 BOI094	come a massa lombarda
 BOR031	x vanno nei bar si trovano lì e fanno le loro chiacchiere eh basta
 BOR031	mhmh
 BOI094	sì
-BOR032	ma giovani   ogni tanto ne passa qualcuno ma perché magari deve andare a fare delle commissioni
+BOR032	ma giovani ogni tanto ne passa qualcuno ma perché magari deve andare a fare delle commissioni
 BOR031	mh
 BOI094	sì
 BOR031	non c'è pieno di po~ c'è forse il bar della piscina
@@ -326,7 +326,7 @@ BOI093	quindi okay rispetto a quando eravate più giovani mh ragazzi è proprio 
 BOI094	sì
 BOR031	n~ non sembra neanche più quel posto adesso è proprio un dormitorio
 BOR031	addirittura
-BOI093	addirittura  è triste
+BOI093	addirittura è triste
 BOI094	sì sì bisogna andare a bologna per fare
 BOR032	sì
 BOR032	c'è solo un periodo dell'anno in cui è viva
@@ -342,15 +342,15 @@ BOR031	ah
 BOI093	bello
 BOR032	c'è la leggenda che lui eh avreb~
 BOI093	sì
-BOI093	era a siena malato  così
-BOR032	e ha bevuto del  un brodo dove c'era s~  stato la una serpe
+BOI093	era a siena malato così
+BOR032	e ha bevuto del un brodo dove c'era s~ stato la una serpe
 BOR031	una serpe
 BOR032	ah
 BOI093	sì è curato
-BOR031	eh e si è gua~  eh si è guarita questa la~ la~ la leggenda e e e la ed è proprio
+BOR031	eh e si è gua~ eh si è guarita questa la~ la~ la leggenda e e e la ed è proprio
 BOR032	mh
 BOI093	sì
-BOR031	il venerdì sabato e la domenica della  terza domenica di settembre
+BOR031	il venerdì sabato e la domenica della terza domenica di settembre
 BOI093	mh
 BOR031	eh praticamente ci sono le bancarelle ci sono tutte tutti gli abitanti si vestono con abiti medioevali
 BOI093	ah
@@ -365,7 +365,7 @@ BOI094	come si chiama la persona che si veste con federico barbarossa
 BOI093	barbarossa
 BOR031	che va a cavallo poi con tutta l l la sua
 BOR032	ah
-BOI093	con  con l'imperatrice
+BOI093	con con l'imperatrice
 BOR031	con l'imperatrice e tutto eh tutto il x
 BOR032	bello
 BOI093	c'è la sfilata
@@ -390,7 +390,7 @@ BOI094	okay
 BOR031	diciamo che si fa un po' riferimento a quel discorso lì
 BOI093	ho capito
 BOI094	sì
-BOR031	anche se le  se i nomi delle torri che hanno dato secondo me sono di fantasia non sono
+BOR031	anche se le se i nomi delle torri che hanno dato secondo me sono di fantasia non sono
 BOR031	sì
 BOI094	
 BOI093	sì sì
@@ -399,7 +399,7 @@ BOR032	li hanno inventati okay
 BOR031	sì poi nelle torri si mangia
 BOR032	ah
 BOR032	e poi eh praticamente durante il sabato
-BOR031	no anche  durante tutti e tre i giorni
+BOR031	no anche durante tutti e tre i giorni
 BOR032	mhmh
 BOR031	si fanno delle mini competizioni fra le torri
 BOR032	ah
@@ -420,7 +420,7 @@ BOI094	okay
 BOR031	e x in francia
 BOI094	okay
 BOI094	e poi adesso si è si è aggiunta anche
-BOR031	eh  cecina di pescina credo in provincia di pisa una cosa di quel genere però sono un po' ai margini
+BOR031	eh cecina di pescina credo in provincia di pisa una cosa di quel genere però sono un po' ai margini
 BOR031	mhmh
 BOI094	okay
 BOR031	storicamente sono quelle sono queste le tre città
@@ -443,7 +443,7 @@ BOI094	sì
 BOR031	e il venerdì col fatto che c'è la musica
 BOI094	mhmh
 BOR031	eh mh negli ultimi anni c'è molta più gente perché attrae molti giovani il il venerdì
-BOR031	okay  giusto
+BOR031	okay giusto
 BOI094	okay
 BOR031	invece il sabato e la domenica la gente che affluisce è sempre di meno c'è quella del paese ma da fuori ne viene molto meno adesso
 BOR031	ah okay x
@@ -463,9 +463,9 @@ BOI094	okay
 BOR031	non lo so se è avvenuta oppure no
 BOR031	
 BOI094	ah boh
-BOR031	eh  perciò sono degli anni che la festa di castenaso comunque ha iniziato a avere il suo giro di persone
+BOR031	eh perciò sono degli anni che la festa di castenaso comunque ha iniziato a avere il suo giro di persone
 BOI094	mhmh
-BOR031	e la fanno  tutti e due i paesi castenaso e medicina le fanno lo stesso fine settimana che basterebbe che si accordassero  un anno che so il terzo fine settimana
+BOR031	e la fanno tutti e due i paesi castenaso e medicina le fanno lo stesso fine settimana che basterebbe che si accordassero un anno che so il terzo fine settimana
 BOR031	ah
 BOR031	eh sì
 BOI094	mhmh
@@ -479,11 +479,11 @@ BOR032	okay perché c'è la musica
 BOR031	due due tre anni poi è questo è il primo anno è il secondo anno che lo fanno dopo il covid
 BOR032	ah si è fermato durante il covid
 BOI094	x
-BOI094	anche prima anche l'anno prima del covid c'era un sacco di gente perché mi ricordo  che nella di fronte
+BOI094	anche prima anche l'anno prima del covid c'era un sacco di gente perché mi ricordo che nella di fronte
 BOR032	a mh alla chiesa della madonna
 BOI094	non si passava
 BOR032	non si camminava
-BOR031	sì comunque adesso col covid dopo il covid è peggiorate tantissimo perché prima c'erano  forse il triplo delle bancarelle
+BOR031	sì comunque adesso col covid dopo il covid è peggiorate tantissimo perché prima c'erano forse il triplo delle bancarelle
 BOI094	mh
 BOR031	mh
 BOR032	mhmh
@@ -556,7 +556,7 @@ BOR031	sì sì rispetto a adesso rispetto a pre covid è calata parecchio
 BOR031	o
 BOI093	peccato
 BOI093	beh comunque la popolazione di medicina è aumentata con
-BOR031	con la costruzione delle case e che non ci sia vita  purtroppo però come abitanti ce ne sono è un paese
+BOR031	con la costruzione delle case e che non ci sia vita purtroppo però come abitanti ce ne sono è un paese
 BOR031	ah
 BOR031	sì sì sì
 BOI093	mhmh
@@ -569,7 +569,7 @@ BOI093	allora la vastità del territorio è un discorso la densità della popola
 BOR032	ah vabbè però io ho sapu~ cioè che
 BOI094	però che io sappia è il secondo o il terzo più popoloso de della provincia di bologna
 BOR032	non lo so
-BOI093	però non so se  solo medicina centro o comprendendo anche le fa~ frazioni perché ha un bel po' di frazioni quindi
+BOI093	però non so se solo medicina centro o comprendendo anche le fa~ frazioni perché ha un bel po' di frazioni quindi
 BOI093	è anche le frazioni eh ha delle frazioni
 BOI094	cioè villa fontana è molto grande come frazione
 BOI094	mh
@@ -583,7 +583,7 @@ BOR032	ah sì
 BOR031	e poi eh il vincitore cioè praticamente la classifica eh dei giochi
 BOR031	mhmh
 BOR032	ah sì sì
-BOR031	papà che mi guarda male  eh decreta  l'ordine della sfilata
+BOR031	papà che mi guarda male eh decreta l'ordine della sfilata
 BOR032	ok~ ah ho capito ho capito ho capito
 BOR031	l'ordine in cui siamo messi in sfilata
 BOR032	sì
@@ -608,11 +608,11 @@ BOI093	quindi un bel po' di anni
 BOR032	prima che ale nascesse moni
 BOR032	e dopo quando siam diventati un po' più grandi anche io e mio fratello abbiamo iniziato
 BOR032	cioè io di meno ovviamente perché son più piccola abbiamo iniziato a lavorare per esempio mio fratello praticamente ogni torre
-BOR031	ha  lo stendardo
+BOR031	ha lo stendardo
 BOR032	sì
 BOR032	che si porta in in in sfilata mio fratello lo portava sempre così
 BOR032	poi adesso lui e mio fratello non lavorano più io vado
-BOR031	sì di solito lavoro  e quindi si dopo si va anche in sfilata
+BOR031	sì di solito lavoro e quindi si dopo si va anche in sfilata
 BOR031	mhmhm
 BOR032	okay
 BOR031	la domenica soprattutto che la domenica sera c'è la sfilata più importante
@@ -629,18 +629,18 @@ BOR031	perché a medicina c'è la torre civica che è un orologio
 BOI094	okay
 BOR031	che eh mh dà i rintocchi
 BOI094	mh
-BOR031	perciò  dodici e tre quarti dà dodici rintocchi pieni e tre  ogni quarto d'ora
+BOR031	perciò dodici e tre quarti dà dodici rintocchi pieni e tre ogni quarto d'ora
 BOR031	okay
 BOI094	mhmh
 BOR031	rintocchi più piccoli
 BOI094	okay
-BOI094	allora  il la corsa sta nel partire
-BOR031	da un attaccati a un muro  nella via d~ dei giardini che è via oberdan
+BOI094	allora il la corsa sta nel partire
+BOR031	da un attaccati a un muro nella via d~ dei giardini che è via oberdan
 BOR031	mhmh
 BOI094	okay
 BOR031	e devi arrivare fino alla chiesa della madonna
 BOI094	mh
-BOR031	dentro i dodici ri~  i quindici rintocchi
+BOR031	dentro i dodici ri~ i quindici rintocchi
 BOI094	ah ho capito ho capito sì
 BOR031	della della cosa il via te lo dà il primo rintocco e la corsa cessa col terzo rintocco piccolo
 BOI094	okay sì
@@ -656,7 +656,7 @@ BOR031	sì è proprio una cosa divertente eh anche
 BOI093	x
 BOR031	sì sì è proprio una bella festa
 BOI094	dai son contento che almeno ci sia questa cosa
-BOR031	ah  eh prossimo anno vieni
+BOR031	ah eh prossimo anno vieni
 BOR032	ma sì dai a sto punto proprio guarda
 BOI093	sì ma quanti anni è che lo invito tanto non vieni
 BOR031	
@@ -673,22 +673,22 @@ BOI093	ah vabbè il prossimo anno si vedrà
 BOI093	eh sì
 BOR032	poi c'è sempre da mangiare dappertutto
 BOR031	il prossimo anno chissà dove sarà
-BOI094	no infatti  vedremo no se riesco vengo volentieri mi avete incuriosito
+BOI094	no infatti vedremo no se riesco vengo volentieri mi avete incuriosito
 BOR031	perché dove sarai du è da ander
 BOR031	eh mi piacerebbe andare a venezia a studiare
 BOI093	a studiare sì
 BOI094	ah a fare
 BOR031	alla cà foscari
 BOR031	sì sì sì sì
-BOI093	che c'è una bella una bella magistrale lì  sì
+BOI093	che c'è una bella una bella magistrale lì sì
 BOR031	e che cosa studieresti
 BOI093	eh sempre il cinese però da un punto di vista economico
 BOR031	eh
 BOI093	sì
 BOR031	e poi ti piacerebbe andare a vivere in cina o
-BOI093	sì sì sì  sì
+BOI093	sì sì sì sì
 BOR031	ah
-BOI093	magari questo ne pa~ ne parliamo un'altra volta  ora faccio io no ve ve ve lo dirò perché è una cosa che di cui voglio parlare però sì sì sì
+BOI093	magari questo ne pa~ ne parliamo un'altra volta ora faccio io no ve ve ve lo dirò perché è una cosa che di cui voglio parlare però sì sì sì
 BOI093	ah va bene va be~ ero curioso
 BOR031	sì sì sìsì eh
 BOR032	ricordiamocelo
@@ -707,7 +707,7 @@ BOR031	sì sì ci andiamo spe~
 BOI093	ci sono feste particolari non lo so o tradizioni che vi piacciono tipo io conosco san petronio che non so se è un qualcosa che è anche al di fuori
 BOR031	sì
 BOR031	di proprio d~ eh di bologna in in sè
-BOI093	cioè è una cosa che  festeggiate non lo so andate in ci~ in città
+BOI093	cioè è una cosa che festeggiate non lo so andate in ci~ in città
 BOI093	mh ma ci andiamo tutte le volte
 BOR031	molto spesso quando andiamo a bologna andiamo a san petronio pe~ i~ san petronio perché ci piace molto pa~ piazza grande
 BOR031	ah okay
@@ -756,7 +756,7 @@ BOI093	però c'era il mercato francese
 BOI094	sì sì ci piace andare anche al mercato fra~ eh francese
 BOR032	sì
 BOR032	x
-BOR031	che prima o poi troverò delle cose francese da quel  francesi da quel mercato
+BOR031	che prima o poi troverò delle cose francese da quel francesi da quel mercato
 BOI093	e vendono proprio i cose francesi cibo ah
 BOR032	sì sia di cibo anche
 BOR031	la quiche
@@ -796,7 +796,7 @@ BOR031	sì
 BOI093	okay
 BOR031	e poi di bologna almeno eh io è qualche anno che sto andando alla strabologna
 BOI093	strabologna non
-BOI094	perché è praticamente una gara  che si può fare sia correndo che cammine~ camminando ci sono tre tre te~ ti~ tre percorsi
+BOI094	perché è praticamente una gara che si può fare sia correndo che cammine~ camminando ci sono tre tre te~ ti~ tre percorsi
 BOI094	
 BOR032	gara
 BOR031	x
@@ -808,7 +808,7 @@ BOR031
 BOI093	ah
 BOI094	e non si non si compete e poi alla fine si eh andiamo a mangiare al ristorante
 BOR031	eh vabbè però digli come com'è finita
-BOR032	ah  la parte più bella
+BOR032	ah la parte più bella
 BOI093	però se non sbaglio quest'anno siamo andati c'è stata anche la colazione prima se non sbaglio
 BOI093	eh vabbè al ristora~
 BOR031	eh sì sì
@@ -825,12 +825,12 @@ BOI093	sì tanto tanto si è bruciata tutto con la gara
 BOI093	
 BOR031	sì però è bello perché c'è ci sono mh insomma persone di tanti età eh eh
 BOR031	
-BOI093	okay  ah ah
+BOI093	okay ah ah
 BOR032	che ca~ mh insomma che
 BOI094	e poi se non sbaglio
 BOR031	e quest'anno ti porti anche il cane
 BOI093	
-BOR032	eh anche gli animali è vero ci so~ sì sì puoi portare i bambini piccoli tutti tutti  chi si vuole iscrivere
+BOR032	eh anche gli animali è vero ci so~ sì sì puoi portare i bambini piccoli tutti tutti chi si vuole iscrivere
 BOR031	poi
 BOR032	ah ci sono anche gli~ bello eh
 BOR032	poi
@@ -840,7 +840,7 @@ BOR031	sì qualcosa danno in beneficienza sì
 BOR032	bello
 BOR032	mh
 BOI094	x
-BOI093	non è la race for the cure  che quello va tutto in beneficienza ma secondo me la strabologna x
+BOI093	non è la race for the cure che quello va tutto in beneficienza ma secondo me la strabologna x
 BOR031	sì sì
 BOI093	mhmh
 BOI094	son belle perché queste questo organi~ si organizzano cioè quest'anno doveva essere in maggio poi c'è stato il problema del del all~
@@ -874,7 +874,7 @@ BOI094	sì sì sì
 BOR031	è molto leggera
 BOI093	eh sì immagino
 BOI093	eh sì sì sì poi avevo
-BOR031	però sì abbiam preso solo il primo eh perché se no  tutto tutto il lavoro della camminata andava
+BOR031	però sì abbiam preso solo il primo eh perché se no tutto tutto il lavoro della camminata andava
 BOR031	
 BOI093	eh sì sì
 BOR031	via e poi l'anno prima invece abbiamo siamo andati in un altro ristorante ma insomma ci sono vari ristoranti
@@ -937,7 +937,7 @@ BOI093
 BOR032	super eh sì che guardiamo soltanto guardiamo i prezzi e diciamo questi non ce ne possiamo permettere
 BOR031	di lusso
 BOI093	
-BOR031	però è bello vedere una cosa che non usi  x e poi vedi dei vestiti stranissimi e
+BOR031	però è bello vedere una cosa che non usi x e poi vedi dei vestiti stranissimi e
 BOR031	sì
 BOR031	si spera
 BOR031	
@@ -1113,7 +1113,7 @@ BOR031	sì
 BOI094	okay sì
 BOR031	mh fare uscire da bologna
 BOI093	mhmh
-BOR031	trapelare però dopo è s~ s~ è riuscito a  a sfuggire lo stesso perché poi sai
+BOR031	trapelare però dopo è s~ s~ è riuscito a a sfuggire lo stesso perché poi sai
 BOR031	
 BOI093	vabbè sì è normale alla fine dopo un po'
 BOI094	alla fine dopo
@@ -1192,7 +1192,7 @@ BOI094	eh poi dopo da lì siamo andati al al bacino di suviana
 BOR031	a mh che abbiam pranzato
 BOI093	okay
 BOI094	mh
-BOR032	poi siamo andati a fare un giro nelle zone del~ della strage  eh de de de dei tedeschi nella seconda guerra mondiale
+BOR032	poi siamo andati a fare un giro nelle zone del~ della strage eh de de de dei tedeschi nella seconda guerra mondiale
 BOR031	ah sì
 BOI094	ah okay
 BOI093	eh di
@@ -1217,7 +1217,7 @@ BOI093	me li ricordo
 BOI093	e poi un altro gita molto bella che si può fare la domenica
 BOR031	è andare su a san luca
 BOI093	eh sì ve lo volevo chiedere
-BOR031	perché p~ p~ per i bolognesi è un  è una tappa
+BOR031	perché p~ p~ per i bolognesi è un è una tappa
 BOR031	
 BOR031	
 BOR031	
@@ -1281,7 +1281,7 @@ BOR031	eh eh eh
 BOI094	però immagino sia un po' noioso non lo so
 BOR031	se invece vuoi fare fatica
 BOI094	eh
-BOR031	pa~ fai  da eh
+BOR031	pa~ fai da eh
 BOI094	sì
 BOR031	da ca~ dal parco di casalecchio e ti fai tutto il
 BOI094	mh
@@ -1290,10 +1290,10 @@ BOR031	sì
 BOI093	mhmh
 BOR031	no è bella è una bella
 BOI093	okay okay
-BOR031	una bella gita ecco  anche perché lo usano anche gli sportivi per fare allenamento
+BOR031	una bella gita ecco anche perché lo usano anche gli sportivi per fare allenamento
 BOR031	ah beh
 BOI093	certo sì sì sì
-BOR031	io sapevo del  dei giocatori del bologna che facevano allenamento e andavano su a san lu~
+BOR031	io sapevo del dei giocatori del bologna che facevano allenamento e andavano su a san lu~
 BOI094	ah sì
 BOI093	x
 BOR031	eh mh su sì
@@ -1380,11 +1380,11 @@ BOI093	certo
 BOI094	eh sì eh
 BOR031	e fai fatica
 BOI093	mhmh
-BOR031	e poi adesso siamo in tanti eh  sì però così è una
+BOR031	e poi adesso siamo in tanti eh sì però così è una
 BOI093	già
 BOR031	x bologna ha una popolazione che tra la mattina che ci siamo noi lavoratori che andiamo
 BOI093	
-BOR031	sicchè riempiamo la città  poi gli studenti che sono una siete una marea che andate a bologna perché ci so~ c'è un po'
+BOR031	sicchè riempiamo la città poi gli studenti che sono una siete una marea che andate a bologna perché ci so~ c'è un po'
 BOR031	eh sì
 BOR031	sì
 BOI093	mhmh
@@ -1414,14 +1414,14 @@ BOI093	okay
 BOR031	tipo anche stranieri ecco che visitano la città e poi soprattutto è una città dove ci sono delle fiere
 BOR031	okay
 BOI093	sì sì sì sì
-BOR031	per cui ogni tanto eh si riempie che non si riesce  a passare perché è im~ ci si imbottiglia ci si imbottiglia proprio
+BOR031	per cui ogni tanto eh si riempie che non si riesce a passare perché è im~ ci si imbottiglia ci si imbottiglia proprio
 BOR031	sì
 BOI093	
 BOI093	e poi insomma mh
 BOI093	e poi considerando anche
 BOR031	s~ sì adesso ci sarà un sacco di gente che che viene da da fuori di di stranieri adesso se
 BOI093	sì sì sì
-BOR031	mi è capitato di andare sull'autobus e di essere l'unica co~ a  aver la pelle bianca ma non per razzismo eh per carità mh
+BOR031	mi è capitato di andare sull'autobus e di essere l'unica co~ a aver la pelle bianca ma non per razzismo eh per carità mh
 BOR031	eh
 BOI093	no certo
 BOR031	però mi guardavo intorno e dico adesso sono l'unica di
@@ -1437,7 +1437,7 @@ BOR031	di tutto
 BOI093	sì sì sì
 BOR031	di tutto di tutto
 BOI093	sì sì no è vero è vero
-BOR031	ormai ti senti che parlano tra loro in lingue differenti  e rimani così e dici ma
+BOR031	ormai ti senti che parlano tra loro in lingue differenti e rimani così e dici ma
 BOR031	
 BOI093	sì capita spesso di sentire che parlano inglese o comunque altre lingue è vero
 BOI093	sì
@@ -1544,7 +1544,7 @@ BOR031	però cioè direi che i tortellini sono il top
 BOI093	
 BOR031	eh per cui niente da dire
 BOR031	vero buoni
-BOI094	ci sono differenze tra il cioè ci sono piatti che si mangiano a medicina ma che non si mangiano a bologna o magari che sono diversi e viceversa perché sono abbastanza vicine però mh  giusto per curiosità
+BOI094	ci sono differenze tra il cioè ci sono piatti che si mangiano a medicina ma che non si mangiano a bologna o magari che sono diversi e viceversa perché sono abbastanza vicine però mh giusto per curiosità
 BOR031	ci sono un piatto tipico di diciamo di medicina è quello che viene chiamato friggione
 BOI093	okay
 BOR031	co~ fa~ è a base di cipolla
@@ -1613,7 +1613,7 @@ BOR031
 BOI094	è brava
 BOR031	sì
 BOI093	
-BOR031	molto brava quando lo fa più eh noi li mangiamo  x
+BOR031	molto brava quando lo fa più eh noi li mangiamo x
 BOI093	ne approfittate
 BOR031	e lei dice lei dice sempre ma ne è rimasto un po' no
 BOI093	
@@ -1705,7 +1705,7 @@ BOR032	ma certo sì
 BOR031	poi dopo si prende in giro chi non è capace di fare una piadina tonda
 BOI093	ossia
 BOR032	
-BOR031	eh niente così dopo ci sono ci sono le foto eh con le due piadine a confronto la mia bella tonda  e poi c'è quella che fanno loro che è x
+BOR031	eh niente così dopo ci sono ci sono le foto eh con le due piadine a confronto la mia bella tonda e poi c'è quella che fanno loro che è x
 BOI093	
 BOR031	quelle artigianale sono una diversa dall'altra
 BOR031	
@@ -1724,7 +1724,7 @@ BOR032	ah
 BOI094	ah ho capito non
 BOR031	eh e invece le le nostre sono un po' più grossettine
 BOI094	mhmhmh
-BOR031	e tra l'altro eh volendo a volte noi  con il coltello la tagliamo mh non facciamo le fette ma la tagliamo orizzontalmente
+BOR031	e tra l'altro eh volendo a volte noi con il coltello la tagliamo mh non facciamo le fette ma la tagliamo orizzontalmente
 BOR031	ah
 BOI094	okay
 BOR031	e li imbottiamo dentro cioè fai conto
@@ -1735,7 +1735,7 @@ BOR031	eh in mezzo gli metti
 BOR032	ho capito
 BOR031	anche perché la nonna che ripetiamo è quella che comanda tutti
 BOR032	
-BOR031	se ti vede che cominci a farla un po' sottile ti sgrida  perché dopo ti dice che è troppo sottile e non va bene perché poi cotta nel testo diventa troppo secca
+BOR031	se ti vede che cominci a farla un po' sottile ti sgrida perché dopo ti dice che è troppo sottile e non va bene perché poi cotta nel testo diventa troppo secca
 BOR031	ah addirittura
 BOR031	sì
 BOI093	ah giusto
@@ -1750,7 +1750,7 @@ BOR031	sì
 BOI093	
 BOR031	o prosciutto o salame o o anche do~ noi ci mettiamo anche la marmellata la nutella
 BOI093	ah mh
-BOR031	oppure non s~ il formaggio lo squacquerone  lo lo squacquerone quello
+BOR031	oppure non s~ il formaggio lo squacquerone lo lo squacquerone quello
 BOR031	
 BOI093	
 BOR031	insomma
@@ -1764,7 +1764,7 @@ BOR031	io te l'ho detto che con la no~ perché la nonna è un po' pesante e biso
 BOR031	perché
 BOR031	
 BOR032	okay
-BOR031	come le fa lei ma è impossibile fare bene come vuole lei  e quindi eh mh
+BOR031	come le fa lei ma è impossibile fare bene come vuole lei e quindi eh mh
 BOR031	
 BOR031	sei impazzito
 BOI093	in poche parole
@@ -1807,7 +1807,7 @@ BOR032	son tipo i ravioli quelli
 BOI094	sì sono poi dipende come li fai noi per esempio
 BOR031	anche i ravioli sono i ravioli i tortelloni sono fatti come i tortellini però sono grandi più o meno come minimo il doppio
 BOR032	ah okay
-BOR031	poi dipende perché c'è chi  cioè tipo noi di solito li facciamo con la stessa forma dei tortellini però c'è anche chi li chiude tipo rettangolo
+BOR031	poi dipende perché c'è chi cioè tipo noi di solito li facciamo con la stessa forma dei tortellini però c'è anche chi li chiude tipo rettangolo
 BOI094	okay
 BOR032	sì ma non sono tortelloni sono ravioli
 BOR031	ah okay ah ah okay
@@ -1825,7 +1825,7 @@ BOI094	per per esempio mia mamma in passato faceva
 BOI094	le sfogline piene
 BOR031	eh anche quello è tipo il condimento dei tortellini con la differenza che tiri la sfoglia
 BOI094	mh
-BOR031	una pa~ metà della sfoglia  prendi il ripieno glielo spalmi
+BOR031	una pa~ metà della sfoglia prendi il ripieno glielo spalmi
 BOI094	okay
 BOR031	cioè lo appiattisci proprio dappertutto
 BOI094	mhmh
@@ -1833,7 +1833,7 @@ BOR031	prendi l'altra metà della sfoglia
 BOI094	sì
 BOR031	la copri sopra
 BOI094	okay
-BOR031	la schiacci in maniera che non dico che diventi un corpo unico però  che stia un po' pressata
+BOR031	la schiacci in maniera che non dico che diventi un corpo unico però che stia un po' pressata
 BOR031	sì
 BOI094	mhmh
 BOI094	poi prendi la mh
@@ -1841,7 +1841,7 @@ BOR031	lo strumento per tagliare i tortellini
 BOI094	mhmh
 BOR031	e inizi a fare delle strisce
 BOI094	okay sì
-BOR031	e praticamente vengono fuori dei quadrettini di di di di sfoglia ripieni con la carne dei tortellini  che tu penserai
+BOR031	e praticamente vengono fuori dei quadrettini di di di di sfoglia ripieni con la carne dei tortellini che tu penserai
 BOI094	buono
 BOR031	sono uguali ai tortellini ma invece nel momento in cui li cuoci
 BOI094	ah
@@ -1853,5 +1853,5 @@ BOR031	ho capito
 BOR031	va bene okay io direi che abbiamo finito
 BOI094	eh
 BOR031	e t'è venuto appetito
-BOI093	eh sì  andiamo a mangiare  va bene
+BOI093	eh sì andiamo a mangiare va bene
 BOI093	
