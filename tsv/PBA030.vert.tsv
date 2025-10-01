@@ -1905,7 +1905,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 353-0	BOR031	353	[o:kay]	okay	linguistic	none	_	Begin=574.656|End=575.062	0x1	_	_	0-4(549)
 354-0	BOI115	354	[esa]tto	esatto	linguistic	none	_	Begin=574.706|End=575.368	_	_	_	0-3(549)
 355-0	BOI116	355	[°xxx]x°	x	linguistic	none	Volume=Low	Begin=574.706	_	_	_	0-3(549)
-355-0	BOI116	355	(.)	[PAUSE]	shortpause	none	Volume=Low	_	_	_	_	_
+355-0bis	BOI116	355	(.)	[PAUSE]	shortpause	none	Volume=Low	_	_	_	_	_
 355-1	BOI116	355	[rinnova]to	rinnovato	linguistic	none	_	_	_	_	_	0-7(122)
 355-2	BOI116	355	da:	da	linguistic	none	_	_	1x1	_	_	_
 355-3	BOI116	355	quanti	quanti	linguistic	none	_	_	_	_	_	_

@@ -5422,7 +5422,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 594-5	BOI042	594	anche	anche	linguistic	none	_	_	_	_	_	_
 594-6	BOI042	594	quest'	quest'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 594-7	BOI042	594	altr'	altr'	linguistic	none	SpaceAfter=No	_	_	_	_	_
-594-0	BOI042	594	anno	anno	linguistic	none	_	End=1830.609	_	_	_	_
+594-8	BOI042	594	anno	anno	linguistic	none	_	End=1830.609	_	_	_	_
 595-0	BOI042	595	fare	fare	linguistic	none	_	Begin=1831.674	_	_	_	_
 595-1	BOI042	595	questa	questa	linguistic	none	_	_	_	_	_	_
 595-2	BOI042	595	cosa	cosa	linguistic	none	_	End=1832.515	_	_	_	_
