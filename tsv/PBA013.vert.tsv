@@ -1716,7 +1716,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 235-6	BOR018	235	c'	c'	linguistic	none	SpaceAfter=No	_	_	_	_	_
 235-7	BOR018	235	è	è	linguistic	none	_	_	_	_	_	_
 235-8	BOR018	235	qualcosa	qualcosa	linguistic	none	_	End=490.135	_	_	_	_
-236-1	BOI074	236	((prende_fiato))	((prende_fiato))	nonverbalbehavior	none	_	_	_	_	_	_
+236-1	BOI074	236	((prende_fiato))	((prende_fiato))	nonverbalbehavior	none	_	Begin=490.180	_	_	_	_
 236-2	BOI074	236	(.)	[PAUSE]	shortpause	none	_	_	_	_	_	_
 236-3	BOI074	236	alaura	alaura	linguistic	none	_	_	_	_	_	_
 236-4	BOI074	236	adesso:	adesso	linguistic	none	_	_	5x1	_	_	_
