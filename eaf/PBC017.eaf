@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:21:03+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:11+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2041,6 +2041,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2036" TIME_VALUE="3084149" />
 		<TIME_SLOT TIME_SLOT_ID="ts2037" TIME_VALUE="3086011" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOI042" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -3719,7 +3720,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a446" TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
-				<ANNOTATION_VALUE># #poi dopo: ti passa e bona lè.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#poi dopo: ti passa e bona lè.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4004,7 +4005,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a520" TIME_SLOT_REF1="ts1038" TIME_SLOT_REF2="ts1039">
-				<ANNOTATION_VALUE># #e::h chiamar l'elettricista il fontaniere: e:h insomma xx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e::h chiamar l'elettricista il fontaniere: e:h insomma xx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5369,7 +5370,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a874" TIME_SLOT_REF1="ts1746" TIME_SLOT_REF2="ts1747">
-				<ANNOTATION_VALUE># #e vado dietro xx com'è cos'hai fatto (dis a me) son andato a prender l'autobus in deposito c'era il cruscotto tutto sollevato là</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e vado dietro xx com'è cos'hai fatto (dis a me) son andato a prender l'autobus in deposito c'era il cruscotto tutto sollevato là</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5384,7 +5385,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a878" TIME_SLOT_REF1="ts1754" TIME_SLOT_REF2="ts1755">
-				<ANNOTATION_VALUE># #ah al dis io ho preso qui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#ah al dis io ho preso qui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5439,7 +5440,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a894" TIME_SLOT_REF1="ts1786" TIME_SLOT_REF2="ts1787">
-				<ANNOTATION_VALUE># #PERCHÈ ALLA NOTTE AVEVANO LAVORATO E SI ERANO DIMENTICATI TUTTO IL &gt;CRUSCOTTO&lt; PER ARIA CON I FILI A: (sbinzuloni) così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#PERCHÈ ALLA NOTTE AVEVANO LAVORATO E SI ERANO DIMENTICATI TUTTO IL &gt;CRUSCOTTO&lt; PER ARIA CON I FILI A: (sbinzuloni) così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5509,7 +5510,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a912" TIME_SLOT_REF1="ts1822" TIME_SLOT_REF2="ts1823">
-				<ANNOTATION_VALUE># #al dis si presentavan dei ragazzi con le maniche così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#al dis si presentavan dei ragazzi con le maniche così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5844,7 +5845,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a993" TIME_SLOT_REF1="ts1984" TIME_SLOT_REF2="ts1985">
-				<ANNOTATION_VALUE># #soccia devo andare a lavorare oh.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#soccia devo andare a lavorare oh.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5884,7 +5885,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1002" TIME_SLOT_REF1="ts2002" TIME_SLOT_REF2="ts2003">
-				<ANNOTATION_VALUE># #so c'è l'autobus che arriva oh come dire è una cosa importante no?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#so c'è l'autobus che arriva oh come dire è una cosa importante no?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:21:02+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:09+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -3233,6 +3233,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts3228" TIME_VALUE="3982110" />
 		<TIME_SLOT TIME_SLOT_ID="ts3229" TIME_VALUE="3983180" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOI050" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
@@ -4276,7 +4277,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a309" TIME_SLOT_REF1="ts616" TIME_SLOT_REF2="ts617">
-				<ANNOTATION_VALUE># #beh per esempio ho avuto una brevissima espas~ esperienza come: dada</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#beh per esempio ho avuto una brevissima espas~ esperienza come: dada</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4286,7 +4287,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a312" TIME_SLOT_REF1="ts622" TIME_SLOT_REF2="ts623">
-				<ANNOTATION_VALUE># #e:h qui le dade sono quelle:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e:h qui le dade sono quelle:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4316,7 +4317,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts640" TIME_SLOT_REF2="ts641">
-				<ANNOTATION_VALUE># #non so se è bolognese o dada no~ cioè [da noi~ a no~] ah no? [a]llora vedi da noi non c'è in effetti da noi non c'è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#non so se è bolognese o dada no~ cioè [da noi~ a no~] ah no? [a]llora vedi da noi non c'è in effetti da noi non c'è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4326,7 +4327,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts652" TIME_SLOT_REF2="ts653">
-				<ANNOTATION_VALUE># #adesso non so nel contratto ((ride)) non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#adesso non so nel contratto ((ride)) non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4346,7 +4347,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a333" TIME_SLOT_REF1="ts664" TIME_SLOT_REF2="ts665">
-				<ANNOTATION_VALUE># #sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4376,22 +4377,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a345" TIME_SLOT_REF1="ts688" TIME_SLOT_REF2="ts689">
-				<ANNOTATION_VALUE># #e:h sì lo incarti così poi gli dai la sportina e io e:h la sportina qui è la busta il sacchettino di: plastica o di carta o quel che è</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e:h sì lo incarti così poi gli dai la sportina e io e:h la sportina qui è la busta il sacchettino di: plastica o di carta o quel che è</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a346" TIME_SLOT_REF1="ts690" TIME_SLOT_REF2="ts691">
-				<ANNOTATION_VALUE># #e lei &gt;continuava a dire&lt; sportina e io</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e lei &gt;continuava a dire&lt; sportina e io</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a347" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts693">
-				<ANNOTATION_VALUE># #ma (.) sportina e non gli do il sacchetto? e sì gli dai la sportina e sì ma il sacchetto non glielo do? ((ride)) e conti~ abbiamo continuato così per un po'</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#ma (.) sportina e non gli do il sacchetto? e sì gli dai la sportina e sì ma il sacchetto non glielo do? ((ride)) e conti~ abbiamo continuato così per un po'</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a349" TIME_SLOT_REF1="ts696" TIME_SLOT_REF2="ts697">
-				<ANNOTATION_VALUE># #e questo è per la sportina poi per la minestra</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e questo è per la sportina poi per la minestra</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4501,7 +4502,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a380" TIME_SLOT_REF1="ts758" TIME_SLOT_REF2="ts759">
-				<ANNOTATION_VALUE># e questi sono è come il tiro un altro mo~ lo s[ai il tiro cos'è]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e questi sono è come il tiro un altro mo~ lo s[ai il tiro cos'è]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4531,12 +4532,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a389" TIME_SLOT_REF1="ts776" TIME_SLOT_REF2="ts777">
-				<ANNOTATION_VALUE># è proprio un'usanza che c'è qua mi dai il tiro?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è proprio un'usanza che c'è qua mi dai il tiro?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a390" TIME_SLOT_REF1="ts778" TIME_SLOT_REF2="ts779">
-				<ANNOTATION_VALUE># #e anche nei campanelli c'è scritto tiro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e anche nei campanelli c'è scritto tiro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4561,7 +4562,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a399" TIME_SLOT_REF1="ts796" TIME_SLOT_REF2="ts797">
-				<ANNOTATION_VALUE># [qui il tiro sì]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[qui il tiro sì]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4631,7 +4632,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a427" TIME_SLOT_REF1="ts852" TIME_SLOT_REF2="ts853">
-				<ANNOTATION_VALUE># [in effetti] a volte succede che quando sei da qualcuno che non~ stai andando via e non conosci la casa devi stare lì un attimo a °cercare°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[in effetti] a volte succede che quando sei da qualcuno che non~ stai andando via e non conosci la casa devi stare lì un attimo a °cercare°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4666,17 +4667,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a438" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
-				<ANNOTATION_VALUE># #scusi prof arrivo in ritardo perché non ho trovato il tiro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#scusi prof arrivo in ritardo perché non ho trovato il tiro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a441" TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
-				<ANNOTATION_VALUE># e:hm rusco</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:hm rusco</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a443" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
-				<ANNOTATION_VALUE># il rusco veram~ credo che sia proprio dialettale?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il rusco veram~ credo che sia proprio dialettale?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4706,12 +4707,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a453" TIME_SLOT_REF1="ts904" TIME_SLOT_REF2="ts905">
-				<ANNOTATION_VALUE># il cinno è il bambino vacinno</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il cinno è il bambino vacinno</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a454" TIME_SLOT_REF1="ts906" TIME_SLOT_REF2="ts907">
-				<ANNOTATION_VALUE># i cinnazzi sono i bambini un po': monellini</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>i cinnazzi sono i bambini un po': monellini</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4801,12 +4802,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a485" TIME_SLOT_REF1="ts968" TIME_SLOT_REF2="ts969">
-				<ANNOTATION_VALUE># #[tipo so]rbole</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#[tipo so]rbole</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a487" TIME_SLOT_REF1="ts972" TIME_SLOT_REF2="ts973">
-				<ANNOTATION_VALUE># sorbole</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sorbole</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4821,7 +4822,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a493" TIME_SLOT_REF1="ts984" TIME_SLOT_REF2="ts985">
-				<ANNOTATION_VALUE># #[no io in sì in effetti SO]RBOLE</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#[no io in sì in effetti SO]RBOLE</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4846,12 +4847,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a499" TIME_SLOT_REF1="ts996" TIME_SLOT_REF2="ts997">
-				<ANNOTATION_VALUE># soccia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>soccia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a500" TIME_SLOT_REF1="ts998" TIME_SLOT_REF2="ts999">
-				<ANNOTATION_VALUE># soccia soc[cia]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>soccia soc[cia]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4871,37 +4872,37 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a506" TIME_SLOT_REF1="ts1010" TIME_SLOT_REF2="ts1011">
-				<ANNOTATION_VALUE># l'umarell</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'umarell</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE># sai chi è l'umarell?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>sai chi è l'umarell?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a509" TIME_SLOT_REF1="ts1016" TIME_SLOT_REF2="ts1017">
-				<ANNOTATION_VALUE># l'umarell</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>l'umarell</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a510" TIME_SLOT_REF1="ts1018" TIME_SLOT_REF2="ts1019">
-				<ANNOTATION_VALUE># è l'omino: l'umarell l'omino</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>è l'omino: l'umarell l'omino</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a512" TIME_SLOT_REF1="ts1022" TIME_SLOT_REF2="ts1023">
-				<ANNOTATION_VALUE># e:h l'omino in generale tipo l'umarell può essere per esempio c'è un ristorante si chiama l'umare~ vuol dire uomo, perso[na:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e:h l'omino in generale tipo l'umarell può essere per esempio c'è un ristorante si chiama l'umare~ vuol dire uomo, perso[na:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a514" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1027">
-				<ANNOTATION_VALUE># c'è un ristorante che si chiama così e proprio in dialetto si dice l'umarell</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>c'è un ristorante che si chiama così e proprio in dialetto si dice l'umarell</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a515" TIME_SLOT_REF1="ts1028" TIME_SLOT_REF2="ts1029">
-				<ANNOTATION_VALUE># oppure ci sono gli umarell quelli che stanno dietro i cantieri: gli omini [vecchietti che]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>oppure ci sono gli umarell quelli che stanno dietro i cantieri: gli omini [vecchietti che]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4926,12 +4927,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a522" TIME_SLOT_REF1="ts1042" TIME_SLOT_REF2="ts1043">
-				<ANNOTATION_VALUE># [sì] [sì che stanno lì a curiosare] l'umarell</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì] [sì che stanno lì a curiosare] l'umarell</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a524" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
-				<ANNOTATION_VALUE># poi altri termini: no non mi ricordo diciamo che sportina e: rusco: e minestra la minestra soprattutto mi ha scioccat~ è [co]me</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>poi altri termini: no non mi ricordo diciamo che sportina e: rusco: e minestra la minestra soprattutto mi ha scioccat~ è [co]me</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8416,17 +8417,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1579" TIME_SLOT_REF1="ts3156" TIME_SLOT_REF2="ts3157">
-				<ANNOTATION_VALUE># [andrai a] fare la spesa con la sporti:na</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[andrai a] fare la spesa con la sporti:na</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1581" TIME_SLOT_REF1="ts3160" TIME_SLOT_REF2="ts3161">
-				<ANNOTATION_VALUE># butterai il rusco:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>butterai il rusco:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1582" TIME_SLOT_REF1="ts3162" TIME_SLOT_REF2="ts3163">
-				<ANNOTATION_VALUE># e suo~ e chie~ ((ride)) e chiederai il tiro al tuo coinquilino.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e suo~ e chie~ ((ride)) e chiederai il tiro al tuo coinquilino.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8783,7 +8784,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
-				<ANNOTATION_VALUE>ma e qual e~ qual era (.) l': idea di bologna che avevi prima</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ma e qual e~ qual era (.) l'idea di bologna che avevi prima</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9193,7 +9194,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a405" TIME_SLOT_REF1="ts808" TIME_SLOT_REF2="ts809">
-				<ANNOTATION_VALUE># e io non sapevo cosa volesse dire tiro e io son rimasto chiuso qui dentro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e io non sapevo cosa volesse dire tiro e io son rimasto chiuso qui dentro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9238,7 +9239,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a421" TIME_SLOT_REF1="ts840" TIME_SLOT_REF2="ts841">
-				<ANNOTATION_VALUE># il camp~ il: il tiro (.) sta affianco alla porta invece qui sta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>il camp~ il: il tiro (.) sta affianco alla porta invece qui sta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10298,7 +10299,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1010" TIME_SLOT_REF1="ts2018" TIME_SLOT_REF2="ts2019">
-				<ANNOTATION_VALUE>[s_ì]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[sì]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

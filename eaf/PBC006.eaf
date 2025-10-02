@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-07-21T12:21:03+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-10-02T13:37:11+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
 		</HEADER>
@@ -2515,6 +2515,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts2510" TIME_VALUE="3125710" />
 		<TIME_SLOT TIME_SLOT_ID="ts2511" TIME_VALUE="3127840" />
 		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
 	<TIER TIER_ID="BOR004" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
@@ -6727,7 +6728,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a507" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1013">
-				<ANNOTATION_VALUE>e che lo~ e loro immaginano le po~ i quattro partigiani come quattro &lt;farfalle:&gt;(.) che mandano i loro influssi:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>e che lo~ e loro immaginano le po~ i quattro partigiani come quattro &lt;farfalle:&gt; (.) che mandano i loro influssi:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7707,7 +7708,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a920" TIME_SLOT_REF1="ts1838" TIME_SLOT_REF2="ts1839">
-				<ANNOTATION_VALUE># #questo è il personaggio (.) guida la mascotte della mostra è l'umarell il pensionato bolognese</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#questo è il personaggio (.) guida la mascotte della mostra è l'umarell il pensionato bolognese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8032,7 +8033,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a997" TIME_SLOT_REF1="ts1992" TIME_SLOT_REF2="ts1993">
-				<ANNOTATION_VALUE># #e l'umarell che si è tirato su le braghe per non bagnarsi ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#e l'umarell che si è tirato su le braghe per non bagnarsi ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8372,7 +8373,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1084" TIME_SLOT_REF1="ts2166" TIME_SLOT_REF2="ts2167">
-				<ANNOTATION_VALUE># #qui c'è l'umarell &lt;che osserva&gt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>#qui c'è l'umarell &lt;che osserva&gt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
