@@ -7,7 +7,7 @@ BOI005	4-Clerical-Workers	M	PBB003	emilia-romagna	51-55	technical-vocational-dip
 BOI006	4-Clerical-Workers	F	PBA001	emilia-romagna	26-30	university-degree	italian
 BOI007	3-Technicians	F	PBC002	emilia-romagna	71-75	middle-school	italian
 BOI008	3-Technicians	M	PBC002	emilia-romagna	76-80	liceo-diploma	italian
-BOI009	0-Retired	F	PBC003	emilia-romagna	71-75	elementary-school	italian
+BOI009	0-Retired	F	PBC003	emilia-romagna	71-75	primary-school	italian
 BOI010	0-Retired	M	PBC003	emilia-romagna	71-75	middle-school	italian
 BOI011	0-Retired	F	PBC004	emilia-romagna	66-70	university-degree	italian
 BOI012	7-Plant-Operators	M	PBB004	emilia-romagna	56-60	technical-vocational-diploma	italian
@@ -32,9 +32,9 @@ BOI030	5-Service-Workers	F	PBB010	estero	31-35	middle-school	other
 BOI031	5-Service-Workers	F	PBB011	basilicata	31-35	technical-vocational-diploma	italian
 BOI032	0-Retired	F	PBC011	emilia-romagna	76-80	technical-vocational-diploma	italian
 BOI033	0-Retired	F	PBC012	emilia-romagna	61-65	middle-school	italian
-BOI034	0-Retired	M	PBC012	emilia-romagna	over 85	elementary-school	italian
+BOI034	0-Retired	M	PBC012	emilia-romagna	over 85	primary-school	italian
 BOI035	0-Retired	F	PBC013	emilia-romagna	76-80	technical-vocational-diploma	italian
-BOI036	0-Retired	M	PBC014	emilia-romagna	76-80	elementary-school	italian
+BOI036	0-Retired	M	PBC014	emilia-romagna	76-80	primary-school	italian
 BOI037	0-Retired	M	PBC015	emilia-romagna	61-65	university-degree	italian
 BOI038	2-Professionals	M	PBC016	piemonte	61-65	university-degree	italian
 BOI039	5-Service-Workers	M	PBB012	emilia-romagna	51-55	university-degree	italian
@@ -53,7 +53,7 @@ BOI051	0-Retired	F	PBC021	emilia-romagna	76-80	middle-school	italian
 BOI052	2-Professionals	F	PBB018	emilia-romagna	51-55	university-degree	italian
 BOI053	0-Students	F	PBA002	emilia-romagna	21-25	university-degree-ongoing	italian
 BOI054	6-Craft-Workers	M	PBA002	emilia-romagna	26-30	technical-vocational-diploma	italian
-BOI055	0-Retired	F	PBC022	emilia-romagna	76-80	elementary-school	dialect
+BOI055	0-Retired	F	PBC022	emilia-romagna	76-80	primary-school	dialect
 BOI056	2-Professionals	F	PBA003	lazio	26-30	university-degree	italian
 BOI057	2-Professionals	F	PBB019	emilia-romagna	51-55	university-degree	italian
 BOI058	0-Retired	F	PBC023	emilia-romagna	66-70	middle-school	dialect
