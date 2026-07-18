@@ -50,8 +50,8 @@ BOI093	siam proprio della della zona ecco
 BOR031	ah ho capito quindi avete frequentato le scuole qui
 BOI093	sempre sì sempre a medicina
 BOR031	okay
-BOR031	okay okay
 BOR032	papà anche con le scuole non si è spostato molto da qui è di fronte
+BOR031	okay okay
 BOR031	ah osta
 BOR032	sì
 BOI094	x la casa che è lì f~ fino alla
@@ -140,12 +140,12 @@ BOR032	andavain macchina quindi è fortunato
 BOI093	andavo
 BOR031	ah
 BOI093	sì
-BOR031	bene
 BOR032	sì sì andava in macchina
+BOR031	bene
 BOI094	gli ultimi due gli ultimi
 BOI093	gli ultimi
 BOR032	l'ultimo anno andava in macchina
-BOI093	l'ultim'anno
+BOI093	l'ultimanno
 BOI094	ma mica tutti i giorni
 BOI093	eh quasi tutti i giorni sì
 BOR032	vabbè spesso sì molto spesso
@@ -272,8 +272,8 @@ BOR032	cioè qui comunque anche i ragazzi se vogliono andar da qualche parte per
 BOR031	sì
 BOR031	mhmh
 BOR032	anche per il parcheggio vanno a imola
-BOR031	ah giusto sì sì sì
 BOR032	che comunque sono venti minuti da qua
+BOR031	ah giusto sì sì sì
 BOI093	sì
 BOR032	e c'è più vita rispetto
 BOR031	mhmh
@@ -457,8 +457,8 @@ BOR031	eh no infatti
 BOI094	ma adesso eh mh negli ultimi due tre anni c'è molta più gente di venerdì
 BOR031	okay perché c'è la musica
 BOR032	due due tre anni poi è questo è il primo anno è il secondo anno che lo fanno dopo il covid
-BOR031	ah si è fermato durante il covid
 BOR032	x
+BOR031	ah si è fermato durante il covid
 BOI094	anche prima anche l'anno prima del covid c'era un sacco di gente perché mi ricordo che nella di fronte
 BOI094	a mh alla chiesa della madonna
 BOR032	non si passava
@@ -591,8 +591,8 @@ BOR032	che si porta in in in sfilata mio fratello lo portava sempre così
 BOR032	poi adesso lui e mio fratello non lavorano più io vado
 BOR032	sì di solito lavoro e quindi si dopo si va anche in sfilata
 BOR031	mhmhm
-BOR031	okay
 BOR032	la domenica soprattutto che la domenica sera c'è la sfilata più importante
+BOR031	okay
 BOR031	okay okay
 BOR032	e basta
 BOI094	a il venerdì sera invece c'è
@@ -838,8 +838,8 @@ BOI093	eh sì sì sì poi avevo
 BOI093	però sì abbiam preso solo il primo eh perché se no tutto tutto il lavoro della camminata andava
 BOR031	eh sì sì
 BOI093	via e poi l'anno prima invece abbiamo siamo andati in un altro ristorante ma insomma ci sono vari ristoranti
-BOR031	okay okay okay
 BOR032	io io posti mh cult che ho scoperto da quando vado all'università a bologna sono
+BOR031	okay okay okay
 BOI093	sì
 BOR031	mhmh
 BOR032	i bangladini e i pakistani che ti portano i paninoni a due e cinquanta
@@ -884,8 +884,8 @@ BOI094	e sono due le librerie coop
 BOI093	eh sì
 BOI093	dove si mangia anche
 BOI094	sono abbastanza vicine ma ce n'è una che praticamente fa libreria e sopra ristorante
-BOR031	bello
 BOR032	non ci vado da un bel po'
+BOR031	bello
 BOI093	e poi una cosa bella di bologna c'è la galleria cavour dove ci sono tutti i i negozi con i i
 BOR031	mh
 BOI093	con
@@ -1054,8 +1054,8 @@ BOR031	bello
 BOI094	e i
 BOI094	adesso io non so non mi ricordo come si chiamavano le macchine che poi probabilemente erano tipo dei palazzi
 BOR032	i filatoi
-BOR031	mhmh
 BOR032	no
+BOR031	mhmh
 BOI094	vuoti dentro
 BOI094	eh mh erano una sorta di di segreto industriale che nessuno doveva far
 BOR031	ah
@@ -1260,8 +1260,8 @@ BOR031	okay no è che non so lavoro cosa quindi non
 BOI093	sì sì
 BOI094	concessionaria renault
 BOR031	ah okay ho capito
-BOR031	x
 BOR032	e quindi ogni tanto tipo a caso arrivava la foto di lei con i giocatori
+BOR031	x
 BOI093	oppure x
 BOR032	ah è venuto sto giocatore a comprare la macchina
 BOI093	oh gu~ no fa più che altro fa la pubblicità ecco
@@ -1382,8 +1382,8 @@ BOI093	eh
 BOR032	tedeschi ci sono tipo quando vai in giro d'inverno
 BOR031	ah
 BOR032	vabbè quest~ quest'anno fa caldo
-BOR031	sì
 BOR032	quindi non è un problema però io mi ricordo tipo gli anni scorsi che se andavo
+BOR031	sì
 BOR032	a bologna d'inverno c'erano le ragazze con la minigonna senza calze cioè noi tutti coperti
 BOR031	ah
 BOR032	loro che si vede che fa palesemente più caldo rispetto a loro loro andavano in giro con la mingonna scoperte
@@ -1448,8 +1448,8 @@ BOR032	e quindi ha preso anche l'influ~ cioè è stata condizionata anche dalla 
 BOI094	un misto alla nostra
 BOI093	sì
 BOI093	sì
-BOR031	sì
 BOR032	sì
+BOR031	sì
 BOI094	di ferrarese non ha niente
 BOR031	eh sì ma neanche a me viene in mente se devo pensare al cibo ferrarese
 BOI094	ci sono i cappellacci
@@ -1484,8 +1484,8 @@ BOR031	ah
 BOR032	perché medicina è famosa per la coltivazione di cipolla
 BOI093	la cipolla
 BOI094	mh
-BOR031	okay e quindi è una cosa che è proprio
 BOR032	quindi
+BOR031	okay e quindi è una cosa che è proprio
 BOI093	di medicina sì ed è un piatto buonissimo
 BOR031	okay
 BOR032	papà non concorda molto
@@ -1541,8 +1541,8 @@ BOI094	eh ti dico ad esempio che la piadina è tipica della romagna
 BOR031	sì
 BOI093	e sua mamma eh ogni tanto la faceva quando
 BOI094	anche la nipote la fa
-BOR031	ah
 BOR032	sì mi ha passato la tradizione
+BOR031	ah
 BOR031	osta
 BOR031	e com'è è buona la fai più bene
 BOR032	palese
@@ -1601,8 +1601,8 @@ BOR031	okay
 BOR032	eh mh e quindi magari mi faccio prima un kilo
 BOR031	mhmh
 BOR032	poi loro finiscono di impastare io intanto gli faccio l'altro kilo
-BOR031	ah okay
 BOR032	e quindi diventa proprio tutto un lavoro di famiglia
+BOR031	ah okay
 BOR031	bello però è un bel momento
 BOI093	mh mh mh
 BOR032	e quindi sì già che lo fai

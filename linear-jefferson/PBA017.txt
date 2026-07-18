@@ -346,7 +346,7 @@ BOI080	eh (.) se conosci qualcuno
 BOI081	((ride)) e che negozio è cos'è che vende?
 BOI080	si può dire?
 BOR022	vai vai
-BOI080	ah @nomeazienda
+BOI080	ah
 BOI080	vinta[ge]
 BOI081	[a]:h
 BOR022	[ah] okay
@@ -1039,7 +1039,7 @@ BOI080	ma posso dirli i nom[i]?
 BOR022	[s]ì sì puoi dirli x[xxx]
 BOI080	[ah ok] vabbè xxx perché non sapevo se::
 BOR022	puoi: puoi dire tutto [ciò che vuoi]
-BOI080	[okay okay] no prima ero da @nomeazienda (e) adesso sono da @nomeazienda
+BOI080	[okay okay] no prima ero da (e) adesso sono da
 BOR022	((ride))
 BOR022	<ah oka[y> (.) okay]
 BOI080	[e quindi (.) c(io)è sono] proprio due: aziende:
@@ -1134,8 +1134,8 @@ BOI080	intendi di: mh,
 BOI081	[(chi fa) la p]roduzione c(io)è poi al[la fine]
 BOI080	[A:H]
 BOI080	[sì si]curamen[te]
-BOI081	[non f]anno solo: @nomeazienda ma faranno anche altri marchi: [(che tipo:)]
-BOI080	[però il la pelle @no]meazienda viene comunque comprata
+BOI081	[non f]anno solo: ma faranno anche altri marchi: [(che tipo:)]
+BOI080	[però il la pelle viene comunque comprata
 BOI080	e lavorata
 BOI080	quella sì in inghilterra
 BOI080	perché hanno pr[oprio] un::a serie di trattamenti: specifici
@@ -1177,7 +1177,7 @@ BOI081	e::: sì
 BOI081	<piuttosto>
 BOI081	<meglio prendere da un'azienda piccola>
 BOI080	chia[ro]
-BOI081	[che] da °una grande c(io)è poi° alla fine sì @nomeazienda è grande
+BOI081	[che] da °una grande c(io)è poi° alla fine sì è grande
 BOI080	sì sì (d[ai) xxx sì]
 BOI081	[però nel colle]ttivo è piccola
 BOI081	[c(io)è (.) xxxx (macchine)]

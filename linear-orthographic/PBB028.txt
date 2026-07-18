@@ -7,8 +7,8 @@ BOR036	per cui ero un po' curiosa di
 BOR036	di sapere tipo da quanto vi conoscete se avete fatto delle cose insieme da piccoli o
 BOI099	io e lui
 BOR036	sì
-BOI099	no io e lui no
 BOR036	ehm
+BOI099	no io e lui no
 BOI100	da quando ha fatto la piscina massi
 BOR036	quand'è che cioè
 BOI099	no
@@ -234,8 +234,8 @@ BOI100	un po' sentono bologna
 BOI099	sì di calcio lo sentono tipo tifosissimi tutti alla baracchina a vedere le partite
 BOI100	xxx
 BOI099	però non sei influenzato dallo stile di vita di bologna ecco
-BOI099	capito
 BOR036	quindi un
+BOI099	capito
 BOR036	cioè non lo sentite voi di essere
 BOI100	cittadini assolutamente no
 BOR036	cittadini
@@ -245,8 +245,8 @@ BOI099	sì
 BOR036	per qualche motiv~ no quello sì
 BOI099	no di bologna sì sì sì
 BOI099	per carità
-BOI099	perché è poi molto sentito il confine con il fiume reno che di là c'è cento di là c'è ferrara
 BOR036	ma vabbè a parte
+BOI099	perché è poi molto sentito il confine con il fiume reno che di là c'è cento di là c'è ferrara
 BOI099	perché pieve è sotto bologna
 BOI100	xx è dalla parte buona del reno
 BOI099	è dalla parte buona
@@ -350,8 +350,8 @@ BOI100	mhmh
 BOI100	alcune robe sono uguali a~ come giù tra pieve e cento son diverse
 BOI099	sì
 BOI099	che poi sono più termini eh non
-BOI100	cioè xx parola
 BOI099	xxx che la frase è uguale puoi costruirla allo stesso modo
+BOI100	cioè xx parola
 BOI100	cambian gli accenti cambia la parola è proprio diversa
 BOI099	xxxxx
 BOI099	sì o qualche lettera anche a volte
@@ -707,8 +707,8 @@ BOI100	vuoi venir di qua che c'è il telefono al centro
 BOR036	no no no
 BOR036	io stavo facendo un esame all'università quello che c'è stato la mattina
 BOI099	alle nove
-BOI100	cioè il ventinove maggio
 BOR036	sì
+BOI100	cioè il ventinove maggio
 BOR036	ehm
 BOR036	e ci avevan fatto tutti uscire
 BOR036	e poi dopo non succedeva niente ci han fatto rientrare
@@ -742,8 +742,8 @@ BOR036	però n~ non come qua insomma non non che la gente dormiva fuori dopo
 BOI100	beh tipo pieve ha il venti in realtà ha fatto praticamente niente
 BOI100	il ventinove è venutà giù una xx
 BOI099	i danni
-BOI100	i danni li ha fatti il ventinove
 BOI099	più che altro i danni dopo
+BOI100	i danni li ha fatti il ventinove
 BOI100	mh
 BOR036	eh sì c'erano delle m~ insomma delle amichette di mia sorella che di mirandola
 BOI099	sì li è venuto
@@ -775,8 +775,8 @@ BOR036	qualche storia del genere di persone mh vicino a voi
 BOI100	mh no
 BOR036	no
 BOI099	del terremoto
-BOI100	da te a finale forse
 BOI099	xx i~ no io son stato
+BOI100	da te a finale forse
 BOI099	inondato di chiamate a casa
 BOI099	perché alle ceramiche x uno dei decessi che c'eran stati era un ragazzo
 BOI099	più o meno della mia età
@@ -1078,7 +1078,7 @@ BOI100	sì perché è capitato che uno è venuto via un pezzo di ferro dalla cam
 BOI100	è arrivata in faccia a un campanaro
 BOI100	che ha rotto zigomo ha fatto due interventi e
 BOR036	brutto
-BOI100	e quindi per un PO' la gente che saliva doveva firmare se non avevi le assicurazioni non potevi andar su
+BOI100	e quindi per un po' la gente che saliva doveva firmare se non avevi le assicurazioni non potevi andar su
 BOI099	xxx
 BOI100	e dopo hanno iniziato a integrare le assicurazioni e tutto che prima sì c'era ma era un po'
 BOR036	perché non è che si può visitare il campanile così
@@ -1251,8 +1251,8 @@ BOR036	una carriera bruciata
 BOI100	dopo ho cambiato squadra perché in due smettevano di venire son andato con due di san
 BOI100	sant'agosti~ no di san carlo
 BOI100	ehm
-BOI100	xx
 BOI099	in confronto a bianchi
+BOI100	xx
 BOI100	con bianchi e albi era la nostra squadra
 BOI100	non mi ricordo se abbiamo fatto una gara in terza
 BOI100	poi dopo non siam mai andati oltre

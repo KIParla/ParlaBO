@@ -672,7 +672,7 @@ BOI112	sì: diventa con tutto [una crosticina] [squisita]
 BOR025	[buona: madonna buoniss:i]ma
 BOR035	((ride))
 BOI112	((ride))
-BOR035	e ci sono altre trattorie: del cuore che (.) [] che consiglierebbe?
+BOR035	e ci sono altre trattorie: del cuore che (.) che consiglierebbe?
 BOR025	[che:]
 BOI112	guarda in via scandellara c'è il re di [coppe]
 BOR035	[qua vicino]?

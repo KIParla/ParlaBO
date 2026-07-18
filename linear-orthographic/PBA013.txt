@@ -888,7 +888,7 @@ BOR018	eh
 BOI074	è
 BOI074	comunque è un gergo
 BOR018	miscuglio bolognese e altro
-BOI074	bologn~ ecco è bolognese perché anche polleg
+BOI074	bologn ecco è bolognese perché anche polleg
 BOI074	viene preso da da da fuori come vez da bologna passa da altre parti cioè
 BOI074	comunque c'è una comunicazione in entrata e in uscita
 BOI074	e il gergo bolognese riguarda più che altro
@@ -931,7 +931,7 @@ BOI075	mh
 BOR018	mh
 BOI074	queste si sono istituzionalizzate come parole però tipo
 BOI074	nelle conversazioni tra tra miei amici co~ tipo vez
-BOI074	c'è vez
+BOI074	cè vez
 BOI074	oppure
 BOI074	mh
 BOI074	me la gubbio
@@ -967,7 +967,7 @@ BOI074	invece sciala~ è un po' più
 BOR018	s~ è più mh
 BOI074	è però qu~ da voi è un po' più astratto
 BOI075	comprende
-BOI075	s~ no no perché c'è la scialata
+BOI075	s no no perché c'è la scialata
 BOR018	ah vero
 BOI075	che mi sa che viene dalla scialata che è tipo una scampagnata in montagna
 BOI074	ah
@@ -975,8 +975,8 @@ BOR018	questo non lo so precisamente
 BOI075	una roba del genere se non sbaglio
 BOR018	scialare mi sa di cosa molto divertente perché xxx
 BOI075	e quindi da
-BOI075	da scialata
-BOI075	c'è il verbo scialare o scialarsi
+BOI075	DA scialata
+BOI075	cè il verbo scialare o scialarsi
 BOI074	mhmh
 BOI075	dire tipo cioè rilassarsi quindi divertirsi mi sto scialando oppure
 BOI075	che so
@@ -1000,7 +1000,7 @@ BOI074	ah okay
 BOR018	wow mi sto scialando a leggere
 BOI074	quindi è proprio
 BOR018	cime tempestose
-BOI075	lo scialarsi è una cosa
+BOI075	LO scialarsi è una cosa
 BOI074	okay quindi è più lo scialare è tipo mi svincolo anche da tutta
 BOI074	mh non so da tutto
 BOR018	sì sì
@@ -1074,7 +1074,7 @@ BOR018	come si dice da noi
 BOI075	dare un pugno ti no ti ietto
 BOR018	eh
 BOR018	ti iett~ t'inde ietto uno
-BOI075	t'in~ ti ietto uno sì un
+BOI075	tin~ ti ietto uno sì un
 BOI074	oddio
 BOI075	è proprio
 BOI074	ecco
@@ -1219,8 +1219,8 @@ BOI074	eh più che altro è la motor valley cioè
 BOI075	mhmh
 BOI074	con la ducati qua a bologna la lamborghini a sant'agata bolognese
 BOI074	quindi
-BOI074	c'è anche questo
 BOI075	ce le avete tutte
+BOI074	c'è anche questo
 BOI074	sì c~ tutt~ è vero tutte le macchi~ la motor valley qua in emilia romagna
 BOI074	le altre città reggio emilia è fatta lo~ con lo e poi le altre città son fatte con lo stampino
 BOI074	perché da m~ eh reggio emilia è uguale sembra un po' modena vai a parma e dici mh
@@ -1562,7 +1562,7 @@ BOI074	magari veramente dal carcere
 BOI075	cioè comunque ti fanno
 BOR018	oh chiatti' c'hanno fottut 'o piez
 BOI075	xx 'o piez
-BOR018	c'hanno fottut piez chiatti'
+BOR018	channo fottut piez chiatti'
 BOI075	cioè
 BOI075	e quindi cioè
 BOI074	che poi cosa vuol dire
@@ -1618,7 +1618,7 @@ BOR018	o chiatti'
 BOR018	perché il chiattillo suonava il pianoforte quindi hanno fatto la canzone insieme
 BOI074	ah
 BOR018	o chiatti' c'hann fottut 'o piez chiatti'
-BOI075	c'hann fottut o piez
+BOI075	chann fottut o piez
 BOR018	lui con il xx che arriva alle ginocchia
 BOI074	terribile
 BOI074	mamma mia

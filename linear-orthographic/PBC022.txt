@@ -11,7 +11,7 @@ BOR014	andavi a lavorare
 BOI055	mh sì
 BOR014	mh
 BOR014	dove andavi a lavorare
-BOI055	alla @nomeazienda,
+BOI055	alla
 BOI055	e poi mi alzavo la mattina alle cinque e mezzo e tornavo a casa la sera alle otto
 BOR014	mh
 BOI055	questo però non è ade~ e non è dei tempi eh
@@ -183,7 +183,7 @@ BOI055	già allora eh
 BOR014	eh
 BOI055	e andavo da rossini rossini cos'era
 BOI055	dottor rossini quando c'andavo
-BOI055	oh bembè
+BOI055	oh bembè sospira
 BOR014	ah eh c'andavi da tanto perché ci venivo anch'io quand'ero piccolina
 BOI055	mh ma s'anda~ sì son sempre andata da rossini
 BOI055	fin quando non
@@ -191,10 +191,10 @@ BOI055	ho dovuto dir no perché gli impegni non me lo permettevano
 BOI055	il tempo non c'era andare a bologna ci voleva tanto in treno finché son stata
 BOI055	che potevo ci sono andata
 BOI055	e mi piaceva moltissimo
-BOR014	ma e ti e senti te hai detto che lavoravi alla @nomeazienda no
+BOR014	ma e ti e senti te hai detto che lavoravi alla no
 BOI055	mh
 BOR014	eh
-BOR014	ma c'hai qualche bel ricordo legato alla @nomeazienda
+BOR014	ma c'hai qualche bel ricordo legato alla
 BOI055	sì tanta tanta tanta cordialità tanto divertimento
 BOI055	perché s'andava a lavorare ma con le ragazze si era perché era poi un posto dove c'eran le raga~
 BOI055	e ci si divertiva si era fatto delle amicizie poi le hai viste le foto no che non ci si
@@ -279,8 +279,8 @@ BOI055	c'era la vitto~ ma la vittoria però veniva poco la maria rita
 BOR014	rossi
 BOI055	no no no anche la la rossi lavorava con me
 BOR014	eh
-BOR014	con lei ancora sei in contatto però
 BOI055	intellige~
+BOR014	con lei ancora sei in contatto però
 BOI055	ah però siam stati un bel po' senza riconoscerci eh
 BOI055	e lavoravamo nello stesso posto
 BOR014	ma quand'è che vi siete riconosciute
@@ -303,7 +303,7 @@ BOR014	eh ma te in mensa però cos'è che ti facevano in mensa
 BOI055	oh la minestra e il secondo
 BOR014	no ma dico c'era quella signora che che ti chiamava no
 BOI055	beh
-BOI055	no quello era il bar all'angolo di @nomeluogo
+BOI055	no quello era il bar all'angolo di
 BOR014	ah
 BOI055	che andavamo giù
 BOI055	e quando mi vedeva
@@ -333,7 +333,7 @@ BOR014	no ma dico con i tuoi a~ cioè erano gente che conoscevi
 BOI055	certo certo certo beh ma scherzi
 BOI055	eh
 BOR014	mh
-BOI055	poi ce n'eran tanti che la ad esempio la mirella bianchi anche lei veniva alla @nomeazienda
+BOI055	poi ce n'eran tanti che la ad esempio la mirella bianchi anche lei veniva alla
 BOI055	ma ce n'eran parecchi
 BOI055	adesso tutti non me li ricordo però ce n'è ce n'era ce n'era
 BOR014	mh
@@ -545,7 +545,7 @@ BOI055	era la
 BOI055	era il mare più vicino a noi
 BOI055	però andavamo in compagnia eh
 BOI055	con quelle che lavoravo eh
-BOR014	eh con i tuoi colleghi della @nomeazienda
+BOR014	eh con i tuoi colleghi della
 BOR014	mh
 BOI055	ci andavamo noi
 BOI055	poi mia sorella mi dava poi dietro la pina e le mie nipoti
@@ -658,8 +658,8 @@ BOI055	no siamo andati anche a rimini sì a rimini miramare anche miramare non s
 BOI055	eh che mi ricordi no
 BOI055	che anche miramare era bellino
 BOI055	mh
-BOR014	mh
 BOI055	basta
+BOR014	mh
 BOR014	ehm
 BOR014	quindi ti piaceva andare al mare quando avevi tempo libero quando avevi le ferie
 BOI055	sì poi dopo abbiam sempre fatto le le vacanze dopo che mi son sposata
@@ -866,7 +866,7 @@ BOI055	beh un pochino sì
 BOI055	perché deve andar perduto
 BOR014	perché nessuno lo parla
 BOR014	poi vedi anche federico no quando viene su
-BOR014	prova a parlarlo te gli dici fai pena smettila
+BOR014	prova a parlarlo te gli dici fai penasmettila
 BOI055	ma sì ma anche lì c'è una bella differenza perché anche il toscano ha il suo dialetto eh
 BOR014	sì è un dialetto diciamo molto simile all'italiano però perché
 BOI055	mh

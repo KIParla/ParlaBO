@@ -4,8 +4,8 @@ BOR011	come ti senti?
 BOI050	bene
 BOR011	((ride))
 BOI050	bene
-BOR011	((ride))
 BOI050	((ride))
+BOR011	((ride))
 BOR011	allora
 BOR011	quindi cominciamo
 BOR011	da quanti anni vivi a bologna?
@@ -408,8 +408,8 @@ BOI050	[me l'hai rac]contato?
 BOR011	per forza perché [e:h]
 BOI050	[per forza però non] ri[cordo]
 BOR011	[da cir]co questa cosa
-BOR011	e ((ride))
 BOI050	((ride))
+BOR011	e ((ride))
 BOI050	ma vera[men(te)]?
 BOR011	[son rima]sto chiuso dentro
 BOR011	e ho aspettato che qualcun altro entrasse
@@ -418,8 +418,8 @@ BOI050	[è vero me l'hai <ricor]dato>
 BOR011	ma perché (.) a casa mia ((ride))
 BOI050	((ride))
 BOR011	il camp~ il: il tiro (.) sta affianco alla porta invece qui sta
-BOR011	[tu~ da tutt'altra parte]
 BOI050	[un po' prima (.) sì]
+BOR011	[tu~ da tutt'altra parte]
 BOR011	cioè ti devi ricordare prima di:
 BOI050	ah è [vero]
 BOR011	[qua]ndo stai arrivando alla porta
@@ -566,10 +566,10 @@ BOI050	ho detto (.) io da qui vado in centro a piedi mezz'oretta e arrivo no?
 BOI050	mi sono~ ho detto vabbè faccio un giro
 BOI050	poi son salita in quella terrazza ti ricordi quella terrazza con l'ascensore [dietro la] chiesa? quella che mi: troppo simpatica?
 BOR011	[sì]
-BOR011	((ride))
 BOI050	((ride))
-BOR011	[lo v]ogliamo raccontare questa cosa?
+BOR011	((ride))
 BOI050	[>ho detto<]
+BOR011	[lo v]ogliamo raccontare questa cosa?
 BOI050	allora è una terrazza e un ascensore
 BOI050	e:hm
 BOI050	fatto di metallo
@@ -645,8 +645,8 @@ BOR011	quindi ci dobbiamo andare
 BOI050	e:h sì
 BOR011	e io la prima volta me la ricorderò perché son qui da: da quanto?
 BOI050	e:h s~
-BOR011	[parecchio]
 BOI050	[ci sei già da] un po'
+BOR011	[parecchio]
 BOI050	sai che poi c'è un~ c'è un
 BOI050	quel modo di:
 BOI050	mh
@@ -828,8 +828,8 @@ BOR011	[qui]ndi non hai avuto neanche troppo supporto più:
 BOI050	n[o da dire: da] distrarmi: no >no no no no<
 BOR011	[emotivo]
 BOI050	nessuno mi ha distratto
-BOR011	[ci son st]ate reazioni:? ((ride))
 BOI050	[nessuno]
+BOR011	[ci son st]ate reazioni:? ((ride))
 BOI050	delle persone?
 BOI050	lo capivano nessuno ha riso per fortuna ma ((ride))
 BOR011	((ride))
@@ -947,8 +947,8 @@ BOI050	e c'è anche il museo ecco il museo egizio non ci sono mai andata forse m
 BOI050	chi è interessato po~ mh potrei portarlo
 BOI050	così lo vedo anch'io per la prima volta
 BOI050	c'è il museo anatomico
-BOR011	[mhmh]
 BOI050	[quello lo co]no[sci]?
+BOR011	[mhmh]
 BOR011	[quello] ci dovevo andare da poco
 BOI050	è caratteristico bello
 BOI050	e:
@@ -1123,8 +1123,8 @@ BOI050	però ci sono molti animali anche esotici
 BOI050	sì tipo: oddio è esotico lo gnu?
 BOI050	comunque [non:]
 BOR011	[no].
-BOR011	[mi cogli impreparato] ((ride))
 BOI050	[o tipo i camme~]
+BOR011	[mi cogli impreparato] ((ride))
 BOI050	oppure i: i ca~ i dromedari o i cammelli? non lo so insomma no no non
 BOI050	no è proprio lo gnu mi sa
 BOI050	sai quell'animale un po':
@@ -1356,8 +1356,8 @@ BOI050	dai bombo crêpes è storic[o]
 BOR011	[a] proposito dobbiamo andare in quel: alle stanze?
 BOI050	io ho gir~ anche alle stanze era un posto che frequentavo tanto [è belli]ssimo vero
 BOR011	[x x]
-BOR011	[e:h è sembrato un po' un po'] blasfemo stare lì dentro a:
 BOI050	[le stanze chiara~]
+BOR011	[e:h è sembrato un po' un po'] blasfemo stare lì dentro a:
 BOI050	n[o:]
 BOR011	[a] sorseggiare però belli[ssimo]
 BOI050	[no]
@@ -1574,8 +1574,8 @@ BOI050	bene [davvero]?
 BOR011	[(ai tuoi)] aneddoti
 BOI050	dai [bene]
 BOR011	[ma sì]
-BOR011	[(lei ade~)]
 BOI050	[andrai a] fare la spesa con la sporti:na
+BOR011	[(lei ade~)]
 BOR011	((ride))
 BOI050	butterai il rusco:
 BOI050	e suo~ e chie~ ((ride)) e chiederai il tiro al tuo coinquilino.

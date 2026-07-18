@@ -164,7 +164,7 @@ BOI014	io c'ho messo una vita per capire che erano i tedeschi
 BOR002	ah
 BOR002	no infatti non avrei mai ricollegato
 BOI014	eh
-BOI014	tun~ to~ tognini i tugnèin
+BOI014	tun to~ tognini i tugnèin
 BOI014	tugnèin
 BOI014	che erano i tedeschi
 BOI014	che venivano ovviamente
@@ -367,7 +367,7 @@ BOR002	perché ah per una
 BOI014	no no non per quello no via dei mille mi~ mille dei garibaldi ecco
 BOR002	i mille quelli di
 BOR002	ah okay
-BOI014	sì b~ adesso c~ eh è c'è dove c'è
+BOI014	sì b~ adesso ceh è c'è dove c'è
 BOI014	anche il mamo mimo mo~
 BOR002	mambo
 BOI014	mambo da quelle parti lì
@@ -1210,7 +1210,7 @@ BOR002	ti sentiresti di dare ai giovani
 BOR002	di adesso
 BOR002	che stanno subendo insomma
 BOR002	questa cosa della pandemia che relativamente a tutto quello che hai vissuto tu non è niente
-BOR002	PERÒ cioè dato che sicuramente di periodi di crisi
+BOR002	però cioè dato che sicuramente di periodi di crisi
 BOI014	come non è niente eh è gravissima
 BOR002	e' gravissima no però io per esempio avessi vissuto negli anni sessanta settanta
 BOR002	cioè per la paura di uscire di cioè non sarei uscita di casa
@@ -1252,7 +1252,7 @@ BOR002	mhmh
 BOI014	hai capito cosa voglio dire
 BOR002	sì sì sì certo
 BOI014	ecco io consiglio quello
-BOI014	PERCHÉ io ho visto tante
+BOI014	perché io ho visto tante
 BOI014	insomma adesso li vedi che
 BOI014	aspettano tutti di avere l~ aspett~ non lo so adesso aspettavano di avere la casa di avere
 BOI014	di avere tutti i mobili di avere questo ee

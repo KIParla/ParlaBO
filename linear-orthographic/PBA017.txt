@@ -295,7 +295,7 @@ BOI080	eh se conosci qualcuno
 BOI081	e che negozio è cos'è che vende
 BOI080	si può dire
 BOR022	vai vai
-BOI080	ah @nomeazienda
+BOI080	ah
 BOI080	vintage
 BOI081	ah
 BOR022	ah okay
@@ -915,7 +915,7 @@ BOI080	ma posso dirli i nomi
 BOR022	sì sì puoi dirli xxxx
 BOI080	ah ok vabbè xxx perché non sapevo se
 BOR022	puoi puoi dire tutto ciò che vuoi
-BOI080	okay okay no prima ero da @nomeazienda e adesso sono da @nomeazienda
+BOI080	okay okay no prima ero da e adesso sono da
 BOR022	ah okay okay
 BOI080	e quindi cioè sono proprio due aziende
 BOI080	anche proprio di cioè
@@ -998,8 +998,8 @@ BOI080	intendi di mh
 BOI081	chi fa la produzione cioè poi alla fine
 BOI080	ah
 BOI080	sì sicuramente
-BOI081	non fanno solo @nomeazienda ma faranno anche altri marchi che tipo
-BOI080	però il la pelle @nomeazienda viene comunque comprata
+BOI081	non fanno solo ma faranno anche altri marchi che tipo
+BOI080	però il la pelle viene comunque comprata
 BOI080	e lavorata
 BOI080	quella sì in inghilterra
 BOI080	perché hanno proprio una serie di trattamenti specifici
@@ -1041,7 +1041,7 @@ BOI081	e sì
 BOI081	piuttosto
 BOI081	meglio prendere da un'azienda piccola
 BOI080	chiaro
-BOI081	che da una grande cioè poi alla fine sì @nomeazienda è grande
+BOI081	che da una grande cioè poi alla fine sì è grande
 BOI080	sì sì dai xxx sì
 BOI081	però nel collettivo è piccola
 BOI081	cioè xxxx macchine

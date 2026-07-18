@@ -240,8 +240,8 @@ BOI073	oppure se matteo può ospitarla esce il sabato sera xxx
 BOI072	esatto dipende tutto se
 BOI072	se matteo ha posto
 BOR018	la unica condizione se matteo ha posto a casa
-BOI072	esatto allora posso uscire
 BOI073	esatto
+BOI072	esatto allora posso uscire
 BOR018	ehm ma ecco
 BOR018	bologna la vedi come una città sicura anche per starci la sera per uscire oppure
 BOI072	mh non molto in realtà cioè per quel che mi riguarda ogni volta che
@@ -263,7 +263,7 @@ BOI072	quasi le otto
 BOI072	e io dovevo prendere il treno per tornare a casa e tipo c'era un gruppo di ragazzi che mi aveva puntato e praticamente
 BOI072	infatti ho dovuto chiamare
 BOI072	tipo mio padre e avvisarlo di venirmi a prendere in alla fermata perché infatti quando sono scesa loro sono scesi con me perché volevano seguirmi e tuttio il resto
-BOR018	mado:'
+BOR018	mado'
 BOI072	sì e quindi io
 BOI072	quando hanno visto poi che sono andata
 BOI072	son salita in macchina con mio padre
@@ -764,8 +764,8 @@ BOI072	cioè i miei genitori erano via così m'ero svegliata voi che dormiva~ do
 BOI073	mh
 BOI072	io stavo facendo pipì
 BOI072	e a un certo punto entro lo
-BOI072	entro nella mail
 BOR018	questa informazione
+BOI072	entro nella mail
 BOI072	t m i
 BOI072	too much information
 BOI072	ehm
@@ -806,7 +806,7 @@ BOI072	mhmh mh
 BOI073	e
 BOR018	me lo sono trovato ricco
 BOI072	eh brava
-BOI073	u' cazz
+BOI073	u cazz
 BOI073	e
 BOI073	e quindi cioè
 BOI073	cioè ne~ nel lazio ci stanno un sacco di rossi però

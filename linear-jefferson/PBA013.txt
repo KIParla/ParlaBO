@@ -103,7 +103,7 @@ BOR018	[sì] xx
 BOI074	vado in centro, ma (.) >forse perché son fatto< anch'io (.) (mio) così ho bisogno di stimoli nuovi, eccetera
 BOI074	mi aspetto sempre le solite situazioni.
 BOR018	ma questo (.) no vabbè ma io (.) sto qua da:
-BOR018	quant'è? nemmeno tre anni, (.) [] però da una parte già ti capisco perché (.) per me
+BOR018	quant'è? nemmeno tre anni, (.) però da una parte già ti capisco perché (.) per me
 BOI074	[>mhmh<]
 BOR018	>cioè< vabbè (.) allora
 BOR018	a parte che >tipo< (.) quest'anno sono uscita poco per, varie ragioni,
@@ -757,8 +757,8 @@ BOR018	[ma non era successo] (.) non so se (.) oddio ma~ magari dico una scemenz
 BOI075	((ride))
 BOI074	((ride))
 BOR018	ma tipo (.) che ((ride))
-BOI074	(che) sono i nostri abba (.) [] ((ride))
-BOR018	(((ride)) [sì]
+BOI074	(che) sono i nostri abba (.) ((ride))
+BOR018	((ride)) ([sì]
 BOI075	(loro) sono i nostri abba veramen[(te)]
 BOI074	((ride))
 BOR018	([no] nel senso)
@@ -770,7 +770,7 @@ BOI075	[a:h]
 BOI074	la [bionda]
 BOR018	[cugini di ca]mpagna era strano (.) però insomma ((ride)) avevi ca[pito]
 BOI075	((ride))
-BOI074	[PENS]O fosse (()). la l~ la rossa (()). che in realtà è mora
+BOI074	[PENS]O fosse () . la l~ la rossa () . che in realtà è mora
 BOR018	ah
 BOI074	che si è me~
 BOI074	°mh°
@@ -1001,8 +1001,8 @@ BOR018	#e xx [ah mi scialo]
 BOI075	#[mi mi sto sc~ mi s]to sciala[ndo]
 BOR018	[eh] (.) che può es[sere anche tipo] (.) °che ti fai una doccia rilassante ah mi scialo°
 BOI074	[a:h]
-BOI074	#che può essere che può essere simile al polleggiarsi
 BOI075	((ride))
+BOI074	#che può essere che può essere simile al polleggiarsi
 BOR018	po~ [m:h no]
 BOI075	#[no polle]g secondo me è pi[ù:::]
 BOR018	[rilas]sarsi
@@ -1283,8 +1283,8 @@ BOI074	e::h più che altro è la motor valley >cioè<
 BOI075	>mhmh<
 BOI074	con la ducati qua a bologna, la lamborghini a sant'agata bolognese,
 BOI074	quindi
-BOI074	[c'è anche (questo)]
 BOI075	[ce le avete tut]te ((ride))
+BOI074	[c'è anche (questo)]
 BOI074	sì c~ tutt~ è vero (.) tutte le macchi~ la motor valley qua. in emilia romagna
 BOI074	le altre città reggio emilia è fatta lo~ con lo (.) e poi le altre città son fatte con lo stampino
 BOI074	perché da m~ eh reggio emilia è uguale sembra un po' modena vai a parma: e dici mh

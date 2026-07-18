@@ -910,7 +910,7 @@ BOI111	[però]
 BOI110	[io non] vedo differenze
 BOI110	cioè quando: sono in autobus non vedo differenze quindi:
 BOR031	okay no quello [in realtà neanch'io sì:
-BOI111	[(forse) non forse c'hai più casino con l' autobus]
+BOI111	[(forse) non forse c'hai più casino con l'autobus]
 BOR031	sì hai di solito però prendo l'autobus quello che gira sui viali] e quindi [non]
 BOI110	[no io] faccio proprio: tutto: il giro
 BOR031	ok[ay]
@@ -1010,7 +1010,7 @@ BOR031	ah [ed è bello:] x
 BOI110	[letteralmente lì]
 BOI110	bello sì cioè m:h è mh [è un normale museo egi~]
 BOI111	[ti pa~ ti passi ti passi] x dai
-BOI110	sì un pomeriggio lì un' oretta e mezza due
+BOI110	sì un pomeriggio lì un'oretta e mezza due
 BOR031	mhmh
 BOI110	m:h la cosa bella è che fanno tipo dei percorsi per bambini
 BOR031	[ah]
@@ -1229,7 +1229,7 @@ BOR031	ok[ay]
 BOI111	[però:] sì sì cioè ce ne son diversi
 BOI111	[cioè] mi sembra che loro avessero fatto: la parte diciamo (.) so~ sotterranea se non [sbaglio]
 BOR031	[mhmh]
-BOR031	[sì] l' hanno detto ((ride))
+BOR031	[sì] l'hanno detto ((ride))
 BOI111	e:h poi io io mi ricordo una c~ m:h
 BOI111	[vagamente]
 BOI110	[°sotterranea:?°]

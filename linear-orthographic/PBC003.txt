@@ -22,7 +22,7 @@ BOI010	va ben
 BOR001	mhmh
 BOR001	e son~ gli unici due
 BOI009	gli unici due che abbiam fatto
-BOI010	e poi dopo nel settantadue ci siam trasferiti qui a in via @nomeluogo
+BOI010	e poi dopo nel settantadue ci siam trasferiti qui a in via
 BOI009	xxx
 BOI010	al piano terra
 BOR001	mhmh
@@ -30,15 +30,15 @@ BOI010	ci siamo stati dieci anni
 BOI010	e poi dopo c~ siam venuti al secondo piano e che è già quarantas~
 BOI009	nell'ottanta
 BOI010	s~ s~ sì
-BOI009	quattro siamo siam venuti g~ su
 BOI010	settantadu settanta~
+BOI009	quattro siamo siam venuti g~ su
 BOI009	sì nel settantadue siamo andati abitar giù
 BOI010	e ottantadue siam venuti
 BOI009	nell'ottantaquattro
 BOI009	ottantaquattro siamo venuti abitar su al secondo piano
 BOR001	okay e quanti anni avevate quando siete venuti a bologna
-BOI009	quando siam venuti a bologna avevamo ventun'anni
 BOR001	xx più o meno
+BOI009	quando siam venuti a bologna avevamo ventun'anni
 BOI010	ve~
 BOI010	ventuno
 BOR001	okay
@@ -55,7 +55,7 @@ BOI009	il primo posticino che abbiamo trovato era in via beverara
 BOI009	che era una stanza una cucina e una stanza da letto basta
 BOI010	e una stanzetta
 BOI009	non c'era nient'altro
-BOI010	e poi siamo venuti ad abitare qui in v~ in via @nomeluogo quando è nato tuo papà
+BOI010	e poi siamo venuti ad abitare qui in v~ in via quando è nato tuo papà
 BOR001	mhmh
 BOI009	quando è nato daniel
 BOR001	mhmh
@@ -117,7 +117,7 @@ BOI009	perch è i palazzoni che c'erano qui sono ancora quelli
 BOI010	no
 BOR001	mhmh
 BOI009	ehm
-BOI010	son cambiati un po' i negozi quelli lì da in via @nomeluogo prima lì c'era la libreria poi dopo è è cambiata tante cose adesso
+BOI010	son cambiati un po' i negozi quelli lì da in via prima lì c'era la libreria poi dopo è è cambiata tante cose adesso
 BOI009	eh xx
 BOI009	sì quelli lì cambiano perché chi viene dentro dopo o chiude perché non va bene ma quello lì
 BOR001	sì sì
@@ -134,7 +134,7 @@ BOI009	xx
 BOR001	che è una delle uscite sempre
 BOI009	è una delle uscite molto
 BOR001	piene
-BOI010	e poi via @nomeluogo se andiamo indietro di di vent'anni venticinque anni p~ ehm f~ dietro
+BOI010	e poi via se andiamo indietro di di vent'anni venticinque anni p~ ehm f~ dietro
 BOR001	mhmh
 BOI010	si parcheggiava anche senza la retromarcia adesso non trovi un posto neanche se
 BOR001	mhmh
@@ -233,9 +233,9 @@ BOI009	e poi si sentivano degli urli degli urli che venivano lì dalla strada
 BOI010	caricavano la l~ ehm i
 BOI009	i taxisti più che altro i quelli che si erano salvati
 BOI010	li caricavano sui pullman sui autobus
-BOI009	e che correvano c'era uno qui in via @nomeluogo che abitava proprio qui come taxista
+BOI009	e che correvano c'era uno qui in via che abitava proprio qui come taxista
 BOI009	lui era riuscito a salvarsi
-BOI009	però correva qui a lunga via @nomeluogo facendo degli urli dicendo sono morti tutti sono morti tutti erano una cosa
+BOI009	però correva qui a lunga via facendo degli urli dicendo sono morti tutti sono morti tutti erano una cosa
 BOI009	è stato un
 BOI009	da freddo ecco proprio
 BOR001	sì
@@ -382,7 +382,7 @@ BOI009	e
 BOI009	e anche con lei penso che ci sia~ ci siamo andati quando
 BOI009	daniel ha cominciato
 BOI009	perché prima
-BOI009	i'andasevan brisa quando abitavamo in beverara non ci siamo mai andati non siam mai venuti in centro
+BOI009	iandasevan brisa quando abitavamo in beverara non ci siamo mai andati non siam mai venuti in centro
 BOR001	mh
 BOI009	da dire che fosse venivamo in centro solo se c'era qualche cosa
 BOI009	da fare o
@@ -440,8 +440,8 @@ BOR001	è p~
 BOR001	okay
 BOI010	ehm debba e xx molto
 BOR001	è rimasto un po' come
-BOI009	sì
 BOI010	sì
+BOI009	sì
 BOI010	ed è molto bello eh
 BOI009	il mercato di ugo bassi
 BOI009	ecco quello lì ci andavamo spesso quando
@@ -469,8 +469,8 @@ BOR001	mhmh
 BOI009	sono content~ mi ne ho sentiti anch'io dire ma con tutti questi turisti posson stare a casa sua perché
 BOI010	come si chiama quel fa~ ehm bar famoso storico c'lè sparì ehm
 BOI009	eh calderoni
-BOI009	calderoni ecco calderoni era un bar che
 BOI010	quando
+BOI009	calderoni ecco calderoni era un bar che
 BOI010	c~ co~ c~
 BOI010	era un bar che era nomi~ ehm era nominato d~ da tutti anche da fuori bologna da fuori provincia andiamo a prendere un caffè da calderoni perché il caffè da calderoni era una cosa
 BOI009	che c'andava gio~
@@ -622,8 +622,8 @@ BOI010	e un giorno fe~ fa domani ci son tutte le lasagne ve~ ehm no le lasagne c
 BOI009	le tagliatelle alla b~
 BOI010	però i il proprietario lì è venuto da noi che eravamo solo noi di bologna fa a voi due non ve le do
 BOI010	ed è stato molto onesto
-BOI009	perché sapeva che
 BOI010	fa perché
+BOI009	perché sapeva che
 BOI010	vi dò le le tagliatelle alla bolognese ma a voi due no
 BOI009	che poi
 BOI009	che poi oltretutto aveva detto gli spaghetti alla bolognese
@@ -641,7 +641,7 @@ BOI010	questo è onesto
 BOI010	ma non che t~ che io apro trattoria bolognese xx ti dà dla roba che
 BOI010	se la magna un che n'ha mai mangiato al dis boh
 BOI010	ma mi a pos dir oh bello
-BOI010	eh scusa eh ti t'g'ha x in quist' chi angh'è gnanc al nom
+BOI010	eh scusa eh ti t'gha x in quist' chi angh'è gnanc al nom
 BOI009	sì sì
 BOR001	e a p~ e tutti mh
 BOR001	cioè oltre a i vari locali che avete detto che erano più
@@ -873,8 +873,8 @@ BOI009	no
 BOI010	xx sempre
 BOI009	tutto
 BOR001	tutto
-BOI009	c'era tutto
 BOR001	è comodo da questo punto di vista
+BOI009	c'era tutto
 BOI009	sì sì
 BOI010	però xx dovevi andare a far della visite così andavi in via tiarini
 BOI009	perché la caterina e daniel
@@ -948,8 +948,8 @@ BOR001	per lo scientifico è primo il galvani dopo lì dipende un po'
 BOI010	allora vedi
 BOI009	sì sì ho ben detto che lì dipende un po' da da
 BOI010	dipende che tipo di scuola fai
-BOI009	da da que~ dalla scuola però
 BOR001	sì
+BOI009	da da que~ dalla scuola però
 BOR001	però sì io all'università ho visto che
 BOR001	cioè
 BOR001	il galvani mi ha
@@ -1037,11 +1037,11 @@ BOI009	la
 BOI009	se invece ti vuole proprio una visita devi chiedere appuntamento
 BOI010	l'appuntamento
 BOI009	ehm ma diciamo che oh
-BOI009	s'adeguem
+BOI009	sadeguem
 BOI009	perché
 BOI009	non si può far altro
-BOI009	ehm anche perché
 BOR001	sì sì
+BOI009	ehm anche perché
 BOI009	ehm sono convinta che sono tutte cose che ce le creiamo noi
 BOI010	non è che sia cambiata la bologna come città è cambiato tutto un insieme
 BOI009	perché prima
@@ -1074,8 +1074,8 @@ BOI009	ah noi dal nostro dottore ehm i pensio~
 BOI010	eh minimo tre ore ce le mettevi n~ meno di tre ore no anche a far una ricetta
 BOI009	i pensionati che sono qui intorno perché essendo questo qui un quartiere che
 BOI009	diciamo che è molto vecchio
-BOI010	eh
 BOR001	mh
+BOI010	eh
 BOR001	xx
 BOI010	perché dei giovani n
 BOI009	qui è un quartiere che c'è molte persone anziane
@@ -1173,8 +1173,8 @@ BOI009	mh
 BOR001	cioè capisco il vostro e il loro ma
 BOR001	quello di bologna non è che mi è mai capitato molto di sentirlo perché in giro non
 BOI009	ma
-BOI009	sì ma anche in giro non è che lo sentivi molto
 BOI010	no n~ n~ n
+BOI009	sì ma anche in giro non è che lo sentivi molto
 BOR001	ah okay
 BOI009	poteva sentire una qualche battuta
 BOI009	di qualcuno
@@ -1203,7 +1203,7 @@ BOI010	beh xxx fabio
 BOI009	no
 BOI009	vicino a crev~ a a a
 BOI010	vic~
-BOI010	't fa un po' 'd confusion io bela capì
+BOI010	t fa un po' 'd confusion io bela capì
 BOI010	vidiciatico
 BOR001	vabbè non era di bologna diciamo
 BOI009	non era proprio di bologna centro
@@ -1387,12 +1387,12 @@ BOR001	mh
 BOI009	ades quast chi l'è dal domiledznov ma xx
 BOI010	ben cusa gh'interessa a lia l'ha sol da truvar eh
 BOR001	sì
-BOI009	no a dig è
+BOI009	NO a dig è
 BOI009	e qui invece si dice
 BOI009	c'è scritto
 BOR001	c~
-BOI009	l'è com al can ed san roc
-BOR001	l'è
+BOI009	lè com al can ed san roc
+BOR001	lè
 BOR001	san roc
 BOI009	è come il cane di san rocco
 BOI010	però dopo ti scrive in italiano
@@ -1447,7 +1447,7 @@ BOI009	anche se son bolognesi però
 BOI010	no no
 BOR001	penso che non lo sappiano il cioè mh sì non
 BOI009	i i proverbi di della città oppure i detti
-BOI010	s~ se ai tuoi compagni di classe che son di bologna gli fai vedere queste qui è è anche per loro è tabù cumpagn a per te
+BOI010	s se ai tuoi compagni di classe che son di bologna gli fai vedere queste qui è è anche per loro è tabù cumpagn a per te
 BOR001	no
 BOR001	sì anche perché poi molti comunque hanno genitori che
 BOI010	sì sì sì
@@ -1581,7 +1581,7 @@ BOI009	ehm ha fatto un monumento in
 BOI010	un monumento con il coso tondo sopra
 BOI009	in marmo tutto bello
 BOI010	po~
-BOI010	l'o~ ehm l'ombrello per tutti al g'ha mis perché lu al dava
+BOI010	lo~ ehm l'ombrello per tutti al g'ha mis perché lu al dava
 BOI009	perché lui dava la casa a tutti perché ce n'era abitavamo là in questo
 BOI010	a tutti
 BOI010	non so adesso se ci sia ancora però l'ombrello per tutti
@@ -1705,8 +1705,8 @@ BOI009	e lui era disperso in russia
 BOI009	e dopo è venuto a casa a piedi eh
 BOI010	sai che in russia c~ si andava nel nel letamaio a prender le pelle di patate
 BOI009	in germania questo
-BOI009	quando era in campo di concentramento
 BOI010	no anc~ anche in russi anche in russia
+BOI009	quando era in campo di concentramento
 BOI010	ti fucilavano
 BOI010	e allora quando lui è venuto a casa dopo a tavola con lui era impossibile starci
 BOR001	mh
@@ -1895,8 +1895,8 @@ BOI009	avevamo
 BOI009	avevamo il bagno giù insieme a tutti quelli che abitavano lì
 BOI010	eh insieme a tutti gli altri non l'aveva nessuno in casa
 BOI009	non l'aveva nessuno in casa
-BOI010	no ma è stato mh pochi anni che la cosa è cambiata ma prima
 BOR001	sì
+BOI010	no ma è stato mh pochi anni che la cosa è cambiata ma prima
 BOI009	e quando abitavamo con la nonna io con la nonna corile e così
 BOI010	eh corile andiamo ancora più indietro
 BOI009	avevamo addirittura un buco in mezzo all'orto
@@ -1950,7 +1950,7 @@ BOR001	che tutti a turno
 BOI009	a turni
 BOI009	no casomai
 BOR001	l'ultimo
-BOI009	l'ultimo che si lavava gl'era più sporc
+BOI009	lultimo che si lavava gl'era più sporc
 BOR001	eh
 BOI010	no no si lavava i~ in due tre b~ bambini così t~
 BOI010	fora un dentro quel'altro xxxxx
@@ -1980,7 +1980,7 @@ BOI010	ah ehm verso le undici e mezza andava a accendere i fornelli co~ metteva 
 BOI009	badava a tutti i bambini degli altri
 BOI009	per tutti
 BOR001	sì
-BOI010	e invece adesso questo qui non conosci neanche più il tuo vici~ quello di hai di fronte nel p~ ne n~ nel pianerottolo
+BOI010	e invece adesso questo qui non conosci neanche più il tuo vici~ balbetta quello di hai di fronte nel p~ ne n~ nel pianerottolo
 BOI009	c'era
 BOR001	mh
 BOR001	mh
@@ -2093,8 +2093,8 @@ BOI010	e son tutte cose che si dicono adesso uno ecco tipo te così dici e soppa
 BOR001	sì
 BOR001	mhmh
 BOI010	si viveva così
-BOI010	però i~ tutto sommato non mh
 BOR001	sì
+BOI010	però i~ tutto sommato non mh
 BOI010	eravam felici perché veramente c'era più no~ non c'è q~ q~ quel adesso
 BOI010	adesso a parte noi qui che che ci conosciamo uno con tutti
 BOI010	ma vai in certi palazzi no~ non non sai neanche chi è quello lì quello là quello là non non conosci mica nessuno perché n~ non si parla la gente non
@@ -2149,7 +2149,7 @@ BOI010	andiamo al mare ehm d~ do il parcheggio a questi qui sopra e poi ahm anna
 BOI009	diciamo
 BOI009	ehm
 BOI009	i fiori da annaffiare mh
-BOI010	m'innaffia e po' quant a sent la porta
+BOI010	minnaffia e po' quant a sent la porta
 BOI009	guardi se vedi se senti qualcosa se per caso
 BOR001	sì
 BOI010	sì
@@ -2201,8 +2201,8 @@ BOI010	non siamo abituati a queste cose qua
 BOI009	a prendere qualcuno in casa a dormire
 BOR001	mh
 BOI010	ma invece
-BOI009	che non conosci
 BOR001	e neanche ad accettare
+BOI009	che non conosci
 BOI009	e neanche ad accettare
 BOI010	no
 BOR001	l'invito di uno

@@ -15,7 +15,7 @@ BOI017	all all'interno del x bilancio partecipativo del comune di bologna
 BOI017	nel duemiladiciotto eh
 BOI017	e e questo progetto prevedeva il riutilizzo di questo spazio
 BOI017	che ripeto è di proprietà pubblica del comune di bologna
-BOI017	assegnato in gestione ad asp e x a sua volta alla @nomeazienda,
+BOI017	assegnato in gestione ad asp e x a sua volta alla
 BOI017	e quindi questo nostro progetto x mirava alla riutilizzazione dello spazio come luogo espositivo e laboratoriale
 BOI017	e e ovviamente pensando a a noi e al ai nostri interessi e alle nostre attività associative
 BOI017	eh nella fattispecie un luogo eh eh per mostre su eh e laboratori eh sul tema eh della storia di bologna e del territorio
@@ -567,7 +567,7 @@ BOI017	esatto poi li abbiamo portati mh anche lì al eh al paolo martini
 BOI018	sì
 BOI017	c'è e c'è anche eh luca rossi che
 BOI018	che spiega
-BOI017	era il direttore dell'@nomeluogo
+BOI017	era il direttore dell'
 BOI018	racconta la storia del villaggio
 BOI018	con i nomi delle strade com'erano prima sotto il fascismo quindi
 BOI018	via delle camicie nere via del legionario eh
@@ -838,8 +838,8 @@ BOR004	eh non so se
 BOI018	questi x racconto storico
 BOI018	è come dire introdotto
 BOI018	da una serie di opere mie che sono delle sculture mie e dei disegni miei
-BOI018	ovviamente accompagnati da
 BOR004	mhmh
+BOI018	ovviamente accompagnati da
 BOI018	eh
 BOI018	schede di approfondiemento cartografie eccetera
 BOI018	però
@@ -936,7 +936,7 @@ BOI018	e questo vale sempre questo è zannoni
 BOI018	ecco qui per esempio io
 BOI018	ho fatto una scelta di linguaggio molto particolare
 BOI018	eh ritenendo questo personaggio un personaggio molto importante per la storia della città
-BOI018	e oltretutto un personaggio a cui sono personalmente affezionato per tanti motivi intanto noi abitiamo in @nomeluogo che è la strada dedicata a lui
+BOI018	e oltretutto un personaggio a cui sono personalmente affezionato per tanti motivi intanto noi abitiamo in che è la strada dedicata a lui
 BOR004	mhmh
 BOI018	che è il signore che tra le altre cose
 BOI018	ha scoperto le tombe etrusche

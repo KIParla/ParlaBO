@@ -39,13 +39,13 @@ BOI005	o dentro il comune di bologna si è spostato fuori
 BOI005	nei comuni limitrofi
 BOR002	eh vi piace la vostra zona se sì o no
 BOR002	perché
-BOI004	allora la zona dove abitiamo proprio mh @nomeluogo no
+BOI004	allora la zona dove abitiamo proprio mh no
 BOI004	a me non piace non mi è mai piaciuta neanche quando ero piccola
 BOI004	che era proprio la zona
 BOI004	quella un po' più malfamata ecco non so come dire
 BOI004	ehm come zona la croce di casalecchio come croce di casalecchio sì mi piace molto però la mia zona proprio per niente
 BOI005	a me la mia zona piace
-BOI005	anche se è sempre @nomeluogo,
+BOI005	anche se è sempre
 BOI005	e mi piace il contesto del quartiere mi piace il fatto che
 BOI005	nei pressi di casa nostra c'è la pista ciclabile che consente diciamo attività ricreativ~ ricreative
 BOI005	eh si può arrivare a bologna a piedi in bicicletta si può arrivare a parco talon
@@ -579,7 +579,7 @@ BOR002	un po' distruttivo ecco un'urbanizzazione un po' distruttiva per
 BOI005	ah beh certo perché creare
 BOR002	i senzatetto
 BOI005	diciamo delle zone d'elite
-BOI005	eh preclude il fatto che poi delle persone homeless possano rifugiar~ vi si rifugiarvisi
+BOI005	eh preclude il fatto che poi delle persone homeless possano rifugiar~ visi rifugiarvisi
 BOI005	eh sì e sono è il prezzo da pagare
 BOI005	prezzo da pagare poi diciamo dovendo io li lascerei così ecco
 BOI005	ehm

@@ -22,7 +22,7 @@ BOI010	[°va ben°]
 BOR001	mhmh
 BOR001	e: son~ g:li unici du[e:]
 BOI009	[gl]i unici due che abbiam fatto
-BOI010	e [poi dop]o nel settantadue ci siam trasferiti qui a: in via @nomeluogo
+BOI010	e [poi dop]o nel settantadue ci siam trasferiti qui a: in via
 BOI009	[xxx]
 BOI010	al piano terra
 BOR001	mhmh
@@ -30,15 +30,15 @@ BOI010	ci siamo stati dieci anni
 BOI010	e poi dopo c~ siam venuti al secondo piano e che: è già quarantas~
 BOI009	[nel:l'ottant]a
 BOI010	[s~ s~ s:ì]
-BOI009	[QUAttro siamo: siam ven]uti g~ su
 BOI010	[settantadu (.) settanta~]
+BOI009	[QUAttro siamo: siam ven]uti g~ su
 BOI009	°sì° nel settantaDUE siamo andati abitar giù
 BOI010	[e ottantadue siam venuti]
 BOI009	[nell'ottantaquattr]o
 BOI009	ottantaquattro siamo venuti abitar su: al secondo piano
 BOR001	>okay< E QUAnti anni avevate quando siete venuti: a bologna?
-BOI009	[quando siam venuti a] bologna avevamo v[en]tun'anni
 BOR001	[xx più o MEno]
+BOI009	[quando siam venuti a] bologna avevamo v[en]tun'anni
 BOI010	[ve~]
 BOI010	ventuno
 BOR001	okay
@@ -55,7 +55,7 @@ BOI009	il primo posticino che abbiamo trovato era in via beverara
 BOI009	che era una stanza (.) una cucina [e una stanza da le]tto basta
 BOI010	[e una stanz(etta)]
 BOI009	non c'era nient'altro
-BOI010	e poi siamo venuti ad abitare qui in v~ in via @nomeluogo [quand]o è nato tuo papà
+BOI010	e poi siamo venuti ad abitare qui in v~ in via [quand]o è nato tuo papà
 BOR001	[mhmh]
 BOI009	quando è na[to dani]el
 BOR001	[mhmh]
@@ -112,7 +112,7 @@ BOI009	[beh] (.) sì sì
 BOI009	e:: quelli lì: (.) son cambiati quelli lì
 BOR001	sì
 BOI010	[(proprio) ultimamente]
-BOI009	[del resto prIMA] (.) è rimasto sempre: abbastanza (.) [] fermo
+BOI009	[del resto prIMA] (.) è rimasto sempre: abbastanza (.) fermo
 BOR001	[mh]
 BOR001	>quindi< non hanno fatto molte ca:[se, o altre cose] così
 BOI009	[no:]
@@ -120,7 +120,7 @@ BOI009	perch [è i p]alazzoni che c'erano qui: sono ancora [quell]i
 BOI010	[no]
 BOR001	[mhmh]
 BOI009	e:hm
-BOI010	son cambiati un po' i neGOzi >quelli lì da< in [via @nomeluogo] prima lì c'era la libreria poi dopo è:: è cam[biata tante cose adesso]
+BOI010	son cambiati un po' i neGOzi >quelli lì da< in [via prima lì c'era la libreria poi dopo è:: è cam[biata tante cose adesso]
 BOI009	[eh xx]
 BOI009	[sì: quelli lì: cambia]no perché: chi viene dentro dopo o chiude perché non [va bene]: ma quello lì
 BOR001	[sì: sì]
@@ -137,7 +137,7 @@ BOI009	x[x]
 BOR001	[CHE è] una delle uscite [sempre:]
 BOI009	[è una delle u]scite molto:
 BOR001	piene
-BOI010	e poi via @nomeluogo se andiamo indietro di: di vent'anni v[enticin]que anni p~ ehm f~ dietro
+BOI010	e poi via se andiamo indietro di: di vent'anni v[enticin]que anni p~ ehm f~ dietro
 BOR001	[mhmh]
 BOI010	si parcheggiava anche senza la retromarcia ad[esso non tr]ovi un posto neanche se ((ride))
 BOR001	[mhmh]
@@ -238,9 +238,9 @@ BOI009	[e poi s]i sentivano degli u:rli degli u[rli che venivano (lì) dalla str
 BOI010	[caricavano la l~ e:hm] i
 BOI009	i taxisti più che altro i: [quelli che si erano salvati]
 BOI010	[li caricavano sui pullman (.) sui:] autobus
-BOI009	e: che correvano: c'era uno qui in via @nomeluogo che abitava proprio qui come taxista
+BOI009	e: che correvano: c'era uno qui in via che abitava proprio qui come taxista
 BOI009	lui era riuscito a salvarsi
-BOI009	però (.) correva qui a lunga via @nomeluogo facendo degli urli dicendo sono morti tu:tti sono morti tutti era(no) una cosa
+BOI009	però (.) correva qui a lunga via facendo degli urli dicendo sono morti tu:tti sono morti tutti era(no) una cosa
 BOI009	è stato u:n
 BOI009	da freddo ecco proprio
 BOR001	sì
@@ -448,8 +448,8 @@ BOR001	[(è p~)]
 BOR001	okay
 BOI010	ehm (debba e: [xx molto)]
 BOR001	[è rimasto] un po' com[e:]
-BOI009	[sì]
 BOI010	[sì]
+BOI009	[sì]
 BOI010	ed è [molto bello eh]
 BOI009	[il mercato di ugo b]A:ssi
 BOI009	ecco quello lì ci andavamo spesso quando
@@ -477,8 +477,8 @@ BOR001	[mhmh]
 BOI009	sono content~ mi ne ho sentiti anch'io dire ma: con tutti questi turisti posson stare a casa sua per[ché]
 BOI010	[come si chia]ma quel fa~ ehm bar famoso storico c'lè sparì? e:hm
 BOI009	e:h calderoni
-BOI009	[calder]o:ni ecco [calderoni era u]n bar [che]
 BOI010	[quando]
+BOI009	[calder]o:ni ecco [calderoni era u]n bar [che]
 BOI010	[c~ co~ c~]
 BOI010	[era] un bar [che era nomi~ ehm era nomina]to d~ da tutti anche (da) fuori bologna da fuori provincia andiamo a prendere un caffè da calderoni ([>perché<]) il caffè da calderoni era una cosa:
 BOI009	[che c'andava (gio~)]
@@ -633,8 +633,8 @@ BOI010	e: un giorno fe~ fa domani ci son tutte le lasagne ve~ ehm no le lasagne 
 BOI009	[le tagliatelle (alla b~)]
 BOI010	però i: ((balbetta)) il proprietario lì è venuto da noi che eravamo solo noi di bologna fa a voi due non ve le do
 BOI010	ed è stato molto onesto
-BOI009	[perché sap]eva che
 BOI010	[(fa) perché]
+BOI009	[perché sap]eva che
 BOI010	vi dò le l:e tagliatelle alla bolognese [ma a voi d]ue no
 BOI009	[che poi]
 BOI009	che poi oltretutto aveva detto gli spaghetti alla [bolognese]
@@ -885,8 +885,8 @@ BOI009	[no:]
 BOI010	[xx s]em[pre]
 BOI009	[tu]tto
 BOR001	tutto?
-BOI009	[°c'era tutto°]
 BOR001	[è COmodo d]a qu[esto punto di vista
+BOI009	[°c'era tutto°]
 BOI009	[sì sì]
 BOI010	[però xx dove[vi andare a far della visite così anda]vi in via tiarini
 BOI009	[perché la caterina e daniel]
@@ -894,7 +894,7 @@ BOI009	[la caterina e daniel] han fatto le elementari lì: (in ehm i:)
 BOI010	[in via tiarini]
 BOI009	m:arconi in principio
 BOI009	dove adesso c'è una superiore
-BOI009	ma prima c'era [le panzacchi[]
+BOI009	ma prima c'era [le panzacchi
 BOR001	[a:h sì]
 BOI009	prima erano [le panzacchi elementa]ri
 BOR001	[°e:hm com'è che si chiama?°]
@@ -960,8 +960,8 @@ BOR001	per lo scientifico è primo il galVAni dopo [lì dipende un po':]
 BOI010	[allora vedi]?
 BOI009	[sì sì ho ben detto che lì dipende un po' da da]
 BOI010	[dipende ((balbetta)) che tipo di scuola fai]
-BOI009	[da:] da que~ dalla scuola però
 BOR001	[sì]
+BOI009	[da:] da que~ dalla scuola però
 BOR001	però sì io all'università ho visto che:
 BOR001	>cioè<
 BOR001	il galvani mi ha::
@@ -1050,12 +1050,12 @@ BOI009	se invece ti vuole proprio una visita devi chiedere [appuntamento]
 BOI010	[l'appuntamen]to:
 BOI009	ehm ma diciamo che oh
 BOI009	#s'adeguem
-BOI010	((ride))
 BOR001	((ride))
+BOI010	((ride))
 BOI009	perché ((ride))
 BOI009	non si può far altro
-BOI009	[e:hm] anche perché
 BOR001	[sì sì]
+BOI009	[e:hm] anche perché
 BOI009	ehm sono convinta che sono tutte cose che ce le creiamo noi
 BOI010	non è: che sia [cambiata la bologna] come città è cam[biato tutto un insieme]
 BOI009	[perché prima]
@@ -1088,8 +1088,8 @@ BOI009	ah noi dal nostro dottore ehm [i pensio~]
 BOI010	[eh minimo] tre ore ce le met[tevi n~ meno di tre ore no anche a far una ricetta]
 BOI009	[i pensionati che sono qui intorno perché es]sendo questo qui un quartiere che
 BOI009	diciamo che è molto vecchio
-BOI010	[eh]
 BOR001	[mh]
+BOI010	[eh]
 BOR001	xx
 BOI010	perché dei giovani n::
 BOI009	qui è un quartiere che: (.) c'è molte persone anziane
@@ -1189,8 +1189,8 @@ BOI009	[mh]
 BOR001	>cioè< capisco il vostro e il loro ma
 BOR001	quello di bologna non è che mi è mai capitato: molto di sen[tirlo p]erché in giro non
 BOI009	[ma]
-BOI009	[sì: ma anche in giro] non è che lo sentivi molto
 BOI010	[no n~ n~ n:]
+BOI009	[sì: ma anche in giro] non è che lo sentivi molto
 BOR001	ah okay
 BOI009	poteva sentire una qualche battuta
 BOI009	di q[ualcu]no
@@ -1204,7 +1204,7 @@ BOI010	[(no]n) non ti facevano una spiegata tutta in bolognese che dovevi star [
 BOR001	[sì sì]
 BOR001	[no mi chiedevo se magari un tem]po sai nelle: botteghe quelle un po' [più:]:
 BOI009	[no]
-BOR001	>cioè< così: (.) [] quando andavi dal tuo mace[llaio di fiducia >così< un po' più] in~ cioè magari parlavano (.) [in dialetto]
+BOR001	>cioè< così: (.) quando andavi dal tuo mace[llaio di fiducia >così< un po' più] in~ cioè magari parlavano (.) [in dialetto]
 BOI009	[no]
 BOI010	[ehm no: n:~]
 BOI010	[perché anche qui] dal macellaio [a parte suo figlio ma anche suo p]adre
@@ -1735,8 +1735,8 @@ BOI009	e lui era disperso in russia
 BOI009	e dop[o (.) è venuto a casa a piedi eh
 BOI010	[sai che in russia (c~) si andava nel nel le]tamaio a prender le pelle di pata[te]
 BOI009	[in] germania questo
-BOI009	[quando era in campo di concentramento]
 BOI010	[no anc~ anche in russi anche in ru]ssia
+BOI009	[quando era in campo di concentramento]
 BOI010	ti fucilavano
 BOI010	>e allora< quando lui è venuto a casa dopo a tavola con lui era impossibile starci
 BOR001	mh
@@ -1926,8 +1926,8 @@ BOI009	[avevamo]
 BOI009	[avevamo il ba]gno giù insieme a [tutti quelli che abitavano lì]
 BOI010	[eh insieme a tutti gli altri (.) non l'aveva nessuno] in casa
 BOI009	non l'aveva nessuno in casa
-BOI010	[no ma] è stato mh pochi anni che la cosa è cambiata ma prima:
 BOR001	[sì]
+BOI010	[no ma] è stato mh pochi anni che la cosa è cambiata ma prima:
 BOI009	e quando abitavamo con la nonna: io con la nonna [corile e così]
 BOI010	[eh (corile) andiamo ancora più ind]ietro
 BOI009	avevamo addirittura un buco in mezzo a:ll'orto
@@ -1981,8 +1981,8 @@ BOI009	si lavava: le lenzuola così ci serviva una cosa
 BOR001	mh[mh]
 BOI009	[abbas]tanza grande dopo lì: si fa[ceva il bagno]
 BOR001	[che tutti a] turno
-BOI009	a turni
 BOR001	((ride))
+BOI009	a turni
 BOI009	(no) casoMAI
 BOR001	[(l'ultimo)]
 BOI009	#l'ulti[mo che si] lavava gl'era [più sporc]
@@ -2132,8 +2132,8 @@ BOI010	#[e s]on tutte cose [che si] dicono adesso uno ecco tipo te così (dici) 
 BOR001	[(sì)]
 BOR001	mhmh
 BOI010	[si viveva così
-BOI010	[però] i~ tutto sommato non m:h
 BOR001	[(sì)]
+BOI010	[però] i~ tutto sommato non m:h
 BOI010	eravam felici perché veramente c'era più: no~ non c'è q~ q~ quel adesso
 BOI010	>adesso< (.) a parte noi qui che che ci conosciamo (uno con) >tutti<
 BOI010	ma vai in certi palazzi no~ non non sai [neanche chi è quello lì quello là quello là non non conosci mica n]essuno perché n~ non si parla la gente non
@@ -2242,8 +2242,8 @@ BOI010	[non sia]mo abitu[ati (>a queste cose qua<])
 BOI009	[a prendere qua]lcuno in ca[sa a do]rm[ire]
 BOR001	[m:h]
 BOI010	[ma i]nvec[e]
-BOI009	[che non conosci]
 BOR001	[e neanche ad accet]tare
+BOI009	[che non conosci]
 BOI009	[e nean]che [ad °accettare°]
 BOI010	[no]
 BOR001	[l'invito] di un[o]

@@ -15,7 +15,7 @@ BOI017	all::: all'interno del: x bilancio (.) partecipativo del comune di bologn
 BOI017	nel duemiladicio:tto e::h
 BOI017	e e::: questo proge:tto prevedeva il riutilizzo di questo spazio,
 BOI017	che ripeto è di proprietà pubblica del comune di bolo:gna,
-BOI017	assegnato in gestione (.) ad a:sp e x a sua volta alla (.) @nomeazienda,
+BOI017	assegnato in gestione (.) ad a:sp e x a sua volta alla (.)
 BOI017	>e quindi questo nostro< proge::tto x mirava a:lla riutilizzazione dello spa:zio (.) come luogo espositivo e laboratoria:le,
 BOI017	e:: e ovviamente (.) pensando a a noi e al ai nostri (.) >interessi e alle nostre attività associative<,
 BOI017	e:h nella fattispecie un luogo e:h eh per (.) mostre su eh e laboratori (.) eh sul (.) tema (.) e:h della storia di bologna e del territorio
@@ -446,8 +446,8 @@ BOI018	vede che ce ne sono
 BOI018	tre (.) che e::h x stanno [feren]do il: >il coso< e il qua:rto >che sarebbe pietro< busa:cchi che
 BOI017	[°che (s~)°]
 BOI018	partecipa ma non è armato non è attivo
-BOI018	((ride))
 BOR004	mhmh
+BOI018	((ride))
 BOI018	e: e questo è u:no poi nell'a:ltro
 BOI018	e::: hanno::
 BOI017	(°e questo non [serve più) ecco°]
@@ -571,7 +571,7 @@ BOI017	°esatto° (.) poi li abbiamo portati mh anche lì al eh al paolo martini
 BOI018	sì
 BOI017	c'è e c'è anche e:h luca rossi che
 BOI018	che spieg[a:]
-BOI017	[er]a il direttore dell'[@nomeluogo]
+BOI017	[er]a il direttore dell'
 BOI018	[racconta] la storia del villaggio
 BOI018	con i nomi delle strade com'erano prima sotto il fascismo quindi
 BOI018	via delle camicie nere:, [via del legio]nario:, (.) e::h
@@ -782,7 +782,7 @@ BOI018	come dire >che non è vero< [questa] cosa qui non è vera [insomma]
 BOI017	[sì]
 BOI017	[sì ma] [poi anche com]unque [le azioni me~]
 BOR004	[m::h mhmh]
-BOI018	[probabilmente era qualcuno che la pe]nsava ((ride)) come (.) [] come [i fasc]isti
+BOI018	[probabilmente era qualcuno che la pe]nsava ((ride)) come (.) come [i fasc]isti
 BOI017	[sì]
 BOR004	[m:h]
 BOI017	[(>però<)]
@@ -843,8 +843,8 @@ BOR004	[e:h non so se]
 BOI018	(questi) x racconto storico
 BOI018	è (.) >come dire< introdotto
 BOI018	da una serie di opere (.) mie che sono delle sculture mie e dei disegni miei.
-BOI018	>[ovviamen]te< accompagnati da:
 BOR004	[mhmh]
+BOI018	>[ovviamen]te< accompagnati da:
 BOI018	e:::h
 BOI018	schede di approfondiemento:, cartografie, eccetera
 BOI018	però
@@ -941,7 +941,7 @@ BOI018	[>e questo vale<] sempre (.) questo è zannoni
 BOI018	ecco qui per esempio io
 BOI018	ho fatto una scelta di linguaggio molto particolare
 BOI018	e:h ritenendo questo personaggio un personaggio <MOLTO> importante per la storia della città
-BOI018	e: oltretutto un personaggio a cui sono personalmente affezionato per tanti motivi. intanto noi abitiamo in @nomeluogo [che è la ((ride)) s]trada dedicata a lui
+BOI018	e: oltretutto un personaggio a cui sono personalmente affezionato per tanti motivi. intanto noi abitiamo in [che è la ((ride)) s]trada dedicata a lui
 BOR004	[mhmh]
 BOR004	((ride))
 BOI018	che è il signore che tra le altre cose
@@ -962,8 +962,8 @@ BOI018	e qui ecco per esempio QUI: ho utilizzato >proprio pe~< che vediamo anche
 BOI018	e:h ho creato queste piccole scenette
 BOI018	per raccontare in questo caso la storia
 BOI018	e:hm il il ciclo di lavorazione della seta
-BOI018	((schiarisce_la_voce))
 BOR004	(mhmh)
+BOI018	((schiarisce_la_voce))
 BOI018	qui (.) >vede< con un disegno
 BOI018	io esprimo la sofferenza di queste donne
 BOI018	che lavoravano per ore e ore con le mani a bagno in quest'acqua (.) bollente putrida

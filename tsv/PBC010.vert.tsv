@@ -4,12 +4,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 0-2	BOR001	0	0	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 0-3	BOR001	0	0	3	dovrebbero	dovrebbero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 0-4	BOR001	0	0	4	sentire:	sentire	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	6x1	_	_	_
-0-5	BOR001	0	0	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+0-5	BOR001	0	0	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 0-6	BOR001	0	0	6	entrambe	entrambe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 0-7	BOR001	0	0	7	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 0-8	BOR001	0	0	8	voci	voci	_	_	_	_	_	linguistic	_	none	_	End=3.6	_	_	_	_
 1-0	BOI029	1	1	0	bene	bene	_	_	_	_	_	linguistic	_	none	_	Begin=3.63	_	_	_	_
-1-1	BOI029	1	1	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4.736	_	_	_	_
+1-1	BOI029	1	1	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4.736	_	_	_	_
 2-0	BOR001	2	2	0	e::hm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=4.76|End=5.453	0x2	_	_	_
 3-0	BOR001	3	3	0	NO	no	_	_	_	_	_	linguistic	_	none	Volume=high	Begin=5.57	_	_	_	_
 3-1	BOR001	3	3	1	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -32,7 +32,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 4-7	BOR001	4	4	7	tempo	tempo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 4-8	BOR001	4	4	8	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 4-9	BOR001	4	4	9	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-4-10	BOR001	4	4	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+4-10	BOR001	4	4	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 4-11	BOR001	4	4	11	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 4-12	BOR001	4	4	12	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 4-13	BOR001	4	4	13	>cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
@@ -49,7 +49,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 5-4	BOR001	5	5	4	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 5-5	BOR001	5	5	5	collaborazione	collaborazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 5-6	BOR001	5	5	6	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-5-7	BOR001	5	5	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+5-7	BOR001	5	5	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 5-8	BOR001	5	5	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 5-9	BOR001	5	5	9	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 5-10	BOR001	5	5	10	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -95,7 +95,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 7-12	BOI029	7	7	12	attività	attività	_	_	_	_	_	linguistic	_	none	_	End=32.2	_	_	_	_
 8-0	BOI029	8	8	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=32.703	0x1	_	_	_
 8-1	BOI029	8	8	1	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-8-2	BOI029	8	8	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+8-2	BOI029	8	8	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 8-3	BOI029	8	8	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 8-4	BOI029	8	8	4	collaborazione	collaborazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 8-5	BOI029	8	8	5	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -122,10 +122,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 9-0	BOI029	9	9	0	E	e	_	_	_	_	_	linguistic	_	none	Volume=high	Begin=43.016	_	_	_	_
 9-1	BOI029	9	9	1	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 9-2	BOI029	9	9	2	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-9-3	BOI029	9	9	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+9-3	BOI029	9	9	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 9-4	BOI029	9	9	4	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 9-5	BOI029	9	9	5	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-9-6	BOI029	9	9	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+9-6	BOI029	9	9	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 9-7	BOI029	9	9	7	<a~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	Slow=0-2(0)	_	_
 9-8	BOI029	9	9	8	a~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	Slow=0-2(0)	_	_
 9-9	BOI029	9	9	9	accoppiare>	accoppiare	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-10(0)	_	_
@@ -229,7 +229,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 17-0	BOR001	17	17	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=90.3	_	_	_	_
 17-1	BOR001	17	17	1	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 17-2	BOR001	17	17	2	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-17-3	BOR001	17	17	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+17-3	BOR001	17	17	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 17-4	BOR001	17	17	4	dato	dato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 17-5	BOR001	17	17	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 17-6	BOR001	17	17	6	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -244,12 +244,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 17-15	BOR001	17	17	15	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
 17-16	BOR001	17	17	16	approccio	approccio	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-9(0)|Fast=8-9(1)	_	_
 17-17	BOR001	17	17	17	>°diciamo°<	diciamo	_	_	_	_	_	linguistic	_	none	Volume=low	End=97.68	_	Fast=0-7(1)	_	_
-18-0	BOR001	18	18	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=97.81	_	_	1-3(0)	_
+18-0	BOR001	18	18	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	Begin=97.81	_	_	_	_
 18-1	BOR001	18	18	1	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 18-2	BOR001	18	18	2	avete	avete	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-3	BOR001	18	18	3	cercato	cercato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-4	BOR001	18	18	4	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-18-5	BOR001	18	18	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+18-5	BOR001	18	18	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 18-6	BOR001	18	18	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-7	BOR001	18	18	7	rendere	rendere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-8	BOR001	18	18	8	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -263,7 +263,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 18-16	BOR001	18	18	16	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-17	BOR001	18	18	17	modo	modo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-18	BOR001	18	18	18	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-18-19	BOR001	18	18	19	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+18-19	BOR001	18	18	19	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 18-20	BOR001	18	18	20	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
 18-21	BOR001	18	18	21	fossero	fossero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 18-22	BOR001	18	18	22	loro	loro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -274,7 +274,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 18-27	BOR001	18	18	27	contenuti	contenuti	_	_	_	_	_	linguistic	_	none	_	End=108.29	_	_	_	_
 19-0	BOR001	19	19	0	MA	ma	_	_	_	_	_	linguistic	_	none	Volume=high	Begin=108.88	_	_	_	_
 19-1	BOR001	19	19	1	questo	questo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-19-2	BOR001	19	19	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+19-2	BOR001	19	19	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 19-3	BOR001	19	19	3	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 19-4	BOR001	19	19	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 19-5	BOR001	19	19	5	cambiamento	cambiamento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -397,7 +397,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 29-7	BOI029	29	29	7	classi	classi	_	_	_	_	_	linguistic	_	none	_	End=159.72	_	_	_	_
 30-0	BOI029	30	30	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=160.046	0x1	_	_	_
 30-1	BOI029	30	30	1	faremo	faremo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-30-2	BOI029	30	30	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+30-2	BOI029	30	30	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 30-3	BOI029	30	30	3	A	a	_	_	_	_	_	linguistic	_	none	Volume=high	_	_	_	_	_
 30-4	BOI029	30	30	4	BREVE	breve	_	_	_	_	_	linguistic	_	none	Volume=high	_	_	_	_	_
 30-5	BOI029	30	30	5	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -415,7 +415,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 30-17	BOI029	30	30	17	classi	classi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 30-18	BOI029	30	30	18	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 30-19	BOI029	30	30	19	faranno	faranno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-30-20	BOI029	30	30	20	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+30-20	BOI029	30	30	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 30-21	BOI029	30	30	21	eh.	eh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
 30-22	BOI029	30	30	22	nelle	nelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 30-23	BOI029	30	30	23	prossime	prossime	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -446,7 +446,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 34-2	BOI029	34	34	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 34-3	BOI029	34	34	3	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 34-4	BOI029	34	34	4	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-34-5	BOI029	34	34	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+34-5	BOI029	34	34	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 34-6	BOI029	34	34	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 34-7	BOI029	34	34	7	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 34-8	BOI029	34	34	8	volumi	volumi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -472,7 +472,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 36-1	BOI029	36	36	1	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 36-2	BOI029	36	36	2	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 36-3	BOI029	36	36	3	li	li	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-36-4	BOI029	36	36	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+36-4	BOI029	36	36	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 36-5	BOI029	36	36	5	faccio	faccio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 36-6	BOI029	36	36	6	vedere	vedere	_	_	_	_	_	linguistic	_	none	_	End=189.08	_	_	_	_
 37-0	BOR001	37	37	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=187.06|End=187.64	_	_	_	0-4(4)
@@ -498,7 +498,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 38-19	BOI029	38	38	19	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 38-20	BOI029	38	38	20	incontro	incontro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 38-21	BOI029	38	38	21	con	con	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-38-22	BOI029	38	38	22	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+38-22	BOI029	38	38	22	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 38-23	BOI029	38	38	23	e::hm	ehm	_	_	_	_	_	linguistic	_	none	_	End=198.259	0x2	_	_	_
 39-0	BOI029	39	39	0	chi	chi	_	_	_	_	_	linguistic	_	none	_	Begin=198.84	_	_	_	_
 39-1	BOI029	39	39	1	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -527,7 +527,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 42-1	BOI029	42	42	1	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-2	BOI029	42	42	2	classi	classi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-3	BOI029	42	42	3	terze	terze	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-42-4	BOI029	42	42	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+42-4	BOI029	42	42	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 42-5	BOI029	42	42	5	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-6	BOI029	42	42	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 42-7	BOI029	42	42	7	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -536,7 +536,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 43-0	BOI029	43	43	0	una	una	_	_	_	_	_	linguistic	_	none	_	Begin=212.46	_	_	_	_
 43-1	BOI029	43	43	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 43-2	BOI029	43	43	2	quella	quella	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-43-3	BOI029	43	43	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+43-3	BOI029	43	43	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 43-4	BOI029	43	43	4	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 43-5	BOI029	43	43	5	quale	quale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 43-6	BOI029	43	43	6	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -568,7 +568,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 46-11	BOI029	46	46	11	scorso	scorso	_	_	_	_	_	linguistic	_	none	_	End=224.061	_	_	_	_
 47-0	BOI029	47	47	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=224.444	_	_	_	_
 47-1	BOI029	47	47	1	praticamente	praticamente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-47-2	BOI029	47	47	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+47-2	BOI029	47	47	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 47-3	BOI029	47	47	3	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 47-4	BOI029	47	47	4	libri	libri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 47-5	BOI029	47	47	5	viventi	viventi	_	_	_	_	_	linguistic	_	none	_	End=227.203	_	_	_	_
@@ -593,7 +593,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 50-6	BOI029	50	50	6	esistono	esistono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 50-7	BOI029	50	50	7	quasi	quasi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 50-8	BOI029	50	50	8	più	più	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-50-9	BOI029	50	50	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+50-9	BOI029	50	50	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 50-10	BOI029	50	50	10	persone	persone	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 50-11	BOI029	50	50	11	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 50-12	BOI029	50	50	12	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -608,7 +608,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 52-3	BOI029	52	52	3	state:	state	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 52-4	BOI029	52	52	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 52-5	BOI029	52	52	5	so	so	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-52-6	BOI029	52	52	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+52-6	BOI029	52	52	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 52-7	BOI029	52	52	7	deportate	deportate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 52-8	BOI029	52	52	8	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 52-9	BOI029	52	52	9	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -622,7 +622,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 53-1	BOI029	53	53	1	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 53-2	BOI029	53	53	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 53-3	BOI029	53	53	3	praticamente	praticamente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-53-4	BOI029	53	53	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+53-4	BOI029	53	53	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 53-5	BOI029	53	53	5	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 53-6	BOI029	53	53	6	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 53-7	BOI029	53	53	7	testimoni	testimoni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -708,7 +708,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 57-17	BOI029	57	57	17	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 57-18	BOI029	57	57	18	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 57-19	BOI029	57	57	19	ascoltare	ascoltare	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-57-20	BOI029	57	57	20	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+57-20	BOI029	57	57	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 57-21	BOI029	57	57	21	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 57-22	BOI029	57	57	22	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 57-23	BOI029	57	57	23	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -740,7 +740,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 60-15	BOI029	60	60	15	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 60-16	BOI029	60	60	16	dicevamo	dicevamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 60-17	BOI029	60	60	17	prima	prima	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-60-18	BOI029	60	60	18	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+60-18	BOI029	60	60	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 60-19	BOI029	60	60	19	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 60-20	BOI029	60	60	20	era	era	_	_	_	_	_	linguistic	_	none	_	End=294.24	_	_	_	_
 61-0	BOI029	61	61	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=294.606	_	_	_	_
@@ -759,7 +759,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 61-13	BOI029	61	61	13	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 61-14	BOI029	61	61	14	negli	negli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 61-15	BOI029	61	61	15	ultimi	ultimi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-61-16	BOI029	61	61	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+61-16	BOI029	61	61	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 61-17	BOI029	61	61	17	e::h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 61-18	BOI029	61	61	18	<cinque	cinque	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	_
 61-19	BOI029	61	61	19	anni>	anni	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
@@ -811,7 +811,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 67-7	BOI029	67	67	7	via	via	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 67-8	BOI029	67	67	8	andrea	andrea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 67-9	BOI029	67	67	9	costa	costa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-67-10	BOI029	67	67	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+67-10	BOI029	67	67	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 67-11	BOI029	67	67	11	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 67-12	BOI029	67	67	12	quell'	quell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 67-13	BOI029	67	67	13	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -832,7 +832,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 68-6	BOI029	68	68	6	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-7	BOI029	68	68	7	collaborato	collaborato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-8	BOI029	68	68	8	ogni	ogni	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-68-9	BOI029	68	68	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+68-9	BOI029	68	68	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 68-10	BOI029	68	68	10	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-11	BOI029	68	68	11	<classe>	classe	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	_
 68-12	BOI029	68	68	12	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -845,7 +845,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 69-2	BOI029	69	69	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 69-3	BOI029	69	69	3	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 69-4	BOI029	69	69	4	percorsi	percorsi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-69-5	BOI029	69	69	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+69-5	BOI029	69	69	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 69-6	BOI029	69	69	6	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 69-7	BOI029	69	69	7	ognu~	ognu~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 69-8	BOI029	69	69	8	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -899,7 +899,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 77-3	BOI029	77	77	3	qr	qr	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 77-4	BOI029	77	77	4	code	code	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 77-5	BOI029	77	77	5	una	una	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-77-6	BOI029	77	77	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+77-6	BOI029	77	77	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 77-7	BOI029	77	77	7	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 77-8	BOI029	77	77	8	<targa>	targa	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-5(0)	_	_
 77-9	BOI029	77	77	9	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1093,7 +1093,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 90-1	BOI029	90	90	1	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-2	BOI029	90	90	2	occhi	occhi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-3	BOI029	90	90	3	dei	dei	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-90-4	BOI029	90	90	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+90-4	BOI029	90	90	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 90-5	BOI029	90	90	5	loro	loro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-6	BOI029	90	90	6	coetanei	coetanei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-7	BOI029	90	90	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1101,7 +1101,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 90-9	BOI029	90	90	9	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-10	BOI029	90	90	10	loro	loro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-11	BOI029	90	90	11	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-90-12	BOI029	90	90	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+90-12	BOI029	90	90	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 90-13	BOI029	90	90	13	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-14	BOI029	90	90	14	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 90-15	BOI029	90	90	15	spiegavano	spiegavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1130,7 +1130,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 93-3	BOI029	93	93	3	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 93-4	BOI029	93	93	4	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 93-5	BOI029	93	93	5	f~	f~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-93-6	BOI029	93	93	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+93-6	BOI029	93	93	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 93-7	BOI029	93	93	7	<cambiato>	cambiato	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-8(0)	_	_
 93-8	BOI029	93	93	8	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 93-9	BOI029	93	93	9	logicamente	logicamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1186,13 +1186,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 98-13	BOR001	98	98	13	degli	degli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 98-14	BOR001	98	98	14	spezzoni	spezzoni	_	_	_	_	_	linguistic	_	none	_	End=483.68	_	_	_	_
 99-0	BOR001	99	99	0	e	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=483.88	_	_	_	_
-99-1	BOR001	99	99	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+99-1	BOR001	99	99	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 99-2	BOR001	99	99	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-3	BOR001	99	99	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-4	BOR001	99	99	4	sembrato	sembrato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-5	BOR001	99	99	5	bellissimo	bellissimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-6	BOR001	99	99	6	come:	come	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	3x1	_	_	_
-99-7	BOR001	99	99	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+99-7	BOR001	99	99	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 99-8	BOR001	99	99	8	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-9	BOR001	99	99	9	progetto	progetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-10	BOR001	99	99	10	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1218,7 +1218,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 104-1	BOR001	104	104	1	parer	parer	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 104-2	BOR001	104	104	2	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 104-3	BOR001	104	104	3	e	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-104-4	BOR001	104	104	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+104-4	BOR001	104	104	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 104-5	BOR001	104	104	5	penso	penso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 104-6	BOR001	104	104	6	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 104-7	BOR001	104	104	7	[(°un'	un'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No|Volume=low	_	_	_	0-3(0)	0-3(19)
@@ -1232,18 +1232,18 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 105-6	BOI029	105	105	6	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 105-7	BOI029	105	105	7	mai	mai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 105-8	BOI029	105	105	8	stati	stati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-105-9	BOI029	105	105	9	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=499.01	_	_	_	_
-106-0	BOR001	106	106	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=497.41|End=498.5	_	_	_	_
+105-9	BOI029	105	105	9	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=499.01	_	_	_	_
+106-0	BOR001	106	106	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=497.41|End=498.5	_	_	_	_
 107-0	BOR001	107	107	0	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	Begin=499.11|End=499.69	_	_	_	_
 108-0	BOR001	108	108	0	e~	e~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=500.11	_	_	_	_
 108-1	BOR001	108	108	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 108-2	BOR001	108	108	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 108-3	BOR001	108	108	3	visto	visto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 108-4	BOR001	108	108	4	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-108-5	BOR001	108	108	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+108-5	BOR001	108	108	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 108-6	BOR001	108	108	6	>vabbé	vabbé	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
 108-7	BOR001	108	108	7	adesso<	adesso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-6(0)	_	_
-108-8	BOR001	108	108	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+108-8	BOR001	108	108	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 108-9	BOR001	108	108	9	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 108-10	BOR001	108	108	10	vedeva	vedeva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 108-11	BOR001	108	108	11	chi	chi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1280,7 +1280,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 110-8	BOI029	110	110	8	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 110-9	BOI029	110	110	9	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 110-10	BOI029	110	110	10	fatto	fatto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-110-11	BOI029	110	110	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+110-11	BOI029	110	110	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 110-12	BOI029	110	110	12	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 110-13	BOI029	110	110	13	incontri	incontri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 110-14	BOI029	110	110	14	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1320,18 +1320,18 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 114-8	BOI029	114	114	8	organizzarlo	organizzarlo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 114-9	BOI029	114	114	9	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 114-10	BOI029	114	114	10	insomma	insomma	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-114-11	BOI029	114	114	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+114-11	BOI029	114	114	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 114-12	BOI029	114	114	12	siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 114-13	BOI029	114	114	13	arrivati	arrivati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 114-14	BOI029	114	114	14	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 114-15	BOI029	114	114	15	fine	fine	_	_	_	_	_	linguistic	_	none	_	End=526.08	_	_	_	_
-115-0	BOR001	115	115	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=525.24	_	_	_	_
+115-0	BOR001	115	115	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=525.24	_	_	_	_
 115-1	BOR001	115	115	1	[sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(23)
 115-2	BOR001	115	115	2	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=526.08	_	_	_	0-2(23)
 116-0	BOR001	116	116	0	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=526.99	_	_	_	_
 116-1	BOR001	116	116	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 116-2	BOR001	116	116	2	riguardo	riguardo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-116-3	BOR001	116	116	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+116-3	BOR001	116	116	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 116-4	BOR001	116	116	4	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 116-5	BOR001	116	116	5	a:l	al	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 116-6	BOR001	116	116	6	progetto	progetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1345,7 +1345,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 117-1	BOR001	117	117	1	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-2	BOR001	117	117	2	dicevamo	dicevamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-3	BOR001	117	117	3	prima	prima	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-117-4	BOR001	117	117	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+117-4	BOR001	117	117	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 117-5	BOR001	117	117	5	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-6	BOR001	117	117	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-7	BOR001	117	117	7	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1368,7 +1368,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 119-8	BOR001	119	119	8	avete	avete	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 119-9	BOR001	119	119	9	partecipato	partecipato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 119-10	BOR001	119	119	10	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-119-11	BOR001	119	119	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+119-11	BOR001	119	119	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 119-12	BOR001	119	119	12	chiedo	chiedo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 119-13	BOR001	119	119	13	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 119-14	BOR001	119	119	14	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1397,7 +1397,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 120-17	BOR001	120	120	17	documentare?	documentare	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=548.67	_	_	_	_
 121-0	BOI029	121	121	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=548.71	_	_	_	_
 121-1	BOI029	121	121	1	IO	io	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=high	_	_	_	_	_
-121-2	BOI029	121	121	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+121-2	BOI029	121	121	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 121-3	BOI029	121	121	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 121-4	BOI029	121	121	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 121-5	BOI029	121	121	5	bologna	bologna	_	_	_	_	_	linguistic	_	none	_	End=550.93	_	_	_	_
@@ -1420,7 +1420,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 125-4	BOI029	125	125	4	più	più	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	0-3(0)	_
 125-5	BOI029	125	125	5	anni°)	anni	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	0-4(0)	_
 125-6	BOI029	125	125	6	eh	eh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-125-7	BOI029	125	125	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+125-7	BOI029	125	125	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 125-8	BOI029	125	125	8	altre	altre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 125-9	BOI029	125	125	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 125-10	BOI029	125	125	10	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1440,7 +1440,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 127-5	BOI029	127	127	5	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-6	BOI029	127	127	6	ot[tantacinque]	ottantacinque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	2-13(26)
 127-7	BOI029	127	127	7	rose	rose	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-127-8	BOI029	127	127	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+127-8	BOI029	127	127	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 127-9	BOI029	127	127	9	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-10	BOI029	127	127	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 127-11	BOI029	127	127	11	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1491,7 +1491,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 132-8	BOI029	132	132	8	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 132-9	BOI029	132	132	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 132-10	BOI029	132	132	10	realtà	realtà	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-132-11	BOI029	132	132	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+132-11	BOI029	132	132	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 132-12	BOI029	132	132	12	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 132-13	BOI029	132	132	13	nonostante	nonostante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 132-14	BOI029	132	132	14	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1531,7 +1531,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 134-17	BOI029	134	134	17	abbia	abbia	_	_	_	_	_	linguistic	_	none	_	End=601.586	_	_	_	_
 135-0	BOI029	135	135	0	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=602.12	_	_	_	_
 135-1	BOI029	135	135	1	nel	nel	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-135-2	BOI029	135	135	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+135-2	BOI029	135	135	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 135-3	BOI029	135	135	3	calarlo	calarlo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 135-4	BOI029	135	135	4	nelle~	nelle~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 135-5	BOI029	135	135	5	nelle	nelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1562,7 +1562,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 136-16	BOI029	136	136	16	so	so	_	_	_	_	_	linguistic	_	none	_	End=614.402	_	_	_	_
 137-0	BOR001	137	137	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=613.213|End=613.426	_	_	_	0-2(29)
 138-0	BOI029	138	138	0	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=614.78	_	_	_	_
-138-1	BOI029	138	138	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+138-1	BOI029	138	138	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 138-2	BOI029	138	138	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 138-3	BOI029	138	138	3	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 138-4	BOI029	138	138	4	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1601,7 +1601,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 142-3	BOR001	142	142	3	caso	caso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-4	BOR001	142	142	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-5	BOR001	142	142	5	stato:	stato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	4x1	_	_	_
-142-6	BOR001	142	142	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+142-6	BOR001	142	142	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 142-7	BOR001	142	142	7	anpi	anpi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-8	BOR001	142	142	8	a::	a	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 142-9	BOR001	142	142	9	proporvi	proporvi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1609,7 +1609,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 142-11	BOR001	142	142	11	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-12	BOR001	142	142	12	luoghi	luoghi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 142-13	BOR001	142	142	13	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-142-14	BOR001	142	142	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+142-14	BOR001	142	142	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 142-15	BOR001	142	142	15	°>non	non	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	Fast=0-3(0)	_	_
 142-16	BOR001	142	142	16	conoscev~<°?	conoscev~	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Interrupted=Yes|Volume=low	End=633.21	_	Fast=0-9(0)	_	_
 143-0	BOI029	143	143	0	mah	mah	_	_	_	_	_	linguistic	_	none	_	Begin=633.24	_	_	_	_
@@ -1630,7 +1630,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 143-15	BOI029	143	143	15	bene	bene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-16	BOI029	143	143	16	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-17	BOI029	143	143	17	male	male	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-143-18	BOI029	143	143	18	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+143-18	BOI029	143	143	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 143-19	BOI029	143	143	19	venivano	venivano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-20	BOI029	143	143	20	trattati	trattati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-21	BOI029	143	143	21	singolarmente	singolarmente	_	_	_	_	_	linguistic	_	none	_	End=641.676	_	_	_	_
@@ -1710,7 +1710,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 150-2	BOI029	150	150	2	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 150-3	BOI029	150	150	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 150-4	BOI029	150	150	4	percorso	percorso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-150-5	BOI029	150	150	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+150-5	BOI029	150	150	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 150-6	BOI029	150	150	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 150-7	BOI029	150	150	7	sul	sul	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 150-8	BOI029	150	150	8	quale	quale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1725,7 +1725,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 151-0	BOR001	151	151	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=672.96|End=673.231	_	_	_	_
 152-0	BOR001	152	152	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=674.186	_	_	_	_
 152-1	BOR001	152	152	1	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-152-2	BOR001	152	152	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+152-2	BOR001	152	152	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 152-3	BOR001	152	152	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 152-4	BOR001	152	152	4	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 152-5	BOR001	152	152	5	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1853,7 +1853,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 160-19	BOI029	160	160	19	nostri	nostri	_	_	_	_	_	linguistic	_	none	_	End=723.541	_	_	_	_
 161-0	BOR001	161	161	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=724.0	_	_	_	_
 161-1	BOR001	161	161	1	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-161-2	BOR001	161	161	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+161-2	BOR001	161	161	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 161-3	BOR001	161	161	3	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 161-4	BOR001	161	161	4	infatti:	infatti	_	_	_	_	_	linguistic	_	none	_	End=725.207	6x1	_	_	_
 162-0	BOR001	162	162	0	trovo	trovo	_	_	_	_	_	linguistic	_	none	_	Begin=726.007	_	_	_	_
@@ -1876,7 +1876,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 165-1	BOR001	165	165	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 165-2	BOR001	165	165	2	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 165-3	BOR001	165	165	3	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-165-4	BOR001	165	165	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+165-4	BOR001	165	165	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 165-5	BOR001	165	165	5	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 165-6	BOR001	165	165	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 165-7	BOR001	165	165	7	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1902,7 +1902,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 166-1	BOR001	166	166	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 166-2	BOR001	166	166	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 166-3	BOR001	166	166	3	comunque	comunque	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-166-4	BOR001	166	166	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+166-4	BOR001	166	166	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 166-5	BOR001	166	166	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 166-6	BOR001	166	166	6	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 166-7	BOR001	166	166	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1930,7 +1930,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 169-1	BOR001	169	169	1	notato	notato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-2	BOR001	169	169	2	negli	negli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-3	BOR001	169	169	3	anni	anni	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-169-4	BOR001	169	169	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+169-4	BOR001	169	169	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 169-5	BOR001	169	169	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-6	BOR001	169	169	6	cambiamento	cambiamento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 169-7	BOR001	169	169	7	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1946,7 +1946,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 170-3	BOR001	170	170	3	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 170-4	BOR001	170	170	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 170-5	BOR001	170	170	5	affrontarli	affrontarli	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-170-6	BOR001	170	170	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+170-6	BOR001	170	170	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 170-7	BOR001	170	170	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 170-8	BOR001	170	170	8	scuola?	scuola	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=761.24	_	_	_	_
 171-0	BOI029	171	171	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=763.47	_	_	_	_
@@ -1991,7 +1991,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 174-10	BOI029	174	174	10	solito	solito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 174-11	BOI029	174	174	11	temi	temi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 174-12	BOI029	174	174	12	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-174-13	BOI029	174	174	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+174-13	BOI029	174	174	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 174-14	BOI029	174	174	14	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 174-15	BOI029	174	174	15	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 174-16	BOI029	174	174	16	alcune	alcune	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2051,7 +2051,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 181-6	BOI029	181	181	6	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 181-7	BOI029	181	181	7	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 181-8	BOI029	181	181	8	bisnonno	bisnonno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-181-9	BOI029	181	181	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+181-9	BOI029	181	181	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 181-10	BOI029	181	181	10	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 181-11	BOI029	181	181	11	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 181-12	BOI029	181	181	12	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2060,7 +2060,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 183-0	BOI029	183	183	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=809.9	0x1	_	_	_
 183-1	BOI029	183	183	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 183-2	BOI029	183	183	2	insomma	insomma	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-183-3	BOI029	183	183	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+183-3	BOI029	183	183	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 183-4	BOI029	183	183	4	rimane	rimane	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 183-5	BOI029	183	183	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 183-6	BOI029	183	183	6	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2098,7 +2098,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 185-12	BOI029	185	185	12	successo	successo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 185-13	BOI029	185	185	13	eccetera,	eccetera	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=828.055	_	_	_	_
 186-0	BOI029	186	186	0	e:hm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=828.58	0x1	_	_	_
-186-1	BOI029	186	186	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+186-1	BOI029	186	186	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 186-2	BOI029	186	186	2	crea	crea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 186-3	BOI029	186	186	3	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 186-4	BOI029	186	186	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2143,13 +2143,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 188-13	BOR001	188	188	13	libri	libri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 188-14	BOR001	188	188	14	viventi:	viventi	_	_	_	_	_	linguistic	_	none	_	End=848.24	6x1	_	_	_
 189-0	BOR001	189	189	0	è:	è	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=849.13	0x1	_	_	_
-189-1	BOR001	189	189	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+189-1	BOR001	189	189	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 189-2	BOR001	189	189	2	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-3	BOR001	189	189	3	azzeccato	azzeccato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-4	BOR001	189	189	4	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-5	BOR001	189	189	5	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-6	BOR001	189	189	6	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-189-7	BOR001	189	189	7	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+189-7	BOR001	189	189	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 189-8	BOR001	189	189	8	umberto	umberto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-9	BOR001	189	189	9	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 189-10	BOR001	189	189	10	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
@@ -2179,7 +2179,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 191-13	BOI029	191	191	13	sentito	sentito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 191-14	BOI029	191	191	14	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 191-15	BOI029	191	191	15	cose	cose	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-191-16	BOI029	191	191	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+191-16	BOI029	191	191	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 191-17	BOI029	191	191	17	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 191-18	BOI029	191	191	18	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 191-19	BOI029	191	191	19	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2208,7 +2208,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 195-1	BOR001	195	195	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 195-2	BOR001	195	195	2	dispiace	dispiace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 195-3	BOR001	195	195	3	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-195-4	BOR001	195	195	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+195-4	BOR001	195	195	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 195-5	BOR001	195	195	5	e:h	eh	_	_	_	_	_	linguistic	_	none	_	End=873.947	0x1	_	_	_
 196-0	BOR001	196	196	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=874.6	_	_	_	_
 196-1	BOR001	196	196	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2235,7 +2235,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 196-22	BOR001	196	196	22	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 196-23	BOR001	196	196	23	dispiace	dispiace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 196-24	BOR001	196	196	24	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-196-25	BOR001	196	196	25	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+196-25	BOR001	196	196	25	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 196-26	BOR001	196	196	26	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 196-27	BOR001	196	196	27	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 196-28	BOR001	196	196	28	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2259,7 +2259,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 196-46	BOR001	196	196	46	nove	nove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 196-47	BOR001	196	196	47	anni	anni	_	_	_	_	_	linguistic	_	none	_	End=879.84	_	_	_	_
 197-0	BOR001	197	197	0	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=880.07	_	_	_	_
-197-1	BOR001	197	197	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+197-1	BOR001	197	197	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 197-2	BOR001	197	197	2	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 197-3	BOR001	197	197	3	elementari	elementari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 197-4	BOR001	197	197	4	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2281,7 +2281,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 198-10	BOR001	198	198	10	aver	aver	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-11	BOR001	198	198	11	potuto	potuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-12	BOR001	198	198	12	chiedere	chiedere	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-198-13	BOR001	198	198	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+198-13	BOR001	198	198	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 198-14	BOR001	198	198	14	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 198-15	BOR001	198	198	15	[pri]ma	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(37)
 198-16	BOR001	198	198	16	[persona	persona	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(36)
@@ -2293,7 +2293,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 200-0	BOI029	200	200	0	[certo]	certo	_	_	_	_	_	linguistic	_	none	_	Begin=889.66|End=890.448	_	_	_	0-5(36)
 201-0	BOR001	201	201	0	>perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=890.98	_	Fast=0-6(0)	_	_
 201-1	BOR001	201	201	1	poi<	poi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-3(0)	_	_
-201-2	BOR001	201	201	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+201-2	BOR001	201	201	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 201-3	BOR001	201	201	3	ai	ai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 201-4	BOR001	201	201	4	miei	miei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 201-5	BOR001	201	201	5	nonni	nonni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2310,7 +2310,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 202-2	BOR001	202	202	2	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 202-3	BOR001	202	202	3	fine	fine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 202-4	BOR001	202	202	4	anche	anche	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-202-5	BOR001	202	202	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+202-5	BOR001	202	202	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 202-6	BOR001	202	202	6	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 202-7	BOR001	202	202	7	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 202-8	BOR001	202	202	8	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2367,7 +2367,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 206-13	BOI029	206	206	13	quanto	quanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 206-14	BOI029	206	206	14	riguardava	riguardava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 206-15	BOI029	206	206	15	ah	ah	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-206-16	BOI029	206	206	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+206-16	BOI029	206	206	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 206-17	BOI029	206	206	17	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 206-18	BOI029	206	206	18	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 206-19	BOI029	206	206	19	attentato	attentato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2387,13 +2387,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 207-11	BOI029	207	207	11	dicembre:	dicembre	_	_	_	_	_	linguistic	_	none	_	_	7x1	_	_	_
 207-12	BOI029	207	207	12	su	su	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 207-13	BOI029	207	207	13	classroom	classroom	_	_	_	_	_	linguistic	_	none	_	End=926.79	_	_	_	_
-208-0	BOR001	208	208	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=925.38|End=926.02	_	_	_	_
+208-0	BOR001	208	208	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=925.38|End=926.02	_	_	_	_
 209-0	BOI029	209	209	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=926.85	_	_	_	_
 209-1	BOI029	209	209	1	vuol	vuol	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 209-2	BOI029	209	209	2	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 209-3	BOI029	209	209	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 209-4	BOI029	209	209	4	durante	durante	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-209-5	BOI029	209	209	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+209-5	BOI029	209	209	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 209-6	BOI029	209	209	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 209-7	BOI029	209	209	7	gior[nata	giornata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	4-8(39)
 209-8	BOI029	209	209	8	di]	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(39)
@@ -2469,7 +2469,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 217-0	BOR001	217	217	0	°mhmh°	mhmh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=952.79|End=953.27	_	_	_	_
 218-0	BOI029	218	218	0	°e:°	e	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=953.5|End=953.885	0x1	_	_	_
 219-0	BOR001	219	219	0	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=954.13	_	_	_	_
-219-1	BOR001	219	219	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+219-1	BOR001	219	219	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 219-2	BOR001	219	219	2	e~	e~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 219-3	BOR001	219	219	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 219-4	BOR001	219	219	4	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2530,11 +2530,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 222-6	BOR001	222	222	6	fatta,	fatta	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 222-7	BOR001	222	222	7	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 222-8	BOR001	222	222	8	f~	f~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-222-9	BOR001	222	222	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+222-9	BOR001	222	222	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 222-10	BOR001	222	222	10	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=978.51	_	_	_	_
 223-0	BOI029	223	223	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=978.79	_	_	_	_
 223-1	BOI029	223	223	1	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
-223-2	BOI029	223	223	2	{sospira}	{sospira}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+223-2	BOI029	223	223	2	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 223-3	BOI029	223	223	3	rispondo	rispondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-4	BOI029	223	223	4	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-5	BOI029	223	223	5	me	me	_	_	_	_	_	linguistic	_	none	_	End=981.5	_	_	_	_
@@ -2559,7 +2559,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 226-1	BOI029	226	226	1	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 226-2	BOI029	226	226	2	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	End=990.11	_	_	_	_
 227-0	BOI029	227	227	0	allora	allora	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=990.97	_	_	_	_
-227-1	BOI029	227	227	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+227-1	BOI029	227	227	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 227-2	BOI029	227	227	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 227-3	BOI029	227	227	3	chiaro	chiaro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 227-4	BOI029	227	227	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2771,7 +2771,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 249-1	BOI029	249	249	1	ebrea	ebrea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 249-2	BOI029	249	249	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 249-3	BOI029	249	249	3	no	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-249-4	BOI029	249	249	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+249-4	BOI029	249	249	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 249-5	BOI029	249	249	5	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 249-6	BOI029	249	249	6	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 249-7	BOI029	249	249	7	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2815,7 +2815,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 253-7	BOI029	253	253	7	giro	giro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 253-8	BOI029	253	253	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 253-9	BOI029	253	253	9	poco	poco	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-253-10	BOI029	253	253	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+253-10	BOI029	253	253	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 253-11	BOI029	253	253	11	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 253-12	BOI029	253	253	12	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 253-13	BOI029	253	253	13	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2855,7 +2855,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 255-24	BOI029	255	255	24	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-25	BOI029	255	255	25	fine	fine	_	_	_	_	_	linguistic	_	none	_	End=1109.0	_	_	_	_
 256-0	BOR001	256	256	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1107.67	_	_	_	0-2(48)
-256-1	BOR001	256	256	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1108.249	_	_	_	_
+256-1	BOR001	256	256	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1108.249	_	_	_	_
 257-0	BOI029	257	257	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=1109.48	0x1	_	_	_
 257-1	BOI029	257	257	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 257-2	BOI029	257	257	2	vengono	vengono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2876,7 +2876,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 259-10	BOI029	259	259	10	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-11	BOI029	259	259	11	situazione	situazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-12	BOI029	259	259	12	normale	normale	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-259-13	BOI029	259	259	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+259-13	BOI029	259	259	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 259-14	BOI029	259	259	14	succedono	succedono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-15	BOI029	259	259	15	queste	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 259-16	BOI029	259	259	16	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2904,7 +2904,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 260-14	BOI029	260	260	14	immagini	immagini	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 260-15	BOI029	260	260	15	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 260-16	BOI029	260	260	16	avevo	avevo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-260-17	BOI029	260	260	17	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+260-17	BOI029	260	260	17	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 260-18	BOI029	260	260	18	e:h	eh	_	_	_	_	_	linguistic	_	none	_	End=1128.35	0x1	_	_	_
 261-0	BOI029	261	261	0	preparato	preparato	_	_	_	_	_	linguistic	_	none	_	Begin=1129.11	_	_	_	_
 261-1	BOI029	261	261	1	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2934,7 +2934,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 263-0	BOR001	263	263	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1141.92|End=1142.13	_	_	_	_
 264-0	BOI029	264	264	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=1142.416	_	_	_	_
 264-1	BOI029	264	264	1	raccontava	raccontava	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-264-2	BOI029	264	264	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+264-2	BOI029	264	264	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 264-3	BOI029	264	264	3	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 264-4	BOI029	264	264	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 264-5	BOI029	264	264	5	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2952,7 +2952,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 264-17	BOI029	264	264	17	eccetera	eccetera	_	_	_	_	_	linguistic	_	none	_	End=1147.4	_	_	_	_
 265-0	BOI029	265	265	0	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	Begin=1147.57	_	_	_	_
 265-1	BOI029	265	265	1	me	me	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-265-2	BOI029	265	265	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+265-2	BOI029	265	265	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 265-3	BOI029	265	265	3	hai	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 265-4	BOI029	265	265	4	chiuso	chiuso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 265-5	BOI029	265	265	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3042,7 +3042,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 271-3	BOI029	271	271	3	situazioni	situazioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-4	BOI029	271	271	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-5	BOI029	271	271	5	cui	cui	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-271-6	BOI029	271	271	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+271-6	BOI029	271	271	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 271-7	BOI029	271	271	7	e::h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 271-8	BOI029	271	271	8	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-9	BOI029	271	271	9	<gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-3(0)	_	_
@@ -3058,7 +3058,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 271-19	BOI029	271	271	19	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-20	BOI029	271	271	20	importante	importante	_	_	_	_	_	linguistic	_	none	_	End=1194.89	_	_	_	_
 272-0	BOR001	272	272	0	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1195.25	_	_	_	_
-272-1	BOR001	272	272	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+272-1	BOR001	272	272	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 272-2	BOR001	272	272	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 272-3	BOR001	272	272	3	probabilmente	probabilmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 272-4	BOR001	272	272	4	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=1197.938	_	_	_	_
@@ -3075,7 +3075,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 273-10	BOR001	273	273	10	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 273-11	BOR001	273	273	11	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 273-12	BOR001	273	273	12	percorso:	percorso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	7x1	_	_	_
-273-13	BOR001	273	273	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+273-13	BOR001	273	273	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 273-14	BOR001	273	273	14	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 273-15	BOR001	273	273	15	farete:?	farete	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1203.92	5x1	_	_	_
 274-0	BOI029	274	274	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=1204.05	_	_	_	_
@@ -3106,7 +3106,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 275-18	BOI029	275	275	18	dislocate	dislocate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 275-19	BOI029	275	275	19	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 275-20	BOI029	275	275	20	maniera	maniera	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-275-21	BOI029	275	275	21	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+275-21	BOI029	275	275	21	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 275-22	BOI029	275	275	22	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 275-23	BOI029	275	275	23	VARIA	varia	_	_	_	_	_	linguistic	_	none	Volume=high	End=1216.01	_	_	_	_
 276-0	BOI029	276	276	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1216.48	0x1	_	_	_
@@ -3134,7 +3134,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-3	BOI029	279	279	3	sia	sia	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 279-4	BOI029	279	279	4	successo°	successo	_	_	_	_	_	linguistic	_	none	Volume=low	End=1224.258	_	_	_	_
 280-0	BOI029	280	280	0	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1224.83	_	_	_	_
-280-1	BOI029	280	280	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+280-1	BOI029	280	280	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 280-2	BOI029	280	280	2	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 280-3	BOI029	280	280	3	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 280-4	BOI029	280	280	4	faremo	faremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3189,7 +3189,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 287-7	BOR001	287	287	7	settimana	settimana	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 287-8	BOR001	287	287	8	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 287-9	BOR001	287	287	9	intervistato	intervistato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-287-10	BOR001	287	287	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+287-10	BOR001	287	287	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 287-11	BOR001	287	287	11	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 287-12	BOR001	287	287	12	rossi	rossi	_	_	_	_	_	linguistic	_	none	_	End=1254.52	_	_	_	_
 288-0	BOI029	288	288	0	mhmh,	mhmh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1254.54|End=1255.03	_	_	_	_
@@ -3203,7 +3203,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 289-7	BOR001	289	289	7	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-8	BOR001	289	289	8	nome	nome	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-9	BOR001	289	289	9	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-289-10	BOR001	289	289	10	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+289-10	BOR001	289	289	10	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 289-11	BOR001	289	289	11	figlio	figlio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-12	BOR001	289	289	12	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-13	BOR001	289	289	13	lorenzo	lorenzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3245,7 +3245,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 294-11	BOI029	294	294	11	stabile	stabile	_	_	_	_	_	linguistic	_	none	_	End=1273.23	_	_	_	_
 295-0	BOR001	295	295	0	esatto	esatto	_	_	_	_	_	linguistic	_	none	_	Begin=1273.36	_	_	_	_
 295-1	BOR001	295	295	1	e:	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x1	_	_	_
-295-2	BOR001	295	295	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+295-2	BOR001	295	295	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 295-3	BOR001	295	295	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 295-4	BOR001	295	295	4	anche:	anche	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 295-5	BOR001	295	295	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3360,7 +3360,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 301-4	BOI029	301	301	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 301-5	BOI029	301	301	5	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 301-6	BOI029	301	301	6	voglia	voglia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-301-7	BOI029	301	301	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+301-7	BOI029	301	301	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 301-8	BOI029	301	301	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 301-9	BOI029	301	301	9	raccontare	raccontare	_	_	_	_	_	linguistic	_	none	_	End=1317.9	_	_	_	_
 302-0	BOR001	302	302	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1318.22|End=1318.43	_	_	_	_
@@ -3382,12 +3382,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 305-4	BOI029	305	305	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 305-5	BOI029	305	305	5	raccontare	raccontare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 305-6	BOI029	305	305	6	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-305-7	BOI029	305	305	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+305-7	BOI029	305	305	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 305-8	BOI029	305	305	8	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 305-9	BOI029	305	305	9	nata	nata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 305-10	BOI029	305	305	10	<molto>	molto	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-5(0)	_	_
 305-11	BOI029	305	305	11	dopo	dopo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-305-12	BOI029	305	305	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+305-12	BOI029	305	305	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 305-13	BOI029	305	305	13	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 305-14	BOI029	305	305	14	rientro:	rientro	_	_	_	_	_	linguistic	_	none	_	_	6x1	_	_	_
 305-15	BOI029	305	305	15	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3445,9 +3445,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 312-11	BOI029	312	312	11	mia	mia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 312-12	BOI029	312	312	12	ex	ex	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 312-13	BOI029	312	312	13	alunna	alunna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-312-14	BOI029	312	312	14	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1352.664	_	_	_	_
+312-14	BOI029	312	312	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1352.664	_	_	_	_
 313-0	BOR001	313	313	0	[marani]	marani	_	_	_	_	_	linguistic	_	none	_	Begin=1349.46|End=1350.11	_	_	_	0-6(57)
-314-0	BOR001	314	314	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1351.55|End=1352.022	_	_	_	_
+314-0	BOR001	314	314	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1351.55|End=1352.022	_	_	_	_
 315-0	BOR001	315	315	0	senza	senza	_	_	_	_	_	linguistic	_	none	_	Begin=1353.13	_	_	_	_
 315-1	BOR001	315	315	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 315-2	BOR001	315	315	2	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3485,7 +3485,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 318-2	BOR001	318	318	2	stato]	stato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(59)
 318-3	BOR001	318	318	3	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 318-4	BOR001	318	318	4	facile	facile	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-318-5	BOR001	318	318	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+318-5	BOR001	318	318	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 318-6	BOR001	318	318	6	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 318-7	BOR001	318	318	7	venuti	venuti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 318-8	BOR001	318	318	8	fuori	fuori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3502,7 +3502,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 319-0	BOI029	319	319	0	[°certo	certo	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=1366.0	_	_	_	0-5(60)
 319-1	BOI029	319	319	1	certo°]	certo	_	_	_	_	_	linguistic	_	none	Volume=low	End=1366.88	_	_	_	0-5(60)
 320-0	BOR001	320	320	0	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1368.233	_	_	_	_
-320-1	BOR001	320	320	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+320-1	BOR001	320	320	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 320-2	BOR001	320	320	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 320-3	BOR001	320	320	3	interessantissime	interessantissime	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 320-4	BOR001	320	320	4	ecc[o:]:	ecco	_	_	_	_	_	linguistic	_	none	_	_	3x2	_	_	3-4(61)
@@ -3655,12 +3655,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 335-0	BOR001	335	335	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1429.109	_	_	_	_
 335-1	BOR001	335	335	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 335-2	BOR001	335	335	2	una:	una	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x1	_	_	_
-335-3	BOR001	335	335	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+335-3	BOR001	335	335	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 335-4	BOR001	335	335	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 335-5	BOR001	335	335	5	linea	linea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 335-6	BOR001	335	335	6	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 335-7	BOR001	335	335	7	sottile	sottile	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-335-8	BOR001	335	335	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+335-8	BOR001	335	335	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 335-9	BOR001	335	335	9	[cioé:]	cioé	_	_	_	_	_	linguistic	_	none	_	End=1432.62	3x1	_	_	0-4(62)
 336-0	BOI029	336	336	0	[eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1432.19	_	_	_	0-2(62)
 336-1	BOI029	336	336	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(62)
@@ -3717,7 +3717,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 340-4	BOI029	340	340	4	insomma	insomma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-5	BOI029	340	340	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-6	BOI029	340	340	6	vanno	vanno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-340-7	BOI029	340	340	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+340-7	BOI029	340	340	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 340-8	BOI029	340	340	8	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-9	BOI029	340	340	9	fine	fine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 340-10	BOI029	340	340	10	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3761,7 +3761,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 345-6	BOI029	345	345	6	piccola	piccola	_	_	_	_	_	linguistic	_	none	_	End=1475.71	_	_	_	_
 346-0	BOR001	346	346	0	per	per	_	_	_	_	_	linguistic	_	none	_	Begin=1476.27	_	_	_	_
 346-1	BOR001	346	346	1	niente	niente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-346-2	BOR001	346	346	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+346-2	BOR001	346	346	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 346-3	BOR001	346	346	3	°per	per	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 346-4	BOR001	346	346	4	niente°	niente	_	_	_	_	_	linguistic	_	none	Volume=low	End=1478.01	_	_	_	_
 347-0	BOR001	347	347	0	perché:	perché	_	_	_	_	_	linguistic	_	none	_	Begin=1478.77|End=1479.761	5x1	_	_	_
@@ -3792,7 +3792,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 349-5	BOI029	349	349	5	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 349-6	BOI029	349	349	6	serie	serie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 349-7	BOI029	349	349	7	questi	questi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-349-8	BOI029	349	349	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+349-8	BOI029	349	349	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 349-9	BOI029	349	349	9	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 349-10	BOI029	349	349	10	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 349-11	BOI029	349	349	11	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3815,7 +3815,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 350-11	BOI029	350	350	11	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 350-12	BOI029	350	350	12	però	però	_	_	_	_	_	linguistic	_	none	_	End=1495.83	_	_	_	_
 351-0	BOI029	351	351	0	e	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1497.114	_	_	_	_
-351-1	BOI029	351	351	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+351-1	BOI029	351	351	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 351-2	BOI029	351	351	2	<comunque>	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-8(0)	_	_
 351-3	BOI029	351	351	3	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 351-4	BOI029	351	351	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3857,7 +3857,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 356-2	BOI029	356	356	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 356-3	BOI029	356	356	3	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 356-4	BOI029	356	356	4	avrei	avrei	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-356-5	BOI029	356	356	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+356-5	BOI029	356	356	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 356-6	BOI029	356	356	6	avuto	avuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 356-7	BOI029	356	356	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 356-8	BOI029	356	356	8	coraggio	coraggio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3936,7 +3936,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 366-1	BOR001	366	366	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=1547.31	_	_	_	_
 367-0	BOR001	367	367	0	e~	e~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=1547.733	_	_	_	_
 367-1	BOR001	367	367	1	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-367-2	BOR001	367	367	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+367-2	BOR001	367	367	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 367-3	BOR001	367	367	3	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	End=1550.013	_	_	_	_
 368-0	BOR001	368	368	0	lei	lei	_	_	_	_	_	linguistic	_	none	_	Begin=1552.907	_	_	_	_
 368-1	BOR001	368	368	1	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3973,7 +3973,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 371-0	BOR001	371	371	0	[scuole]	scuole	_	_	_	_	_	linguistic	_	none	_	Begin=1560.53|End=1560.98	_	_	_	0-6(66)
 372-0	BOR001	372	372	0	[ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=1562.602	_	_	_	0-2(67)
 372-1	BOR001	372	372	1	°oka]y°	okay	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=low	_	_	_	_	0-3(67)
-372-2	BOR001	372	372	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+372-2	BOR001	372	372	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 372-3	BOR001	372	372	3	okay	okay	_	_	_	_	_	linguistic	_	none	_	End=1563.69	_	_	_	_
 373-0	BOR001	373	373	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=1564.14	0x1	_	_	_
 373-1	BOR001	373	373	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4115,7 +4115,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 384-9	BOI029	384	384	9	solo	solo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-10	BOI029	384	384	10	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-11	BOI029	384	384	11	discorso	discorso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-384-12	BOI029	384	384	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+384-12	BOI029	384	384	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 384-13	BOI029	384	384	13	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-14	BOI029	384	384	14	seconda	seconda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 384-15	BOI029	384	384	15	guerra	guerra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4156,7 +4156,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 389-12	BOI029	389	389	12	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 389-13	BOI029	389	389	13	mia	mia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 389-14	BOI029	389	389	14	classe	classe	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-389-15	BOI029	389	389	15	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+389-15	BOI029	389	389	15	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 389-16	BOI029	389	389	16	e:h	eh	_	_	_	_	_	linguistic	_	none	_	End=1643.01	0x1	_	_	_
 390-0	BOI029	390	390	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=1644.66	_	_	_	_
 390-1	BOI029	390	390	1	seconda	seconda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4199,7 +4199,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 393-0	BOI029	393	393	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1663.11	_	_	_	_
 393-1	BOI029	393	393	1	ciò	ciò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 393-2	BOI029	393	393	2	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-393-3	BOI029	393	393	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+393-3	BOI029	393	393	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 393-4	BOI029	393	393	4	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 393-5	BOI029	393	393	5	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 393-6	BOI029	393	393	6	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4228,7 +4228,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 399-1	BOR001	399	399	1	anche:	anche	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 399-2	BOR001	399	399	2	ad	ad	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 399-3	BOR001	399	399	3	una:	una	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x1	_	_	_
-399-4	BOR001	399	399	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+399-4	BOR001	399	399	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 399-5	BOR001	399	399	5	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 399-6	BOR001	399	399	6	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 399-7	BOR001	399	399	7	assemblea	assemblea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4265,7 +4265,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 402-12	BOR001	402	402	12	amnest~	amnest~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=1697.94	_	_	_	_
 403-0	BOR001	403	403	0	°no	no	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=1698.4	_	_	_	_
 403-1	BOR001	403	403	1	forse°	forse	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=low	_	_	_	_	_
-403-2	BOR001	403	403	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+403-2	BOR001	403	403	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 403-3	BOR001	403	403	3	vabbé	vabbé	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 403-4	BOR001	403	403	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 403-5	BOR001	403	403	5	associazione	associazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4297,7 +4297,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 407-6	BOR001	407	407	6	lavoro	lavoro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 407-7	BOR001	407	407	7	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 407-8	BOR001	407	407	8	cina	cina	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-407-9	BOR001	407	407	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+407-9	BOR001	407	407	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 407-10	BOR001	407	407	10	ad	ad	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 407-11	BOR001	407	407	11	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	End=1709.84	_	_	_	_
 408-0	BOR001	408	408	0	anche	anche	_	_	_	_	_	linguistic	_	none	_	Begin=1710.213	_	_	_	_
@@ -4435,7 +4435,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 423-2	BOI029	423	423	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
 423-3	BOI029	423	423	3	ricordo	ricordo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
 423-4	BOI029	423	423	4	più<	più	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
-423-5	BOI029	423	423	5	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1762.173	_	_	_	_
+423-5	BOI029	423	423	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1762.173	_	_	_	_
 424-0	BOI029	424	424	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1762.65	_	_	_	_
 424-1	BOI029	424	424	1	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 424-2	BOI029	424	424	2	Africa	africa	_	_	_	_	_	linguistic	_	none	Volume=high	_	_	_	_	_
@@ -4471,12 +4471,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 426-13	BOI029	426	426	13	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 426-14	BOI029	426	426	14	stato	stato	_	_	_	_	_	linguistic	_	none	_	End=1778.52	_	_	_	_
 427-0	BOR001	427	427	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1778.77	_	_	_	_
-427-1	BOR001	427	427	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+427-1	BOR001	427	427	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 427-2	BOR001	427	427	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=1779.65	_	_	_	_
 428-0	BOR001	428	428	0	xx	xx	_	_	_	_	_	unknown	_	none	PauseAfter=Yes|Syllables=2	Begin=1780.1	_	_	_	_
-428-1	BOR001	428	428	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+428-1	BOR001	428	428	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 428-2	BOR001	428	428	2	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-428-3	BOR001	428	428	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+428-3	BOR001	428	428	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 428-4	BOR001	428	428	4	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 428-5	BOR001	428	428	5	è:	è	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 428-6	BOR001	428	428	6	ehm	ehm	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4515,7 +4515,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 432-3	BOI029	432	432	3	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 432-4	BOI029	432	432	4	nato	nato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 432-5	BOI029	432	432	5	qui	qui	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-432-6	BOI029	432	432	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+432-6	BOI029	432	432	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 432-7	BOI029	432	432	7	e:h	eh	_	_	_	_	_	linguistic	_	none	_	End=1798.43	0x1	_	_	_
 433-0	BOI029	433	433	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1800.009	_	_	_	_
 433-1	BOI029	433	433	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4545,10 +4545,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 434-10	BOR001	434	434	10	giusta	giusta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 434-11	BOR001	434	434	11	farla	farla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 434-12	BOR001	434	434	12	ehm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-434-13	BOR001	434	434	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+434-13	BOR001	434	434	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 434-14	BOR001	434	434	14	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 434-15	BOR001	434	434	15	medie,	medie	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
-434-16	BOR001	434	434	16	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+434-16	BOR001	434	434	16	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 434-17	BOR001	434	434	17	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=1816.05	_	_	_	_
 435-0	BOI029	435	435	0	<sì>	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1816.34	_	Slow=0-2(0)	_	_
 435-1	BOI029	435	435	1	metti	metti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4695,14 +4695,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 451-4	BOI029	451	451	4	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 451-5	BOI029	451	451	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 451-6	BOI029	451	451	6	mafia,	mafia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
-451-7	BOI029	451	451	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+451-7	BOI029	451	451	7	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 451-8	BOI029	451	451	8	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 451-9	BOI029	451	451	9	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 451-10	BOI029	451	451	10	puoi	puoi	_	_	_	_	_	linguistic	_	none	_	End=1869.1	_	_	_	_
 452-0	BOI029	452	452	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=1869.39	_	_	_	_
 452-1	BOI029	452	452	1	torri	torri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 452-2	BOI029	452	452	2	gemelli	gemelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-452-3	BOI029	452	452	3	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+452-3	BOI029	452	452	3	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 452-4	BOI029	452	452	4	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 452-5	BOI029	452	452	5	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 452-6	BOI029	452	452	6	non~	non~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=1871.81	_	_	_	_
@@ -4738,7 +4738,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 456-11	BOR001	456	456	11	utile	utile	_	_	_	_	_	linguistic	_	none	_	End=1878.55	_	_	_	_
 457-0	BOR001	457	457	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1879.28	_	Fast=0-4(0)	_	_
 457-1	BOR001	457	457	1	per	per	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Slow=0-3(0)	_	_
-457-2	BOR001	457	457	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	Slow=0-3(0)	_	_
+457-2	BOR001	457	457	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 457-3	BOR001	457	457	3	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-1(0)	_	_
 457-4	BOR001	457	457	4	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	_
 457-5	BOR001	457	457	5	>o	o	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-1(1)	_	_
@@ -4747,7 +4747,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 457-8	BOR001	457	457	8	ciascuno	ciascuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 457-9	BOR001	457	457	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 457-10	BOR001	457	457	10	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-457-11	BOR001	457	457	11	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+457-11	BOR001	457	457	11	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
 457-12	BOR001	457	457	12	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 457-13	BOR001	457	457	13	stiamo	stiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 457-14	BOR001	457	457	14	formando	formando	_	_	_	_	_	linguistic	_	none	_	End=1883.59	_	_	_	_
@@ -4765,7 +4765,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 458-11	BOR001	458	458	11	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 458-12	BOR001	458	458	12	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 458-13	BOR001	458	458	13	riguardano:	riguardano	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	9x1	_	_	_
-458-14	BOR001	458	458	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+458-14	BOR001	458	458	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 458-15	BOR001	458	458	15	[anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(88)
 458-16	BOR001	458	458	16	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(88)
 458-17	BOR001	458	458	17	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(88)
@@ -4779,7 +4779,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 460-5	BOI029	460	460	5	che]	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(88)
 460-6	BOI029	460	460	6	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 460-7	BOI029	460	460	7	sente	sente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-460-8	BOI029	460	460	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+460-8	BOI029	460	460	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 460-9	BOI029	460	460	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 460-10	BOI029	460	460	10	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 460-11	BOI029	460	460	11	televisione	televisione	_	_	_	_	_	linguistic	_	none	_	End=1893.95	_	_	_	_
@@ -4789,7 +4789,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 461-3	BOI029	461	461	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 461-4	BOI029	461	461	4	risorgimento:	risorgimento	_	_	_	_	_	linguistic	_	none	_	End=1897.69	11x1	_	_	_
 462-0	BOR001	462	462	0	[eh]	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1894.08|End=1894.39	_	_	_	0-2(89)
-463-0	BOR001	463	463	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1897.76|End=1898.354	_	_	_	_
+463-0	BOR001	463	463	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1897.76|End=1898.354	_	_	_	_
 464-0	BOI029	464	464	0	o	o	_	_	_	_	_	linguistic	_	none	_	Begin=1898.3	_	_	_	_
 464-1	BOI029	464	464	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 464-2	BOI029	464	464	2	sienti	sienti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4801,7 +4801,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 464-8	BOI029	464	464	8	programma	programma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 464-9	BOI029	464	464	9	forse	forse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 464-10	BOI029	464	464	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-464-11	BOI029	464	464	11	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1901.57	_	_	_	_
+464-11	BOI029	464	464	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1901.57	_	_	_	_
 465-0	BOI029	465	465	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1902.6	_	_	_	_
 465-1	BOI029	465	465	1	[for]se	forse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(90)
 465-2	BOI029	465	465	2	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4874,7 +4874,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 473-0	BOI029	473	473	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=1926.56	_	_	_	_
 473-1	BOI029	473	473	1	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 473-2	BOI029	473	473	2	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-473-3	BOI029	473	473	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+473-3	BOI029	473	473	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 473-4	BOI029	473	473	4	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 473-5	BOI029	473	473	5	studiato	studiato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 473-6	BOI029	473	473	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4976,7 +4976,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 484-2	BOI029	484	484	2	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 484-3	BOI029	484	484	3	capisci	capisci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 484-4	BOI029	484	484	4	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-484-5	BOI029	484	484	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+484-5	BOI029	484	484	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 484-6	BOI029	484	484	6	leggendo	leggendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 484-7	BOI029	484	484	7	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 484-8	BOI029	484	484	8	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5038,7 +5038,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 492-0	BOI029	492	492	0	[certo]	certo	_	_	_	_	_	linguistic	_	none	_	Begin=1995.19|End=1995.74	_	_	_	0-5(94)
 493-0	BOI029	493	493	0	°certo°	certo	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=1996.04|End=1996.24	_	_	_	_
 494-0	BOR001	494	494	0	e:	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1996.43	0x1	_	_	_
-494-1	BOR001	494	494	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+494-1	BOR001	494	494	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 494-2	BOR001	494	494	2	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 494-3	BOR001	494	494	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 494-4	BOR001	494	494	4	po':	po'	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
@@ -5104,14 +5104,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 499-12	BOI029	499	499	12	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 499-13	BOI029	499	499	13	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 499-14	BOI029	499	499	14	letto	letto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-499-15	BOI029	499	499	15	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+499-15	BOI029	499	499	15	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 499-16	BOI029	499	499	16	capisco	capisco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 499-17	BOI029	499	499	17	cos'	cos'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 499-18	BOI029	499	499	18	è	è	_	_	_	_	_	linguistic	_	none	_	End=2017.32	_	_	_	_
 500-0	BOI029	500	500	0	(i)nsomma	insomma	_	_	_	_	_	linguistic	_	none	_	Begin=2018.06	_	_	0-1(0)	_
 500-1	BOI029	500	500	1	[eh]	eh	_	_	_	_	_	linguistic	_	none	_	End=2019.01	_	_	_	0-2(97)
 501-0	BOR001	501	501	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2018.77	_	_	_	0-2(97)
-501-1	BOR001	501	501	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+501-1	BOR001	501	501	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 501-2	BOR001	501	501	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 501-3	BOR001	501	501	3	vedi	vedi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 501-4	BOR001	501	501	4	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5139,7 +5139,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 505-1	BOI029	505	505	1	muovere	muovere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-2	BOI029	505	505	2	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-3	BOI029	505	505	3	curiosità	curiosità	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-505-4	BOI029	505	505	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+505-4	BOI029	505	505	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 505-5	BOI029	505	505	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-6	BOI029	505	505	6	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 505-7	BOI029	505	505	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5155,7 +5155,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 508-2	BOI029	508	508	2	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 508-3	BOI029	508	508	3	soliti	soliti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 508-4	BOI029	508	508	4	discorsi	discorsi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-508-5	BOI029	508	508	5	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2033.78	_	_	_	_
+508-5	BOI029	508	508	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2033.78	_	_	_	_
 509-0	BOR001	509	509	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2034.87|End=2035.02	_	_	_	_
 510-0	BOR001	510	510	0	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	Begin=2035.685	_	_	_	_
 510-1	BOR001	510	510	1	me:	me	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
@@ -5180,7 +5180,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 512-1	BOR001	512	512	1	preparazione	preparazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 512-2	BOR001	512	512	2	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 512-3	BOR001	512	512	3	fatta	fatta	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-512-4	BOR001	512	512	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+512-4	BOR001	512	512	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 512-5	BOR001	512	512	5	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 512-6	BOR001	512	512	6	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 512-7	BOR001	512	512	7	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5192,7 +5192,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 513-4	BOR001	513	513	4	docenti?	docenti	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2052.909	_	_	_	_
 514-0	BOR001	514	514	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2053.639	_	_	_	_
 514-1	BOR001	514	514	1	vi	vi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-514-2	BOR001	514	514	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+514-2	BOR001	514	514	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 514-3	BOR001	514	514	3	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=2055.94	_	_	_	_
 515-0	BOR001	515	515	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=2058.553	_	_	_	_
 515-1	BOR001	515	515	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5256,7 +5256,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 521-7	BOI029	521	521	7	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 521-8	BOI029	521	521	8	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 521-9	BOI029	521	521	9	entrare	entrare	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-521-10	BOI029	521	521	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+521-10	BOI029	521	521	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 521-11	BOI029	521	521	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 521-12	BOI029	521	521	12	fartelo	fartelo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 521-13	BOI029	521	521	13	capire	capire	_	_	_	_	_	linguistic	_	none	_	End=2084.451	_	_	_	_
@@ -5296,7 +5296,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 530-9	BOI029	530	530	9	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(103)
 530-10	BOI029	530	530	10	]abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 530-11	BOI029	530	530	11	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-530-12	BOI029	530	530	12	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+530-12	BOI029	530	530	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 530-13	BOI029	530	530	13	[no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(104)
 530-14	BOI029	530	530	14	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(104)
 530-15	BOI029	530	530	15	no]	no	_	_	_	_	_	linguistic	_	none	_	End=2098.773	_	_	_	0-2(104)
@@ -5405,7 +5405,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 541-10	BOI029	541	541	10	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 541-11	BOI029	541	541	11	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 541-12	BOI029	541	541	12	dopo	dopo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-541-13	BOI029	541	541	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+541-13	BOI029	541	541	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 541-14	BOI029	541	541	14	probabilmente	probabilmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 541-15	BOI029	541	541	15	ognuno	ognuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 541-16	BOI029	541	541	16	trova:	trova	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
@@ -5521,7 +5521,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 551-10	BOI029	551	551	10	vedere	vedere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-11	BOI029	551	551	11	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-12	BOI029	551	551	12	film	film	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-551-13	BOI029	551	551	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+551-13	BOI029	551	551	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 551-14	BOI029	551	551	14	cioè:	cioè	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
 551-15	BOI029	551	551	15	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-16	BOI029	551	551	16	approcci	approcci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5546,7 +5546,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 557-0	BOR001	557	557	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=2186.02	_	_	_	_
 557-1	BOR001	557	557	1	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 557-2	BOR001	557	557	2	quindi	quindi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-557-3	BOR001	557	557	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+557-3	BOR001	557	557	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 557-4	BOR001	557	557	4	quasi	quasi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 557-5	BOR001	557	557	5	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 557-6	BOR001	557	557	6	insomma	insomma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5709,7 +5709,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 575-1	BOI029	575	575	1	magari:	magari	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
 575-2	BOI029	575	575	2	>non	non	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
 575-3	BOI029	575	575	3	so<	so	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-2(0)	_	_
-575-4	BOI029	575	575	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+575-4	BOI029	575	575	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 575-5	BOI029	575	575	5	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 575-6	BOI029	575	575	6	fanno:	fanno	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 575-7	BOI029	575	575	7	teatro?	teatro	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2253.95	_	_	_	_
@@ -5803,7 +5803,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 582-9	BOI029	582	582	9	queste	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 582-10	BOI029	582	582	10	cose	cose	_	_	_	_	_	linguistic	_	none	_	End=2286.29	_	_	_	_
 583-0	BOI029	583	583	0	E	e	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=high	Begin=2286.68	_	_	_	_
-583-1	BOI029	583	583	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+583-1	BOI029	583	583	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 583-2	BOI029	583	583	2	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 583-3	BOI029	583	583	3	altre	altre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 583-4	BOI029	583	583	4	persone	persone	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5858,7 +5858,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 588-15	BOI029	588	588	15	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 588-16	BOI029	588	588	16	c~	c~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 588-17	BOI029	588	588	17	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	End=2303.9	_	_	_	_
-589-0	BOR001	589	589	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2303.36|End=2303.83	_	_	_	_
+589-0	BOR001	589	589	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2303.36|End=2303.83	_	_	_	_
 590-0	BOI029	590	590	0	è~	è~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=2303.94	_	_	_	_
 590-1	BOI029	590	590	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 590-2	BOI029	590	590	2	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5891,7 +5891,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 593-9	BOR001	593	593	9	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 593-10	BOR001	593	593	10	progettti,	progettti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2314.92	_	_	_	_
 594-0	BOI029	594	594	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2314.98	0x1	_	_	_
-594-1	BOI029	594	594	1	{sbuffa}	{sbuffa}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2316.98	_	_	_	_
+594-1	BOI029	594	594	1	((sbuffa))	((sbuffa))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2316.98	_	_	_	_
 595-0	BOR001	595	595	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2317.05|End=2317.42	_	_	_	_
 596-0	BOI029	596	596	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=2317.45	_	_	_	_
 596-1	BOI029	596	596	1	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6033,13 +6033,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 610-15	BOR001	610	610	15	progetti	progetti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 610-16	BOR001	610	610	16	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 610-17	BOR001	610	610	17	dicevo	dicevo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-610-18	BOR001	610	610	18	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+610-18	BOR001	610	610	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 610-19	BOR001	610	610	19	[°si	si	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-2(119)
 610-20	BOR001	610	610	20	vede	vede	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-4(119)
 610-21	BOR001	610	610	21	che:°]	che	_	_	_	_	_	linguistic	_	none	Volume=low	End=2374.234	2x1	_	_	0-3(119)
 611-0	BOI029	611	611	0	[no]	no	_	_	_	_	_	linguistic	_	none	_	Begin=2370.055|End=2370.367	_	_	_	0-2(118)
 612-0	BOI029	612	612	0	[no]	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2373.491	_	_	_	0-2(119)
-612-1	BOI029	612	612	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+612-1	BOI029	612	612	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 612-2	BOI029	612	612	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 612-3	BOI029	612	612	3	chiediamo	chiediamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 612-4	BOI029	612	612	4	niente	niente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6055,7 +6055,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 614-4	BOI029	614	614	4	ecco	ecco	_	_	_	_	_	linguistic	_	none	_	End=2380.08	_	_	_	_
 615-0	BOR001	615	615	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2380.081	_	_	_	_
 615-1	BOR001	615	615	1	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-615-2	BOR001	615	615	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+615-2	BOR001	615	615	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 615-3	BOR001	615	615	3	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 615-4	BOR001	615	615	4	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 615-5	BOR001	615	615	5	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6075,7 +6075,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 617-1	BOR001	617	617	1	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(120)
 617-2	BOR001	617	617	2	vede]ndo	vedendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(120)
 617-3	BOR001	617	617	3	solo	solo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-617-4	BOR001	617	617	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+617-4	BOR001	617	617	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 617-5	BOR001	617	617	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 617-6	BOR001	617	617	6	[pareti	pareti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(121)
 617-7	BOR001	617	617	7	(passano)	passano	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-7(0)	0-7(121)
@@ -6206,7 +6206,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 630-0	BOI029	630	630	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=2436.23	_	_	_	_
 630-1	BOI029	630	630	1	lavori	lavori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 630-2	BOI029	630	630	2	artigianali	artigianali	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-630-3	BOI029	630	630	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+630-3	BOI029	630	630	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 630-4	BOI029	630	630	4	[se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(122)
 630-5	BOI029	630	630	5	n'	n'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(122)
 630-6	BOI029	630	630	6	è]	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(122)
@@ -6228,7 +6228,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 632-4	BOI029	632	632	4	vetro,	vetro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 632-5	BOI029	632	632	5	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 632-6	BOI029	632	632	6	ceramiche	ceramiche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-632-7	BOI029	632	632	7	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+632-7	BOI029	632	632	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 632-8	BOI029	632	632	8	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 632-9	BOI029	632	632	9	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 632-10	BOI029	632	632	10	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6274,7 +6274,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 635-9	BOI029	635	635	9	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 635-10	BOI029	635	635	10	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 635-11	BOI029	635	635	11	spiegato	spiegato	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-635-12	BOI029	635	635	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+635-12	BOI029	635	635	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 635-13	BOI029	635	635	13	co~	co~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 635-14	BOI029	635	635	14	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 635-15	BOI029	635	635	15	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6293,7 +6293,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 637-6	BOI029	637	637	6	inizieremo	inizieremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-7	BOI029	637	637	7	coi	coi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-8	BOI029	637	637	8	laboratori	laboratori	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-637-9	BOI029	637	637	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+637-9	BOI029	637	637	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 637-10	BOI029	637	637	10	pomeridiani	pomeridiani	_	_	_	_	_	linguistic	_	none	_	End=2472.59	_	_	_	_
 638-0	BOR001	638	638	0	bellissimo	bellissimo	_	_	_	_	_	linguistic	_	none	_	Begin=2473.372	_	_	_	_
 638-1	BOR001	638	638	1	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6401,14 +6401,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 648-1	BOR001	648	648	1	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-2	BOR001	648	648	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-3	BOR001	648	648	3	sai	sai	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-648-4	BOR001	648	648	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+648-4	BOR001	648	648	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 648-5	BOR001	648	648	5	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-6	BOR001	648	648	6	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-7	BOR001	648	648	7	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-8	BOR001	648	648	8	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-9	BOR001	648	648	9	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-10	BOR001	648	648	10	scientifico	scientifico	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-648-11	BOR001	648	648	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+648-11	BOR001	648	648	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 648-12	BOR001	648	648	12	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 648-13	BOR001	648	648	13	avessi~	avessi~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 648-14	BOR001	648	648	14	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6436,7 +6436,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 650-1	BOI029	650	650	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 650-2	BOI029	650	650	2	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=2517.55	_	_	_	_
 651-0	BOR001	651	651	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2517.59	_	_	_	_
-651-1	BOR001	651	651	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+651-1	BOR001	651	651	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 651-2	BOR001	651	651	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 651-3	BOR001	651	651	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 651-4	BOR001	651	651	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6489,7 +6489,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 655-11	BOI029	655	655	11	molte	molte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 655-12	BOI029	655	655	12	volte	volte	_	_	_	_	_	linguistic	_	none	_	End=2529.31	_	_	_	_
 656-0	BOI029	656	656	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2529.58	_	_	_	_
-656-1	BOI029	656	656	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+656-1	BOI029	656	656	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 656-2	BOI029	656	656	2	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 656-3	BOI029	656	656	3	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 656-4	BOI029	656	656	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6574,7 +6574,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 663-16	BOR001	663	663	16	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 663-17	BOR001	663	663	17	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 663-18	BOR001	663	663	18	sempre	sempre	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-663-19	BOR001	663	663	19	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+663-19	BOR001	663	663	19	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 663-20	BOR001	663	663	20	[positiva]	positiva	_	_	_	_	_	linguistic	_	none	_	End=2564.44	_	_	_	0-8(131)
 664-0	BOI029	664	664	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2564.07	_	_	_	0-2(131)
 664-1	BOI029	664	664	1	la~	la~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-3(131)
@@ -6597,7 +6597,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 665-7	BOI029	665	665	7	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 665-8	BOI029	665	665	8	consentono	consentono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 665-9	BOI029	665	665	9	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-665-10	BOI029	665	665	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+665-10	BOI029	665	665	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 665-11	BOI029	665	665	11	avere	avere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 665-12	BOI029	665	665	12	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 665-13	BOI029	665	665	13	ruolo	ruolo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6700,7 +6700,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 676-14	BOI029	676	676	14	italiana	italiana	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 676-15	BOI029	676	676	15	lavora	lavora	_	_	_	_	_	linguistic	_	none	_	End=2612.61	_	_	_	_
 677-0	BOI029	677	677	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2613.153	_	_	_	_
-677-1	BOI029	677	677	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+677-1	BOI029	677	677	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 677-2	BOI029	677	677	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 677-3	BOI029	677	677	3	sui	sui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 677-4	BOI029	677	677	4	diver[genti]ma	divergentima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	5-10(133)
@@ -6738,7 +6738,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 682-5	BOR001	682	682	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 682-6	BOR001	682	682	6	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 682-7	BOR001	682	682	7	su	su	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-682-8	BOR001	682	682	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+682-8	BOR001	682	682	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 682-9	BOR001	682	682	9	sistema	sistema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 682-10	BOR001	682	682	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 682-11	BOR001	682	682	11	genera[le	generale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	6-8(135)
@@ -6758,7 +6758,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 683-11	BOI029	683	683	11	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	End=2630.22	_	_	_	_
 684-0	BOR001	684	684	0	°infatti°	infatti	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2630.83|End=2631.14	_	_	_	_
 685-0	BOR001	685	685	0	°xxx°	xxx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	Begin=2631.68	_	_	_	_
-685-1	BOR001	685	685	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+685-1	BOR001	685	685	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 685-2	BOR001	685	685	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-3	BOR001	685	685	3	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-4	BOR001	685	685	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6770,7 +6770,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 685-10	BOR001	685	685	10	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-11	BOR001	685	685	11	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-12	BOR001	685	685	12	preso	preso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-685-13	BOR001	685	685	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+685-13	BOR001	685	685	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 685-14	BOR001	685	685	14	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-15	BOR001	685	685	15	pagella:	pagella	_	_	_	_	_	linguistic	_	none	_	End=2636.6	6x1	_	_	_
 686-0	BOR001	686	686	0	°e:h°	eh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2637.62	0x1	_	_	_
@@ -6804,7 +6804,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 687-6	BOR001	687	687	6	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-7	BOR001	687	687	7	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-8	BOR001	687	687	8	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-687-9	BOR001	687	687	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+687-9	BOR001	687	687	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 687-10	BOR001	687	687	10	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-11	BOR001	687	687	11	cerca	cerca	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-12	BOR001	687	687	12	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6816,7 +6816,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 687-18	BOR001	687	687	18	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-19	BOR001	687	687	19	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-20	BOR001	687	687	20	tenerti	tenerti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-687-21	BOR001	687	687	21	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+687-21	BOR001	687	687	21	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 687-22	BOR001	687	687	22	aperte	aperte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-23	BOR001	687	687	23	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 687-24	BOR001	687	687	24	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6846,7 +6846,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 692-4	BOR001	692	692	4	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(138)
 692-5	BOR001	692	692	5	ste]ssa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(138)
 692-6	BOR001	692	692	6	dipenda	dipenda	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-692-7	BOR001	692	692	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+692-7	BOR001	692	692	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 692-8	BOR001	692	692	8	[°ancora	ancora	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-6(139)
 692-9	BOR001	692	692	9	da	da	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-2(139)
 692-10	BOR001	692	692	10	questo°]	questo	_	_	_	_	_	linguistic	_	none	Volume=low	End=2661.377	_	_	_	0-6(139)
@@ -6914,7 +6914,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 698-3	BOI029	698	698	3	studente	studente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 698-4	BOI029	698	698	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 698-5	BOI029	698	698	5	ha	ha	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-698-6	BOI029	698	698	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+698-6	BOI029	698	698	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 698-7	BOI029	698	698	7	indicazioni	indicazioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 698-8	BOI029	698	698	8	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 698-9	BOI029	698	698	9	precise	precise	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6942,7 +6942,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 700-1	BOI029	700	700	1	bene	bene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 700-2	BOI029	700	700	2	[in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(142)
 700-3	BOI029	700	700	3	tutto	tutto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-5(142)
-700-4	BOI029	700	700	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(142)
+700-4	BOI029	700	700	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 700-5	BOI029	700	700	5	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=2696.217	_	_	_	0-2(142)
 701-0	BOR001	701	701	0	[eccellere	eccellere	_	_	_	_	_	linguistic	_	none	_	Begin=2695.4	_	_	_	0-9(142)
 701-1	BOR001	701	701	1	in]	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(142)
@@ -6952,10 +6952,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 702-0	BOI029	702	702	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2697.12	_	_	_	0-2(143)
 702-1	BOI029	702	702	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=2697.53	_	_	_	0-2(143)
 703-0	BOR001	703	703	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=2700.4|End=2700.89	_	_	_	_
-704-0	BOR001	704	704	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2701.61	_	_	_	_
+704-0	BOR001	704	704	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2701.61	_	_	_	_
 704-1	BOR001	704	704	1	[xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	0-3(144)
 704-2	BOR001	704	704	2	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=2704.48	_	_	_	0-2(144)
-705-0	BOI029	705	705	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2701.78	_	_	_	_
+705-0	BOI029	705	705	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2701.78	_	_	_	_
 705-1	BOI029	705	705	1	[siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(144)
 705-2	BOI029	705	705	2	andati	andati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(144)
 705-3	BOI029	705	705	3	fuori	fuori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(144)

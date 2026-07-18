@@ -284,8 +284,8 @@ BOI019	i libri
 BOI019	i libri e anche i viaggi eh
 BOI019	danno tanto
 BOI019	sì sì
-BOR005	[xx]
 BOI019	[ma i li~]
+BOR005	[xx]
 BOR005	si parlava di conoscenza, di sapere,
 BOR005	no te mi è venuto in mente che di solito:
 BOR005	che appunto

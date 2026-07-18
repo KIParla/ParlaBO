@@ -14,12 +14,12 @@ BOI011	passavo dei lunghi periodi in centro dai nonni
 BOR004	mhmh
 BOI011	però
 BOI011	eh m~ il domicilio lo avevo qua insomma no
-BOI011	eh i nonni stavano in u~ i nonni paterni stavano in @nomeluogo
+BOI011	eh i nonni stavano in u~ i nonni paterni stavano in
 BOI011	numero quarantaquattro
 BOR004	okay
 BOR004	ehm
-BOI011	e per il resto ho sempre abitato qui nel senso prima in @nomeluogo
-BOI011	poi dopo dopo sposata qua in @nomeluogo
+BOI011	e per il resto ho sempre abitato qui nel senso prima in
+BOI011	poi dopo dopo sposata qua in
 BOI011	non mi sono mai spostata dalla mia città
 BOI011	poi
 BOR004	eh no le piace come città
@@ -43,8 +43,8 @@ BOI011	coniugata bianchi
 BOI011	la persona a cui è riuscito a tornare più indietro nel tempo è un tale rossi valerio
 BOI011	che nel milleottocentodieci stava a porta santo ste~ a in piazza santo stefano
 BOI011	la famiglia dei miei è di lì
-BOI011	mio padre è nato in @nomeluogo mia nonna in @nomeluogo
-BOI011	mio nonno in @nomeluogo quindi noi siamo proprio bolognesi
+BOI011	mio padre è nato in mia nonna in
+BOI011	mio nonno in quindi noi siamo proprio bolognesi
 BOI011	nel centro che più centro non si può la casa dove mio padre è nato è tuttora in piedi restaurata ma è ancora lì
 BOR004	mhmh
 BOI011	cioé papà mi ha fatto vedere la finestra della camera da letto in cui lui è nato
@@ -1017,7 +1017,7 @@ BOI011	eh accendi quella luce
 BOI011	uno che crede di parlare mh eh dice
 BOI011	azzend cla luz
 BOR004	mh
-BOI011	pe~ invece il bolognese dice impeia
+BOI011	pe invece il bolognese dice impeia
 BOR004	ah
 BOI011	accendere e spegnere sono impier e smorzer
 BOR004	si
@@ -1070,7 +1070,7 @@ BOI011	abbiamo anche delle invenzioni
 BOI011	come dire curiose per esempio per dire
 BOI011	che hai detto una cosa ovvia
 BOI011	in molti dialetti si dice hai scoperto l'acqua calda noi ce l'abbiamo eh
-BOI011	t'a squer l'acqua chelda
+BOI011	ta squer l'acqua chelda
 BOI011	però ne abbiamo una molto più elaborate che dice t'è squer la macchina par tagher al brod
 BOI011	hai scoperto la macchina per affettare il brodo
 BOI011	cioè una cosa completamente inutile
@@ -1180,7 +1180,7 @@ BOI011	signora anna l'am vol spuser
 BOI011	e lei no
 BOI011	un bel giorno arriva a casa nostra mia nonna aveva ottant'anni pigliava gli autobus e giù come come ridere sì sì sì
 BOI011	e dice oh
-BOI011	c'al ciat c'am vulevam spuser l'è mort
+BOI011	cal ciat c'am vulevam spuser l'è mort
 BOI011	dice quel nonnino che mi voleva sposare è morto
 BOR004	ah ah
 BOI011	meno male c'a nl'ho brisa spusè

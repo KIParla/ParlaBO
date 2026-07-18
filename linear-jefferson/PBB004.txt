@@ -19,8 +19,8 @@ BOI013	però è quartiere cortic[ella]
 BOI012	[n]o
 BOR005	[ah okay]
 BOR005	e (.) le scuole le avete frequentate qui, o in altri quartieri, in altre città,
-BOI012	[altri quartieri]
 BOI013	[altri quartieri]
+BOI012	[altri quartieri]
 BOR005	ah: okay
 BOR005	e i vostri amici vivono ancora nei quartieri dove abita[vate vo]i o si sono spost[ati]?
 BOI013	[no]
@@ -735,8 +735,8 @@ BOI013	che si rico~ >io già faccio fatica::<
 BOI013	a ricordarmi i nomi degli anziani
 BOR005	mh
 BOI013	li chiamo::: come mi passa in ma~
-BOR005	((ride))
 BOI013	((ride))
+BOR005	((ride))
 BOI013	((ride))
 BOI013	non me li ricordo più
 BOI013	no: no °basta° (.) dopo i cinquantanni bisogna stare a <casa>
@@ -872,8 +872,8 @@ BOI012	((ride))
 BOR005	e che programmi guardi
 BOI013	((ride))
 BOI013	°devo proprio dirlo°
-BOR005	((ride))
 BOI013	((ride))
+BOR005	((ride))
 BOI013	NO >no no< o:h eh mica sono ignorantona
 BOR005	((ride))
 BOI013	mi piace:::: la mattina mi guardo agorà
@@ -1075,8 +1075,8 @@ BOI013	<orrore>
 BOR005	mh
 BOI012	>°cioè ma non esi~°<
 BOI013	((ride))
-BOI012	((ride))
 BOI013	((ride))
+BOI012	((ride))
 BOR005	che poi
 BOI013	[bel]
 BOR005	[parlan]do di musica (.) quando eravate giovani vi capitava di andare a ballare in discoteca?

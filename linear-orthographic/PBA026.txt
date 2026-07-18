@@ -438,8 +438,8 @@ BOI105	quindi
 BOR034	vabbè dai però ce l'hai fatta comunque sei arrivato in fondo no
 BOI105	ah sì sì sì
 BOI105	no assolutamente
-BOI105	e comunque
 BOR034	ma e
+BOI105	e comunque
 BOR034	dimmi no no scusa dimmi
 BOI105	dicevo il mio motto a scuola era
 BOI105	finché è sei va bene tutto
@@ -516,7 +516,7 @@ BOI105	a me non mi va
 BOR034	mhmh
 BOI105	nel frattempo mentre mentre facevo anche queste cose qui
 BOI105	la mh
-BOI105	la @nomesocietà
+BOI105	la
 BOI105	ginnastica mi ha offerto un lavoro
 BOI105	come allenatore
 BOI105	inizialmente avevo solamente
@@ -633,8 +633,8 @@ BOI105	però ahm
 BOI105	quando avevo circa undici anni
 BOI105	la società stava fallendo
 BOR034	ma dove andavi tu
-BOR034	andavi sempre alla @nomesocietà?
-BOI105	alla @nomesocietà
+BOR034	andavi sempre alla
+BOI105	alla
 BOI105	sì sì sì sì
 BOR034	okay
 BOR034	mhmh
@@ -786,9 +786,9 @@ BOR034	comunque poi hai ripreso ginnastica
 BOI105	era bellissimo
 BOI105	sì
 BOI105	dopo mh
-BOI105	dopo un po' di litigi diciamo col dirigente della @nomesocietà
+BOI105	dopo un po' di litigi diciamo col dirigente della
 BOI105	no è eh lì è su~ sono andato ai campionati italiani di squadra
-BOI105	okay quindi la squadra della @nomesocietà la squadra
+BOI105	okay quindi la squadra della la squadra
 BOI105	del sa~ del salerno virtus per dire cioè
 BOR034	mhmh
 BOR034	mhmh
@@ -808,7 +808,7 @@ BOI105	a me è venuta la tendinite
 BOI105	quindi cioè ma che facevo fatica a camminare
 BOI105	io mi son svegliato il giorno dopo mi sono alzato
 BOI105	e sono caduto perché non riuscivo a stare in piedi
-BOI105	lo dissi al dirigente della @nomesocietà che era lì
+BOI105	lo dissi al dirigente della che era lì
 BOI105	perché insomma appassionato di atletica faceva atletica anche lui
 BOR034	mhmh
 BOI105	glielo dissi
