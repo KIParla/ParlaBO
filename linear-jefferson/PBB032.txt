@@ -661,7 +661,7 @@ BOI117	quindi è una questione di gusti [non disprezzo assolutame]nte perché co
 BOI118	[e di abitudini]
 BOR031	[no beh certo]
 BOI117	e:h abbiamo imparato anche a farli perché abbiamo imparato a farli:
-BOR031	#osta ((ride))
+BOR031	osta ((ride))
 BOI117	((ride)) [(però)]
 BOI118	[li~ li] fanno x
 BOI117	sì ((ride)) li faccio, metto sotto anche: i: federico e sara quindi li facciamo: e:h
@@ -829,7 +829,7 @@ BOR031	okay
 BOI117	e quindi: visto che ormai eravamo quasi tutti quassù anche i miei genitori si sono trafseriti
 BOI117	[insieme] con luciano mh l'altr~ mio fratello noi siamo in cinque
 BOR031	[okay]
-BOR031	#ah [osta]
+BOR031	ah [osta]
 BOI117	[per questo] parlo sempre di fratelli sorelle ((ride))
 BOR031	((ride))
 BOR031	bello una famiglia grande
@@ -888,7 +888,7 @@ BOI117	(°m:h eh vabbè°)
 BOI118	molti hanno le case di proprietà quindi le spese son poche:
 BOR031	sì
 BOI117	poi i genitori costruiscono case: su case:
-BOI117	questo (è) del mio figlio, questo dell' altro mio figlio, questo x poi noi figli ce ne andiamo, [e le] case rimangono là
+BOI117	questo (è) del mio figlio, questo dell'altro mio figlio, questo x poi noi figli ce ne andiamo, [e le] case rimangono là
 BOR031	((ride))
 BOR031	[eh]
 BOR031	eh sì
@@ -996,7 +996,7 @@ BOI117	[adesso se]~ sì sei settemila è già tanto
 BOR031	[okay]
 BOI118	[e poi molte persone] residenti:
 BOI117	[xx xx]
-BOI118	#vanno, sono residenti però vivono coi figli fuori dal paese
+BOI118	vanno, sono residenti però vivono coi figli fuori dal paese
 BOI117	[mh]
 BOI118	[tipo] a bologna: [x a roma]
 BOI117	[a bologna c'è mezza caria]ti cariati è il nostro pa[ese] e a bologna:
@@ -1160,7 +1160,7 @@ BOR031	e:h a proposito della famiglia (no) della monica siete amici no: cioè vi
 BOI117	[ma io suo] papà lo vedo sempre tutti i giorni perché è il mio titolare ((ride))
 BOR031	ah a:h ((ride)) okay non lo sapevo questo ((ride))
 BOI117	((ride))
-BOI117	#[e:h] e:h poi col~ no noi ci vediamo ci sentiamo poi comunque e:h sara e monica [sono state in classe insie]me alle elementari
+BOI117	[e:h] e:h poi col~ no noi ci vediamo ci sentiamo poi comunque e:h sara e monica [sono state in classe insie]me alle elementari
 BOR031	[e:h]
 BOI118	[erano andate a scuola insieme]
 BOR031	a:h okay [okay]

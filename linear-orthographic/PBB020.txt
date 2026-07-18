@@ -662,7 +662,7 @@ BOI059	se è proprietà della chiesa che la chiesa lo sistemi se è patrimonio d
 BOI059	che son consumati uno sì e mh eh
 BOR017	sì sì è rischioso è rischioso
 BOI059	è più difficile al di là di rischioso
-BOI059	lè più difezil andar sò eh oh si fa della fatica per niente ecco
+BOI059	l'è più difezil andar sò eh oh si fa della fatica per niente ecco
 BOR017	vero
 BOR017	verissimo
 BOR017	ma ho visto che prima hai citato il cibo passiamo dunque al cibo

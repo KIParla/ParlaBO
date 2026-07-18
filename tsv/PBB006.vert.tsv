@@ -157,7 +157,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 25-6	BOI020	25	25	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 25-7	BOI020	25	25	7	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 25-8	BOI020	25	25	8	collega	collega	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-25-9	BOI020	25	25	9	m'	m'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+25-9	BOI020	25	25	9	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 25-10	BOI020	25	25	10	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 25-11	BOI020	25	25	11	detto	detto	_	_	_	_	_	linguistic	_	none	_	End=85.71	_	_	_	_
 26-0	BOI020	26	26	0	guarda	guarda	_	_	_	_	_	linguistic	_	none	_	Begin=85.96	_	_	_	_

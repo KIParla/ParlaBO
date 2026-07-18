@@ -1017,7 +1017,7 @@ BOI011	eh accendi quella luce
 BOI011	uno che crede di parlare mh eh dice
 BOI011	azzend cla luz
 BOR004	mh
-BOI011	pe invece il bolognese dice impeia
+BOI011	pe~ invece il bolognese dice impeia
 BOR004	ah
 BOI011	accendere e spegnere sono impier e smorzer
 BOR004	si
@@ -1070,7 +1070,7 @@ BOI011	abbiamo anche delle invenzioni
 BOI011	come dire curiose per esempio per dire
 BOI011	che hai detto una cosa ovvia
 BOI011	in molti dialetti si dice hai scoperto l'acqua calda noi ce l'abbiamo eh
-BOI011	ta squer l'acqua chelda
+BOI011	t'a squer l'acqua chelda
 BOI011	però ne abbiamo una molto più elaborate che dice t'è squer la macchina par tagher al brod
 BOI011	hai scoperto la macchina per affettare il brodo
 BOI011	cioè una cosa completamente inutile
@@ -1180,7 +1180,7 @@ BOI011	signora anna l'am vol spuser
 BOI011	e lei no
 BOI011	un bel giorno arriva a casa nostra mia nonna aveva ottant'anni pigliava gli autobus e giù come come ridere sì sì sì
 BOI011	e dice oh
-BOI011	cal ciat c'am vulevam spuser l'è mort
+BOI011	c'al ciat c'am vulevam spuser l'è mort
 BOI011	dice quel nonnino che mi voleva sposare è morto
 BOR004	ah ah
 BOI011	meno male c'a nl'ho brisa spusè

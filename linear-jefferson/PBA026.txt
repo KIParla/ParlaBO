@@ -1043,7 +1043,7 @@ BOI105	faceva le cotolette
 BOR034	sto pensando a natale io soprattutto sì sì le co[tolette (.) okay]
 BOI105	[cotolette:] pomodori grati[nati:]
 BOR034	[anche] quello lo faceva anche la mia sì
-BOI105	#e:: e bona e: no anche il bollito
+BOI105	e:: e bona e: no anche il bollito
 BOR034	mh
 BOI105	mangiava[mo il] bollito perché quello che fa il brodo a casa mia (.) è babbo
 BOR034	[mhmh]
@@ -1071,7 +1071,7 @@ BOR034	[mhmh]
 BOI105	le cotolett[e:] qualche ver[durina] il bollito: (.) di babbo
 BOR034	[beh]
 BOR034	[sì sì sì]
-BOI105	#e: bona dolce
+BOI105	e: bona dolce
 BOI105	dol[ce] tanto dolce
 BOR034	[dolce]?
 BOR034	mh
@@ -1185,7 +1185,7 @@ BOI105	((schiocco_con_lingua))
 BOI105	[no]
 BOI105	[io:] l'ultimo dell'anno sono stato qui a far festa con con i miei amici
 BOR034	mhmh
-BOI105	#e: e bona
+BOI105	e: e bona
 BOI105	ehm: anche gli anni scorsi:
 BOI105	o amici o comunque stavo con
 BOI105	con mamma e [papà e] i miei fratelli

@@ -206,7 +206,7 @@ BOI114	cinque sei anni e: l'ho: l'ho iniziato a accusare
 BOR028	mh
 BOI114	prima: oggettivamente: cioè se ti devo dire
 BOI114	n: non è quasi qualcosa che avevo mai: pensato: ci fosse
-BOI114	#perché oltretutto io da piccolo quegli anni lì io giravo: insieme ai miei amici insieme anche a~ alle balotte al ai gruppi
+BOI114	perché oltretutto io da piccolo quegli anni lì io giravo: insieme ai miei amici insieme anche a~ alle balotte al ai gruppi
 BOI114	alle compagnie scusami di: di ragazzi
 BOI114	eh mh del~ della mia cerchia: del del di casalecchio: di bologna eccetera
 BOI114	ci si ritrovava in luoghi che ora son di ritrovo per i fuorisede
@@ -259,7 +259,7 @@ BOI113	[e:h]
 BOR028	[mh]
 BOI113	e è il bello questo quello che x alla città che noi al borgo non si x
 BOI113	che è sempre uno schema è uno schema ripetitivo
-BOI113	#ma che lo cambi a una certa perché il borgo il problema de quei citti che so rimasti al borgo
+BOI113	ma che lo cambi a una certa perché il borgo il problema de quei citti che so rimasti al borgo
 BOI113	giovanni ti faccio dei nomi che vabbè non si possono dire ma m:h hai capito chi
 BOR028	sì: avoglia te
 BOI113	è tutta gente che non cambia cioè frequentava quel bar a a: tredici anni lo frequenta anche adesso che ce n'ha ventotto lo frequenterà per tutta la vita la sua vita è lì
@@ -297,7 +297,7 @@ BOI113	la fanno la vita bohémien perché se la vuoi fare la puoi fare
 BOI113	la puoi fare [ma la puoi fare] anche al borgo perché prendi: il pizzaiolo: del
 BOR028	[x]
 BOR028	((ride))
-BOI113	#eh e:h prendi: cioè: citti
+BOI113	eh e:h prendi: cioè: citti
 BOI114	((ride))
 BOR028	[eh sì]
 BOI113	[la puoi] fare anche lì
@@ -573,7 +573,7 @@ BOI114	ti portano la tigella che è è quella m:h [da] da una forma precisa
 BOI113	[tonda]
 BOR028	mhmh
 BOI114	e la crescentina che è m:h diciamo insomma un capannone ((ride)) non lo so come ((ride)) [non so spiegare]
-BOI113	#la ciaccina fritta [nostra] la ciaccina fritta
+BOI113	la ciaccina fritta [nostra] la ciaccina fritta
 BOR028	((ride))
 BOI114	esatto
 BOI114	e:h e là invece si chiama gnocco fritto là a modena poi
@@ -862,7 +862,7 @@ BOI113	[se tu] dicevi ci ci vado: ci vado: con l'autobus non ci vai con l'autobu
 BOR028	((ride))
 BOI113	era talmente tanto pieno che tipo si è fermato alla fermata non si aprivano le porte per tutta le gente che era [dentro]
 BOI114	[io mi ricordo] c'era:
-BOI113	se io non avevo il fratello qui che diceva oh noleggiamo l'enjoy e si va con l'enjoy che poi anche trovare l'enjoy [ci è voluto] per trovare quell' enjoy abbiamo faticato parecchio
+BOI113	se io non avevo il fratello qui che diceva oh noleggiamo l'enjoy e si va con l'enjoy che poi anche trovare l'enjoy [ci è voluto] per trovare quell'enjoy abbiamo faticato parecchio
 BOR028	[eh già]
 BOI114	però avete l'enjoy cioè ((ride))
 BOI113	però c'era il mi fratello che dice prendo l'enjoy ci vado io da sola non me sarei mai presa l'enjoy cioè

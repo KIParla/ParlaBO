@@ -1502,7 +1502,7 @@ BOI115	solo che dopo cinque mesi: eh son venuta a medicina
 BOR031	non eh,
 BOR031	non ((ride))
 BOI115	no no no ((ride)) oltre che eravamo in trenta in classe
-BOR031	#o[sta]
+BOR031	o[sta]
 BOI115	[ed e]ravamo tanti[ssimi]
 BOR031	[tantiss]imi sì
 BOI115	e poi::: gli insegnanti bravi ma: non si facevano rispettare

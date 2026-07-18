@@ -806,7 +806,7 @@ BOI072	mhmh mh
 BOI073	e
 BOR018	me lo sono trovato ricco
 BOI072	eh brava
-BOI073	u cazz
+BOI073	u' cazz
 BOI073	e
 BOI073	e quindi cioè
 BOI073	cioè ne~ nel lazio ci stanno un sacco di rossi però

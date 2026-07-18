@@ -1137,7 +1137,7 @@ BOI078	non lei non lei non lei non lei non la conosco io non so neanche chi cazz
 BOR020	distrutta
 BOI079	vabbè sì stava~
 BOI079	stavamo stavamo parlando del~ la piva in genera~
-BOI078	DELLA piva sì io non so chi sia questa ragazza non non c'ho neanche mai praticamente parlato anzi
+BOI078	della piva sì io non so chi sia questa ragazza non non c'ho neanche mai praticamente parlato anzi
 BOI079	no no non è vero invece adesso vado a casa e stanno preparando loro due i ravioli cinesi fatti in casa quindi non mi posso proprio lamentare
 BOR020	wow
 BOI078	e vabbè ci sta

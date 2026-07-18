@@ -305,10 +305,10 @@ BOI050	i tempi poi non erano neanche i migliori e quindi:
 BOI050	ho cambiato spesso
 BOI050	a volte adattandomi a cose non proprio mie però:
 BOR011	del tipo?
-BOI050	#beh per esempio ho avuto una brevissima espas~ esperienza come: dada
+BOI050	beh per esempio ho avuto una brevissima espas~ esperienza come: dada
 BOI050	in una [scuo]la
 BOR011	[che cos'è]
-BOI050	#e:h qui le dade sono quelle:
+BOI050	e:h qui le dade sono quelle:
 BOI050	persone che nelle scuole o negli asili
 BOI050	curano i bambini nel senso: gli danno da mangiare: (.) li assistono se hanno problemi aiutano gli insegnanti
 BOI050	non proprio gli insegnanti gli educatori?
@@ -317,19 +317,19 @@ BOR011	[sì ne~] nelle scuole dell'infanzia sì
 BOI050	sì.
 BOR011	ma è bolognese?
 BOR011	cioè la parola
-BOI050	#non so se è bolognese o dada no~ cioè [da noi~ a no~] ah no? [a]llora vedi da noi non c'è in effetti da noi non c'è
+BOI050	non so se è bolognese o dada no~ cioè [da noi~ a no~] ah no? [a]llora vedi da noi non c'è in effetti da noi non c'è
 BOR011	[io non l'ho mai sentito]
 BOR011	[no].
 BOR011	ma non esiste la figura
 BOR011	o:
 BOI050	no no esiste la figura
-BOI050	#adesso non so nel contratto ((ride)) non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
+BOI050	adesso non so nel contratto ((ride)) non mi ricordo se c'era scritto non credo ci fosse scritto dada però ti chiamano così
 BOR011	((ride))
 BOR011	ma tu la vuoi frizzante [forse (.) sì]
 BOI050	[sì grazie frizza]nte
 BOI050	e:
 BOI050	e:hm
-BOI050	#sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada
+BOI050	sì la dada i bambini ti chiamano dada anche i genitori vai dalla dada
 BOR011	e oltre a questo:
 BOR011	perché secondo me è bolognese questo dopo:
 BOI050	[ah]
@@ -341,11 +341,11 @@ BOR011	[qualcos'altro de~ del dialetto]
 BOR011	((ride))
 BOI050	i primi tempi a bologna devi capire che hanno certi:
 BOI050	ehm per esempio quando lavoravo in gelateria (.) mh dovevo consegnare per esempio la vaschetta del gelato e io: chiedevo alla mia titolare che mi insegnava un paio di cose
-BOI050	#e:h sì lo incarti così poi gli dai la sportina e io e:h la sportina qui è la busta il sacchettino di: plastica o di carta o quel che è
-BOI050	#e lei >continuava a dire< sportina e io
-BOI050	#ma (.) sportina e non gli do il sacchetto? e sì gli dai la sportina e sì ma il sacchetto non glielo do? ((ride)) e conti~ abbiamo continuato così per un po'
+BOI050	e:h sì lo incarti così poi gli dai la sportina e io e:h la sportina qui è la busta il sacchettino di: plastica o di carta o quel che è
+BOI050	e lei >continuava a dire< sportina e io
+BOI050	ma (.) sportina e non gli do il sacchetto? e sì gli dai la sportina e sì ma il sacchetto non glielo do? ((ride)) e conti~ abbiamo continuato così per un po'
 BOR011	((ride))
-BOI050	#e questo è per la sportina poi per la minestra
+BOI050	e questo è per la sportina poi per la minestra
 BOI050	sai che la minestra (.) e:h da noi è il brodo
 BOR011	sì
 BOI050	la minestrina okay?
@@ -386,7 +386,7 @@ BOR011	((ride))
 BOI050	in effetti non lo più come si può dire in italia~ mi apri la porta? che ne so a casa suonano il cancello sono io
 BOI050	e ti apro
 BOI050	è proprio un'usanza che c'è qua mi dai il tiro?
-BOI050	#e anche nei campanelli c'è scritto tiro
+BOI050	e anche nei campanelli c'è scritto tiro
 BOR011	sì [infatti anche a casa mia]
 BOI050	[hai presente]?
 BOI050	e invece: a casa no~ cioè (.) da noi in sardegna c'è semplice si capisce
@@ -434,7 +434,7 @@ BOI050	[a:h]
 BOI050	°mamma mia°
 BOR011	e quindi avevo anche da fare perché ti ricordi ho dato quell'esame così meno male che mi sono svegliato molto presto
 BOI050	((ride))
-BOI050	#scusi prof arrivo in ritardo perché non ho trovato il tiro
+BOI050	scusi prof arrivo in ritardo perché non ho trovato il tiro
 BOR011	poi (cos'è) che altre parole ci sono
 BOR011	che:
 BOI050	e:hm rusco
@@ -481,7 +481,7 @@ BOI050	cioè non: non sono sta~ cresciuta proprio ascoltandolo
 BOR011	anch'io bevo un po' d'acqua
 BOI050	però certe esclamazioni son carine bolognesi [tipo]
 BOR011	[ma se]ntiamo [sentiamo]
-BOI050	#[tipo so]rbole
+BOI050	[tipo so]rbole
 BOR011	come?
 BOI050	sorbole
 BOR011	((ride))
@@ -489,7 +489,7 @@ BOI050	non l'hai mai sen[ti](ta?)
 BOR011	[no]
 BOR011	ma io [non sto] a~ non sto a contatto con [bolognesi in realtà]
 BOI050	[giura]
-BOI050	#[no io in sì in effetti SO]RBOLE
+BOI050	[no io in sì in effetti SO]RBOLE
 BOI050	quando uno si:
 BOI050	come dire si: sorprende di qualcosa e:h che bella questa cosa sorbole che bella
 BOR011	((ride))

@@ -401,10 +401,10 @@ BOR010	in italiano cioè: senza: (.) come dire
 BOI036	sì sì
 BOR010	cioè senza dirlo in dialetto ecco
 BOI036	no ma io glielo spiego anche eh? perché l'altro giorno ho chiamato una ragazzina
-BOI036	#una ragazzina (.) gli ho detto cinaza,
+BOI036	una ragazzina (.) gli ho detto cinaza,
 BOI036	lei sul momento se n'è: avuta a male
-BOI036	#dopo un po' è venuta lì al dis cosa vuol dire cinaza
-BOI036	#al dis vuol dir che sei una bimba grande
+BOI036	dopo un po' è venuta lì al dis cosa vuol dire cinaza
+BOI036	al dis vuol dir che sei una bimba grande
 BOR010	°ah: ok [e quindi]?
 BOI036	[e] lei è stata felicissima
 BOR010	((ride))

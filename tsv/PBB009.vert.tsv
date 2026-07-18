@@ -8547,7 +8547,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1433-11	BOI028	1433	1433	11	settanta	settanta	_	_	_	_	_	linguistic	_	none	_	End=3418.541	_	_	_	_
 1434-0	BOR007	1434	1434	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=3418.558|End=3419.118	_	_	_	_
 1435-0	BOI028	1435	1435	0	°fino	fino	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=3419.247	_	_	_	_
-1435-1	BOI028	1435	1435	1	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes|Volume=low	_	_	_	_	_
+1435-1	BOI028	1435	1435	1	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No|Volume=low	_	_	_	_	_
 1435-2	BOI028	1435	1435	2	inizio	inizio	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 1435-3	BOI028	1435	1435	3	degli	degli	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 1435-4	BOI028	1435	1435	4	anni	anni	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_

@@ -1017,8 +1017,8 @@ BOR035	ma un'altra cosa tipica bolognese che ho visto è quel sa~ ha detto che b
 BOI112	mh
 BOR035	quella mh
 BOR035	mh l'uomo umarel allora
-BOI112	lumarel
-BOR035	lumarel è tipico bolognese ho scoperto io non lo sapevo
+BOI112	l'umarel
+BOR035	l'umarel è tipico bolognese ho scoperto io non lo sapevo
 BOI112	sì l'umarel
 BOR025	ah ah viene da bologna
 BOR035	sì sì viene da bologna il termine è in bolognese

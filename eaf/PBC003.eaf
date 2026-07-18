@@ -6493,12 +6493,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1418" TIME_SLOT_REF1="ts2834" TIME_SLOT_REF2="ts2835">
-				<ANNOTATION_VALUE>#[l:'è]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [l:'è]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1419" TIME_SLOT_REF1="ts2836" TIME_SLOT_REF2="ts2837">
-				<ANNOTATION_VALUE>#san ([roc])</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># san ([roc])</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6513,7 +6513,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1426" TIME_SLOT_REF1="ts2850" TIME_SLOT_REF2="ts2851">
-				<ANNOTATION_VALUE>#cu:l</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># cu:l</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -6658,17 +6658,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1493" TIME_SLOT_REF1="ts2984" TIME_SLOT_REF2="ts2985">
-				<ANNOTATION_VALUE>#a truverla cota</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># a truverla cota</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1495" TIME_SLOT_REF1="ts2988" TIME_SLOT_REF2="ts2989">
-				<ANNOTATION_VALUE>#tuti ien bon</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># tuti ien bon</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1496" TIME_SLOT_REF1="ts2990" TIME_SLOT_REF2="ts2991">
-				<ANNOTATION_VALUE>#ed magnerla</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ed magnerla</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7775,7 +7775,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts413">
-				<ANNOTATION_VALUE>#(&gt;chi as dscor ad bulogna&lt;)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># (&gt;chi as dscor ad bulogna&lt;)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8190,7 +8190,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a524" TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1047">
-				<ANNOTATION_VALUE>#[xx] t'le fat gnir fred ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [xx] t'le fat gnir fred ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8210,7 +8210,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a539" TIME_SLOT_REF1="ts1076" TIME_SLOT_REF2="ts1077">
-				<ANNOTATION_VALUE>#°a:h mo s'at 'n sa brisa i nom°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># °a:h mo s'at 'n sa brisa i nom°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8245,7 +8245,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a559" TIME_SLOT_REF1="ts1116" TIME_SLOT_REF2="ts1117">
-				<ANNOTATION_VALUE>#[quello: è una 'na teca che c'è perché:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [quello: è una 'na teca che c'è perché:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8315,7 +8315,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a624" TIME_SLOT_REF1="ts1246" TIME_SLOT_REF2="ts1247">
-				<ANNOTATION_VALUE>#e:h da:i brisa dir acsì: xx °che discors[o°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e:h da:i brisa dir acsì: xx °che discors[o°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8395,22 +8395,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a653" TIME_SLOT_REF1="ts1304" TIME_SLOT_REF2="ts1305">
-				<ANNOTATION_VALUE>#ma non che t~ che io apro ((balbetta)) trattoria bolognese xx ti dà dla roba che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ma non che t~ che io apro ((balbetta)) trattoria bolognese xx ti dà dla roba che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a654" TIME_SLOT_REF1="ts1306" TIME_SLOT_REF2="ts1307">
-				<ANNOTATION_VALUE>#se la magna un che n'ha mai mangiato al dis (.) boh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># se la magna un che n'ha mai mangiato al dis (.) boh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a655" TIME_SLOT_REF1="ts1308" TIME_SLOT_REF2="ts1309">
-				<ANNOTATION_VALUE>#ma mi a pos dir oh bello</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ma mi a pos dir oh bello</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a656" TIME_SLOT_REF1="ts1310" TIME_SLOT_REF2="ts1311">
-				<ANNOTATION_VALUE>#eh scusa eh (.) ti t'g'ha x in quist' chi angh'è gnanc al nom ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># eh scusa eh (.) ti t'g'ha x in quist' chi angh'è gnanc al nom ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8495,7 +8495,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a716" TIME_SLOT_REF1="ts1430" TIME_SLOT_REF2="ts1431">
-				<ANNOTATION_VALUE>#(po gnanc le persone sono)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># (po gnanc le persone sono)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8565,7 +8565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a820" TIME_SLOT_REF1="ts1638" TIME_SLOT_REF2="ts1639">
-				<ANNOTATION_VALUE>#e poi eh d'estate c'è anche lì a~ al navile no? al bar si chiama il bar della bionda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e poi eh d'estate c'è anche lì a~ al navile no? al bar si chiama il bar della bionda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8760,7 +8760,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1002" TIME_SLOT_REF1="ts2002" TIME_SLOT_REF2="ts2003">
-				<ANNOTATION_VALUE>#[eh]m it manda fora adesa [e:hm]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [eh]m it manda fora adesa [e:hm]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8955,22 +8955,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1116" TIME_SLOT_REF1="ts2230" TIME_SLOT_REF2="ts2231">
-				<ANNOTATION_VALUE>#stanta iè stanta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># stanta iè stanta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1117" TIME_SLOT_REF1="ts2232" TIME_SLOT_REF2="ts2233">
-				<ANNOTATION_VALUE>#&gt;allora a un certo punto&lt; dio bel ho già perso due treni</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># &gt;allora a un certo punto&lt; dio bel ho già perso due treni</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1118" TIME_SLOT_REF1="ts2234" TIME_SLOT_REF2="ts2235">
-				<ANNOTATION_VALUE>#allora uno c'agliera lì ates a mi al fa perché lei deve c'ha un treno da prendere eh ne ho già presi (sbaglia~) persi due °dovevo andare dal papà no?°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># allora uno c'agliera lì ates a mi al fa perché lei deve c'ha un treno da prendere eh ne ho già presi (sbaglia~) persi due °dovevo andare dal papà no?°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1119" TIME_SLOT_REF1="ts2236" TIME_SLOT_REF2="ts2237">
-				<ANNOTATION_VALUE>#al fa vuol p~ il mio numero? beh signore ma scherza</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># al fa vuol p~ il mio numero? beh signore ma scherza</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9000,17 +9000,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1128" TIME_SLOT_REF1="ts2254" TIME_SLOT_REF2="ts2255">
-				<ANNOTATION_VALUE>#allora al fa a dig me no: [no] guardi non voglio micca no no (.) lei mi fa un piacere</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># allora al fa a dig me no: [no] guardi non voglio micca no no (.) lei mi fa un piacere</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1130" TIME_SLOT_REF1="ts2258" TIME_SLOT_REF2="ts2259">
-				<ANNOTATION_VALUE>#mo dio bono</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># mo dio bono</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1131" TIME_SLOT_REF1="ts2260" TIME_SLOT_REF2="ts2261">
-				<ANNOTATION_VALUE>#a dig (oh mi dà) ehm con malincuore oh me lo dia però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># a dig (oh mi dà) ehm con malincuore oh me lo dia però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9020,7 +9020,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1133" TIME_SLOT_REF1="ts2264" TIME_SLOT_REF2="ts2265">
-				<ANNOTATION_VALUE>#vien ben chi (.) uno mi dice (.) a dig ma lei ha visto quanta gente al fa mhmh almeno do or a resto do or mo soppa ragazz</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># vien ben chi (.) uno mi dice (.) a dig ma lei ha visto quanta gente al fa mhmh almeno do or a resto do or mo soppa ragazz</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9040,17 +9040,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1140" TIME_SLOT_REF1="ts2278" TIME_SLOT_REF2="ts2279">
-				<ANNOTATION_VALUE>#e po' la aspta al soa aspeta anche la mia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e po' la aspta al soa aspeta anche la mia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1141" TIME_SLOT_REF1="ts2280" TIME_SLOT_REF2="ts2281">
-				<ANNOTATION_VALUE>#al vol dir che propria qua fora puvrin (l'è la l'è alla:)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># al vol dir che propria qua fora puvrin (l'è la l'è alla:)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1142" TIME_SLOT_REF1="ts2282" TIME_SLOT_REF2="ts2283">
-				<ANNOTATION_VALUE>#alla disperaziun</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># alla disperaziun</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9065,17 +9065,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1146" TIME_SLOT_REF1="ts2290" TIME_SLOT_REF2="ts2291">
-				<ANNOTATION_VALUE>#che io ho dit no no no (.) ma lu (.) mi fa un piacere al djeva lu a mi ((balbetta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># che io ho dit no no no (.) ma lu (.) mi fa un piacere al djeva lu a mi ((balbetta))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1147" TIME_SLOT_REF1="ts2292" TIME_SLOT_REF2="ts2293">
-				<ANNOTATION_VALUE>#&gt;mi 'g faseva un piaser a lu&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># &gt;mi 'g faseva un piaser a lu&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1148" TIME_SLOT_REF1="ts2294" TIME_SLOT_REF2="ts2295">
-				<ANNOTATION_VALUE>#mo soccia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># mo soccia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9170,7 +9170,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1223" TIME_SLOT_REF1="ts2444" TIME_SLOT_REF2="ts2445">
-				<ANNOTATION_VALUE>#'t fa un po' 'd confusion io bela capì</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># 't fa un po' 'd confusion io bela capì</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9240,17 +9240,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1253" TIME_SLOT_REF1="ts2504" TIME_SLOT_REF2="ts2505">
-				<ANNOTATION_VALUE>#è come ne~ nu al~ noi che siam ferraresi ma</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># è come ne~ nu al~ noi che siam ferraresi ma</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1254" TIME_SLOT_REF1="ts2506" TIME_SLOT_REF2="ts2507">
-				<ANNOTATION_VALUE>#anche se parliamo f~ fra di noi (.) proprio in frares no ((balbetta)) butiamo [un po' misto]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># anche se parliamo f~ fra di noi (.) proprio in frares no ((balbetta)) butiamo [un po' misto]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1256" TIME_SLOT_REF1="ts2510" TIME_SLOT_REF2="ts2511">
-				<ANNOTATION_VALUE>#[ogni tan]to sì ag dem un culpet però [(n~)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ogni tan]to sì ag dem un culpet però [(n~)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9280,7 +9280,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1273" TIME_SLOT_REF1="ts2544" TIME_SLOT_REF2="ts2545">
-				<ANNOTATION_VALUE>#alor (cum è) quando io sento un (.) p~ frares dscorar (&gt;a dig&lt;) madon[na]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># alor (cum è) quando io sento un (.) p~ frares dscorar (&gt;a dig&lt;) madon[na]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9290,7 +9290,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1287" TIME_SLOT_REF1="ts2572" TIME_SLOT_REF2="ts2573">
-				<ANNOTATION_VALUE>#[no me ne rendo conto] quando sento un altro parlare a dig ma[donna l]u que</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [no me ne rendo conto] quando sento un altro parlare a dig ma[donna l]u que</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9330,7 +9330,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1363" TIME_SLOT_REF1="ts2724" TIME_SLOT_REF2="ts2725">
-				<ANNOTATION_VALUE>#vedat?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># vedat?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9345,12 +9345,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1367" TIME_SLOT_REF1="ts2732" TIME_SLOT_REF2="ts2733">
-				<ANNOTATION_VALUE>#ah, gua~ va~ varda mo e poi c~</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ah, gua~ va~ varda mo e poi c~</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1368" TIME_SLOT_REF1="ts2734" TIME_SLOT_REF2="ts2735">
-				<ANNOTATION_VALUE>#adbandga lunedé</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># adbandga lunedé</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9385,7 +9385,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1383" TIME_SLOT_REF1="ts2764" TIME_SLOT_REF2="ts2765">
-				<ANNOTATION_VALUE>#[b]risa xx questi chi sì che puoi ricavarne molto di di di</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [b]risa xx questi chi sì che puoi ricavarne molto di di di</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9395,7 +9395,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1386" TIME_SLOT_REF1="ts2770" TIME_SLOT_REF2="ts2771">
-				<ANNOTATION_VALUE>#ah no questi [chi questi chi] soccia e:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ah no questi [chi questi chi] soccia e:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9415,22 +9415,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1393" TIME_SLOT_REF1="ts2784" TIME_SLOT_REF2="ts2785">
-				<ANNOTATION_VALUE>#eh qui questa qui più bel d'acsì (.) ilaria guarda</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># eh qui questa qui più bel d'acsì (.) ilaria guarda</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1394" TIME_SLOT_REF1="ts2786" TIME_SLOT_REF2="ts2787">
-				<ANNOTATION_VALUE>#ta sguazzi a fa~ a fa~ a sentir il batudi ch'a ghè scrit chi su ques~ quest chi son proprio bo~ bolognesi ((balbetta))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ta sguazzi a fa~ a fa~ a sentir il batudi ch'a ghè scrit chi su ques~ quest chi son proprio bo~ bolognesi ((balbetta))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1396" TIME_SLOT_REF1="ts2790" TIME_SLOT_REF2="ts2791">
-				<ANNOTATION_VALUE>#sì sì sì questi chi è importante se te devi fare qualcosa lì</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># sì sì sì questi chi è importante se te devi fare qualcosa lì</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1397" TIME_SLOT_REF1="ts2792" TIME_SLOT_REF2="ts2793">
-				<ANNOTATION_VALUE>#[le credenze popolari le la mas[tela]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [le credenze popolari le la mas[tela]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9455,7 +9455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1411" TIME_SLOT_REF1="ts2820" TIME_SLOT_REF2="ts2821">
-				<ANNOTATION_VALUE>#[ben cusa gh'interessa a lia] l'ha sol [da truvar e]:h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ben cusa gh'interessa a lia] l'ha sol [da truvar e]:h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9470,7 +9470,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1437" TIME_SLOT_REF1="ts2872" TIME_SLOT_REF2="ts2873">
-				<ANNOTATION_VALUE>#[(soppa)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(soppa)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9490,17 +9490,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1450" TIME_SLOT_REF1="ts2898" TIME_SLOT_REF2="ts2899">
-				<ANNOTATION_VALUE>#[a ghè ehm c'è tutto]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [a ghè ehm c'è tutto]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1453" TIME_SLOT_REF1="ts2904" TIME_SLOT_REF2="ts2905">
-				<ANNOTATION_VALUE>#(ben) t'ho dit che (.) a me gnu in ment ca io quist chi ma sai che xx (quei) c'at zerca ti qui xx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># (ben) t'ho dit che (.) a me gnu in ment ca io quist chi ma sai che xx (quei) c'at zerca ti qui xx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1455" TIME_SLOT_REF1="ts2908" TIME_SLOT_REF2="ts2909">
-				<ANNOTATION_VALUE>#è istruttivo da matti (&gt;allora&lt;) anc~ anche un vero bolognese non s~ non sa mica (tut~ tu) sta roba ch[i]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># è istruttivo da matti (&gt;allora&lt;) anc~ anche un vero bolognese non s~ non sa mica (tut~ tu) sta roba ch[i]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9520,7 +9520,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1464" TIME_SLOT_REF1="ts2926" TIME_SLOT_REF2="ts2927">
-				<ANNOTATION_VALUE>#[&gt;che (allora)&lt; si ricorda] ma si no un (ad tren[t an)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [&gt;che (allora)&lt; si ricorda] ma si no un (ad tren[t an)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9530,7 +9530,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1473" TIME_SLOT_REF1="ts2944" TIME_SLOT_REF2="ts2945">
-				<ANNOTATION_VALUE>#[s~ se ai tuoi compagni di classe che son di bolo]gna gli fai vedere queste qui è è anch[e per lo]ro è tabù cumpagn a [per te]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [s~ se ai tuoi compagni di classe che son di bolo]gna gli fai vedere queste qui è è anch[e per lo]ro è tabù cumpagn a [per te]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9555,7 +9555,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1491" TIME_SLOT_REF1="ts2980" TIME_SLOT_REF2="ts2981">
-				<ANNOTATION_VALUE>#e:h ah (ma [no) t'in tro]vi chi da ridar</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e:h ah (ma [no) t'in tro]vi chi da ridar</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9565,7 +9565,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1499" TIME_SLOT_REF1="ts2996" TIME_SLOT_REF2="ts2997">
-				<ANNOTATION_VALUE>#[ah] at capì?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ah] at capì?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9590,22 +9590,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1526" TIME_SLOT_REF1="ts3050" TIME_SLOT_REF2="ts3051">
-				<ANNOTATION_VALUE>#ma (.) an'ghè mina chi una doc[cia]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ma (.) an'ghè mina chi una doc[cia]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1530" TIME_SLOT_REF1="ts3058" TIME_SLOT_REF2="ts3059">
-				<ANNOTATION_VALUE>#[eh allora vedi? e l]u al dgeva [e:]h</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [eh allora vedi? e l]u al dgeva [e:]h</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1532" TIME_SLOT_REF1="ts3062" TIME_SLOT_REF2="ts3063">
-				<ANNOTATION_VALUE>#ben a ghè brisa la doccia lì?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ben a ghè brisa la doccia lì?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1533" TIME_SLOT_REF1="ts3064" TIME_SLOT_REF2="ts3065">
-				<ANNOTATION_VALUE>#a son ehm l'ho apena scardgada adesa an'ghè brisa? no (.) qui an'ghè nisuna doccia</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># a son ehm l'ho apena scardgada adesa an'ghè brisa? no (.) qui an'ghè nisuna doccia</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9630,7 +9630,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1540" TIME_SLOT_REF1="ts3078" TIME_SLOT_REF2="ts3079">
-				<ANNOTATION_VALUE>#[e parlo] un po' in fra~ i:n [dialetto c~ così m:h lei comincia a guardare alora xx ma] va aspeta che an'na minga capì ve ehm e lei è ancora così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [e parlo] un po' in fra~ i:n [dialetto c~ così m:h lei comincia a guardare alora xx ma] va aspeta che an'na minga capì ve ehm e lei è ancora così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9640,7 +9640,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1560" TIME_SLOT_REF1="ts3118" TIME_SLOT_REF2="ts3119">
-				<ANNOTATION_VALUE>#[(impara questi chi che questi chi at pias questi chi)]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(impara questi chi che questi chi at pias questi chi)]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9730,7 +9730,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1610" TIME_SLOT_REF1="ts3218" TIME_SLOT_REF2="ts3219">
-				<ANNOTATION_VALUE>#l'o~ e:hm l'ombrello per tutti &gt;al g'ha mis&lt; (.) &gt;perché lu al [dava]&lt;</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># l'o~ e:hm l'ombrello per tutti &gt;al g'ha mis&lt; (.) &gt;perché lu al [dava]&lt;</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9835,7 +9835,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1660" TIME_SLOT_REF1="ts3318" TIME_SLOT_REF2="ts3319">
-				<ANNOTATION_VALUE>#che lavorava (.) anche a ottant'anni xx &gt;che aveva ottant'anni allora&lt; xx (ch'al) lavurava</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># che lavorava (.) anche a ottant'anni xx &gt;che aveva ottant'anni allora&lt; xx (ch'al) lavurava</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9870,7 +9870,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1669" TIME_SLOT_REF1="ts3336" TIME_SLOT_REF2="ts3337">
-				<ANNOTATION_VALUE>#[col ba]gaglio sulla bicicletta (.) beh (.) [°soppa°]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [col ba]gaglio sulla bicicletta (.) beh (.) [°soppa°]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9880,22 +9880,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1674" TIME_SLOT_REF1="ts3346" TIME_SLOT_REF2="ts3347">
-				<ANNOTATION_VALUE>#[(a ghè bianchi) là] ch'al vien a cà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(a ghè bianchi) là] ch'al vien a cà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1675" TIME_SLOT_REF1="ts3348" TIME_SLOT_REF2="ts3349">
-				<ANNOTATION_VALUE>#beh mo (l'è bela xx) da dove viene?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># beh mo (l'è bela xx) da dove viene?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1676" TIME_SLOT_REF1="ts3350" TIME_SLOT_REF2="ts3351">
-				<ANNOTATION_VALUE>#perché aveva (un un un) pezzo di legno (c'leva) truvà long a la strada bah</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># perché aveva (un un un) pezzo di legno (c'leva) truvà long a la strada bah</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1677" TIME_SLOT_REF1="ts3352" TIME_SLOT_REF2="ts3353">
-				<ANNOTATION_VALUE>#vedat?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># vedat?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9925,12 +9925,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1691" TIME_SLOT_REF1="ts3380" TIME_SLOT_REF2="ts3381">
-				<ANNOTATION_VALUE>#[(ehm et inco]ra da registrar) che stiamo par[lando un po' di tutto]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(ehm et inco]ra da registrar) che stiamo par[lando un po' di tutto]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1694" TIME_SLOT_REF1="ts3386" TIME_SLOT_REF2="ts3387">
-				<ANNOTATION_VALUE>#a:h soppa però</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># a:h soppa però</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9975,7 +9975,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1720" TIME_SLOT_REF1="ts3438" TIME_SLOT_REF2="ts3439">
-				<ANNOTATION_VALUE>#da [d~ d~ d~ x quaranta quaranta]du fa il figlio è morto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># da [d~ d~ d~ x quaranta quaranta]du fa il figlio è morto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10005,7 +10005,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1734" TIME_SLOT_REF1="ts3466" TIME_SLOT_REF2="ts3467">
-				<ANNOTATION_VALUE>#[i ha dit che] è morto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [i ha dit che] è morto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10075,7 +10075,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1761" TIME_SLOT_REF1="ts3520" TIME_SLOT_REF2="ts3521">
-				<ANNOTATION_VALUE>#mina mica dire quello lì: oh</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># mina mica dire quello lì: oh</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10125,22 +10125,22 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1777" TIME_SLOT_REF1="ts3552" TIME_SLOT_REF2="ts3553">
-				<ANNOTATION_VALUE>#mia nonna ha visto sta persona gnir</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># mia nonna ha visto sta persona gnir</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1778" TIME_SLOT_REF1="ts3554" TIME_SLOT_REF2="ts3555">
-				<ANNOTATION_VALUE>#&gt;allora&lt; (bah) cum fai a pensar che sia t[uo fi]glio?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># &gt;allora&lt; (bah) cum fai a pensar che sia t[uo fi]glio?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1780" TIME_SLOT_REF1="ts3558" TIME_SLOT_REF2="ts3559">
-				<ANNOTATION_VALUE>#e e: lu cum fal a pensar che la sia so madar?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e e: lu cum fal a pensar che la sia so madar?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1781" TIME_SLOT_REF1="ts3560" TIME_SLOT_REF2="ts3561">
-				<ANNOTATION_VALUE>#e no lu sì ma gli[è]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e no lu sì ma gli[è]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10210,7 +10210,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1817" TIME_SLOT_REF1="ts3632" TIME_SLOT_REF2="ts3633">
-				<ANNOTATION_VALUE>#as ciamava pippo quello (l'aer[eo])</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># as ciamava pippo quello (l'aer[eo])</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10265,7 +10265,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1850" TIME_SLOT_REF1="ts3698" TIME_SLOT_REF2="ts3699">
-				<ANNOTATION_VALUE>#[sì] (.) perché lì se arrivava i tedesc~ ehm &gt;cioè&lt; i gli americani it cupavan allora lor e:h i tra~ i scapavan par al po [e:h]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [sì] (.) perché lì se arrivava i tedesc~ ehm &gt;cioè&lt; i gli americani it cupavan allora lor e:h i tra~ i scapavan par al po [e:h]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10280,7 +10280,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1855" TIME_SLOT_REF1="ts3708" TIME_SLOT_REF2="ts3709">
-				<ANNOTATION_VALUE>#e: (poi) xx cl'altar e cioè acsì con tutti i mezzi che avevano</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e: (poi) xx cl'altar e cioè acsì con tutti i mezzi che avevano</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10315,7 +10315,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1888" TIME_SLOT_REF1="ts3774" TIME_SLOT_REF2="ts3775">
-				<ANNOTATION_VALUE>#[sì (.) quelli che] che (.) t'ho d[etto che son] venuti a casa da là dalla russia e poi (&gt;son stati&lt;) in germania (acsì dalla r[ussia])</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [sì (.) quelli che] che (.) t'ho d[etto che son] venuti a casa da là dalla russia e poi (&gt;son stati&lt;) in germania (acsì dalla r[ussia])</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10390,7 +10390,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1939" TIME_SLOT_REF1="ts3876" TIME_SLOT_REF2="ts3877">
-				<ANNOTATION_VALUE>#[&gt;adesso&lt; ci] lamen[tiamo perché (.) quest chi quel lì] quel là [però]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [&gt;adesso&lt; ci] lamen[tiamo perché (.) quest chi quel lì] quel là [però]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10455,7 +10455,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1978" TIME_SLOT_REF1="ts3954" TIME_SLOT_REF2="ts3955">
-				<ANNOTATION_VALUE>#[(&gt;quella lì&lt;) xx (che lo fa te]rence hill) ch'al fa vedar che lo fa da vestito tutto ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(&gt;quella lì&lt;) xx (che lo fa te]rence hill) ch'al fa vedar che lo fa da vestito tutto ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10465,7 +10465,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1992" TIME_SLOT_REF1="ts3982" TIME_SLOT_REF2="ts3983">
-				<ANNOTATION_VALUE>#fora un ((balbetta)) (dentro) quel'altro xxxxx</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># fora un ((balbetta)) (dentro) quel'altro xxxxx</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10475,7 +10475,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1996" TIME_SLOT_REF1="ts3990" TIME_SLOT_REF2="ts3991">
-				<ANNOTATION_VALUE>#[beh mo] scherzi l'acqua non si cambiava m[ina oh]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [beh mo] scherzi l'acqua non si cambiava m[ina oh]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10545,7 +10545,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2038" TIME_SLOT_REF1="ts4074" TIME_SLOT_REF2="ts4075">
-				<ANNOTATION_VALUE>#a[h sì (.) no] ma lei dice da anc~ anche solo dalla beverara a (gnir) qui</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># a[h sì (.) no] ma lei dice da anc~ anche solo dalla beverara a (gnir) qui</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10740,7 +10740,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2132" TIME_SLOT_REF1="ts4262" TIME_SLOT_REF2="ts4263">
-				<ANNOTATION_VALUE>#[e s]on tutte cose [che si] dicono adesso uno ecco tipo te così (dici) e soppa e:h eravamo così</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [e s]on tutte cose [che si] dicono adesso uno ecco tipo te così (dici) e soppa e:h eravamo così</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10820,7 +10820,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2192" TIME_SLOT_REF1="ts4382" TIME_SLOT_REF2="ts4383">
-				<ANNOTATION_VALUE>#[m'innaffia] e po' (quant a sent) [la porta:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [m'innaffia] e po' (quant a sent) [la porta:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11065,12 +11065,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2275" TIME_SLOT_REF1="ts4548" TIME_SLOT_REF2="ts4549">
-				<ANNOTATION_VALUE>#e allora a dig (ehm s~) vorrei questo qui quello lì</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e allora a dig (ehm s~) vorrei questo qui quello lì</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2276" TIME_SLOT_REF1="ts4550" TIME_SLOT_REF2="ts4551">
-				<ANNOTATION_VALUE>#e po' dop' al fa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e po' dop' al fa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11417,7 +11417,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts307">
-				<ANNOTATION_VALUE>#cum as dis?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># cum as dis?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -11757,7 +11757,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a278" TIME_SLOT_REF1="ts554" TIME_SLOT_REF2="ts555">
-				<ANNOTATION_VALUE>#non so se sia colpa del fatto che c'è polizia carabinieri ques[tura] a ghem (tut) ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># non so se sia colpa del fatto che c'è polizia carabinieri ques[tura] a ghem (tut) ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12032,7 +12032,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a393" TIME_SLOT_REF1="ts784" TIME_SLOT_REF2="ts785">
-				<ANNOTATION_VALUE>#i'andasevan brisa quando abitavamo in beverAra non ci siamo mai andati non siam mai venuti in centro</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># i'andasevan brisa quando abitavamo in beverAra non ci siamo mai andati non siam mai venuti in centro</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12297,7 +12297,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a501" TIME_SLOT_REF1="ts1000" TIME_SLOT_REF2="ts1001">
-				<ANNOTATION_VALUE>#[sì:] una volt~ e poi c'erano i biasano:t i ciamavan i biasanot perché</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [sì:] una volt~ e poi c'erano i biasano:t i ciamavan i biasanot perché</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12327,7 +12327,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a512" TIME_SLOT_REF1="ts1022" TIME_SLOT_REF2="ts1023">
-				<ANNOTATION_VALUE>#dove c'è: all'ora (.) le chiamavan proprio i biasanot</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># dove c'è: all'ora (.) le chiamavan proprio i biasanot</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12867,7 +12867,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a755" TIME_SLOT_REF1="ts1508" TIME_SLOT_REF2="ts1509">
-				<ANNOTATION_VALUE>#perché gnem voja tuti d'andar fora ma:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># perché gnem voja tuti d'andar fora ma:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13322,7 +13322,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a922" TIME_SLOT_REF1="ts1842" TIME_SLOT_REF2="ts1843">
-				<ANNOTATION_VALUE>#al panzacchi as ciamava chi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># al panzacchi as ciamava chi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13332,7 +13332,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a926" TIME_SLOT_REF1="ts1850" TIME_SLOT_REF2="ts1851">
-				<ANNOTATION_VALUE>#[is cia]mava: regio~ ragioneria</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [is cia]mava: regio~ ragioneria</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -13592,7 +13592,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1053" TIME_SLOT_REF1="ts2104" TIME_SLOT_REF2="ts2105">
-				<ANNOTATION_VALUE>#s'adeguem</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># s'adeguem</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14022,7 +14022,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1277" TIME_SLOT_REF1="ts2552" TIME_SLOT_REF2="ts2553">
-				<ANNOTATION_VALUE>#ades t'ag fa sentir qual lì ((ride))</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ades t'ag fa sentir qual lì ((ride))</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14292,7 +14292,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1413" TIME_SLOT_REF1="ts2824" TIME_SLOT_REF2="ts2825">
-				<ANNOTATION_VALUE>#[NO a dig è:]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [NO a dig è:]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14307,7 +14307,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1417" TIME_SLOT_REF1="ts2832" TIME_SLOT_REF2="ts2833">
-				<ANNOTATION_VALUE>#[l:'è] com (.) al (.) c:an ed (.) [san ro]c</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [l:'è] com (.) al (.) c:an ed (.) [san ro]c</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14317,12 +14317,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1423" TIME_SLOT_REF1="ts2844" TIME_SLOT_REF2="ts2845">
-				<ANNOTATION_VALUE>#ehm z:nèr (.) ZN[ÈR]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ehm z:nèr (.) ZN[ÈR]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1425" TIME_SLOT_REF1="ts2848" TIME_SLOT_REF2="ts2849">
-				<ANNOTATION_VALUE>#(zdal)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># (zdal)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14422,7 +14422,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1498" TIME_SLOT_REF1="ts2994" TIME_SLOT_REF2="ts2995">
-				<ANNOTATION_VALUE>#[a trovarla cotta] iè tut iè bun ed magnar[la]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [a trovarla cotta] iè tut iè bun ed magnar[la]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14512,7 +14512,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1528" TIME_SLOT_REF1="ts3054" TIME_SLOT_REF2="ts3055">
-				<ANNOTATION_VALUE>#ma (.) an'ghen mina (.) non ce n'è mica delle docce</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># ma (.) an'ghen mina (.) non ce n'è mica delle docce</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14737,12 +14737,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1614" TIME_SLOT_REF1="ts3226" TIME_SLOT_REF2="ts3227">
-				<ANNOTATION_VALUE>#[ah al ghè]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ah al ghè]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1615" TIME_SLOT_REF1="ts3228" TIME_SLOT_REF2="ts3229">
-				<ANNOTATION_VALUE>#al ghè incora [là]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># al ghè incora [là]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -14762,7 +14762,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1622" TIME_SLOT_REF1="ts3242" TIME_SLOT_REF2="ts3243">
-				<ANNOTATION_VALUE>#però: e alora lu al ghiva rason a dir</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># però: e alora lu al ghiva rason a dir</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15142,7 +15142,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1832" TIME_SLOT_REF1="ts3662" TIME_SLOT_REF2="ts3663">
-				<ANNOTATION_VALUE>#e: da~ (eran~ eravamo) anche curiosi stavan[o là] a guardare in su proprio per vederli perché (.) sapevano benissimo che i sganza chi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e: da~ (eran~ eravamo) anche curiosi stavan[o là] a guardare in su proprio per vederli perché (.) sapevano benissimo che i sganza chi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15187,7 +15187,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1864" TIME_SLOT_REF1="ts3726" TIME_SLOT_REF2="ts3727">
-				<ANNOTATION_VALUE>#[però noi di guerra de~] della gran fame forse (.) sì chi n'avrà pasà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [però noi di guerra de~] della gran fame forse (.) sì chi n'avrà pasà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15217,7 +15217,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1872" TIME_SLOT_REF1="ts3742" TIME_SLOT_REF2="ts3743">
-				<ANNOTATION_VALUE>#lei aveva dei figli che (.) ehm i gheva tri quatr'an zinc an si an e diez an e alora</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># lei aveva dei figli che (.) ehm i gheva tri quatr'an zinc an si an e diez an e alora</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15382,7 +15382,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1941" TIME_SLOT_REF1="ts3880" TIME_SLOT_REF2="ts3881">
-				<ANNOTATION_VALUE>#[(mi) p]adrino</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [(mi) p]adrino</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15492,17 +15492,17 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1989" TIME_SLOT_REF1="ts3976" TIME_SLOT_REF2="ts3977">
-				<ANNOTATION_VALUE>#l'ulti[mo che si] lavava gl'era [più sporc]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># l'ulti[mo che si] lavava gl'era [più sporc]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1993" TIME_SLOT_REF1="ts3984" TIME_SLOT_REF2="ts3985">
-				<ANNOTATION_VALUE>#[e:h] la simona: e la cateri[na i faseva al bagn tot do in na] volta dentr' in tla stesa ba[cinella]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [e:h] la simona: e la cateri[na i faseva al bagn tot do in na] volta dentr' in tla stesa ba[cinella]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1997" TIME_SLOT_REF1="ts3992" TIME_SLOT_REF2="ts3993">
-				<ANNOTATION_VALUE>#[tanto avevano] due anni di differenza quando i: eran d'istà là dala nona</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [tanto avevano] due anni di differenza quando i: eran d'istà là dala nona</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15512,7 +15512,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1999" TIME_SLOT_REF1="ts3996" TIME_SLOT_REF2="ts3997">
-				<ANNOTATION_VALUE>#dentar</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># dentar</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -15927,7 +15927,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2218" TIME_SLOT_REF1="ts4434" TIME_SLOT_REF2="ts4435">
-				<ANNOTATION_VALUE>#[son quelle case] cumpagn in grecia penso che anche il grecia sia c~ ehm almeno [ho vi]sto per televisione</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [son quelle case] cumpagn in grecia penso che anche il grecia sia c~ ehm almeno [ho vi]sto per televisione</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

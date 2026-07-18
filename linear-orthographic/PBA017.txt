@@ -233,7 +233,7 @@ BOI081	doppio di schei
 BOI080	sì esatto
 BOI080	no però ehm
 BOI080	come dire tipo hanno dato cinque ore di straordinario
-BOI080	all' eh cioè tipo la x la l'azienda ha concesso cinque ore al negozio
+BOI080	all~ eh cioè tipo la x la l'azienda ha concesso cinque ore al negozio
 BOI080	tutte e cinque sono state assegnate a me
 BOI080	quindi è una buona cosa
 BOI081	ottimo

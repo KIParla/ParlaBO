@@ -1008,7 +1008,7 @@ BOI102	è che appunto c~ cerco (.) cioè io di solito la (.) agosto me lo faccio
 BOR035	eh no:
 BOI102	è (.) [un'agonia]
 BOR035	[parte che si svuota] la città
-BOI102	#è tutto chiuso, non c'è nessuno, c'è un caldo della madonna, però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
+BOI102	è tutto chiuso, non c'è nessuno, c'è un caldo della madonna, però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
 BOI102	e però se scendo giù (.) ad agosto:,
 BOI102	e:h c(io)è per me è peggio perché non mi godo casa ze[ro]
 BOR025	[eh] im[magino]
@@ -1621,7 +1621,7 @@ BOI102	però::
 BOI102	però abbiam trent'anni la società ci impone dei cam[biamen]ti
 BOR025	[eh sì]
 BOI102	ora li vogliamo accettare? no io voglio ritornare in viaggio
-BOR025	#tomo
+BOR025	tomo
 BOI102	((ride))
 BOR035	°brava°
 BOR025	((ride))

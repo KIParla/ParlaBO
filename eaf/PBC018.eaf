@@ -2671,7 +2671,7 @@
 	<TIER TIER_ID="BOI043" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
-				<ANNOTATION_VALUE>#[VIENI PURE ANCHE] VIENI PURE ANCHE TE [CHE DOPO] (AL) TOCA ANCHE A TE</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [VIENI PURE ANCHE] VIENI PURE ANCHE TE [CHE DOPO] (AL) TOCA ANCHE A TE</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3066,7 +3066,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
-				<ANNOTATION_VALUE>#una due o tre volte el ge me du era la dmanga?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># una due o tre volte el ge me du era la dmanga?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4126,7 +4126,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a432" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts863">
-				<ANNOTATION_VALUE>#[di]pende:: dipende come quando prendi a parlare se parli in italiano o se scor in dialàt</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [di]pende:: dipende come quando prendi a parlare se parli in italiano o se scor in dialàt</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -4766,7 +4766,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a613" TIME_SLOT_REF1="ts1224" TIME_SLOT_REF2="ts1225">
-				<ANNOTATION_VALUE>#e consumare un caffè perché se no xx ben fora</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># e consumare un caffè perché se no xx ben fora</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -5256,7 +5256,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a727" TIME_SLOT_REF1="ts1452" TIME_SLOT_REF2="ts1453">
-				<ANNOTATION_VALUE>#io (.) io parlo in in italiano (o) in bolognese lui là parla in inglese as capèm brisa</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># io (.) io parlo in in italiano (o) in bolognese lui là parla in inglese as capèm brisa</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

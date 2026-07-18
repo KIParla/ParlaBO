@@ -3151,7 +3151,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
-				<ANNOTATION_VALUE>#diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -7677,7 +7677,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
-				<ANNOTATION_VALUE>#eh noi diciamo vieni scheggiato nel senso::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># eh noi diciamo vieni scheggiato nel senso::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

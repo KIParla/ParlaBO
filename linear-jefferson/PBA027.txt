@@ -1565,7 +1565,7 @@ BOI107	infatti c'è una campagna che stavano portando avanti:
 BOI107	che stava portando avanti: [il governo non so il presidente]
 BOI106	[il presidente sì il governo]
 BOI107	per tenere: le città e: (cioè) i luoghi più puliti perché loro non hanno:
-BOI107	#non hanno un pattume [(un rusco) dove mettere le] cose cioè e:h
+BOI107	non hanno un pattume [(un rusco) dove mettere le] cose cioè e:h
 BOI106	[non hanno un pattume]
 BOI106	non ce l'hanno
 BOI107	buttano tutto così

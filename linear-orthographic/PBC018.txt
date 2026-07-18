@@ -1,6 +1,6 @@
 BOR010	okay è partita
 ???	xx ragazzi
-BOI043	VIENI pure anche vieni pure anche te che dopo al toca anche a te
+BOI043	vieni pure anche vieni pure anche te che dopo al toca anche a te
 ???	basta ragazzi ragazzi è qui la festa
 BOI043	è qui la festa
 ???	oh meno male cercavo una festa io

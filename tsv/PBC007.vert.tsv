@@ -5957,7 +5957,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1003-9	BOI019	1003	1003	9	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1003-10	BOI019	1003	1003	10	morti	morti	_	_	_	_	_	linguistic	_	none	_	End=2815.859	_	_	_	_
 1004-0	BOI019	1004	1004	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=2816.17	_	_	_	_
-1004-1	BOI019	1004	1004	1	quest'	quest'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+1004-1	BOI019	1004	1004	1	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1004-2	BOI019	1004	1004	2	infermeria	infermeria	_	_	_	_	_	linguistic	_	none	_	End=2817.46	_	_	_	_
 1005-0	BOI019	1005	1005	0	te	te	_	_	_	_	_	linguistic	_	none	_	Begin=2817.78	_	_	_	_
 1005-1	BOI019	1005	1005	1	li	li	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

@@ -171,8 +171,8 @@ BOI034	hai capito,
 BOI034	sì ma s~ tipo e: quei discorsi (.) volati così
 BOI034	e lì c'era (.) un signore che: e::hm sui quarant'anni che era il sarto [del pro]prietario della villa
 BOR005	[mhmh]
-BOI034	#al dis debbo andare a provare i vestiti al: padrone di: verdi (.) si chiama
-BOI034	#al dis glielo chiedo
+BOI034	al dis debbo andare a provare i vestiti al: padrone di: verdi (.) si chiama
+BOI034	al dis glielo chiedo
 BOI034	così
 BOI034	allora e: hai capito
 BOI034	dopo sì fece la riunione dice guardate ragazzi
@@ -932,14 +932,14 @@ BOI033	erano [tutti là]
 BOI034	[un gio~]
 BOI034	un giorno dice:: i: il co~ l'ufficiale delle cose le quell~
 BOI034	il responsabile diciamo del carrarmato lì
-BOI034	#al dis (a)scolta,
-BOI034	#al di~ perché non si poteva tener fer~ al chiuso tutti [a:]: un po' de eh,
+BOI034	al dis (a)scolta,
+BOI034	al di~ perché non si poteva tener fer~ al chiuso tutti [a:]: un po' de eh,
 BOI033	[eh no]
-BOI034	#al dis (a)scolta vieni qua:
-BOI034	#al dis chi eser quello là
+BOI034	al dis (a)scolta vieni qua:
+BOI034	al dis chi eser quello là
 BOI033	chi sono ((ride))
 BOI034	e di~ e dico mio cugino
-BOI034	#al fe
+BOI034	al fe
 BOI034	apri l'occhio
 BOI034	eh aveva capito tutto (.) tutto
 BOI034	per eh però
@@ -962,7 +962,7 @@ BOI034	era un officiale (.) fritz
 BOI034	tutto stracciato e a p[iedi:]
 BOI033	[ah beh lo credo]
 BOR005	((ride))
-BOI034	#al dis: ed e:hm: ma mi sembra e dice hanno distrutto tutti i miei compagni tutti mor~
+BOI034	al dis: ed e:hm: ma mi sembra e dice hanno distrutto tutti i miei compagni tutti mor~
 BOI034	dice adesso vado a casa
 BOI033	((ride)) e vai a [casa]
 BOI034	[no vai a] casa adesso ti prendono e ti fan fuori
@@ -1047,7 +1047,7 @@ BOI033	e la gente si mangiava con quello lì dice io ero diventato bianco magro
 BOI033	mia madre mi ha trasferito a castel maggiore ch[e è:] (.) poco lontano d[a qui],
 BOR005	[mhmh]
 BOR005	[sì]
-BOI033	#al dis trasferito a castel maggiore,
+BOI033	al dis trasferito a castel maggiore,
 BOI033	dopo due mesi han cominciato a bombardare castel [maggiore] ((ride))
 BOR005	((ride)) [maggiore]
 BOI033	però sì sai se lui è venuto qua:, nel quarantatré bologna era una città che veniva bombardata sì
@@ -1221,7 +1221,7 @@ BOI033	io pensavo che fos[si]
 BOI034	[io] quando avevo il negozio
 BOI034	quando avevo il negozio,
 BOI034	fra il caffè e le sigarette (.) ero riuscito a non far più tre gradini e andare in [casa]
-BOI033	#[ah] socc
+BOI033	[ah] socc
 BOI034	a quarantaquattro anni,
 BOI034	ho venduto l'attività sono andato a fare la guardia giurata,
 BOI034	capito?
@@ -1255,7 +1255,7 @@ BOR005	quello è bel[lo]
 BOI034	[asc]olta (fino a:)
 BOI033	[col trenino] ((ride))
 BOI034	la bicicletta per me è stata una salute
-BOI033	#ah sì sì però soccia andare: fino a san luca in biciclett[a]
+BOI033	ah sì sì però soccia andare: fino a san luca in biciclett[a]
 BOI034	[e] ne ho fatte: tutti i colo[ri]
 BOI033	[non] c'ho il fisico [io non °c'ho il fisico°]
 BOR005	((ride))
@@ -1425,7 +1425,7 @@ BOI034	e: si chiamava via bregoli
 BOI033	sì i brigoli
 BOI034	((ride))
 BOI033	i famosi brigoli da noi si dice
-BOI034	#perché sai perché i bregoli per noi in dialetto, [sono] e: il rottame dei de~ de~ del legno
+BOI034	perché sai perché i bregoli per noi in dialetto, [sono] e: il rottame dei de~ de~ del legno
 BOR005	[mh]
 BOI034	((ride))
 BOI033	su e giù per i brigoli
@@ -1436,7 +1436,7 @@ BOI034	diciamo bel~ io non ho mai
 BOI034	li: ho conosciuti leggendo
 BOI033	[°sì perché°]
 BOR005	[comu~] comunque gino adesso che ha detto bregoli devo dire che io da studente fuorisede ci son delle parole bolognesi proprio in dialetto che non le capisco proprio
-BOI034	#°sì dai° [bregoli i] bregoli erano
+BOI034	°sì dai° [bregoli i] bregoli erano
 BOI033	[(non sei mica l'unico)]
 BOR005	((ride))
 BOI033	((ride))
@@ -1444,7 +1444,7 @@ BOI034	e:hm co~ quando fanno la legna,
 BOR005	mhmh
 BOI034	che fan la legna, tu~ tutti i pezzettini della [legna] così
 BOR005	[mhmh]
-BOI034	#sì (.) noi li chiama~ guarda quanto xx al breghel (.) quant al breghel
+BOI034	sì (.) noi li chiama~ guarda quanto xx al breghel (.) quant al breghel
 BOR005	((ride))
 BOI033	xx [xx]
 BOI034	[allora] poi dopo in italiano allora i brigoli ((ride))

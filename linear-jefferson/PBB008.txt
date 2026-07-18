@@ -257,7 +257,7 @@ BOR006	((ride))
 BOI026	DAVANTI a una casa: signori~ cioè m:h [io non ci~] non credevo alle [mie] orecchie al m~ m::h.
 BOR004	((ride)) [sì:]
 BOR004	[sì:]
-BOI026	#a quello che i miei occhi >vedevano< il <portiere> anche lui era fuori dai (.) coppi ((ride))
+BOI026	a quello che i miei occhi >vedevano< il <portiere> anche lui era fuori dai (.) coppi ((ride))
 BOR004	((ride))
 BOR006	((ride))
 BOI026	perché (.) naturalmente
@@ -804,7 +804,7 @@ BOR004	sì: sì sì sì
 BOI026	<ciao> la parola ci[ao]
 BOR004	[mhmh mh]
 BOI026	dai da: da <VENEZIA> dai VENEZIANI che l'hanno portata in giro per il mondo
-BOI026	#sciavo vostro signor paron.
+BOI026	sciavo vostro signor paron.
 BOI026	e:: ciao
 BOR004	[mhmh mh]
 BOI026	[adesso anche:] a sanremo di nuovo ciao ciao:.

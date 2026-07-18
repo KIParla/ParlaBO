@@ -47,7 +47,7 @@ BOI084	possiamo dirlo?
 BOI083	possiamo dirlo [forse]
 BOR022	[vai vai]
 BOI084	e::h vabbè
-BOI084	#diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette
+BOI084	diciamo per (.) per alzarci qualche soldo noi il venticinque aprile siamo venuti in stile bira bira tra virgolette
 BOR022	okay okay
 BOI084	con carrelletto pieno di birre ((ride))
 BOR022	((ride))
@@ -118,7 +118,7 @@ BOI083	innazitutto non ci sono queste cose qua, manifestazioni, altre cose
 BOR022	°mh°
 BOI083	non c'hai modo di:: esprimerti in nessuna maniera
 BOI083	qualsiasi cosa fai:
-BOI083	#eh noi diciamo vieni scheggiato nel senso::
+BOI083	eh noi diciamo vieni scheggiato nel senso::
 BOI084	non c'è attenzione alle idee
 BOI084	dei [ragazzi sopra]ttutto e noi siamo tanti ragazzi
 BOR022	[<°okay°>]

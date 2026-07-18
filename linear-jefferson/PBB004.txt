@@ -104,7 +104,7 @@ BOI013	usciva di più::
 BOI013	in strada a[desso no]
 BOI012	[ma: e dopo] due anni di covid non è che >tutti vanno all'este~< e la gen[te che esce cioè: >gina<]
 BOI013	[°m:h°]
-BOI013	#[°ma° non] c'entra u covid
+BOI013	[°ma° non] c'entra u covid
 BOI012	ah eh
 BOI013	[non centra]
 BOI012	[ah centra] (.) c'entra
@@ -148,7 +148,7 @@ BOI013	[che]::
 BOI013	che trovi sempre spacciatori >che ti ve~<
 BOI013	che ti danno della
 BOI013	u:h vuole QUALCOSA signora?
-BOI013	#ne vuole? >ma ma< sa vut (.) dalla vita
+BOI013	ne vuole? >ma ma< sa vut (.) dalla vita
 BOI013	[>cioè] cio~ enrico< tu: il problema >è che tu prendi< là:: la macchina e non gir~
 BOI012	[mh]
 BOI013	IO prendo la corriera, l'autostazione,
@@ -426,10 +426,10 @@ BOI012	((ride))
 BOI013	°perché sei ciuccio°
 BOI012	((ride))
 BOI013	oh ((ride))
-BOI013	#eh beh che bo'
+BOI013	eh beh che bo'
 BOI012	(°>tu hai visto<°)
-BOR005	#che bo'
-BOI013	#>ch[e bo']<
+BOR005	che bo'
+BOI013	>ch[e bo']<
 BOI012	[>sto<] sto ridendo::
 BOR005	quindi
 BOR005	>quindi< (.) cioè soprattutto tu a san luca ci sei andato parecchie volte
@@ -1024,7 +1024,7 @@ BOR005	mhmh,
 BOI012	e::h °li° >lo conosco è un mio amico<
 BOR005	mhmh
 BOI012	poi altri, cioè:: michael (.) brusha:, >cioè tutta::<
-BOI012	#la balotta dei musicisti jazz di bologna [li con]osco (.) tutti
+BOI012	la balotta dei musicisti jazz di bologna [li con]osco (.) tutti
 BOI013	[mhmh]
 BOI012	°praticamen~°
 BOR005	°e di:° di solito che m~ che (.) tipo di musica ascoltate: >qualche volta [vi capita<]?

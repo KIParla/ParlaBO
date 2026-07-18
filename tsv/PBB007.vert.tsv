@@ -3775,11 +3775,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 538-3	BOI025	538	538	3	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 538-4	BOI025	538	538	4	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 538-5	BOI025	538	538	5	°m:h°	mh	_	_	_	_	_	linguistic	_	none	Volume=low	End=1276.1	0x1	_	_	_
-539-0	BOI024	539	539	0	#c(io)è	#cioè	_	_	_	_	_	error	_	none	_	Begin=1275.027	_	_	2-4(0)	_
-539-1	BOI024	539	539	1	subito	subito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-539-2	BOI024	539	539	2	sgamati	sgamati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-539-3	BOI024	539	539	3	pr[oprio]	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	2-7(?)
-539-4	BOI024	539	539	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1278.666	_	_	_	_
+539-0	BOI024	539	539	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	unspecified	Reduced=Yes	Begin=1275.027	_	_	_	_
+539-1	BOI024	539	539	1	subito	subito	_	_	_	_	_	linguistic	_	unspecified	_	_	_	_	_	_
+539-2	BOI024	539	539	2	sgamati	sgamati	_	_	_	_	_	linguistic	_	unspecified	_	_	_	_	_	_
+539-3	BOI024	539	539	3	pr[oprio]	proprio	_	_	_	_	_	linguistic	_	unspecified	_	_	_	_	_	2-7(?)
+539-4	BOI024	539	539	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	unspecified	_	End=1278.666	_	_	_	_
 540-0	BOI025	540	540	0	[eh]	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1276.503	_	_	_	0-2(134)
 540-1	BOI025	540	540	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1278.666	_	_	_	_
 541-0	BOI024	541	541	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=1278.747	_	_	_	_
@@ -6761,7 +6761,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1039-6	BOI025	1039	1039	6	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1039-7	BOI025	1039	1039	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1039-8	BOI025	1039	1039	8	bologna	bologna	_	_	_	_	_	linguistic	_	none	_	End=2244.381	_	_	_	_
-1040-0	BOI024	1040	1040	0	#o:i	#o:i	_	_	_	_	_	error	_	none	_	Begin=2244.387|End=2244.796	_	_	_	_
+1040-0	BOI024	1040	1040	0	o:i	oi	_	_	_	_	_	linguistic	_	unspecified	_	Begin=2244.387|End=2244.796	0x1	_	_	_
 1041-0	BOR005	1041	1041	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2245.275|End=2245.668	_	_	_	_
 1042-0	BOR005	1042	1042	0	bene	bene	_	_	_	_	_	linguistic	_	none	_	Begin=2246.946	_	_	_	_
 1042-1	BOR005	1042	1042	1	allora	allora	_	_	_	_	_	linguistic	_	none	_	End=2247.828	_	_	_	_

@@ -1300,7 +1300,7 @@ BOI032	ah
 BOI032	quelle che si dicono in dialetto non dirle in italiano bisogna scrivere un poema hai capito perché
 BOR008	esatto ci vuole una parafrasi
 BOI032	il il famoso eh il famoso mh quando si diceva che una una ragazzina
-BOI032	lera un sprucaien
+BOI032	l'era un sprucaien
 BOR008	okay
 BOI032	come traduci sprucaién in italiano
 BOI032	era quell'insieme

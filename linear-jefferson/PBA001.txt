@@ -162,7 +162,7 @@ BOR003	[mamma] mia:
 BOR003	no:
 BOI006	e quindi loro si sono messi a protestare davanti a quest'hotel
 BOI006	come segno per dire:
-BOI006	#mh (ciò)
+BOI006	mh (ciò)
 BOR003	mhm:h
 BOI006	vogliamo degli affitti accessibi[li]
 BOR003	[s:]ì

@@ -1433,7 +1433,7 @@ BOR007	[mhmh]
 BOR007	sì
 BOI028	lì: era una zona quando ci abitavo io eran gli anni settanta
 BOR007	mhmh
-BOI028	°fino all' inizio degli anni ottanta° era una zona molto:
+BOI028	°fino all'inizio degli anni ottanta° era una zona molto:
 BOI028	borghes[e:]
 BOR007	[mhmh]
 BOI028	tranquilla: °n[on]° niente di che

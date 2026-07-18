@@ -300,7 +300,7 @@ BOI037	((ride))
 BOR010	°tra l'altro° non ci sono neanche i portici [da dire]
 BOI037	[sì: esa]tto ((ride)) esatto
 BOR010	((ride))
-BOI037	#e poi e:h i: carrelli del rusco messi come dio non vuole, per cui
+BOI037	e poi e:h i: carrelli del rusco messi come dio non vuole, per cui
 BOI037	e:h spesso e volentieri li spostano sui marciapiedi perché hanno bisogno di spazio per il parcheggio,
 BOR010	((ride))
 BOI037	((ride)) e quindi

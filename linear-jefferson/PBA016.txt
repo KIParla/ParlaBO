@@ -1168,11 +1168,11 @@ BOI078	((ride))
 BOI078	NO no (.) però::: va detto insomma
 BOI078	però sì è un po:::'
 BOI078	da quello che ho: (.) sentito è un po' (.) una:
-BOI078	#piva
+BOI078	piva
 BOR020	cosa significa?
 BOI078	ah ecco vedi (.) linguistica
 BOR022	((ride))
-BOI078	#piva (.) è: (.) una: mh persona che fa molte: >insomma< molte storie EH il tuo è il tuo: tipo il tuo coinquilino al femminile
+BOI078	piva (.) è: (.) una: mh persona che fa molte: >insomma< molte storie EH il tuo è il tuo: tipo il tuo coinquilino al femminile
 BOI078	o la t~ o la (.) fidanzata del tuo coinquilino
 BOR020	n[o:n] (.) non ti spieghi
 BOI078	[una che]
@@ -1183,7 +1183,7 @@ BOR020	[ah]
 BOI078	PERÒ: eh sì
 BOI078	>cioè< molt[o:: pal]la al piede (.) non so:
 BOR020	[ah]
-BOR020	#piva?
+BOR020	piva?
 BOI078	>una di quelle persone che< tipo:: °non so° tipo: (.) al ristorante ordina::
 BOI078	l'insalata.
 BOR020	((sospira))
@@ -1193,8 +1193,8 @@ BOR020	((ride))
 BOI078	N[ON LEI NON LE]I NON LEI (.) [non lei non la conos]co io non [so neanche chi cazzo sia questa]
 BOR020	[distru:tta]
 BOI079	[>vabbè< (.) sì (.) stava~]
-BOI079	#[stavamo: stava]mo:: (.) parlando del~ (.) la piva in genera~
-BOI078	#DELLA PI:VA sì (.) io non so (>chi sia<) questa ragazza non (.) non c'ho neanche mai praticamente parlat[o °anzi°]
+BOI079	[stavamo: stava]mo:: (.) parlando del~ (.) la piva in genera~
+BOI078	DELLA PI:VA sì (.) io non so (>chi sia<) questa ragazza non (.) non c'ho neanche mai praticamente parlat[o °anzi°]
 BOI079	[no no. non] è vero invece adesso (.) vado a casa e: stanno preparando loro due (.) i ravioli, cinesi, fatti in casa, qui[ndi non mi POSSO PROPRIO LAMENTA]RE
 BOR020	[wo:::w]
 BOI078	°e vabbè ci sta°

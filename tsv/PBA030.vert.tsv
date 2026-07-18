@@ -7939,7 +7939,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1503-8	BOI115	1503	1503	8	trenta	trenta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1503-9	BOI115	1503	1503	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1503-10	BOI115	1503	1503	10	classe	classe	_	_	_	_	_	linguistic	_	none	_	End=2320.276	_	_	_	_
-1504-0	BOR031	1504	1504	0	#o[sta]	#osta	_	_	_	_	_	error	_	none	_	Begin=2320.311|End=2320.646	_	_	_	2-5(537)
+1504-0	BOR031	1504	1504	0	o[sta]	osta	_	_	_	_	_	linguistic	_	unspecified	_	Begin=2320.311|End=2320.646	_	_	_	1-4(537)
 1505-0	BOI115	1505	1505	0	[ed	ed	_	_	_	_	_	linguistic	_	none	_	Begin=2320.446	_	_	_	0-2(537)
 1505-1	BOI115	1505	1505	1	e]ravamo	eravamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(537)
 1505-2	BOI115	1505	1505	2	tanti[ssimi]	tantissimi	_	_	_	_	_	linguistic	_	none	_	End=2321.676	_	_	_	5-10(538)

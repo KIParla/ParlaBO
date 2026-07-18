@@ -857,7 +857,7 @@ BOI117	mh eh vabbè
 BOI118	molti hanno le case di proprietà quindi le spese son poche
 BOR031	sì
 BOI117	poi i genitori costruiscono case su case
-BOI117	questo è del mio figlio questo dell' altro mio figlio questo x poi noi figli ce ne andiamo e le case rimangono là
+BOI117	questo è del mio figlio questo dell'altro mio figlio questo x poi noi figli ce ne andiamo e le case rimangono là
 BOR031	eh
 BOR031	eh sì
 BOI117	ferme vuote e noi paghiamo l'imu

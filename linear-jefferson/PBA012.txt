@@ -849,7 +849,7 @@ BOR018	[me lo sono trova]to ricco ((ride))
 BOI073	((ride))
 BOI072	eh brava
 BOR018	((ride))
-BOI073	#u' cazz ((ride))
+BOI073	u' cazz ((ride))
 BOI073	e:
 BOI073	e quindi >cioè<
 BOI073	>cioè< ne~ nel lazio ci stanno un sacco di rossi però
@@ -860,7 +860,7 @@ BOI073	quindi il castello rossi effettevamente potrebbe
 BOI073	appartenere a qual[cuno che]
 BOI072	[è m:i]:o ((ride))
 BOI073	((ride)) no però dico potebbe [avere qualche correlazione:]
-BOR018	#[ci pijjam tutt chill che è no]str qua ((ride))
+BOR018	[ci pijjam tutt chill che è no]str qua ((ride))
 BOI072	((ride)) esatto
 BOI073	perché io tipo tra gli amici >cioè< io conosco tre persone rossi come me però io so l'unico tra tutti e tre che
 BOI073	ha sempre avuto radici in isola del liri >cioè< dalla parte di mio padre
@@ -1093,7 +1093,7 @@ BOR018	di mhmh s~ sentire il confronto con le altre persone [io ho fatto pale]st
 BOI072	[mhmh]
 BOI073	[e] ma certe persone comunque lo pensano
 BOR018	eh sì
-BOI073	#>cioè< le altre persone in palestra so' tutti un po' sboroni che: si: confrontano con gli altri
+BOI073	>cioè< le altre persone in palestra so' tutti un po' sboroni che: si: confrontano con gli altri
 BOI073	>cioè< in palestra c'è sempre sto clima un po' di competizione
 BOI073	anche se non lo dai a vedè
 BOI072	esatto

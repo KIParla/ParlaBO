@@ -537,7 +537,7 @@ BOI024	sì p~ poverini
 BOR005	((ride))
 BOI024	che vita or[ribile]
 BOI025	[eh e qui]ndi secondo me °m:h°
-BOI024	#c(io)è subito sgamati pr[oprio] ((ride))
+BOI024	c(io)è subito sgamati pr[oprio] ((ride))
 BOI025	[eh] ((ride))
 BOI024	io [che: (.) io che avevo la] la la la firma falsa di mamma
 BOI025	[xxxxxx]
@@ -1038,7 +1038,7 @@ BOI025	vivendoli tutti i giorni ti sembra normale °dici beh è normale°
 BOI025	come è giusto che sia poi quando vai effettivamente °in un'altra città dici° ma ma come
 BOI025	incredibile che non ci siano
 BOI025	quanto (.) sono comodi quelli che abbiamo a bologna
-BOI024	#o:i
+BOI024	o:i
 BOR005	((ride))
 BOR005	bene allora
 BOR005	noi abbiamo finito <vi ringrazio molto per la [disponibili]tà>

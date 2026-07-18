@@ -1,6 +1,6 @@
 BOR010	okay è partita ((ride))
 ???	xx [(RAGAZZI)]
-BOI043	#[VIENI PURE ANCHE] VIENI PURE ANCHE TE [CHE DOPO] (AL) TOCA ANCHE A TE
+BOI043	[VIENI PURE ANCHE] VIENI PURE ANCHE TE [CHE DOPO] (AL) TOCA ANCHE A TE
 ???	(BASTA RAGAZZI) (.) RAGAZZI è QUI LA FESTA?
 BOI043	è QUI LA FESTA
 ???	oh meno male, (.) cercavo una festa io
@@ -113,7 +113,7 @@ BOI043	perché se tu vai:
 BOI043	come qua io vado: e: durante la settimana per dire,
 BOI043	lavoran tutti e due io vado come si chiama in bicicletta. poi la domenica io prendo su e vado a fare
 BOI043	una gran fondo e la moglie rimane a casa,
-BOI043	#una due o tre volte el ge me du era la dmanga?
+BOI043	una due o tre volte el ge me du era la dmanga?
 BOI043	cosa facciamo la domenica tu vai via e io resto a casa?
 BOI043	va bene se un è: come sono io che sono rimasto vedovo, vabbè
 BOR010	[xxx mi dispiace]
@@ -428,7 +428,7 @@ BOR010	a non so eh a dopo sì abbiamo cambiato:
 BOI043	((legge)) abitualmente parla in dialetto o in italiano in quale contesto parla in dialetto e in
 BOI043	io purtroppo in italiano quando andavo a scuola ero molto scarso e: alterno da italiano e dialetto
 BOR010	ah sì beh ci sta (.) non mi è mai capit[at~]
-BOI043	#[di]pende:: dipende come quando prendi a parlare se parli in italiano o se scor in dialàt
+BOI043	[di]pende:: dipende come quando prendi a parlare se parli in italiano o se scor in dialàt
 BOR010	ah quindi cambia: anche dalla persona [che ha davanti immagino]
 BOI043	[si come] quando si parla con le persone
 BOI043	((legge)) ci sono espressioni tipiche bolognesi che trova difficile esprimere in italiano?
@@ -609,7 +609,7 @@ BOI043	un punto di ritrovo come il circolo praticamente
 BOR010	ah beh sì se no ((ride)) stare lì tre ore a girare [xxxx]
 BOI043	[se no cosa] fai vai sempre dentro (.) cioè vai in un bar e ricominci:
 BOI043	sì non puoi mica star dentro tre ore
-BOI043	#e consumare un caffè perché se no xx ben fora
+BOI043	e consumare un caffè perché se no xx ben fora
 BOR010	e mamma mia es~ io avrei la nausea ((ride)) anche di girare bologna dopo un po'
 BOR010	quindi:
 BOI043	no >oltretutto che ci sei già<
@@ -723,7 +723,7 @@ BOI043	no ma ma uno qualcuno puoi chiedere
 BOI043	un'informazione sai viene della gente han fatto
 BOI043	so che han fatto dei corsi: anche di inglese agli autisti perché sai quando vengon gli stranieri,
 BOI043	diventa problematico, se
-BOI043	#io (.) io parlo in in italiano (o) in bolognese lui là parla in inglese as capèm brisa
+BOI043	io (.) io parlo in in italiano (o) in bolognese lui là parla in inglese as capèm brisa
 BOI043	non ci capiamo per niente
 BOR010	°ah beh giusta[mente]°
 BOI043	[°xxx?°]

@@ -541,7 +541,7 @@ BOI101	e, >essendo una città grande<,
 BOI101	comunque, sì un po' più l'idea:,
 BOI101	d~ di essere città paese, te la [dà]
 BOR036	[mh]mh
-BOI101	#perché comunque son tutti più ciacaroni tutti pi[ù]:::
+BOI101	perché comunque son tutti più ciacaroni tutti pi[ù]:::
 BOR036	[ah per quello okay]
 BOR036	sì sì certo
 BOI101	c(io)é: c'han~ i bolognesi, c'hanno: un modo di fare: a~ accogliente c'è poco da fare

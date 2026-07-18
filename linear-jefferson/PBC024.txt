@@ -384,8 +384,8 @@ BOR036	mi sa
 BOI103	a:h mo non va mica bene neanche in italia la meloni non lavora (o no,)
 BOR036	eh
 BOI103	e::h e l'avevano (proprio) messa lì come proprio che fosse il dio della: del~ dell'italia
-BOI103	#e invece poveretta (.) un po' la va izé un po' la va ilé e:h mh no~ no: non fa niente per nessuno
-BOI103	#e la tira a campa:r (.) °et capét°
+BOI103	e invece poveretta (.) un po' la va izé un po' la va ilé e:h mh no~ no: non fa niente per nessuno
+BOI103	e la tira a campa:r (.) °et capét°
 BOR036	mh mh
 BOR036	certo (.) ho capito [sì sì (.) sì sì sì]
 BOI103	[xxx come xxx:]:
@@ -670,9 +670,9 @@ BOR036	[no]n si sapeva
 BOI103	non si sapeva (.) perché (.) sto cesare volev~ giovanni voleva fare suo padre perché si chiamava gia[com]o
 BOR036	[mh]
 BOI103	io: c'ho un fratello che è rimasto disperso in russia che si chiamava cesare
-BOI103	#il papà di mio papà (.) si chiamava cesare ciamevan zaiserein
+BOI103	il papà di mio papà (.) si chiamava cesare ciamevan zaiserein
 BOR036	((ride))
-BOI103	#ciamevan zaiserein (.) questa si chiamava cesare (.) anche lui
+BOI103	ciamevan zaiserein (.) questa si chiamava cesare (.) anche lui
 BOI103	e:: ebbe la sorte giovanni disse <io voglio cesare>
 BOI103	perché (.) mio padre si chiamava cesare (.) e questo (.) fu prescritto
 BOR036	okay ((ride))
@@ -686,7 +686,7 @@ BOR036	mhmh
 BOI103	perché prima di tutto io lo portai a far vedere come si faceva a ballare (.) che lui non aveva mai visto
 BOI103	io lo portai al~ alla: all'arcipelago che ballavano facevano: di: la domenica ballavano
 BOI103	proprio la festa da ballo che ballavano e lui non l'aveva mai vista sta gente che faceva~ sembravano tutti matti ((ride))
-BOI103	#e sto cinno xx (.) rimane molto meravigliato con questa storia ((ride))
+BOI103	e sto cinno xx (.) rimane molto meravigliato con questa storia ((ride))
 BOI103	e dis~ ma cosa ma cosa prendono poi (.) per eh u~ u~ far così una fatica dice lavora~ eh eh ballavano tutti
 BOI103	quando poi facevano il valzer che facevano
 BOI103	eh e lu~ e lu:i rimase un po' stupito sta cosa (.) del ballo
@@ -790,9 +790,9 @@ BOI103	be~ be~ beccavano ma: ah dico perché loro hanno FAME non hanno mica ness
 BOR036	((ride))
 BOI103	ah dico allora vedi loro: ha~ hanno fame vengono a mangiare quello che ci dai tu
 BOR036	mhmh
-BOI103	#adesso dai (.) dai mo: i: (.) adesso ti do i crec qui nella tua manina
+BOI103	adesso dai (.) dai mo: i: (.) adesso ti do i crec qui nella tua manina
 BOI103	e~ e i piccioni vengono a mangiare anche da te
-BOI103	#e difatti (.) le faceva: le l~ le le davo i crec e lui anda~ and~ eh (.) da~ dava la manina e:°xxxx°
+BOI103	e difatti (.) le faceva: le l~ le le davo i crec e lui anda~ and~ eh (.) da~ dava la manina e:°xxxx°
 BOI103	ed io mi divertivo da matti perché xx è che lui aveva paura ((ride)) aveva paura all'inizio e poi dopo poi dopo così
 BOI103	si affamiglia cioè:
 BOI104	prendeva confiden[za]
@@ -848,7 +848,7 @@ BOI103	e diceva (.) ma insomma quello non glielo posso dare
 BOI103	eh e libe~ è per i grandi (.) lui non ha mica ancora quell'età lì
 BOI103	e l~ e:h e lui diceva no no no no io voglio quello lì
 BOI103	uscì quello della bestia no~ non so se lo~ te lo:
-BOI103	#macchè (.) t'ha xx con una lotta con su meder andò a firmer
+BOI103	macchè (.) t'ha xx con una lotta con su meder andò a firmer
 BOI103	t'ho detto di andare a firmare lei perché lui voleva la bestia
 BOI103	((ride))
 ???	è un libro per [adulti x x]
@@ -870,7 +870,7 @@ BOR036	((ride))
 BOI104	[s]ì
 BOI103	MAI (.) alla sera come è andata cesare oggi <benissimo> (.) cesare ha fatto il bravo cesare è buono cesare è bravo
 BOI103	e~ e a volte (.) c'era:c~ una volta c'era <i gelati> lì nella n~ nella: nella: zona lì del~ del parco
-BOI103	#allora io dicevo delle volte (.) un cinno che non chiede mai <niente> ho detto io
+BOI103	allora io dicevo delle volte (.) un cinno che non chiede mai <niente> ho detto io
 BOI103	cesare che ne dici se andiamo a prendere un gelato?
 BOI103	NONNA (.) sai che ti dico?
 BOI103	<ottima idea>
@@ -907,8 +907,8 @@ BOI103	che invece magari si vedono quei bambini che sono (.) <maleducati>, danno
 BOI103	ma lui mai [m'ha rispo]sto <male> e mai m'ha~ m'ha~ m'ha mai~ mai detto: una parola di traverso
 BOR036	[mai]
 BOI103	anche a mangiare (.) mi diceva la gisella mia cugi~ una cugina che abita su a loiano
-BOI103	#<io divento matta> diceva non: non deve mai xx niente e:h <sti cinni> (.) c'aveva quattro nipoti due eh uno aveva due maschi l'altra due femmine
-BOI103	#e dis mi fanno diventar matta dico ma (.) io °non lo so° [mh]
+BOI103	<io divento matta> diceva non: non deve mai xx niente e:h <sti cinni> (.) c'aveva quattro nipoti due eh uno aveva due maschi l'altra due femmine
+BOI103	e dis mi fanno diventar matta dico ma (.) io °non lo so° [mh]
 BOR036	[e che] cosa cucinavi per cesare?
 BOI103	eh?
 BOR036	quand~ quando cesare veniva qui,

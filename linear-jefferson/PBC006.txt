@@ -916,7 +916,7 @@ BOI018	infestato la città
 BOI018	il territorio bolognese nell'ottocento nella seconda metà dell'ottocento,
 BOI018	io ho pensato >ecco< per esempio qui
 BOI018	e:hm
-BOI018	#questo è il personaggio (.) guida la mascotte della mostra è l'umarell il pensionato bolognese
+BOI018	questo è il personaggio (.) guida la mascotte della mostra è l'umarell il pensionato bolognese
 BOR004	mhmh
 BOI018	e:h qui sta portando i fiorellini alla madonna del colera
 BOI018	perché quest'edicola esiste ancora in città:
@@ -993,7 +993,7 @@ BOI018	per <raccontare> che cosa? i lavori
 BOI018	ne~ (.) i lavori nell'acqua, in città, e in campagna.
 BOI018	quindi c'°erano° le risaie,
 BOI018	la coltura della canapa, le lavandaie in città
-BOI018	#e l'umarell che si è tirato su le braghe per non bagnarsi ((ride))
+BOI018	e l'umarell che si è tirato su le braghe per non bagnarsi ((ride))
 BOR004	mhmh
 BOI018	OSSERVA tutte queste c~ queste attività
 BOI018	quindi i~
@@ -1080,7 +1080,7 @@ BOR004	mh
 BOI018	e qui: continua (ci va) la la falsa riga è sempre quella
 BOI018	questa è la sezione che riguarda
 BOI018	il governo delle acque nel territorio quindi >tutte le< bonifiche
-BOI018	#qui c'è l'umarell <che osserva>
+BOI018	qui c'è l'umarell <che osserva>
 BOI018	questo impianto idroboro che è:
 BOI018	ad argenta
 BOI018	che pompa l'acqua

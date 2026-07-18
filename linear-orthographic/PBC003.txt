@@ -382,7 +382,7 @@ BOI009	e
 BOI009	e anche con lei penso che ci sia~ ci siamo andati quando
 BOI009	daniel ha cominciato
 BOI009	perché prima
-BOI009	iandasevan brisa quando abitavamo in beverara non ci siamo mai andati non siam mai venuti in centro
+BOI009	i'andasevan brisa quando abitavamo in beverara non ci siamo mai andati non siam mai venuti in centro
 BOR001	mh
 BOI009	da dire che fosse venivamo in centro solo se c'era qualche cosa
 BOI009	da fare o
@@ -1037,7 +1037,7 @@ BOI009	la
 BOI009	se invece ti vuole proprio una visita devi chiedere appuntamento
 BOI010	l'appuntamento
 BOI009	ehm ma diciamo che oh
-BOI009	sadeguem
+BOI009	s'adeguem
 BOI009	perché
 BOI009	non si può far altro
 BOR001	sì sì
@@ -1203,7 +1203,7 @@ BOI010	beh xxx fabio
 BOI009	no
 BOI009	vicino a crev~ a a a
 BOI010	vic~
-BOI010	t fa un po' 'd confusion io bela capì
+BOI010	't fa un po' 'd confusion io bela capì
 BOI010	vidiciatico
 BOR001	vabbè non era di bologna diciamo
 BOI009	non era proprio di bologna centro
@@ -1387,12 +1387,12 @@ BOR001	mh
 BOI009	ades quast chi l'è dal domiledznov ma xx
 BOI010	ben cusa gh'interessa a lia l'ha sol da truvar eh
 BOR001	sì
-BOI009	NO a dig è
+BOI009	no a dig è
 BOI009	e qui invece si dice
 BOI009	c'è scritto
 BOR001	c~
-BOI009	lè com al can ed san roc
-BOR001	lè
+BOI009	l'è com al can ed san roc
+BOR001	l'è
 BOR001	san roc
 BOI009	è come il cane di san rocco
 BOI010	però dopo ti scrive in italiano
@@ -1447,7 +1447,7 @@ BOI009	anche se son bolognesi però
 BOI010	no no
 BOR001	penso che non lo sappiano il cioè mh sì non
 BOI009	i i proverbi di della città oppure i detti
-BOI010	s se ai tuoi compagni di classe che son di bologna gli fai vedere queste qui è è anche per loro è tabù cumpagn a per te
+BOI010	s~ se ai tuoi compagni di classe che son di bologna gli fai vedere queste qui è è anche per loro è tabù cumpagn a per te
 BOR001	no
 BOR001	sì anche perché poi molti comunque hanno genitori che
 BOI010	sì sì sì
@@ -1581,7 +1581,7 @@ BOI009	ehm ha fatto un monumento in
 BOI010	un monumento con il coso tondo sopra
 BOI009	in marmo tutto bello
 BOI010	po~
-BOI010	lo~ ehm l'ombrello per tutti al g'ha mis perché lu al dava
+BOI010	l'o~ ehm l'ombrello per tutti al g'ha mis perché lu al dava
 BOI009	perché lui dava la casa a tutti perché ce n'era abitavamo là in questo
 BOI010	a tutti
 BOI010	non so adesso se ci sia ancora però l'ombrello per tutti
@@ -1950,7 +1950,7 @@ BOR001	che tutti a turno
 BOI009	a turni
 BOI009	no casomai
 BOR001	l'ultimo
-BOI009	lultimo che si lavava gl'era più sporc
+BOI009	l'ultimo che si lavava gl'era più sporc
 BOR001	eh
 BOI010	no no si lavava i~ in due tre b~ bambini così t~
 BOI010	fora un dentro quel'altro xxxxx
@@ -2149,7 +2149,7 @@ BOI010	andiamo al mare ehm d~ do il parcheggio a questi qui sopra e poi ahm anna
 BOI009	diciamo
 BOI009	ehm
 BOI009	i fiori da annaffiare mh
-BOI010	minnaffia e po' quant a sent la porta
+BOI010	m'innaffia e po' quant a sent la porta
 BOI009	guardi se vedi se senti qualcosa se per caso
 BOR001	sì
 BOI010	sì
