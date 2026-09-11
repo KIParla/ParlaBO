@@ -582,7 +582,7 @@ BOI086	può essere difficile giudicare all'inizio insomma questa cosa
 BOR024	sì sì
 BOI086	eh mh da un lato non mi fa sentire più sicura
 BOR024	beh vabbè
-BOI086	dall' altro capisco che ci siano delle motivazioni invece che che appunto data la situazione mh
+BOI086	dall'altro capisco che ci siano delle motivazioni invece che che appunto data la situazione mh
 BOR024	forti
 BOR024	e a volte sono necessarie
 BOI086	esatto esatto
@@ -1094,7 +1094,7 @@ BOR024	sì anche
 BOR024	ah è vero
 BOR025	e lui ha detto e lui ha detto eh lo spillo eh ma sai da dove viene la parola spillo
 BOR024	ma pazzesco
-BOR025	e a me hanno sempre detto perché ne parlavamo anche a scuola mi hanno sempre detto che spillo viene da spillare dall' dall'acqua
+BOR025	e a me hanno sempre detto perché ne parlavamo anche a scuola mi hanno sempre detto che spillo viene da spillare dall~ dall'acqua
 BOR024	mhmh
 BOR025	e invece lui mi ha detto che in realtà viene da è un ha un'origine germanica e viene da spell incantesimo no è una x di spell perché
 BOR024	pazzesco

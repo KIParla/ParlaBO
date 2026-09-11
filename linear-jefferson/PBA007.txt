@@ -464,7 +464,7 @@ BOI065	mi manda lei sulla giusta strada
 BOR020	((ride)) ((sospira))
 BOR020	e::hm: beh quindi sì avete vissuto anche questo diciamo questo lato::
 BOR020	de~ della
-BOR020	catechè~ catechesi non lo so dell' dell'or[atorio] insieme?
+BOR020	catechè~ catechesi non lo so dell~ dell'or[atorio] insieme?
 BOI065	[sì sì]
 BOR020	hai [xxxxx]
 BOI065	[sai che] sinceramente non:: so se lei si sia preparata per essere una madrina non so se tu abbia dov~

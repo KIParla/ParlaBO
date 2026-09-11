@@ -302,7 +302,7 @@ BOI069	che hanno percorso durante la prima guerra mondiale incarceramento e tutt
 BOR019	okay
 BOR019	okay
 BOI069	quindi m'hanno fatto fare diciamo questo tipo di percorso qua
-BOI069	altre zone molto belle di bologna a parte vabbè la via dell' universitaria che
+BOI069	altre zone molto belle di bologna a parte vabbè la via dell'universitaria che
 BOI069	anche quella è particolare perché xx è particolare cioè però è una via molto importante a livello scolastico per gli universitari
 BOR019	okay è perché è particolare
 BOI069	perché oddio adesso in questo periodo non è messa benissimo nel senso

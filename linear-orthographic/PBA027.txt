@@ -1175,7 +1175,7 @@ BOR036	sì
 BOI106	è raro
 BOR036	purtroppo eh altri viaggi belli che avete fatto
 BOI107	siamo andati in marocco a marzo dell'anno scorso eh una settimana
-BOI106	marocco dell' anno scorso
+BOI106	marocco dell'anno scorso
 BOI106	in corsica
 BOR036	vi è piaciuto il marocco ci son stata anch'io in marocco
 BOI106	tanto

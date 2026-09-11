@@ -1663,7 +1663,7 @@ BOR031	[sì]
 BOI110	all'imperatore appunto [e:h] ci sono le torri che si battono in questa: in questo palio
 BOR031	[okay]
 BOR031	wow
-BOI110	e quindi noi facciamo parte di una torre poi c'è la torre magari dell'uva noi siamo dei maniscalchi [dell' x]
+BOI110	e quindi noi facciamo parte di una torre poi c'è la torre magari dell'uva noi siamo dei maniscalchi [dell~ x]
 BOR031	[entrambi]?
 BOI110	sì sì sì
 BOR031	okay

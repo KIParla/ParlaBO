@@ -1056,7 +1056,7 @@ BOR007	sì
 BOR007	mhmh
 BOR007	magari anche dopo l'attenta~ ma dopo l'attentato alla stazione di bologna magari
 BOI028	eh
-BOI028	eh dopo l'attentato alla stazione di bologna c'è stato quello dell' italicus no ci sono state altre
+BOI028	eh dopo l'attentato alla stazione di bologna c'è stato quello dell'italicus no ci sono state altre
 BOR007	sì eh
 BOR007	sì
 BOI028	sì quella è stata una cosa pesantissima pesantissima

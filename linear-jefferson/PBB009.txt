@@ -1104,7 +1104,7 @@ BOR007	[sì]
 BOR007	[mhmh]
 BOR007	[maga]ri anche dopo [l'attenta~] ma dopo l'attentato alla stazione di b[ologna magari]
 BOI028	[eh]?
-BOI028	[eh dopo l'attentato alla s]tazione di bologna c'è stato quello dell' [(italicus) no ci so]no state altre
+BOI028	[eh dopo l'attentato alla s]tazione di bologna c'è stato quello dell'[(italicus) no ci so]no state altre
 BOR007	[sì °eh°]
 BOR007	[sì]
 BOI028	[sì] quella è stata una cosa pesantissima [pesan]tissima

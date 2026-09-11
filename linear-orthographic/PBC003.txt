@@ -65,7 +65,7 @@ BOI009	ehm il contratto è andato lui a farlo un mese circa prima ma però quand
 BOI010	sì
 BOI010	che io avevo detto siamo in tre
 BOR001	mhmh
-BOI010	e dopo quando dopo un mese fa com' eravate in tre siete in quattro ah ma q~ quello lì è appena nato
+BOI010	e dopo quando dopo un mese fa com'eravate in tre siete in quattro ah ma q~ quello lì è appena nato
 BOI010	e siamo ancora qua
 BOI010	in questa casa qui
 BOR001	mhmh
