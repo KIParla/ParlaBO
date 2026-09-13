@@ -1,0 +1,943 @@
+BOR003	okay
+BOR003	okay
+BOR003	allora
+BOR003	innanzitutto
+BOR003	vi chiedo
+BOR003	in quale
+BOR003	zona di bologna vivete
+BOI007	quartiere
+BOR003	in quale quartiere
+BOI008	xx
+BOI007	quartiere
+BOI007	savena
+BOR003	okay
+BOR003	com'è come zona
+BOR003	come la trovate
+BOI007	molto verde
+BOI008	e io non parlo scusa
+BOI007	mo c'è anche quella
+BOI007	eh uno alla volta
+BOI007	molto verde
+BOI007	molto tranquilla non ci sono insediamenti industriali per fortuna per cui l'aria è migliore rispetto ad altre zone della città
+BOR003	mhmh
+BOI007	siamo verso
+BOI007	diciamo
+BOI007	imola
+BOI007	verso il mare
+BOR003	mh
+BOR003	e negli anni com'è cambiato
+BOI008	beh è cambiata molto in bene perché si è sviluppata
+BOI008	ci son molte molti insediamenti di di cittadini
+BOI008	direi
+BOR003	migliorato
+BOI008	è una zona molto a posto
+BOI007	un quartiere nuovo
+BOR003	mhmh
+BOI007	nuovo
+BOI007	nuovo degli anni settanta
+BOR003	ah beh
+BOI007	e per questo abbiamo un casone
+BOI007	mh di campi praticamente
+BOR003	okay
+BOI007	xx da qui dove siamo adesso verso l'autostada
+BOI007	è una zona che s~ è è nata
+BOI007	negli anni settanta in sostanza più o meno
+BOR003	mhmh
+BOR003	e le persone sono sempre le stesse oppure
+BOI008	sono sono cambiate perché
+BOI008	me~ nel nostro palazzo detta come va detta su
+BOR003	mhmh
+BOI008	trenta famiglie come sono trenta famiglie
+BOI008	non sono
+BOI008	due o tre
+BOI008	tuttora fa che quando c'è un un'attività
+BOI007	di cinquant'anni fa
+BOR003	tut~ quindi tutti nuovi
+BOI007	le persone che han cambiato casa persone che non ci sono più
+BOR003	quelli lì
+BOI007	son rimasti magari i figli o i nipoti
+BOR003	ah okay
+BOI007	oppure nuove famiglie giovani con anche figli piccoli
+BOI007	vanno a scuola o all'università
+BOR003	e voi avete sempre vissuto lì
+BOI008	x
+BOI008	sì
+BOR003	ah okay quandi da sempre
+BOI008	sono quaran~
+BOI008	no
+BOI007	quasi cinquanta
+BOI008	quasi cinquant'anni
+BOR003	mamma mia
+BOI007	quando ci siamo sposati il palazzo era in costruzione ancora
+BOR003	quindi
+BOI007	siamo ancora lì
+BOR003	da sempre
+BOR003	e avete dei
+BOI008	non c'era neanche uno straniero eh eh
+BOR003	ah okay quindi tutti bolognesi
+BOI007	sì beh comunque italiani
+BOI008	sì bolognesi
+BOR003	okay
+BOR003	anche studenti per esempio come zona no
+BOI008	no
+BOI008	adesso no
+BOR003	mh okay
+BOI008	no ci sono degli studenti perché
+BOI008	ci sono famiglie
+BOI007	per le famiglie
+BOR003	ah ah okay quindi sempre di qua no fuorisede
+BOI008	sempre di qua
+BOI007	eh direi che quasi in totale a parte un appartamento sono tutti proprietari
+BOR003	ah okay okay
+BOR003	ah okay
+BOI007	noi siamo noi poi nella zona ci sono anche
+BOI007	appartamenti affittati o
+BOI007	studenti o altre famiglie che vengono da f~ da fuori italia
+BOR003	mhmh e come zona è molto trafficata oppure si vive bene
+BOI007	mh in macchina gira bene
+BOR003	e avete qualche per esempio storia che vi viene in mente legata alla vostra casa o legata alla vostra zona
+BOR003	qualche aneddoto
+BOI008	beh qualche aneddoto può essere questo può essere questo
+BOI008	mh la la vicino la nostra casa passa un fiume savena
+BOR003	mhmh
+BOI008	fiume
+BOI008	xxxxxxxxx
+BOI008	c'era una tradizione
+BOI008	ed erano i
+BOI008	quelli che mangiavano e
+BOI007	si vendeva e la chiamavano sor~ c'era una sorgente di acqua solforosa che là a bologna la chiamavano macapuzzua
+BOR003	ah e non lo sapevo
+BOI007	e
+BOI007	negli anni
+BOI007	cinquanta sessanta
+BOI007	la genta arrivava lì o a piedi in bicicletta
+BOI007	andava a bere quest'acqua che dicevano fosse
+BOI007	sana
+BOI007	e c'era un omino che vendeva un bicchiere d'acqua e faceva le crescentine
+BOR003	ah
+BOI007	adesso questa cosa è sparita
+BOI008	non c'è più
+BOR003	non c'è più
+BOR003	che bella
+BOI008	il mago ioddari
+BOI007	però adesso com'è
+BOI008	da bambino ragazzo con mio padre
+BOR003	ah
+BOI008	poi è è sparito però
+BOI008	è bella lunga tradizione questa
+BOR003	che bello
+BOI007	questo però fa un po' pensare perché sopra nella prima collina c'è l'ospedale bellaria
+BOR003	mhmh
+BOI007	che a quei tempi era un sanatorio
+BOI007	e forse là proprio il primo xxx
+BOR003	ah
+BOI007	non si sa
+BOI007	se c'era qualcun altro a quei xx
+BOR003	ah sì sì è vero
+BOI007	comunque dei malati non ce ne son stati
+BOI007	pare
+BOR003	mhmh
+BOR003	ma che bello grazie non lo sapevo
+BOR003	e invece in generale di bologna
+BOI008	di
+BOR003	di i~ la città di bologna
+BOR003	cos'è che vi piace di più
+BOI008	piace tutto
+BOR003	tutto
+BOR003	tutto
+BOI008	il centro xxxxxx su tutte le strade i
+BOI008	danno da mangiare
+BOI008	xxxx danno da mangiare in tutte le stradine fanno mh cai~
+BOI007	famosi taglieri no e soprattutto la storia di bologna
+BOI008	famosi taglieri
+BOR003	sì
+BOI008	non so se l'hai visto ma è xx
+BOI008	e poi ci sono degli enormi mercati lì
+BOI008	nel centro storico
+BOI008	poi ci sono dei musei
+BOI008	che sono molti storia
+BOI008	non so come bene dirlo
+BOI007	poi è una città medievale per cui le mura antiche sono
+BOR003	sì
+BOI007	l'esagono xxxx dal medioevo
+BOR003	le torri
+BOR003	è vero
+BOI007	la più antica università per cui
+BOI007	nel senso a noi piace bologna
+BOI007	ci stiamo
+BOI008	ci andiamo poco
+BOR003	mhmh
+BOI007	in centro
+BOI008	ultimamente sì
+BOI008	quando lavoravo lì in centro
+BOI008	ultim~ ultimamente ci andiamo poco in centro
+BOR003	mhmh
+BOI008	al centro è sempre molto
+BOR003	sempre pieno
+BOI008	eh si perché è sempre pieno
+BOI007	no noi quando eravamo in periodo lavorativo abbiamo tutti e due avuto gli uffici
+BOI007	in cen~ in pieno centro
+BOR003	mh mh
+BOI007	per cui ehm tutta la nostra vita è stata anche in centro e adesso che non lavoriamo più
+BOI007	frequentiamo di più il nostro quartiere
+BOR003	mhmh
+BOR003	e com'è cambiato negli anni
+BOR003	anche a livello
+BOR003	di città proprio in sè di persone che la vivono
+BOI007	sai adesso tutte le città
+BOI008	beh ci sono
+BOI008	ci sono tanti stranieri a dir la verità eh stranieri
+BOR003	mhmh
+BOI008	in visita due tre giorni o un giorno
+BOI008	ma
+BOI008	dobbiamo dire anche un po' purtroppo ci sono nella città di bologna tanti stranieri
+BOR003	mhmh
+BOI008	tanti son nati e si sono inseriti però poc poc mel
+BOR003	mhmh
+BOI008	cioè
+BOI008	male
+BOR003	sì sì
+BOI007	come in tutte le città
+BOI008	e insomma
+BOR003	è vero
+BOI007	e poi essendo una città universitaria
+BOI007	risente molto della presente degli studenti cioè
+BOR003	sì
+BOI008	ecco c'è una città universitaria che ha circa
+BOI008	centomila
+BOI008	beh so centomila studenti universitari
+BOI008	capisci che
+BOI008	genera un po' di problemi
+BOR003	è vero
+BOI008	e dove stanno a dormire eh
+BOI008	qualcuno è è contento qualcuno di insomma
+BOI008	solo che poi ci sono università xxxxx a saragozza
+BOR003	mhmh
+BOI008	parte
+BOR003	sì
+BOI008	e
+BOI007	tu dove sei
+BOR003	io in ca~ via cartoleria
+BOR003	e anche in via filippo re e in via santa cristina
+BOR003	quindi io dovevo girare per per tre sedi
+BOI008	ah
+BOR003	e a
+BOI007	perché prima della pandemia adesso bologna ha circa quattrocentomila abitanti
+BOI007	però prima della pandemia con l~ lo la l'università diciamo al suo massimo si arrivava a
+BOI007	a un
+BOI007	a un milione quasi
+BOR003	sì sì sì è vero
+BOI007	per cui tu capisci che la città
+BOI007	è veramente frequentata da persone che non sono residenti
+BOI007	c'è molto movimento
+BOI007	è anche sempre piaciuta per quello poi
+BOI007	adesso il clima è cambiato dappper tutto i bolognesi son sempre stati chiamati biassanot cioè quelli che vivono anche di notte tranquillo potevi uscire
+BOR003	mhmh
+BOI007	senza problemi
+BOI008	tu sai come sono gl~ gli umarel
+BOR003	sì e quelli dei no
+BOR003	quelli dei cantieri
+BOI008	esatto
+BOR003	okay
+BOI008	gli umarel sono quelli che si mettono
+BOI008	al bordo con le mani dietro la schiena
+BOR003	sì
+BOI008	a guardare cosa fanno cosa non fanno
+BOR003	sì
+BOI008	gli umarel
+BOR003	è vero è vero
+BOI008	xxxxxxx
+BOR003	e quindi tra gli aspetti più negativi della città potremmo dire un po' questo
+BOR003	troppo
+BOI007	la città è cambiata
+BOI007	le città son tutte cambiate
+BOR003	mhmh
+BOI007	perché c'è molto più movimento rispetto ai pe~
+BOR003	sì è vero
+BOI007	partiamo dagli anni settanta ma forse anche già da prima
+BOI007	anche xxxx però non è detto che non sono vivibili comunque
+BOR003	mhmh
+BOI007	per noi ci vuole un po' più di attenzione un po' di prundenza
+BOI007	valutare certe situazioni
+BOI007	le cose sono mh cambiate poi pir~ poi ripeto per eh per dire sabato si andava tutti in centro a far la passeggiata
+BOR003	mhmh
+BOI007	adesso mh
+BOI007	certe persone sono un po' xxx
+BOI008	non sai chi
+BOI008	quaran~ quaranta cinquanta
+BOI008	cinquant'anni fa in piazza maggio~ perché era piana facevano il mercato
+BOR003	mhmh
+BOI008	al mercato era v~ era venuta solo la presenza
+BOR003	mhmh
+BOI008	dei contadini che venivano in città
+BOI008	con la loro
+BOI008	e facevano
+BOI008	la vendita la mucca
+BOR003	ah
+BOI008	il grano
+BOR003	okay
+BOI007	in piazza maggiore
+BOI008	in piazza maggiore
+BOI007	al venerdì venerdì
+BOI008	e c'era
+BOI008	il contadino che vendeva
+BOI008	il tizio che comprava
+BOI008	e chi faceva da mediatore
+BOR003	mhmh
+BOI007	il contratto consisteva in una stretta di mano
+BOR003	ah
+BOI007	c'era poca carta in genere
+BOR003	che bello
+BOI007	forse anche da voi
+BOR003	adesso proprio totalmente cambiato
+BOI008	ed era di più sì facevano sessanta settant'anni fa
+BOI007	sì parli del prima della guerra insomma con il dopoguerra adesso poi le cose si chiaramente
+BOR003	mhmh
+BOI007	eh poi c'era nella sala borsa in piazza maggiore che c'era il mercato perché
+BOI007	bologna è sempre stata una una città dove c'era il
+BOI007	il commercio e lo scambio dei cereali
+BOR003	mhmh
+BOI007	in sala borsa c'erano adesso è diventata una biblioteca
+BOR003	sì bellissima
+BOI007	questa la conosci
+BOR003	mhmh
+BOI007	dove ci sono tutte quelle
+BOI007	quegli ufficetti quei posticini là sono uffici di quel banco dei cereali
+BOR003	ah vedi
+BOI007	e c'era veramente xx i contraxx li facevano lì
+BOR003	mhmh
+BOI007	ma io me lo ricordo ancora negli anni sessanta settanta
+BOR003	mhmh
+BOI007	per cui non era molto tempo fa
+BOR003	ah è molto tempo fa sì sì sì
+BOI007	poi è cambiato tutto anche lì eh
+BOI007	era un'altra cosa
+BOR003	mhmh dal punto di vista della sicurezza voi vi sentite sicuri
+BOI008	insomma
+BOI007	sì e no
+BOR003	mhmh
+BOI008	è la la la l il telegiornale locale
+BOI008	eh
+BOI008	salvo
+BOI007	eh sai
+BOI008	c'è sempre una na na tentazione eh è vero
+BOI008	di
+BOI007	io mi sento meno sicura
+BOR003	mhmh
+BOI008	sì sì sì degli degli
+BOI007	io non lo so magari la sera
+BOI008	eh gli immigrati che vanno fanno dei xxxx con con xxx anziane
+BOI008	ehm
+BOI007	tu da sola la sera non uscirai più
+BOI008	da sola devi mh
+BOI008	un po' più meno sicurezza insomma
+BOR003	mhmh
+BOR003	una volta era diverso
+BOI008	una volta era diverso
+BOI008	si son trasferiti in tutte in tutte le città
+BOI007	sai la gente continua ad andare a teatro continua ad andare al cinema
+BOI007	però mh non più con quella tranquillità che
+BOI007	qui ormai credo che sia a livello mondiale questi questi discorso non solo locale
+BOR003	sì sì
+BOR003	no no è vero
+BOI007	però
+BOI007	siamo qui parliamo
+BOR003	bisogna fare qualco~ esatto
+BOI007	siamo ancora
+BOI007	se si vuole affrontare la realtà
+BOR003	è vero è vero
+BOR003	e invece sempre di bologna
+BOR003	i portici sono molto caratte~ i portici
+BOI008	i come
+BOR003	sono molto caratteristici
+BOI008	allora
+BOR003	che adesso sono anche entrati a far parte del
+BOI008	brava
+BOI007	patrimonio dell'unesco
+BOR003	esatto
+BOR003	e con
+BOI008	diciassette diciotto chilometri sono
+BOR003	eh sono
+BOI008	xxxx
+BOR003	ah è vero che vanno poi fino a san luca
+BOI008	a san luca
+BOR003	ci siete mai stati
+BOI008	non lo so xxxxx
+BOI007	caratteristica sicuramente
+BOR003	c'è tipo qualche ricordo che avete in particolare
+BOR003	magari di quella camminata o di san luca
+BOI008	andavamo col xx
+BOR003	ah
+BOI008	xxx sì andavamo con compagni di scuola
+BOI007	e poi
+BOI008	lo facevamo lì
+BOI008	e anche
+BOI008	vicino la le torri
+BOR003	sì
+BOI008	sulla torre
+BOI008	no mh
+BOI008	eh eh
+BOI007	ma è stato anche occasioni sportive i portici no
+BOI008	beh sai
+BOI007	per fare allenamento andare a san luca
+BOI007	perché non tu tu che facevi atletica e
+BOI008	xxx
+BOI008	beh si anch'io
+BOR003	ah
+BOI008	ma voglio dire
+BOI008	su per san luca ci andava tanta gente andava
+BOI008	con tranquillità insomma c'erano
+BOR003	mhmh
+BOI008	pericoli vari
+BOI008	terzolo
+BOI008	salendo per due chilometri
+BOR003	mhmh sì sì
+BOI008	è vero
+BOI008	sì mh si dice il il
+BOI008	della morosa o del moroso
+BOR003	sì
+BOI008	xxxx
+BOI007	adesso non più
+BOI008	beh adesso può darsi che ci vadano
+BOI007	comunque i portici son sempre stati piacevoli perché sai siete in centro
+BOR003	vero
+BOI007	son belli da vedere sono anche comodi e a
+BOI007	riparano dal sole se piove non devi aprire l'ombrello
+BOI008	una volta
+BOI007	poi vedo che anche nei quartieri
+BOI007	dove è stato possibile eh non so passando di qua forse avete visto alcuni palazzi continuano ad avere i portici
+BOR003	mhmh
+BOI007	per cui è e rimane questa
+BOI007	piacevolezza anche nelle costruzioni
+BOI007	mh in periferia non sempre è possibile
+BOI007	però quando è possibile
+BOI007	come tratti
+BOR003	mhmh
+BOI007	infatti quando hanno fatto la valutazione per l'unesco hanno contato anche tutti i tratti periferici
+BOI008	lo~ una volta c'era anche la funivia
+BOR003	ah davvero
+BOI008	quella ancora
+BOI008	l'ho vista
+BOR003	ah ah
+BOI008	poi a un certo punto dalla xx l'hanno tolta
+BOI008	dicono che la la mh
+BOI007	dovrebbero riprestinare ma
+BOI008	la ripristinano
+BOI007	è un po' costosa
+BOI008	ci sono i pali
+BOI008	c'è la la
+BOR003	mhmh
+BOI008	la
+BOR003	e come li trovate come stato attuale secondo voi sono tenuti bene oppure i portiici
+BOI008	che cosa
+BOI007	sarebbero tenuti bene se non fossero
+BOI007	mitragliati da quelle maledette scritte
+BOI007	sarebbero tenuti bene perché
+BOI007	chi li vive
+BOI007	ci tiene
+BOI007	pulito eccetera adesso vogliono anche soprattutto in centro abbellirli con mh delle piante de mh
+BOI007	mh delle vaschette de~ insomma dei cespugli però
+BOI007	putroppo bologna sta vive questa situazione
+BOI007	bruttissima
+BOR003	mhmh
+BOI007	e le scritte
+BOI008	le scritte sui muri
+BOR003	eh sì
+BOI007	sui muri sulle cose i bidoni
+BOI008	le scritte al contrario xxx
+BOR003	sì è
+BOI007	poi non puliscono
+BOI008	le hai viste tu
+BOR003	mhmh
+BOI008	che vivi lì studi a bologna
+BOR003	io sì studio adesso a bologna però non sono proprio qua fisicamente però sono stata al primo anno che facevo tutta la settimana qua quindi
+BOR003	sì sì ho presente
+BOR003	poi anche
+BOI007	dove vivi
+BOR003	io a san donato
+BOI007	ah san donato
+BOR003	quindi abbastanza anche vicino
+BOR003	però dai mi ricordo che anche l'odore spesso erano un po' sporchi e quindi
+BOI007	purtroppo vedi
+BOI007	tu vedi che di notte di notte succedono queste cose
+BOI007	purtroppo è quello che impedisce adesso di vivere sereni
+BOI007	ed è una cosa che a me dispiace
+BOR003	mh immagino da bolognesi è
+BOI007	sì no ma poi ci si impegna le associazioni commercianti singoli
+BOI007	se si si impegnano a pulire il giorno dopo è di nuovo come prima è una cosa che disturba moltissimo
+BOR003	mhmh no immagino
+BOI007	un bolognese non è abituato a questa cosa
+BOI007	purtroppo
+BOI007	non puoi mettere l'esercito nelle strade insomma
+BOR003	no no è vero
+BOR003	e invece qualche storia che vi viene in mente sui portici
+BOR003	ne avete
+BOR003	o aneddoto oppure anche vostra storia
+BOI008	sui portici
+BOR003	sì o vostra storia anche personale qualche incontro non so
+BOR003	qualche posto che è sotto portici che
+BOI007	beh un portico famoso è quello della
+BOI007	della chiesa
+BOI007	mh di san
+BOI007	il portico dei servi
+BOI007	dove nel periodo natalizio c'è un famoso mercatino
+BOI007	natalizio
+BOI008	le palle per la la la
+BOI007	il presepe
+BOI008	gli alberi
+BOR003	mhmh
+BOI007	le statuine di natale tutti gli addobbi natalizi quello è un portico famoso
+BOI008	le statuine
+BOR003	mhmh
+BOI007	anche quello è un po' cambiato perché
+BOI007	una volta c'erano le statuine in gesso
+BOI007	e adesso è tutto in plastica per cui vabbè
+BOR003	mhmh
+BOI007	comunque rimane anche questa'anno l'anno scorso non l'han potuto fare quest'anno invece ha già riaperto l'hanno già innaugurato
+BOI007	per cui quello è un portico che per i bolognesi è sempre stato
+BOI007	famoso no c'andavai a comprare il torrone prendevi
+BOR003	mhmh
+BOI007	le palline per l'albero di natale una xsina nuova
+BOI007	tutti gli anni erano diversi i bambini andavano là per mangiare lo zucchero filato
+BOR003	sì
+BOR003	tradizioni
+BOI007	poi gli altri portici
+BOI008	i portici sono molto
+BOI008	molto tenuti dai bolognesi perché ci tengono ai portici
+BOI007	oramai sono anche occasione di incontro
+BOI007	ehm
+BOI008	ci si incontrano
+BOI008	buongiorno signora come sta ah ah eh
+BOI008	chiacchiere puramente
+BOI007	lungo la strada sul marciapiede magari hai più fretta
+BOI007	questo ti porta ad essere anche po' più tranquilla a vivere la città
+BOI007	con più calma
+BOR003	ci sta
+BOI007	perché se tu porti ti viene da chiacchierare un po' di più
+BOR003	sì sì è vero è vero
+BOI007	il marciapiede no però
+BOR003	è vero
+BOI007	perché le vai e e se non hai un proprio un luogo dove fermarti
+BOI007	anche questa è proprio una caratteristica dei portici
+BOR003	mhmh
+BOR003	e invece il vostro posto preferito di bologna
+BOR003	che
+BOR003	in cui portereste un vostro amico il vostro posto del cuore a cui siete più legati in assoluto
+BOI007	io direi il centro storico sicuramente piazza maggiore
+BOI008	e anche lo stadio
+BOR003	anche lo stadio
+BOI008	ci sono andato
+BOI008	cinquant'anni
+BOI008	allo stadio sempre sempre sempre
+BOI008	quest'anno non lo faccio più le guardo alla televisione
+BOR003	mhmh quindi proprio tifoso
+BOI008	come
+BOR003	tifoso proprio
+BOI007	tutti e due
+BOR003	ah sì
+BOI007	abbonati
+BOI008	siamo dei
+BOI008	abbiam perso nelle
+BOI008	xxxx
+BOI008	eh
+BOI007	sei tremendo
+BOR003	no no vabbè però anche quello dai fa parte delle tradizioni
+BOI008	xxx che tradizioni
+BOI007	comunque il centro storico è sicuramente dove portiamo gli amici quando vengono a bologna e non conoscono la città sai
+BOI007	parti da lì poi ti muovi lì intorno
+BOR003	sì
+BOI007	e c'è mh
+BOI008	è tutto pieno
+BOI008	perché tutti i negozi comunque
+BOR003	mhmh
+BOI008	diciamo
+BOI008	dei posti dove ci sono i xx belli e
+BOR003	sì
+BOI008	e vai a vedere non sempre comperi
+BOR003	sì sì è vero
+BOR003	per esempio i~ un vostro ristorante a cui siete legati
+BOR003	un posto che vi piace
+BOI007	in centro sì c'è
+BOI007	leonida no
+BOI008	come
+BOI007	leonida è dove andiamo sì
+BOI008	leonida
+BOI007	ed è la cucina bolognese classica
+BOR003	che è sempre buona
+BOI007	ristorante
+BOI007	antico cioè diciamo è lì da
+BOI007	da tantissimi anni ed c'è la
+BOI007	per cui quando siamo in centro con amici o conoscenti che vengono a vedere la città
+BOI008	xx
+BOI007	un attimo solo
+BOI007	ce ne andiamo a mangiare
+BOR003	mhmh
+BOI007	i tortellini
+BOR003	eh beh però
+BOI008	diciamo che
+BOI008	non mi ricordo bene do~ in via indipendenza c'è il diana
+BOI007	sì
+BOI007	c'è il diana che è uno dei più famosi
+BOI007	che anche quello adesso è stato ceduto da un po' di tempo ehm vicino ai teatri vicino ai cinema
+BOI007	su indipendenza è la strada principale che va alla stazione lo sai
+BOR003	sì
+BOI008	è sempre poi piena di gente
+BOR003	è vero è vero
+BOI008	perché non passano neanche le
+BOI008	le macchine
+BOI007	mh
+BOI008	di~ di le m~ le macchine non passano
+BOI007	no
+BOI007	xxxx
+BOI008	la via e da lì si arriva a via irnerio con la piazza
+BOI007	eh no le macchine non posson se non quelle autorizzate mezzi pubblici i taxi le auto blu
+BOI007	solo i residenti che hanno dei permessi speciali
+BOI007	poi adesso ho letto che dopo xxx dovranno xx
+BOR003	ah può essere
+BOI007	permessi anche per i residenti
+BOR003	mhmh
+BOR003	e invece santo stefano quella zona lì anche è molto bella
+BOI007	sì noi ci abbiam lavorato
+BOR003	sì
+BOR003	dove
+BOI007	lui alle cassa di risparmio
+BOI007	un palazzo bianco bellissimo
+BOI007	per quarant'anni
+BOI007	io invece avevo uno studio di commercialisti e ho ho vagato fra
+BOI007	corte galluzzi
+BOI007	via d'azeglio via santo stefano
+BOR003	ah lì è proprio bello
+BOI007	sono stata la nostra zona sempre che è bellissima vicina alle sette chiese
+BOR003	bellissimo
+BOI007	bei negozi bei locali e abbiamo passato la nostra vita lavorativa praticamente in quella zona lì
+BOR003	e invece
+BOR003	quando eravate proprio giovani quali erano i posti in cui andavate
+BOR003	più frequentemente
+BOI008	per i bar che no~ noi eh
+BOI008	diciassette diciotto
+BOI008	xx anni andavamo nei bar a giocare a biliardo
+BOR003	ah
+BOI008	frequentemente però il problema è xxx
+BOI007	ma eh noi non siamo
+BOR003	cinema teatro
+BOI007	nessuno dei due appassionati di ballo
+BOI007	però in centro c'erano dei locali
+BOI007	fa domenica pomeriggio i ragazzi andavano a ballare
+BOI007	eh c'era tutta
+BOI007	xxxxx
+BOI007	ma
+BOI007	nei locali dove si ballava
+BOI007	boh
+BOI007	non li frequentavo
+BOI008	quei locali
+BOI008	ehm
+BOI008	il com'era
+BOI008	quello famoso
+BOI008	di medico
+BOI008	e
+BOI007	quello in via ugo bassi
+BOI008	eh
+BOI008	eh
+BOI008	non c'è più non c'è non ci sono più quei locali lì eh
+BOR003	mhmh
+BOR003	per esempio cinema o teatro si andava
+BOI007	sì sì andia~ siamo andati diverse volte
+BOI007	al comunale per dei concerti
+BOI008	adesso sono stati chiusi per un anno ehm ancora un po'
+BOR003	mhmh sì
+BOI008	adesso riaprono
+BOI007	xxxx
+BOR003	e adesso andate ancora
+BOI008	cos'è che hai detto
+BOI007	rara~ raramente
+BOR003	andate ancora adesso a cinema teatro o di meno
+BOI007	poi questo blocco della pandemia veramente c'ha tolto xxx
+BOI008	xxx
+BOI008	xx xx alduse all'arena del sole siamo andati
+BOR003	mhmh
+BOR003	sì
+BOI008	diverse volte
+BOI007	sì al duse al teatro comunale e
+BOI007	gli altri li conosciamo
+BOI008	il teatro comunale perché poi con con la cassa noi potevamo fare
+BOI007	xxxxx
+BOI007	bellissimo l'hai visto il teatro comunale
+BOI008	xxxxx
+BOR003	sì
+BOR003	sì sì sì
+BOR003	e che spettacoli vi ricordate uno spettacolo che vi è rimasto
+BOI008	xxx per me
+BOI008	è solo solo l'opera lirica
+BOI007	visto anche dei concerti
+BOI008	sì concerti
+BOI008	concerti
+BOI007	abbiamo
+BOI008	di musica
+BOI007	abbiamo
+BOI007	siamo andati a un concerto che ha cantato luciano pavarotti
+BOR003	mh
+BOR003	bello
+BOI007	un'altra un'altra serata al teatro comunale quando il bologna football che~ club club ha
+BOI007	ha festeggiato gli ottant'anni
+BOI007	ha fatto una festa al teatro comunale
+BOR003	mhmh
+BOI007	lui e lui ha vinto xxxx
+BOI007	ma anche adesso
+BOR003	mh
+BOI007	poi tanto
+BOI007	davanti all'arena del sole
+BOI007	ricordo giorgio gaber all'arena del sole
+BOR003	bello
+BOI007	questo però
+BOR003	allora
+BOR003	e invece voi essendo di bologna
+BOR003	quando vi siete incontrati per la prima volta
+BOR003	ve lo ricordate
+BOI008	noi
+BOI008	via beniamino gigli
+BOR003	ah
+BOI007	qui vicino
+BOI008	via beniamino gigli
+BOI007	sotto casa
+BOI008	xxx
+BOR003	in comune
+BOI008	io
+BOI008	dopo ero andato in america
+BOI008	ah mh eh un'amica mia
+BOI008	ci ha
+BOI008	presentato
+BOI008	per cui dopo
+BOI008	dopo una settimana
+BOI008	niente
+BOI008	mi son fraccato una gamba
+BOI008	xxx
+BOR003	sì sì certo certo
+BOI008	xxando forte
+BOI008	otto mesi non passavano più
+BOR003	porca miseria
+BOI008	otto mesi ingessato e lei ha incominciato a fare l'infermiera
+BOR003	ah
+BOR003	e dopo lì è nato l'amore
+BOI007	e non vole xxx farel'infermiera
+BOR003	e dopo vi siete sposati molto tempo dopo
+BOI008	quattro anni
+BOR003	ah
+BOR003	quindi quattro anni di fidanzamento avete fatto
+BOI007	e uno di gesso
+BOI007	sì quattro anni
+BOR003	e all'inizio
+BOR003	frequentavate dei posti
+BOR003	avevate dei posti particolari in cui magari la portavi
+BOI008	andavamo al mare
+BOR003	al mare
+BOI008	al mare andavamo a
+BOI007	a marina di ravenna
+BOI008	marina marina di ravenna
+BOI007	qualche weekend
+BOI007	poi lui ha iniziato veramente la sua attività sportiva amatoriale
+BOI007	è entrato siamo entrati nella nostra polisportiva
+BOI007	come giudici da gara
+BOR003	ah
+BOI007	l'atletica leggera
+BOI007	e diciamo la sua specialità era quella di speaker
+BOI007	alle ma~ varie manifestazioni per cui praticamente tutte le domeniche eravamo chiamati
+BOI007	o in città o fuori o a forlì o a ravenna
+BOR003	mhmh
+BOI007	o a faenza o
+BOI007	insomma eravam sempre in movimento per cui
+BOI007	diciamo la nostra vita in gioventù prima di sposarci poi da sposati
+BOI007	praticamente
+BOI007	nello sport
+BOR003	okay
+BOR003	quindi è una cosa che vi accomuna
+BOI008	lei pure ha fatto molto era
+BOI008	presente è stata tre volte
+BOI008	a new york a correre le maratone
+BOR003	ah
+BOI008	la maratona di new york
+BOR003	ah
+BOR003	che bello wow
+BOI008	tre volte sono andato
+BOR003	mamma mia
+BOI008	le le le gare le facciamo in zona non a new york
+BOR003	sì sì
+BOI008	appunto perché lei è xx
+BOR003	sì bello
+BOI008	non a far la maratona xx
+BOR003	a supportarti sì sì
+BOI007	bellissimo un'esperienza straordinaria a parte che siamo innamorati di new york però
+BOI007	in quell'occasione è una città speciale
+BOR003	mhmh
+BOI007	anche se dedica sono
+BOI007	xxxx
+BOR003	sì
+BOI007	si vedono stando un giorno lì
+BOI007	tutti i quartieri
+BOI007	e tu vedi
+BOI007	nella a manhattan le signore con la pelliccia che
+BOI007	xxxxxx
+BOI008	è vero
+BOR003	sì sì
+BOI007	nel bronx
+BOI007	nel quartiere ehm ebreo
+BOI007	nel quartiere ebreo tutti fuori che suono che lanciano dai dai dai
+BOI007	è una cosa meravigliosa meravigliosa
+BOR003	e invece qui in città
+BOI008	e poi ho fatto
+BOI008	posso dire parlo io
+BOR003	c~ certo certo certo
+BOI008	ho fatto
+BOI008	fino in fondo
+BOR003	ah ah
+BOI008	non di cento
+BOI008	fondo
+BOI008	ho fatto tutte le gare che c'erano in italia
+BOI008	e anche all'estero
+BOI008	e sono andato anche a fare la
+BOI008	la la xxx xxx
+BOI008	che è una gara
+BOI008	in svezia
+BOI008	di novanta chilometri
+BOR003	madonna
+BOR003	quindi un vero sportivo proprio
+BOI007	a livello amatoriale
+BOI007	si è impegnato molto
+BOI008	scusi scusi se non centra niente
+BOR003	no no perfetto invece
+BOR003	e invece tipo a bologna ci sono delle manifestazioni sportive a cui
+BOI008	beh c'è c'è una corsa che han fatto a bologna
+BOI008	solo che
+BOI008	quindici tre settimane fa
+BOI007	tre settimane fa
+BOI007	la maratona
+BOI007	l'hanno ripresa dopo venticinque anni
+BOI008	beh certo è abbastanza sensibile
+BOI008	tutti gli sport
+BOI007	poi c'è una famosa gara ciclistica
+BOI007	che è la
+BOR003	ah è vero
+BOI007	la mh quella che arriva a san luca
+BOI008	più famosa allora
+BOI007	quella che arriva là arriva a san luca
+BOR003	eh che arriva a san luca è vero
+BOI008	ah sì sì sì sì sì
+BOR003	mhmh
+BOI007	come si chiama
+BOI007	ehm
+BOI007	xxxx
+BOI008	xxxxx
+BOR003	sì sì
+BOI008	eh
+BOR003	e inv~ avete mai preso parte a
+BOR003	queste
+BOR003	cose sportive a bologna in passato
+BOI007	beh lui sì quello che riguarda maratore atletica è tutto lui
+BOR003	sempre
+BOI007	è sempre stato
+BOI007	ciclismo no
+BOR003	mhmh
+BOI008	mhmh
+BOI008	mh
+BOI008	ciclismo ho fatto la la corsa che partiva
+BOI008	da piazza saffi x x x
+BOR003	sì sì
+BOI008	e arrivava su
+BOI007	a cento chilometri
+BOI008	ma no
+BOI007	ah no
+BOI008	no no beh
+BOI008	poi ho seguito anche la cento arrivavo
+BOI008	insomma venti chilometri su in salita xxx
+BOI007	predappio
+BOI008	no no
+BOI008	eh
+BOI007	predappio
+BOR003	può essere
+BOI008	no non lo so
+BOI008	ma c'era tanta gente
+BOR003	e invece il dialetto bolognese
+BOR003	an~
+BOI008	sì
+BOR003	ancora lo parlate frequentemente o
+BOI008	no lei lo capisce
+BOI008	il dialetto bolognese
+BOI008	io lo s~ capisco bene
+BOR003	mhmh
+BOI008	guardi
+BOR003	parlano mai
+BOI008	qualc~ qualche battuta
+BOI007	son proprio due di noi
+BOI008	io xx
+BOI008	se voi xx a ma so brisa
+BOR003	e pensate che
+BOR003	cioè sia una cosa che è andata un po' persa vi dispiace che per esempio i giovani non non lo parlino
+BOI007	eh guarda io ho un nipote abbiamo un nipote che ha quarantadue anni
+BOI007	nato a bologna eccetera lui è
+BOI007	appassionatissmo e lo parla
+BOI007	il dialetto bolognese gli piace molto per cui
+BOI008	xxxx
+BOI007	per cui è
+BOI007	si parla ancora magar~ magari non con frequenza diciamo nel quotidiano però
+BOI007	mh è come nel veneto
+BOI008	xxxx
+BOI007	sì no vabbè
+BOI007	e il veneto lo parla che lui
+BOR003	no
+BOI008	hai visto hai visto che
+BOI008	in certi bar un po' più di periferia gli anziani
+BOI008	che giocano a briscola
+BOR003	mhmh
+BOI008	dicono la battuta poi eh
+BOR003	sì
+BOI008	dicono anche qualcosa
+BOI008	insomma
+BOI008	non è frequente diciamo
+BOR003	una volta si parlava di più
+BOI008	sì molto di più
+BOR003	in ogni posto
+BOI008	in ogni posto
+BOI007	io guarda il papà mio è bolognese
+BOI007	doc
+BOI007	nato in via zamboni
+BOR003	ah
+BOI007	però mia mamma è veneta
+BOI007	erano tutti e due ovviamente
+BOI007	di treviso
+BOI007	si sono conosciuti in africa
+BOI007	dove io sono nata
+BOR003	ah sì
+BOR003	ah
+BOI007	mio papà era per lavoro mia mamma era con i suoi eh la sua famiglia da coloni
+BOI007	io sono nata là
+BOI007	e mio papà mi ha portata a bologna che avevo sedici mesi
+BOR003	mhmh
+BOI007	lui però ha sempre detto che ha una sorella che ha quattro anni meno di me
+BOI007	lui ha sempre detto
+BOI007	in casa
+BOI007	si parla italiano
+BOR003	mhmh
+BOI007	perché le bambine devono crescere parlando italiano
+BOI007	poi quando siamo fra i parenti e noi così
+BOI007	se mia mamma gli scappava una parola in veneto
+BOR003	sì sì sì sì
+BOI007	c'è
+BOI007	e mio papà uguale
+BOI007	per cui già fin da allora hai capito
+BOR003	mhmh
+BOI007	c'era questa necessità del parlare bene l'italiano
+BOR003	di parla~
+BOR003	mhmh
+BOI007	questo me lo ricordo perché xxx
+BOR003	mhmh sì sì sì
+BOR003	no no è vero una vo~ adesso il dialetto io me ne accorgo che
+BOR003	non si se~ non si sente più
+BOI008	poca roba
+BOI007	no è bello è bello perché
+BOR003	è peccato
+BOI007	rispecchia la le tue radici
+BOR003	vero
+BOI007	però è chiaro che sono
+BOI007	cose di secondo piano secondo me
+BOR003	sì sì sì sì sì è vero
+BOR003	perfetto
+BOR003	io

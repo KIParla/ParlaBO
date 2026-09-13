@@ -3902,7 +3902,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 466-2	BOR020	466	466	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 466-3	BOR020	466	466	3	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 466-4	BOR020	466	466	4	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-466-5	BOR020	466	466	5	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+466-5	BOR020	466	466	5	dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 466-6	BOR020	466	466	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 466-7	BOR020	466	466	7	or[atorio]	oratorio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-8(64)
 466-8	BOR020	466	466	8	insieme?	insieme	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1466.2	_	_	_	_

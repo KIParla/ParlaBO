@@ -339,7 +339,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 68-4	BOI010	68	68	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-5	BOI010	68	68	5	mese	mese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-6	BOI010	68	68	6	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-68-7	BOI010	68	68	7	com'	com'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+68-7	BOI010	68	68	7	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 68-8	BOI010	68	68	8	(eravate)	eravate	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-7(0)	_
 68-9	BOI010	68	68	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 68-10	BOI010	68	68	10	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

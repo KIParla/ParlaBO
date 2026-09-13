@@ -6739,7 +6739,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1106-9	BOI028	1106	1106	9	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1106-10	BOI028	1106	1106	10	stato	stato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1106-11	BOI028	1106	1106	11	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1106-12	BOI028	1106	1106	12	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	4-5(309)
+1106-12	BOI028	1106	1106	12	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	4-5(309)
 1106-13	BOI028	1106	1106	13	[(italicus)	italicus	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-7(0)	0-8(309)
 1106-14	BOI028	1106	1106	14	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(309)
 1106-15	BOI028	1106	1106	15	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(309)

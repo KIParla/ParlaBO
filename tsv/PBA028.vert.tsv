@@ -10727,7 +10727,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1665-17	BOI110	1665	1665	17	siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1665-18	BOI110	1665	1665	18	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1665-19	BOI110	1665	1665	19	maniscalchi	maniscalchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	10-11(531)
-1665-20	BOI110	1665	1665	20	[dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-5(531)
+1665-20	BOI110	1665	1665	20	[dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-5(531)
 1665-21	BOI110	1665	1665	21	x]	x	_	_	_	_	_	unknown	_	none	Syllables=1	End=3157.75	_	_	_	_
 1666-0	BOR031	1666	1666	0	[entrambi]?	entrambi	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=3156.92|End=3157.73	_	_	_	0-8(531)
 1667-0	BOI110	1667	1667	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=3157.78	_	_	_	_

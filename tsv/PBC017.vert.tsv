@@ -3583,7 +3583,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 390-5	BOI042	390	390	5	tutte	tutte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 390-6	BOI042	390	390	6	inglobate	inglobate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 390-7	BOI042	390	390	7	dentro	dentro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-390-8	BOI042	390	390	8	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+390-8	BOI042	390	390	8	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 390-9	BOI042	390	390	9	@nomeazienda	@nomeazienda	_	_	_	_	_	anonymized	_	none	_	End=1202.341	_	_	_	_
 391-0	BOR009	391	391	0	oka[y]	okay	_	_	_	_	_	linguistic	_	none	_	Begin=1202.97|End=1203.513	_	_	_	3-4(74)
 392-0	BOI042	392	392	0	[è]	è	_	_	_	_	_	linguistic	_	none	_	Begin=1203.46	_	_	_	0-1(74)

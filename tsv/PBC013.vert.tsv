@@ -5105,7 +5105,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 480-0	BOI035	480	480	0	andai	andai	_	_	_	_	_	linguistic	_	none	_	Begin=2195.047	_	_	_	_
 480-1	BOI035	480	480	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 480-2	BOI035	480	480	2	lavorare	lavorare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-480-3	BOI035	480	480	3	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+480-3	BOI035	480	480	3	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 480-4	BOI035	480	480	4	@nomeazienda	@nomeazienda	_	_	_	_	_	anonymized	_	none	PauseAfter=Yes	_	_	_	_	_
 480-5	BOI035	480	480	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 480-6	BOI035	480	480	6	conosci	conosci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5304,7 +5304,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 503-9	BOI035	503	503	9	assicurazione	assicurazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 503-10	BOI035	503	503	10	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 503-11	BOI035	503	503	11	facevi	facevi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-503-12	BOI035	503	503	12	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+503-12	BOI035	503	503	12	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 503-13	BOI035	503	503	13	@nomeazienda	@nomeazienda	_	_	_	_	_	anonymized	_	none	_	End=2288.691	_	_	_	_
 504-0	BOR009	504	504	0	okay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=2288.691	_	_	_	_
 504-1	BOR009	504	504	1	proprio:	proprio	_	_	_	_	_	linguistic	_	none	_	_	6x1	_	_	_
@@ -5828,7 +5828,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 551-6	BOR009	551	551	6	discorso	discorso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-7	BOR009	551	551	7	legato	legato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-8	BOR009	551	551	8	singolarmente	singolarmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-551-9	BOR009	551	551	9	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+551-9	BOR009	551	551	9	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 551-10	BOR009	551	551	10	@nomeazienda	@nomeazienda	_	_	_	_	_	anonymized	_	none	_	_	_	_	_	_
 551-11	BOR009	551	551	11	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 551-12	BOR009	551	551	12	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

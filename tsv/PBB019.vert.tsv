@@ -4713,7 +4713,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 568-2	BOR009	568	568	2	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 568-3	BOR009	568	568	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 568-4	BOR009	568	568	4	rincaro	rincaro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-568-5	BOR009	568	568	5	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+568-5	BOR009	568	568	5	dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 568-6	BOR009	568	568	6	[dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-5(14)
 568-7	BOR009	568	568	7	ultimo]	ultimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(14)
 568-8	BOR009	568	568	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_

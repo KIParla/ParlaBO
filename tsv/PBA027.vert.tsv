@@ -6194,7 +6194,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1199-10	BOI107	1199	1199	10	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1199-11	BOI107	1199	1199	11	[settimana]	settimana	_	_	_	_	_	linguistic	_	none	_	End=2242.83	_	_	_	0-9(315)
 1200-0	BOI106	1200	1200	0	[marocco	marocco	_	_	_	_	_	linguistic	_	none	_	Begin=2239.93	_	_	_	0-7(314)
-1200-1	BOI106	1200	1200	1	(dell')	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-5(314)
+1200-1	BOI106	1200	1200	1	(dell')	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-5(314)
 1200-2	BOI106	1200	1200	2	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(314)
 1200-3	BOI106	1200	1200	3	scorso)]	scorso	_	_	_	_	_	linguistic	_	none	_	End=2241.564	_	_	_	0-6(314)
 1201-0	BOI106	1201	1201	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=2242.18	_	_	_	0-2(315)

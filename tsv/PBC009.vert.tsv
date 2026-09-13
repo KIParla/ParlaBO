@@ -6455,7 +6455,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 685-14	BOI022	685	685	14	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-15	BOI022	685	685	15	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-16	BOI022	685	685	16	parte	parte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-685-17	BOI022	685	685	17	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+685-17	BOI022	685	685	17	dell~	dell~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 685-18	BOI022	685	685	18	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 685-19	BOI022	685	685	19	italia	italia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 685-20	BOI022	685	685	20	nei	nei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -9992,7 +9992,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 952-3	BOI023	952	952	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 952-4	BOI023	952	952	4	<parecchi>	parecchi	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-8(0)	_	_
 952-5	BOI023	952	952	5	disertori	disertori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-952-6	BOI023	952	952	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+952-6	BOI023	952	952	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 952-7	BOI023	952	952	7	>esercito	esercito	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-8(0)	_	_
 952-8	BOI023	952	952	8	tedesco<	tedesco	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
 952-9	BOI023	952	952	9	diventarono	diventarono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -12805,7 +12805,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1215-0	BOR002	1215	1215	0	[no	no	_	_	_	_	_	linguistic	_	none	_	Begin=5535.33	_	_	_	0-2(224)
 1215-1	BOR002	1215	1215	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(224)
 1215-2	BOR002	1215	1215	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(224)
-1215-3	BOR002	1215	1215	3	quest']	quest'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-6(224)
+1215-3	BOR002	1215	1215	3	quest']	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-6(224)
 1215-4	BOR002	1215	1215	4	idea	idea	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1215-5	BOR002	1215	1215	5	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1215-6	BOR002	1215	1215	6	io:	io	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_

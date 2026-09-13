@@ -6143,7 +6143,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 625-11	BOI086	625	625	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1789.762	_	_	_	_
 626-0	BOR024	626	626	0	beh	beh	_	_	_	_	_	linguistic	_	none	_	Begin=1788.53	_	_	_	_
 626-1	BOR024	626	626	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	End=1789.53	_	_	_	_
-627-0	BOI086	627	627	0	[dall']	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1790.07	_	_	_	0-5(231)
+627-0	BOI086	627	627	0	[dall']	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1790.07	_	_	_	0-5(231)
 627-1	BOI086	627	627	1	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 627-2	BOI086	627	627	2	capisco	capisco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 627-3	BOI086	627	627	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -11563,7 +11563,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1189-18	BOR025	1189	1189	18	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1189-19	BOR025	1189	1189	19	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1189-20	BOR025	1189	1189	20	spillare	spillare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1189-21	BOR025	1189	1189	21	[dall']	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-5(432)
+1189-21	BOR025	1189	1189	21	[dall~]	dall~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-5(432)
 1189-22	BOR025	1189	1189	22	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1189-23	BOR025	1189	1189	23	acqua	acqua	_	_	_	_	_	linguistic	_	none	_	End=3346.355	_	_	_	_
 1190-0	BOR024	1190	1190	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=3344.996|End=3345.514	_	_	_	0-4(432)
