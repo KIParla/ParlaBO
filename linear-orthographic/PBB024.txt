@@ -572,7 +572,7 @@ BOI091	poi è vero che ci sono i posti il nuovo luna per esempio eh il posto
 BOI091	dove si potrebbe andare però
 BOI091	però si deve avere anche la compagnia per fare una cosa così
 BOR030	certamente
-BOI091	perché la devi fare in in balotta per divertirsi
+BOI091	# perché la devi fare in in balotta per divertirsi
 BOR030	mhmh
 BOR030	e più o meno quante volte a settimana esci se ne hai la possibilità
 BOI091	mh

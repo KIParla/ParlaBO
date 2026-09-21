@@ -634,7 +634,7 @@ BOI117	quindi è una questione di gusti non disprezzo assolutamente perché comu
 BOI118	e di abitudini
 BOR031	no beh certo
 BOI117	eh abbiamo imparato anche a farli perché abbiamo imparato a farli
-BOR031	osta
+BOR031	# osta
 BOI117	però
 BOI118	li~ li fanno x
 BOI117	sì li faccio metto sotto anche i federico e sara quindi li facciamo eh
@@ -800,7 +800,7 @@ BOR031	okay
 BOI117	e quindi visto che ormai eravamo quasi tutti quassù anche i miei genitori si sono trafseriti
 BOI117	insieme con luciano mh l'altr~ mio fratello noi siamo in cinque
 BOR031	okay
-BOR031	ah osta
+BOR031	# ah osta
 BOI117	per questo parlo sempre di fratelli sorelle
 BOR031	bello una famiglia grande
 BOI117	quindi
@@ -961,7 +961,7 @@ BOI117	adesso se~ sì sei settemila è già tanto
 BOR031	okay
 BOI118	e poi molte persone residenti
 BOI117	xx xx
-BOI118	vanno sono residenti però vivono coi figli fuori dal paese
+BOI118	# vanno sono residenti però vivono coi figli fuori dal paese
 BOI117	mh
 BOI118	tipo a bologna x a roma
 BOI117	a bologna c'è mezza cariati cariati è il nostro paese e a bologna
@@ -1115,7 +1115,7 @@ BOI117	mhmh
 BOR031	eh a proposito della famiglia no della monica siete amici no cioè vi vi vedete fa~ co~ di solito x
 BOI117	ma io suo papà lo vedo sempre tutti i giorni perché è il mio titolare
 BOR031	ah ah okay non lo sapevo questo
-BOI117	eh eh poi col~ no noi ci vediamo ci sentiamo poi comunque eh sara e monica sono state in classe insieme alle elementari
+BOI117	# eh eh poi col~ no noi ci vediamo ci sentiamo poi comunque eh sara e monica sono state in classe insieme alle elementari
 BOR031	eh
 BOI118	erano andate a scuola insieme
 BOR031	ah okay okay

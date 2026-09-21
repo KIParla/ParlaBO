@@ -39,10 +39,10 @@ BOI035	era un altro modo più ricco di autonomia secondo me
 BOI035	dalle mie parti si dicevi i~ in dialetto te lo dico in dialetto mi permetto di darti del tu ovviamente
 BOR009	certo oh
 BOR009	assolutamente
-BOI035	si dice poc scimiton
+BOI035	# si dice poc scimiton
 BOI035	poche pochi complimenti pochi poche stu~ poche stupidaggini
 BOI035	laddove stupiddaggini erano anche i baci gli abbracci eh le manifestazioni di affetto oh quelli erano
-BOI035	scimiton poc scimiton cioè andiamo al concreto noi siamo gente rude i miei erano mezzadri
+BOI035	# scimiton poc scimiton cioè andiamo al concreto noi siamo gente rude i miei erano mezzadri
 BOI035	con la terza elementare
 BOI035	per cui insomma come dire quella era la nostra vita il nostro mondo
 BOI035	a quattoridici anni sono venuta a bologna prima come dicevo da sola e poi due anni dopo tutta la famiglia si è trasferita a bologna

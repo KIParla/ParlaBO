@@ -137,10 +137,10 @@ BOI022	[x]
 BOI022	no ma hai visto c'era anche il xx
 BOI023	e:h ((ride)) sì sì (ah) fan di tutto
 BOR002	((tossisce))
-BOI023	e::h sì. (.) una cosa x cambiamenti enormi >(in)somma< io avevo questa vecchia dada in realtà era una specie di custode che ancora mio nonno: abitava la casetta qui sotto,
+BOI023	# e::h sì. (.) una cosa x cambiamenti enormi >(in)somma< io avevo questa vecchia dada in realtà era una specie di custode che ancora mio nonno: abitava la casetta qui sotto,
 BOI022	((tossisce))
 BOI023	mio nonno prese questi custodi, marito e moglie, il marito era molto vecchio e morì molto prima,
-BOI023	e:h lei mi fece un po' da dada perché io appunto ero la più piccola e: mi mi stava dietro un po'
+BOI023	# e:h lei mi fece un po' da dada perché io appunto ero la più piccola e: mi mi stava dietro un po'
 BOI023	e::h e sì (in)somma lei alla sera d'estate prendeva la sedia, faceva tutte le scale e si trovava nella casa di fronte che fa il bivio con
 BOI022	sì
 BOR002	[mhmh]

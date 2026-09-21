@@ -806,7 +806,7 @@ BOI072	mhmh mh
 BOI073	e
 BOR018	me lo sono trovato ricco
 BOI072	eh brava
-BOI073	u' cazz
+BOI073	# u' cazz
 BOI073	e
 BOI073	e quindi cioè
 BOI073	cioè ne~ nel lazio ci stanno un sacco di rossi però
@@ -817,7 +817,7 @@ BOI073	quindi il castello rossi effettevamente potrebbe
 BOI073	appartenere a qualcuno che
 BOI072	è mio
 BOI073	no però dico potebbe avere qualche correlazione
-BOR018	ci pijjam tutt chill che è nostr qua
+BOR018	# ci pijjam tutt chill che è nostr qua
 BOI072	esatto
 BOI073	perché io tipo tra gli amici cioè io conosco tre persone rossi come me però io so l'unico tra tutti e tre che
 BOI073	ha sempre avuto radici in isola del liri cioè dalla parte di mio padre
@@ -1037,7 +1037,7 @@ BOR018	di mhmh s~ sentire il confronto con le altre persone io ho fatto palestra
 BOI072	mhmh
 BOI073	e ma certe persone comunque lo pensano
 BOR018	eh sì
-BOI073	cioè le altre persone in palestra so' tutti un po' sboroni che si confrontano con gli altri
+BOI073	# cioè le altre persone in palestra so' tutti un po' sboroni che si confrontano con gli altri
 BOI073	cioè in palestra c'è sempre sto clima un po' di competizione
 BOI073	anche se non lo dai a vedè
 BOI072	esatto

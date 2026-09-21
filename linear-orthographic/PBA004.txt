@@ -765,7 +765,7 @@ BOR018	no sì sì
 BOI060	x
 BOI061	però s~ se menano però in realtà il pratello ultimamente è diventato molto più sicuro
 BOI060	x x
-BOI061	cioè m~ mia nonna quando ho detto vado a lavorare in pratello ha detto ma come lì è brutto p~ brutto pustaz diceva no bolognese e invece
+BOI061	# cioè m~ mia nonna quando ho detto vado a lavorare in pratello ha detto ma come lì è brutto p~ brutto pustaz diceva no bolognese e invece
 BOI061	è mh adesso
 BOI061	cioè l'hanno ribaltato nel senso eh
 BOI060	sì è ricambiato
@@ -1084,7 +1084,7 @@ BOI061	noi ci siamo conosciuti in montagna
 BOI060	nel senso
 BOI060	sì
 BOR018	fiera di questo
-BOI061	no no no fiera no puvrat
+BOI061	# no no no fiera no puvrat
 BOI060	avevamo
 BOI060	allora io ha~ ho un anno più di lei
 BOI060	ehm
@@ -1477,7 +1477,7 @@ BOR018	eh no sì appunto
 BOI060	è vero
 BOI061	io da mascarella bassa purtroppo non ci sono dalla tua parte
 BOR018	e qua non ci sono
-BOR018	io ero andata in aula studio a berti pichat vabbè su~ sui viali là non ci sono inizia a piovere ovviamente senza ombrello mi sono posso dirlo mi sono presa una cula
+BOR018	# io ero andata in aula studio a berti pichat vabbè su~ sui viali là non ci sono inizia a piovere ovviamente senza ombrello mi sono posso dirlo mi sono presa una cula
 BOI061	cosa vuol dire
 BOR018	ehm
 BOR018	dialetto m~ m~ mi sono bagnata fradicia

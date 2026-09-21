@@ -927,7 +927,7 @@ BOI102	è che appunto c~ cerco cioè io di solito la agosto me lo faccio sempre 
 BOR035	eh no
 BOI102	è un'agonia
 BOR035	parte che si svuota la città
-BOI102	è tutto chiuso non c'è nessuno c'è un caldo della madonna però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
+BOI102	# è tutto chiuso non c'è nessuno c'è un caldo della madonna però tanto devo lavorare quindi mi chiudo in ospedale e bona lì
 BOI102	e però se scendo giù ad agosto
 BOI102	eh cioè per me è peggio perché non mi godo casa zero
 BOR025	eh immagino
@@ -1513,7 +1513,7 @@ BOI102	però
 BOI102	però abbiam trent'anni la società ci impone dei cambiamenti
 BOR025	eh sì
 BOI102	ora li vogliamo accettare no io voglio ritornare in viaggio
-BOR025	tomo
+BOR025	# tomo
 BOR035	brava
 BOR035	brava
 BOR025	mh

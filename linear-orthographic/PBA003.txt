@@ -159,10 +159,10 @@ BOI056	ehm
 BOI056	però sì qualcosa ho imparato
 BOI056	ho preso la ts
 BOI056	ehm
-BOI056	sì no il rusco il tiro
+BOI056	# sì no il rusco il tiro
 BOI056	ehm
 BOR015	dammi il tiro
-BOI056	soccia
+BOI056	# soccia
 BOI056	sì però qualcosa sì
 BOR015	e invece prima mi dicevi del cibo che è che preferisci del cibo bolognese
 BOI056	mi piacciono i dolci

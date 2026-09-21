@@ -9,7 +9,7 @@ BOR031	okay
 BOR032	ventise~
 BOI094	per l'esattezza lei e suo fratello sono quinta generazioni che abitano a via nuova frazione di medicina
 BOR031	in questa casa
-BOR031	osta
+BOR031	# osta
 BOR032	no la casa no
 BOI094	no questa casa no però a via nuova
 BOR031	ah okay
@@ -62,7 +62,7 @@ BOR031	mhmh
 BOI094	e tutti i bambini li raccoglievano e andavano a san martino
 BOR031	ah okay
 BOI094	che anche adesso la scuola di san martino è stata chiusa
-BOR031	osta
+BOR031	# osta
 BOI093	sì eh cioè è rimasta la scuola di medicina
 BOR031	okay
 BOI093	come scuola elementare
@@ -76,7 +76,7 @@ BOI093	eh
 BOR032	medie costruite da suo padre
 BOR031	oh
 BOI093	eh vabbè
-BOR031	osta
+BOR031	# osta
 BOI093	faceva il muratore
 BOR032	vabbè così se vogliamo aggiungere qualcosa aggiungiamo
 BOR031	beh è è interessante sì
@@ -241,7 +241,7 @@ BOI094	cioè mh medicina da questo punto di vista è un paese morto
 BOI094	allora fra settimana di fronte in piazza garibaldi sulle panchine ci sono gli ultra settantenni
 BOR031	ecco sì
 BOI094	poi si danno il cambio verso sera con gli extra comunitari
-BOR031	osta
+BOR031	# osta
 BOR031	come a massa lombarda
 BOI094	x vanno nei bar si trovano lì e fanno le loro chiacchiere eh basta
 BOR031	mhmh
@@ -596,7 +596,7 @@ BOR031	okay
 BOR031	okay okay
 BOR032	e basta
 BOI094	a il venerdì sera invece c'è
-BOI094	eh quella che viene chiamata la la caursa dal doge tri
+BOI094	# eh quella che viene chiamata la la caursa dal doge tri
 BOR031	okay
 BOI094	te lo traduco
 BOR031	eh sì
@@ -648,7 +648,7 @@ BOI093	eh sì
 BOI093	poi c'è sempre da mangiare dappertutto
 BOR032	il prossimo anno chissà dove sarà
 BOR031	no infatti vedremo no se riesco vengo volentieri mi avete incuriosito
-BOI094	perché dove sarai du è da ander
+BOI094	# perché dove sarai du è da ander
 BOR031	eh mi piacerebbe andare a venezia a studiare
 BOR031	a studiare sì
 BOI093	ah a fare
@@ -1285,7 +1285,7 @@ BOI094	diciamo tenere tutto pulito è quasi impossibile
 BOR031	sì giusto
 BOI094	tu tieni conto che per italia novanta il tu~ il portico attorno allo stadio era stato tutto rimesso a nuovo
 BOR031	mh
-BOR031	osta
+BOR031	# osta
 BOI094	sì
 BOR031	perché era troppo mh
 BOI094	vabbè eh dovevano fare rifare il restyling di tutti gli stadi
@@ -1543,7 +1543,7 @@ BOI093	e sua mamma eh ogni tanto la faceva quando
 BOI094	anche la nipote la fa
 BOR032	sì mi ha passato la tradizione
 BOR031	ah
-BOR031	osta
+BOR031	# osta
 BOR031	e com'è è buona la fai più bene
 BOR032	palese
 BOR031	eh ovvio
@@ -1591,7 +1591,7 @@ BOR031	okay
 BOR032	mia nonna che è quella che comanda tutti
 BOR032	eh io che impasto e loro due dipende da chi c'è a casa che mi aiuta perché visto che ne faccio tante magari faccio un kilo alla volta
 BOR031	sì
-BOR031	ah osta
+BOR031	# ah osta
 BOR032	eh io magari inizio a impastare poi loro finiscono di impast~ due kili alla vol~ no vabbè impasto prima un kilo e poi l'altro kilo
 BOI094	eh vabbè però alla fine x
 BOR031	addirittura due kili

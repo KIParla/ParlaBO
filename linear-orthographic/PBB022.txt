@@ -252,7 +252,7 @@ BOI086	eh mh eh in la mia era la classica famiglia patriarcale no eh cioè c'era
 BOR024	impegnativo
 BOI086	sì sì sono arrivati a un certo punto in cui abitavano in ventotto in questa famiglia sì sì tantissimi
 BOR024	ah però
-BOI086	e mia nonna era là era la zdora proprio cioè era quella che cucinava per tutta la famiglia
+BOI086	# e mia nonna era là era la zdora proprio cioè era quella che cucinava per tutta la famiglia
 BOR024	eh
 BOR024	mh
 BOI086	ma lei lei aveva sempre sognato di mettersi in proprio no lei avrebbe voluto
@@ -260,7 +260,7 @@ BOR024	ah
 BOI086	sì sì cucinare eh mh da farne un mestiere
 BOR024	che bello
 BOI086	poi insomma le cose non non non la vita non glie l'ha permesso
-BOI086	eh però lo stesso eh mh era una cosa che le permetteva di guadagnare qualche soldo la domenica andava a fare i nozzi no
+BOI086	# eh però lo stesso eh mh era una cosa che le permetteva di guadagnare qualche soldo la domenica andava a fare i nozzi no
 BOI086	cioè lei andava a cucinare a casa fa~ eh per i matrimoni nelle altre famiglie no
 BOR024	ah bello
 BOI086	infatti lei aveva un ricettario che abbiamo continuato a usare per anni

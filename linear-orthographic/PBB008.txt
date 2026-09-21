@@ -245,7 +245,7 @@ BOR006	sì infatti non è molto meglio
 BOI026	davanti a una casa signori~ cioè mh io non ci~ non credevo alle mie orecchie al m~ mh
 BOR004	sì
 BOR004	sì
-BOI026	a quello che i miei occhi vedevano il portiere anche lui era fuori dai coppi
+BOI026	# a quello che i miei occhi vedevano il portiere anche lui era fuori dai coppi
 BOI026	perché naturalmente
 BOI026	tocca a lui pulire perché il portico
 BOI026	i portici a bologna sono
@@ -763,7 +763,7 @@ BOR004	sì sì sì sì
 BOI026	ciao la parola ciao
 BOR004	mhmh mh
 BOI026	dai da da venezia dai veneziani che l'hanno portata in giro per il mondo
-BOI026	sciavo vostro signor paron
+BOI026	# sciavo vostro signor paron
 BOI026	e ciao
 BOR004	mhmh mh
 BOI026	adesso anche a sanremo di nuovo ciao ciao

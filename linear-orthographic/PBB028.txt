@@ -56,8 +56,8 @@ BOI099	cioè praticamente andavi a lavorare ancora prima di
 BOI099	di iniziare
 BOR036	mhmh
 BOI099	il lavoro
-BOI100	sciappinare
-BOI099	sì s~ sciappi~ sì facevi i tuoi lavoretti i ciappini ma
+BOI100	# sciappinare
+BOI099	# sì s~ sciappi~ sì facevi i tuoi lavoretti i ciappini ma
 BOR036	ma la progettazione del carro
 BOI100	xxx
 BOI100	si parlava si faceva una mezza riunione e poi dopo
@@ -80,7 +80,7 @@ BOI100	sì
 BOI099	eh
 BOI099	ma più che altro perché noi volevamo cioè dai
 BOI099	se eravam giovani xx
-BOI100	prender la balla la domenica
+BOI100	# prender la balla la domenica
 BOI099	no
 BOI099	alla fine a me non m'è mai piaciuto il carnevale come sfilata
 BOI100	ancora una x
@@ -112,7 +112,7 @@ BOI100	con la compagnia
 BOI100	diciamo dei carri perché in genere vabbè la nostra è mischiata
 BOI099	sì
 BOI100	parte anche della compagnia con cui si esce
-BOI100	eh insomma fare balotta là
+BOI100	# eh insomma fare balotta là
 BOR036	però due tre volte a settimana riuscivate con la scuola
 BOI100	solo quello
 BOI099	era per non studiare a casa
@@ -373,7 +373,7 @@ BOR036	ma voi da mh
 BOR036	cioè comunque da ragazzini insomma difficilmente uscivate a bologna
 BOI100	da ragazzini io venivo a bologna quando venivo a salutar te
 BOR036	però eh
-BOI100	da pivezzant
+BOI100	# da pivezzant
 BOR036	eh sì però se no
 BOI099	no bologna è sempre stata
 BOI100	xxxx
@@ -459,7 +459,7 @@ BOI099	e uno in spagna a
 BOI100	lui ha fatto l'alberghiero
 BOI099	lui ha fatto l'alberghiero però aveva già fatto tipo la stagione invernale e quella estiva via
 BOI099	quindi un po' era già inquadrato
-BOI100	e p~ e poi è uno scapadizza
+BOI100	# e p~ e poi è uno scapadizza
 BOI099	sì era un po' un
 BOI100	è
 BOI099	scapestrato eh
@@ -577,8 +577,8 @@ BOI100	il terremoto tipo
 BOR036	eh no io ero a casa mah mi son svegliata io
 BOI100	eh
 BOI100	eh son venuti i miei a chiamarmi ou
-BOI100	livét bein
-BOI100	e c'è venuto il terremoto ah io devo ander a sunér ad maténa
+BOI100	# livét bein
+BOI100	# e c'è venuto il terremoto ah io devo ander a sunér ad maténa
 BOI100	ho risposto così
 BOI100	vieni fuori x
 BOI100	ci siam vestiti siam andati fuori
@@ -831,7 +831,7 @@ BOI100	no no proprio l'opposto
 BOR036	eh quindi se vuoi raccontare un po' così quello che ti viene in mente
 BOI100	x
 BOI100	mio padre abitava in piazza
-BOI100	da cinno
+BOI100	# da cinno
 BOI100	eh aveva sempre avuto il sogno di andare
 BOI100	diventare campanaro perché una volta era quasi un mestiere
 BOI100	perché pagavano
@@ -842,7 +842,7 @@ BOI099	una nicchia
 BOR036	beh sì una setta sì
 BOI099	xxxx
 BOI100	sì non è che andava su chi voleva così oppure
-BOI100	potevi andare su però prima di iniziare a suonare mah sô brisa perché
+BOI100	# potevi andare su però prima di iniziare a suonare mah sô brisa perché
 BOI099	eh beh rubavi il lavoro dai rubavi
 BOI099	il soldo
 BOI100	mah non lo so se era anche quello
@@ -856,7 +856,7 @@ BOI100	xxx loro bevevan vino
 BOI100	con non so erano in nove o dieci con
 BOI100	quattro bicchieri quindi per tre giorni sciacquavano i bicchieri nella stessa secchia d'acqua
 BOI100	eh
-BOI100	e niente dopo u~ del gnocco unto diceva mò trést mò trést
+BOI100	# e niente dopo u~ del gnocco unto diceva mò trést mò trést
 BOI100	e niente quindi io da
 BOI100	da cinque anni che mio padre mi ha portato su
 BOI100	e mi mettevo là in un angolino
@@ -1001,7 +1001,7 @@ BOI100	dicevamo che c'era l~ c'era una di c~ c'era fede
 BOI099	x
 BOI100	x che suonava anche lui
 BOI100	aveva fatto la festa della scimmia
-BOI100	chi la ciapa l'è la só
+BOI100	# chi la ciapa l'è la só
 BOI100	hai capito
 BOI100	eh
 BOI100	si era fatto tipo male a una gamba ma perché diceva che mentre camminava una panchina gli aveva attraversato la strada

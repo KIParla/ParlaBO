@@ -66,8 +66,8 @@ BOI090	più che tradizioni abbiamo tanti slang abbiamo tante x x un modo di vive
 BOI090	nel senso che bologna è un mondo a sè
 BOI090	abbiamo tanti modi di dire che nessuno capisce tante
 BOI090	è è bello così
-BOR030	come polleg
-BOI090	esatto come polleg come rusco
+BOR030	# come polleg
+BOI090	# esatto come polleg come rusco
 BOI090	che è il bidone della spazzatura
 BOI090	come il tiro
 BOI090	che è

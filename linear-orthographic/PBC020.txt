@@ -509,7 +509,7 @@ BOR006	e ehm cioè puoi dire cose con più leggerezza con più naturalezza
 BOI048	certo certo certo e poi riassumi è un po' come mi vien da dire la lingua inglese che eh sintetizza
 BOR006	mh
 BOI048	in dialetto bolognese un termine arrivi subito con certe parole arriva subito all'obiettivo
-BOI048	eh e purtroppo questo andrebbe andrebbe mantenuto un po' di più c'è qualcuno qualche associazione la fameja bulgneisa eh l'archiginesi
+BOI048	# eh e purtroppo questo andrebbe andrebbe mantenuto un po' di più c'è qualcuno qualche associazione la fameja bulgneisa eh l'archiginesi
 BOI048	che provano a mantenere vivo un po' eh questo questa lingua
 BOI048	ci sono dei singoli personaggi luigi lepri carpani ed altri che scrivono in dialetto bolognese
 BOI048	eh però si va via via mh nell'esercizio comune quotidiano si va perdendo
