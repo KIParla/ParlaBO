@@ -251,7 +251,7 @@ BOI070	anche loro
 BOI070	aiutato e collaborato alla crescita di bologna in un certo senso
 BOI070	però è bolo(gna) è: questo >non è< solamente quello stile universitario
 BOR021	no: hai voglia
-BOI070	cè [tantiss~ x]
+BOI070	c(io)è [tantiss~ x]
 BOR021	[c'è tanto] altro
 BOI070	es[atto]
 BOR021	[sicura]mente

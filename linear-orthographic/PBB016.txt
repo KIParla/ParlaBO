@@ -606,7 +606,7 @@ BOI049	in generale ecco
 BOI049	e
 BOI049	tutta quella classica tipo non so
 BOI049	led zeppelin e mh
-BOR006	m mh
+BOR006	mh mh
 BOI049	e doors e
 BOI049	poi neal young e bob dylan
 BOI049	però anche quella
@@ -770,7 +770,7 @@ BOR006	mh
 BOR006	sì pr~ prima eravamo abbastanza invidiati e imita~
 BOI049	sì eravamo proprio dei maestri sì sì
 BOR006	mh mh
-BOR006	e hm
+BOR006	e mh
 BOR006	vai spesso al cinema
 BOI049	adesso no
 BOR006	ovviamente

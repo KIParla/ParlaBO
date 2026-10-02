@@ -101,7 +101,7 @@ BOI079	trento fa un gran caldo
 BOI078	cioè è tipo una bolla è una bolla di calore
 BOI079	stranamente
 BOR020	qui peggio
-BOI078	ma va' là
+BOI078	ma va là
 BOI079	no vabbè fa caldissimo anche qua
 BOI078	a trento ma ti ricordi a trento xx a giu~ diciannove giugno
 BOI079	però

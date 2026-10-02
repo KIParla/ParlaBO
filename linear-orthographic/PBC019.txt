@@ -354,7 +354,7 @@ BOR010	le~ le~ le~ lei sa
 BOR010	qualcosa che non può dire oppure no però
 BOI044	i portici
 BOR010	esatto però se
-BOR010	visto he diceva che comunque
+BOR010	visto eh diceva che comunque
 BOR010	non gira molto per bologna però
 BOR010	ah i~ un po' qualcosa sui portici xxxx
 BOI044	oddio

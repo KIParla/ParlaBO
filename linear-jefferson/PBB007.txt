@@ -186,7 +186,7 @@ BOI024	sta nella sua [zona]
 BOI025	[anche perché negli u]ltimi due anni la gente non ha neanche maga[ri affittato l'appartamento]
 BOR005	((ride))
 BOI024	[ma questa è una cosa che è successa] anche prima amo c(io)è
-BOI024	veniamo da: (.) diec'anni di crisi economica c(io)è (.) e:: hm
+BOI024	veniamo da: (.) diec'anni di crisi economica c(io)è (.) e:: mh
 BOI024	che che bologna si sia svuotata
 BOI024	e:h che mh i prezzi siano inavvicinabili in centro è così da diec'anni non è il covid
 BOI024	(secon~) io la penso così

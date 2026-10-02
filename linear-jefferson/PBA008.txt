@@ -649,7 +649,7 @@ BOR020	cavolo ma il penny di legn[o]?
 BOI067	[mh]mh
 BOR020	bellissimo:
 BOI067	ma piccolo eh
-BOI067	e ora ne he rimasto un pezzo grande c~ di queste dimensioni qua
+BOI067	e ora ne eh rimasto un pezzo grande c~ di queste dimensioni qua
 BOR020	mhmh
 BOI067	e io ancora lo uso:
 BOI067	sotto l'ho dipinto tutto con la bomboletta rosa

@@ -622,7 +622,7 @@ BOI049	in genera:le e:cco::
 BOI049	e:::
 BOI049	tutta:: quella cla:ssica tipo:: non so
 BOI049	led zeppelin: e: m:h
-BOR006	m mh
+BOR006	mh mh
 BOI049	e:: doors e::
 BOI049	poi: neal young e bob dyla:n
 BOI049	però anche quella::
@@ -789,7 +789,7 @@ BOR006	mh
 BOR006	s:ì, pr~ prima eravamo: abbastanza invidia:ti [e:: imita~]
 BOI049	[sì eravamo pro]prio:: dei mae:stri °sì sì°
 BOR006	mh, mh,
-BOR006	e:: hm
+BOR006	e:: mh
 BOR006	vai spesso al cinema?
 BOI049	adesso no
 BOR006	((ride)) ovviamen(te)

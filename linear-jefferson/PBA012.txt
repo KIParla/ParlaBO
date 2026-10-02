@@ -802,7 +802,7 @@ BOI072	e a un certo punto entro lo
 BOR018	((ride))
 BOR018	[questa informazione] ((ride))
 BOI072	[entro nella mail]
-BOI072	t m i ((ride))
+BOI072	t mh i ((ride))
 BOR018	((ride))
 BOI072	too much information
 BOI072	ehm:
@@ -1053,7 +1053,7 @@ BOI072	adesso tipo:
 BOI072	ho fatto un colloquio per cui dovrei iniziare: a lavorare per:
 BOI072	tipo:
 BOI072	uno dei: ehm
-BOI072	h and m come: cassiera
+BOI072	h and mh come: cassiera
 BOR018	mh
 BOI072	lì
 BOI072	per cui: se magari vado in centro magari vedo anche qualche amico:

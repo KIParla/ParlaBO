@@ -500,7 +500,7 @@ BOR002	xxxxxxxxxxx
 BOI020	[eh certamen]te sì ((ride))
 BOR002	xxxxxxxxxxxxx
 BOR002	xxxxxxxxxxxxxxxx
-BOI020	penso sia: lei una persona che ha: m un'intelligenza che ha: lucidità e ha la memo:ria di: e la capacità di (ricordare) quindi
+BOI020	penso sia: lei una persona che ha: mh un'intelligenza che ha: lucidità e ha la memo:ria di: e la capacità di (ricordare) quindi
 BOI020	nell'accoglienza che mi ha fatto:
 BOI020	a parte che ci teneva a dire ma: fai il mestiere diceva <fai il mestiere più bello del mondo>
 BOR002	((ride))
@@ -677,7 +677,7 @@ BOI020	mh?
 BOI020	questo sentiero (.) affia:nca (.) tutto il lato della sala studio della bibliote:ca e arriva al monume:nto
 BOI020	cosa (.) quella divisione lì non è naturale (.) neanche dal punto di vista della (.) dell'occhio uma:no
 BOI020	oppure potrebbe essere
-BOI020	potrebbe essere lei e: m xxxxxxxxxx di uni:re:
+BOI020	potrebbe essere lei e: mh xxxxxxxxxx di uni:re:
 BOI020	la bibliote:ca al monumento
 BOI020	già (.) l'idea del monu~ del monume:nto era un'ide:a di arte pubblica
 BOI020	fatta (.) insieme alle scuo:le: (.) insieme al luogo di lavo:ro: (.) ehm:

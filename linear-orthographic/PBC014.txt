@@ -332,7 +332,7 @@ BOI036	ci son dei bolognesi
 BOI036	gente che si è separata dalla moglie e che gli tocca di dare un casino di soldi alla moglie e ai figli e
 BOI036	vengono qua
 BOR010	accidenti
-BOI036	gente he non ha più soldi da pagare il mutuo e allora sono xx lì
+BOI036	gente eh non ha più soldi da pagare il mutuo e allora sono xx lì
 BOR010	xx quindi questo è è anche aumentato immagino dopo la guerra cioè dopo questa guerra oppure cioè dopo questa guerra
 BOR010	in ucraina oppure è rimasto più o meno cioè secondo lei dipende anche da quello oppure
 BOI036	no no è aumentato

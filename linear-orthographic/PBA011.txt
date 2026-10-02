@@ -241,7 +241,7 @@ BOI070	anche loro
 BOI070	aiutato e collaborato alla crescita di bologna in un certo senso
 BOI070	però è bologna è questo non è solamente quello stile universitario
 BOR021	no hai voglia
-BOI070	cè tantiss~ x
+BOI070	cioè tantiss~ x
 BOR021	c'è tanto altro
 BOI070	esatto
 BOR021	sicuramente
