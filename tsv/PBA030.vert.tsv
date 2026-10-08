@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR031	0	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1.73|End=2.02	_	_	_	_
 1-0	BOR031	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=3.29	_	_	_	_
 1-1	BOR031	1	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7939,7 +7939,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1503-8	BOI115	1503	8	trenta	trenta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1503-9	BOI115	1503	9	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1503-10	BOI115	1503	10	classe	classe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2320.276	_	_	_	_
-1504-0	BOR031	1504	0	# o[sta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2320.311|End=2320.646	_	_	_	1-4(581)
+1504-0	BOR031	1504	0	# o[sta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2320.311|End=2320.646	_	_	_	1-4(581)
 1505-0	BOI115	1505	0	[ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2320.446	_	_	_	0-2(581)
 1505-1	BOI115	1505	1	e]ravamo	eravamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(581)
 1505-2	BOI115	1505	2	tanti[ssimi]	tantissimi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2321.676	_	_	_	5-10(582)

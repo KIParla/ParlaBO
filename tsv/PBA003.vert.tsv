@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR015	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.896|End=1.445	_	_	_	_
 1-0	BOR015	1	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.75	_	_	_	_
 1-1	BOR015	1	1	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.517	_	_	_	_
@@ -1044,18 +1044,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-0	BOR015	168	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=548.194|End=548.896	_	_	_	_
 169-0	BOI056	169	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=550.994	_	_	_	_
 169-1	BOI056	169	1	ehm::	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=553.39	2x2	_	_	_
-170-0	BOI056	170	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=555.124	_	_	_	_
-170-1	BOI056	170	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-170-2	BOI056	170	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-170-3	BOI056	170	3	rusco.	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	_	_	_	_	_
+170-0	BOI056	170	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=555.124	_	_	_	_
+170-1	BOI056	170	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+170-2	BOI056	170	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+170-3	BOI056	170	3	rusco.	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	_	_	_	_	_
 170-4	BOI056	170	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	_	_	_	_	_
-170-5	BOI056	170	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-170-6	BOI056	170	6	tiro.	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	End=558.836	_	_	_	_
+170-5	BOI056	170	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+170-6	BOI056	170	6	tiro.	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	End=558.836	_	_	_	_
 171-0	BOI056	171	0	eh[m:]	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=559.445|End=559.942	2x1	_	_	2-3(25)
 172-0	BOR015	172	0	dammi	dammi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=559.828	_	_	_	_
 172-1	BOR015	172	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 172-2	BOR015	172	2	ti[ro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=561.028	_	_	_	2-4(25)
-173-0	BOI056	173	0	# [so]ccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=560.643	_	_	_	0-2(26)
+173-0	BOI056	173	0	# [so]ccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=560.643	_	_	_	0-2(26)
 173-1	BOI056	173	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=561.477	_	_	_	_
 174-0	BOR015	174	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=561.477|End=562.511	_	_	_	_
 175-0	BOI056	175	0	(sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=563.197	_	_	0-2(0)	_

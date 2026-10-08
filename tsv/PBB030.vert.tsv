@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR025	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.916|End=1.277	_	_	_	_
 1-0	BOR025	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.588	_	_	_	_
 1-1	BOR025	1	1	(aspe	aspe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-4(0)	_
@@ -5799,31 +5799,31 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1009-3	BOR035	1009	3	svuota]	svuota	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(387)
 1009-4	BOR035	1009	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1009-5	BOR035	1009	5	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1795.503	_	_	_	_
-1010-0	BOI102	1010	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1796.503	_	_	_	_
-1010-1	BOI102	1010	1	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-2	BOI102	1010	2	chiuso,	chiuso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1010-3	BOI102	1010	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-4	BOI102	1010	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1010-5	BOI102	1010	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-6	BOI102	1010	6	nessuno,	nessuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1010-7	BOI102	1010	7	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1010-8	BOI102	1010	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-9	BOI102	1010	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-10	BOI102	1010	10	caldo	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-11	BOI102	1010	11	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-12	BOI102	1010	12	madonna,	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-1010-13	BOI102	1010	13	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-14	BOI102	1010	14	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-15	BOI102	1010	15	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-16	BOI102	1010	16	lavorare	lavorare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-17	BOI102	1010	17	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-18	BOI102	1010	18	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-19	BOI102	1010	19	chiudo	chiudo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-20	BOI102	1010	20	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-21	BOI102	1010	21	ospedale	ospedale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-22	BOI102	1010	22	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-23	BOI102	1010	23	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1010-24	BOI102	1010	24	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1801.766	_	_	_	_
+1010-0	BOI102	1010	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1796.503	_	_	_	_
+1010-1	BOI102	1010	1	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-2	BOI102	1010	2	chiuso,	chiuso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1010-3	BOI102	1010	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-4	BOI102	1010	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1010-5	BOI102	1010	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-6	BOI102	1010	6	nessuno,	nessuno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1010-7	BOI102	1010	7	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1010-8	BOI102	1010	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-9	BOI102	1010	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-10	BOI102	1010	10	caldo	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-11	BOI102	1010	11	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-12	BOI102	1010	12	madonna,	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+1010-13	BOI102	1010	13	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-14	BOI102	1010	14	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-15	BOI102	1010	15	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-16	BOI102	1010	16	lavorare	lavorare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-17	BOI102	1010	17	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-18	BOI102	1010	18	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-19	BOI102	1010	19	chiudo	chiudo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-20	BOI102	1010	20	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-21	BOI102	1010	21	ospedale	ospedale	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-22	BOI102	1010	22	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-23	BOI102	1010	23	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1010-24	BOI102	1010	24	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1801.766	_	_	_	_
 1011-0	BOI102	1011	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1801.976	_	_	_	_
 1011-1	BOI102	1011	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1011-2	BOI102	1011	2	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9160,7 +9160,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1622-7	BOI102	1622	7	ritornare	ritornare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1622-8	BOI102	1622	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1622-9	BOI102	1622	9	viaggio	viaggio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2821.445	_	_	_	_
-1623-0	BOR025	1623	0	# tomo	tomo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2821.86|End=2822.231	_	_	_	_
+1623-0	BOR025	1623	0	# tomo	tomo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2821.86|End=2822.231	_	_	_	_
 1624-0	BOI102	1624	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2822.129|End=2823.351	_	_	_	_
 1625-0	BOR035	1625	0	°brava°	brava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2822.328|End=2822.778	_	_	_	_
 1626-0	BOR025	1626	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2822.608|End=2824.011	_	_	_	_

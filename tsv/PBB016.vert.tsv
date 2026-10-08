@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR006	0	0	eccoci	eccoci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.324	_	_	_	_
 0-1	BOR006	0	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.099	_	_	_	_
 1-0	BOR006	1	0	allora::	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.043|End=3.834	5x2	_	_	_

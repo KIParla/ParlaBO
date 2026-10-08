@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR019	0	0	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.77|End=1.401	_	_	_	_
 1-0	BOR019	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.6	_	_	_	_
 1-1	BOR019	1	1	e:::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x3	_	_	_

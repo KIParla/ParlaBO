@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR036	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.02|End=0.79	_	_	_	_
 1-0	BOR036	1	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.54	_	_	_	_
 1-1	BOR036	1	1	be(ne)	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	2-4(0)	_
@@ -8561,18 +8561,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1566-11	BOI107	1566	11	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1566-12	BOI107	1566	12	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1566-13	BOI107	1566	13	hanno:	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3011.54	4x1	_	_	_
-1567-0	BOI107	1567	0	# non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=3011.626	_	_	_	_
-1567-1	BOI107	1567	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1567-2	BOI107	1567	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1567-3	BOI107	1567	3	pattume	pattume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1567-4	BOI107	1567	4	[(un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-2(0)	0-2(482)
-1567-5	BOI107	1567	5	rusco)	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-5(0)	0-5(482)
-1567-6	BOI107	1567	6	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(482)
-1567-7	BOI107	1567	7	mettere	mettere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(482)
-1567-8	BOI107	1567	8	le]	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(482)
-1567-9	BOI107	1567	9	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1567-10	BOI107	1567	10	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1567-11	BOI107	1567	11	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=3014.72	0x1	_	_	_
+1567-0	BOI107	1567	0	# non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3011.626	_	_	_	_
+1567-1	BOI107	1567	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1567-2	BOI107	1567	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1567-3	BOI107	1567	3	pattume	pattume	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1567-4	BOI107	1567	4	[(un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-2(0)	0-2(482)
+1567-5	BOI107	1567	5	rusco)	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-5(0)	0-5(482)
+1567-6	BOI107	1567	6	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(482)
+1567-7	BOI107	1567	7	mettere	mettere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(482)
+1567-8	BOI107	1567	8	le]	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(482)
+1567-9	BOI107	1567	9	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1567-10	BOI107	1567	10	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1567-11	BOI107	1567	11	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3014.72	0x1	_	_	_
 1568-0	BOI106	1568	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3012.5	_	_	_	0-3(482)
 1568-1	BOI106	1568	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(482)
 1568-2	BOI106	1568	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(482)

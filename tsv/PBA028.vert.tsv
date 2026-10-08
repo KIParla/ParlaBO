@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR031	0	0	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0|End=0.803	_	_	_	_
 1-0	BOR031	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.96|End=2.47	_	_	_	_
 2-0	BOR031	2	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.59	_	_	_	_
@@ -9491,8 +9491,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1485-13	BOI111	1485	13	laurea	laurea	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2787.95	_	_	_	_
 1486-0	BOR031	1486	0	[xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=2784.1	_	_	_	0-2(514)
 1486-1	BOR031	1486	1	wow]	wow	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2785.63	_	_	_	0-3(514)
-1487-0	BOR031	1487	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2788.15	_	_	_	_
-1487-1	BOR031	1487	1	[osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2788.84	_	_	_	0-4(515)
+1487-0	BOR031	1487	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2788.15	_	_	_	_
+1487-1	BOR031	1487	1	[osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2788.84	_	_	_	0-4(515)
 1488-0	BOI110	1488	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2788.33	_	_	_	0-2(515)
 1488-1	BOI110	1488	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(515)
 1488-2	BOI110	1488	2	su]	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(515)
@@ -13207,14 +13207,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 2045-5	BOI111	2045	5	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2045-6	BOI111	2045	6	[costoso]	costoso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3880.21	_	_	_	0-7(713)
 2046-0	BOR031	2046	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=3878.64|End=3879.37	_	_	_	_
-2047-0	BOI110	2047	0	# [soccia]	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=3879.72	_	_	_	0-6(713)
-2047-1	BOI110	2047	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-2	BOI110	2047	2	arrivar	arrivar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-3	BOI110	2047	3	lassù	lassù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-4	BOI110	2047	4	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-5	BOI110	2047	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-6	BOI110	2047	6	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-2047-7	BOI110	2047	7	bei:	bei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=3882.51	2x1	_	_	_
+2047-0	BOI110	2047	0	# [soccia]	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3879.72	_	_	_	0-6(713)
+2047-1	BOI110	2047	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-2	BOI110	2047	2	arrivar	arrivar	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-3	BOI110	2047	3	lassù	lassù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-4	BOI110	2047	4	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-5	BOI110	2047	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-6	BOI110	2047	6	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+2047-7	BOI110	2047	7	bei:	bei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3882.51	2x1	_	_	_
 2048-0	BOI111	2048	0	vabbè:	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3882.52	4x1	_	_	_
 2048-1	BOI111	2048	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 2048-2	BOI111	2048	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

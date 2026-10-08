@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR022	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.34	_	_	_	_
 0-1	BOR022	0	1	allora::	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x2	_	_	_
 0-2	BOR022	0	2	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -278,25 +278,25 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-1	BOR022	47	1	vai]	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=113.65	_	_	_	0-3(8)
 48-0	BOI084	48	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=113.67	0x2	_	_	_
 48-1	BOI084	48	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=114.84	_	_	_	_
-49-0	BOI084	49	0	# diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=115.431	_	_	_	_
-49-1	BOI084	49	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+49-0	BOI084	49	0	# diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=115.431	_	_	_	_
+49-1	BOI084	49	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 49-2	BOI084	49	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-49-3	BOI084	49	3	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-4	BOI084	49	4	alzarci	alzarci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-5	BOI084	49	5	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-6	BOI084	49	6	soldo	soldo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-7	BOI084	49	7	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-8	BOI084	49	8	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-9	BOI084	49	9	venticinque	venticinque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-10	BOI084	49	10	aprile	aprile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-11	BOI084	49	11	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-12	BOI084	49	12	venuti	venuti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-13	BOI084	49	13	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-14	BOI084	49	14	stile	stile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-15	BOI084	49	15	bira	bira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-16	BOI084	49	16	bira	bira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-17	BOI084	49	17	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-49-18	BOI084	49	18	virgolette	virgolette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=121.132	_	_	_	_
+49-3	BOI084	49	3	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-4	BOI084	49	4	alzarci	alzarci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-5	BOI084	49	5	qualche	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-6	BOI084	49	6	soldo	soldo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-7	BOI084	49	7	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-8	BOI084	49	8	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-9	BOI084	49	9	venticinque	venticinque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-10	BOI084	49	10	aprile	aprile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-11	BOI084	49	11	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-12	BOI084	49	12	venuti	venuti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-13	BOI084	49	13	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-14	BOI084	49	14	stile	stile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-15	BOI084	49	15	bira	bira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-16	BOI084	49	16	bira	bira	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-17	BOI084	49	17	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+49-18	BOI084	49	18	virgolette	virgolette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=121.132	_	_	_	_
 50-0	BOR022	50	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=121.133	_	_	_	_
 50-1	BOR022	50	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=122.013	_	_	_	_
 51-0	BOI084	51	0	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=122.213	_	_	_	_
@@ -777,13 +777,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-0	BOI083	119	0	qualsiasi	qualsiasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=296.5	_	_	_	_
 119-1	BOI083	119	1	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-2	BOI083	119	2	fai:	fai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=298.657	2x1	_	_	_
-120-0	BOI083	120	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=300.61	_	_	_	_
-120-1	BOI083	120	1	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-120-2	BOI083	120	2	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-120-3	BOI083	120	3	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-120-4	BOI083	120	4	scheggiato	scheggiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-120-5	BOI083	120	5	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-120-6	BOI083	120	6	senso::	senso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=303.575	4x2	_	_	_
+120-0	BOI083	120	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=300.61	_	_	_	_
+120-1	BOI083	120	1	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+120-2	BOI083	120	2	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+120-3	BOI083	120	3	vieni	vieni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+120-4	BOI083	120	4	scheggiato	scheggiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+120-5	BOI083	120	5	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+120-6	BOI083	120	6	senso::	senso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=303.575	4x2	_	_	_
 121-0	BOI084	121	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=305.205	_	_	_	_
 121-1	BOI084	121	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 121-2	BOI084	121	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

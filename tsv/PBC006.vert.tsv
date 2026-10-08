@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR004	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.79|End=1.16	_	_	_	_
 1-0	BOR004	1	0	prego	prego	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.99	_	_	_	_
 1-1	BOR004	1	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2.74	_	_	_	_
@@ -6151,22 +6151,22 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 916-5	BOI018	916	5	esempio	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 916-6	BOI018	916	6	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2308.95	_	_	_	_
 917-0	BOI018	917	0	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2309.25|End=2309.79	0x1	_	_	_
-918-0	BOI018	918	0	# questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2311.24	_	_	_	_
-918-1	BOI018	918	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-2	BOI018	918	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-3	BOI018	918	3	personaggio	personaggio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+918-0	BOI018	918	0	# questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2311.24	_	_	_	_
+918-1	BOI018	918	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-2	BOI018	918	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-3	BOI018	918	3	personaggio	personaggio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 918-4	BOI018	918	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-918-5	BOI018	918	5	guida	guida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-6	BOI018	918	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-7	BOI018	918	7	mascotte	mascotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-8	BOI018	918	8	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-9	BOI018	918	9	mostra	mostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-10	BOI018	918	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-11	BOI018	918	11	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-918-12	BOI018	918	12	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-13	BOI018	918	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-14	BOI018	918	14	pensionato	pensionato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-918-15	BOI018	918	15	bolognese	bolognese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2316.41	_	_	_	_
+918-5	BOI018	918	5	guida	guida	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-6	BOI018	918	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-7	BOI018	918	7	mascotte	mascotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-8	BOI018	918	8	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-9	BOI018	918	9	mostra	mostra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-10	BOI018	918	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-11	BOI018	918	11	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+918-12	BOI018	918	12	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-13	BOI018	918	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-14	BOI018	918	14	pensionato	pensionato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+918-15	BOI018	918	15	bolognese	bolognese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2316.41	_	_	_	_
 919-0	BOR004	919	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2316.52|End=2316.74	_	_	_	_
 920-0	BOI018	920	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2317.143	0x1	_	_	_
 920-1	BOI018	920	1	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6638,19 +6638,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 994-5	BOI018	994	5	lavandaie	lavandaie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 994-6	BOI018	994	6	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 994-7	BOI018	994	7	città	città	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2511.31	_	_	_	_
-995-0	BOI018	995	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2511.777	_	_	_	_
-995-1	BOI018	995	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-995-2	BOI018	995	2	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-3	BOI018	995	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-4	BOI018	995	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-5	BOI018	995	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-6	BOI018	995	6	tirato	tirato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-7	BOI018	995	7	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-8	BOI018	995	8	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-9	BOI018	995	9	braghe	braghe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-10	BOI018	995	10	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-11	BOI018	995	11	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-995-12	BOI018	995	12	bagnarsi	bagnarsi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+995-0	BOI018	995	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2511.777	_	_	_	_
+995-1	BOI018	995	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+995-2	BOI018	995	2	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-3	BOI018	995	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-4	BOI018	995	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-5	BOI018	995	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-6	BOI018	995	6	tirato	tirato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-7	BOI018	995	7	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-8	BOI018	995	8	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-9	BOI018	995	9	braghe	braghe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-10	BOI018	995	10	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-11	BOI018	995	11	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+995-12	BOI018	995	12	bagnarsi	bagnarsi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 995-13	BOI018	995	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=2515.355	_	_	_	_
 996-0	BOR004	996	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2515.355|End=2515.66	_	_	_	_
 997-0	BOI018	997	0	OSSERVA	osserva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2516.24	_	_	_	_
@@ -7176,13 +7176,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1081-7	BOI018	1081	7	>tutte	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 1081-8	BOI018	1081	8	le<	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
 1081-9	BOI018	1081	9	bonifiche	bonifiche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2730.45	_	_	_	_
-1082-0	BOI018	1082	0	# qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2731.199	_	_	_	_
-1082-1	BOI018	1082	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1082-2	BOI018	1082	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1082-3	BOI018	1082	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-1082-4	BOI018	1082	4	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Slow=6-7(0)	_	_
-1082-5	BOI018	1082	5	<che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Slow=0-3(0)	_	_
-1082-6	BOI018	1082	6	osserva>	osserva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2733.25	_	Slow=0-6(0)	_	_
+1082-0	BOI018	1082	0	# qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2731.199	_	_	_	_
+1082-1	BOI018	1082	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1082-2	BOI018	1082	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1082-3	BOI018	1082	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+1082-4	BOI018	1082	4	umarell	umarell	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=6-7(0)	_	_
+1082-5	BOI018	1082	5	<che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-3(0)	_	_
+1082-6	BOI018	1082	6	osserva>	osserva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2733.25	_	Slow=0-6(0)	_	_
 1083-0	BOI018	1083	0	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2733.631	_	_	_	_
 1083-1	BOI018	1083	1	impianto	impianto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1083-2	BOI018	1083	2	idroboro	idroboro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

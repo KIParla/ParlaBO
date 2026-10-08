@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR021	0	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.52	_	_	_	_
 0-1	BOR021	0	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR021	0	2	zona	zona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4449,11 +4449,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 745-3	BOI070	745	3	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 745-4	BOI070	745	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 745-5	BOI070	745	5	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1399.267	_	_	_	_
-746-0	BOI071	746	0	# e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1399.615	0x1	_	_	_
-746-1	BOI071	746	1	alle	alle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-746-2	BOI071	746	2	balotte	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1400.578	_	_	_	_
-747-0	BOI070	747	0	# le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1400.673	_	_	_	_
-747-1	BOI070	747	1	balott[e]	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1401.375	_	_	_	6-7(170)
+746-0	BOI071	746	0	# e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1399.615	0x1	_	_	_
+746-1	BOI071	746	1	alle	alle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+746-2	BOI071	746	2	balotte	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1400.578	_	_	_	_
+747-0	BOI070	747	0	# le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1400.673	_	_	_	_
+747-1	BOI070	747	1	balott[e]	balotte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1401.375	_	_	_	6-7(170)
 748-0	BOR021	748	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1401.223	_	_	_	_
 748-1	BOR021	748	1	[#eh]	#eh	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	0-3(170)
 748-2	BOR021	748	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

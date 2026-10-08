@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR034	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.392|End=0.807	_	_	_	_
 1-0	BOR034	1	0	adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.262	_	_	_	_
 1-1	BOR034	1	1	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5905,14 +5905,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1044-5	BOR034	1044	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1044-6	BOR034	1044	6	mia	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1044-7	BOR034	1044	7	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2650.385	_	_	_	_
-1045-0	BOI105	1045	0	# e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2650.4	0x2	_	_	_
-1045-1	BOI105	1045	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1045-2	BOI105	1045	2	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1045-3	BOI105	1045	3	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-1045-4	BOI105	1045	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1045-5	BOI105	1045	5	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1045-6	BOI105	1045	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1045-7	BOI105	1045	7	bollito	bollito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2654.932	_	_	_	_
+1045-0	BOI105	1045	0	# e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2650.4	0x2	_	_	_
+1045-1	BOI105	1045	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1045-2	BOI105	1045	2	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1045-3	BOI105	1045	3	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+1045-4	BOI105	1045	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1045-5	BOI105	1045	5	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1045-6	BOI105	1045	6	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1045-7	BOI105	1045	7	bollito	bollito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2654.932	_	_	_	_
 1046-0	BOR034	1046	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2654.953|End=2655.18	_	_	_	_
 1047-0	BOI105	1047	0	mangiava[mo	mangiavamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2655.187	_	_	_	8-10(7)
 1047-1	BOI105	1047	1	il]	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(7)
@@ -6085,9 +6085,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1072-0	BOR034	1072	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2721.743	_	_	_	0-2(18)
 1072-1	BOR034	1072	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(18)
 1072-2	BOR034	1072	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2722.427	_	_	_	0-2(18)
-1073-0	BOI105	1073	0	# e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2725.031	0x1	_	_	_
-1073-1	BOI105	1073	1	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1073-2	BOI105	1073	2	dolce	dolce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2726.76	_	_	_	_
+1073-0	BOI105	1073	0	# e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2725.031	0x1	_	_	_
+1073-1	BOI105	1073	1	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1073-2	BOI105	1073	2	dolce	dolce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2726.76	_	_	_	_
 1074-0	BOI105	1074	0	dol[ce]	dolce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2726.967	_	_	_	3-5(23)
 1074-1	BOI105	1074	1	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1074-2	BOI105	1074	2	dolce	dolce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2728.44	_	_	_	_
@@ -6659,9 +6659,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1185-14	BOI105	1185	14	miei	miei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1185-15	BOI105	1185	15	amici	amici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2962.763	_	_	_	_
 1186-0	BOR034	1186	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2962.741|End=2963.222	_	_	_	_
-1187-0	BOI105	1187	0	# e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2963.434	0x1	_	_	_
-1187-1	BOI105	1187	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1187-2	BOI105	1187	2	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2964.752	_	_	_	_
+1187-0	BOI105	1187	0	# e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2963.434	0x1	_	_	_
+1187-1	BOI105	1187	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1187-2	BOI105	1187	2	bona	bona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2964.752	_	_	_	_
 1188-0	BOI105	1188	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2965.159	2x1	_	_	_
 1188-1	BOI105	1188	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1188-2	BOI105	1188	2	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

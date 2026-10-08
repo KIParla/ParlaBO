@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR030	0	0	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.431	_	_	_	_
 0-1	BOR030	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR030	0	2	dunque	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -455,13 +455,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 67-2	BOI090	67	2	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 67-3	BOI090	67	3	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 67-4	BOI090	67	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=179.46	_	_	_	_
-68-0	BOR030	68	0	# come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=179.605	_	_	_	_
-68-1	BOR030	68	1	polleg	polleg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=180.592	_	_	_	_
-69-0	BOI090	69	0	# esa:tto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=180.592	2x1	_	_	_
-69-1	BOI090	69	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-69-2	BOI090	69	2	polleg,	polleg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-69-3	BOI090	69	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-69-4	BOI090	69	4	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=183.185	_	_	_	_
+68-0	BOR030	68	0	# come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=179.605	_	_	_	_
+68-1	BOR030	68	1	polleg	polleg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=180.592	_	_	_	_
+69-0	BOI090	69	0	# esa:tto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=180.592	2x1	_	_	_
+69-1	BOI090	69	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+69-2	BOI090	69	2	polleg,	polleg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+69-3	BOI090	69	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+69-4	BOI090	69	4	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=183.185	_	_	_	_
 70-0	BOI090	70	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=183.486	_	_	_	_
 70-1	BOI090	70	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 70-2	BOI090	70	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

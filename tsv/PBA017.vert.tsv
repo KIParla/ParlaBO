@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR022	0	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.746	0x2	_	_	_
 0-1	BOR022	0	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR022	0	2	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -97,8 +97,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 21-8	BOI081	21	8	[parco]	parco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=50.039	_	_	_	0-5(5)
 22-0	BOI080	22	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=47.53|End=49.2	_	_	_	_
 23-0	BOI080	23	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=49.613|End=49.898	_	_	_	_
-24-0	BOI080	24	0	# [sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=49.9	_	_	_	0-2(7)
-24-1	BOI080	24	1	smarzissimo	smarzissimo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+24-0	BOI080	24	0	# [sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=49.9	_	_	_	0-2(7)
+24-1	BOI080	24	1	smarzissimo	smarzissimo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 24-2	BOI080	24	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=50.96	_	_	_	_
 25-0	BOI081	25	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=50.32	_	_	_	_
 25-1	BOI081	25	1	mamma	mamma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1593,12 +1593,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 264-10	BOI080	264	10	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 264-11	BOI080	264	11	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 264-12	BOI080	264	12	contentissimo,	contentissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=525.56	_	_	_	_
-265-0	BOI081	265	0	# sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	Begin=525.89	_	_	_	_
-265-1	BOI081	265	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-265-2	BOI081	265	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-265-3	BOI081	265	3	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-265-4	BOI081	265	4	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-265-5	BOI081	265	5	schei?	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	End=526.89	_	_	_	_
+265-0	BOI081	265	0	# sì,	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	Begin=525.89	_	_	_	_
+265-1	BOI081	265	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+265-2	BOI081	265	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+265-3	BOI081	265	3	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+265-4	BOI081	265	4	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+265-5	BOI081	265	5	schei?	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	End=526.89	_	_	_	_
 266-0	BOI080	266	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=527.725|End=528.077	_	_	_	_
 267-0	BOI080	267	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=528.56|End=529.044	_	_	_	_
 268-0	BOI081	268	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=528.626|End=529.187	_	_	_	_
@@ -1610,9 +1610,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 269-5	BOI080	269	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 269-6	BOI080	269	6	domenica	domenica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 269-7	BOI080	269	7	quindi::	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=531.879	5x2	_	_	_
-270-0	BOI081	270	0	# doppio	doppio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=531.879	_	_	_	_
-270-1	BOI081	270	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-270-2	BOI081	270	2	schei	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+270-0	BOI081	270	0	# doppio	doppio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=531.879	_	_	_	_
+270-1	BOI081	270	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+270-2	BOI081	270	2	schei	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 270-3	BOI081	270	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=534.197	_	_	_	_
 271-0	BOI080	271	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=532.384	_	_	_	_
 271-1	BOI080	271	1	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1675,9 +1675,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 280-1	BOI080	280	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 280-2	BOI080	280	2	scelto	scelto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 280-3	BOI080	280	3	me::	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=553.682	1x2	_	_	_
-281-0	BOI081	281	0	# (dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=554.549	_	_	0-3(0)	_
-281-1	BOI081	281	1	di)	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-2(0)	_
-281-2	BOI081	281	2	sche:i	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	3x1	_	_	_
+281-0	BOI081	281	0	# (dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=554.549	_	_	0-3(0)	_
+281-1	BOI081	281	1	di)	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-2(0)	_
+281-2	BOI081	281	2	sche:i	schei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	3x1	_	_	_
 281-3	BOI081	281	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=555.817	_	_	_	_
 282-0	BOI080	282	0	yuhu:	yuhu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=555.835|End=556.595	3x1	_	_	_
 283-0	BOI081	283	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=557.12	_	_	_	_
@@ -2904,12 +2904,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 508-1	BOI081	508	1	cent(o)'	cento'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	Slow=0-6(0)	4-5(0)	0-6(147)
 508-2	BOI081	508	2	euro	euro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-4(0)	_	0-4(147)
 508-3	BOI081	508	3	e:h>]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=940.132	0x1	Slow=0-2(0)	_	0-2(147)
-509-0	BOI081	509	0	# [<è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=941.337	_	_	_	0-1(148)
-509-1	BOI081	509	1	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(148)
-509-2	BOI081	509	2	piotta]	piotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=942.298	_	_	_	0-6(148)
-510-0	BOI081	510	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=943.159	_	_	_	_
-510-1	BOI081	510	1	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-510-2	BOI081	510	2	piotta	piotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=944.119	_	_	_	_
+509-0	BOI081	509	0	# [<è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=941.337	_	_	_	0-1(148)
+509-1	BOI081	509	1	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(148)
+509-2	BOI081	509	2	piotta]	piotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=942.298	_	_	_	0-6(148)
+510-0	BOI081	510	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=943.159	_	_	_	_
+510-1	BOI081	510	1	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+510-2	BOI081	510	2	piotta	piotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=944.119	_	_	_	_
 511-0	BOI080	511	0	(non)	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=944.119	_	_	0-3(0)	_
 511-1	BOI080	511	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 511-2	BOI080	511	2	facciamo	facciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=944.695	_	_	_	_
@@ -5554,9 +5554,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1029-3	BOI080	1029	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1029-4	BOI080	1029	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1029-5	BOI080	1029	5	merda	merda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1853.816	_	_	_	_
-1030-0	BOI081	1030	0	# tasi	tasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1855.028	_	_	_	_
-1030-1	BOI081	1030	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1030-2	BOI081	1030	2	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1855.613	_	_	_	_
+1030-0	BOI081	1030	0	# tasi	tasi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1855.028	_	_	_	_
+1030-1	BOI081	1030	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1030-2	BOI081	1030	2	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1855.613	_	_	_	_
 1031-0	BOI080	1031	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1855.867	_	_	_	_
 1031-1	BOI080	1031	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1031-2	BOI080	1031	2	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

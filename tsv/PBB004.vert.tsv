@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR005	0	0	allo:ra	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.64|End=1.759	3x1	_	_	_
 1-0	BOI013	1	0	[i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=0.96	_	_	_	0-2(0)
 1-1	BOI013	1	1	su]gn	sugn	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(0)
@@ -536,12 +536,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 104-19	BOI012	104	19	cioè:	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x1	Slow=0-4(0)	_	0-4(?)
 104-20	BOI012	104	20	>gina<]	gina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=199.53	_	Fast=0-4(1)	_	0-4(?)
 105-0	BOI013	105	0	[°m:h°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=198.31|End=198.85	0x1	_	_	0-2(50)
-106-0	BOI013	106	0	# [°ma°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	Begin=199.025	_	_	_	0-2(51)
-106-1	BOI013	106	1	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(51)
-106-2	BOI013	106	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-106-3	BOI013	106	3	entra	entra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-106-4	BOI013	106	4	u	u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-106-5	BOI013	106	5	covid	covid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=200.685	_	_	_	_
+106-0	BOI013	106	0	# [°ma°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	Begin=199.025	_	_	_	0-2(51)
+106-1	BOI013	106	1	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(51)
+106-2	BOI013	106	2	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+106-3	BOI013	106	3	entra	entra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+106-4	BOI013	106	4	u	u	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+106-5	BOI013	106	5	covid	covid	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=200.685	_	_	_	_
 107-0	BOI012	107	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=200.685	_	_	_	_
 107-1	BOI012	107	1	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=201.005	_	_	_	_
 108-0	BOI013	108	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=201.2	_	_	_	0-3(53)
@@ -758,15 +758,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 149-1	BOI013	149	1	vuole	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 149-2	BOI013	149	2	QUALCOSA	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
 149-3	BOI013	149	3	signora?	signora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=264.12	_	_	_	_
-150-0	BOI013	150	0	# ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=264.17	_	_	_	_
-150-1	BOI013	150	1	vuole?	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	_	_	_	_	_
-150-2	BOI013	150	2	>ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-2(0)	_	_
-150-3	BOI013	150	3	ma<	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-2(0)	_	_
-150-4	BOI013	150	4	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-150-5	BOI013	150	5	vut	vut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+150-0	BOI013	150	0	# ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=264.17	_	_	_	_
+150-1	BOI013	150	1	vuole?	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	_	_	_	_	_
+150-2	BOI013	150	2	>ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	_	_
+150-3	BOI013	150	3	ma<	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	_	_
+150-4	BOI013	150	4	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+150-5	BOI013	150	5	vut	vut	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 150-6	BOI013	150	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-150-7	BOI013	150	7	dalla	dalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-150-8	BOI013	150	8	vita	vita	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=266.48	_	_	_	_
+150-7	BOI013	150	7	dalla	dalla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+150-8	BOI013	150	8	vita	vita	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=266.48	_	_	_	_
 151-0	BOI013	151	0	[>cioè]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=267.755	_	Fast=0-4(0)	_	0-4(75)
 151-1	BOI013	151	1	cio~	cio~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	Fast=0-4(0)	_	_
 151-2	BOI013	151	2	enrico<	enrico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-6(0)	_	_
@@ -2260,17 +2260,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 426-0	BOI012	426	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=788.48|End=789.4	_	_	_	_
 427-0	BOI013	427	0	oh	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=794.16	_	_	_	_
 427-1	BOI013	427	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=794.71	_	_	_	_
-428-0	BOI013	428	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=796.205	_	_	_	_
-428-1	BOI013	428	1	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-428-2	BOI013	428	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-428-3	BOI013	428	3	bo'	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=796.905	_	_	_	_
+428-0	BOI013	428	0	# eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=796.205	_	_	_	_
+428-1	BOI013	428	1	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+428-2	BOI013	428	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+428-3	BOI013	428	3	bo'	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=796.905	_	_	_	_
 429-0	BOI012	429	0	(°>tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=797.515	_	Fast=0-2(0)	0-2(0)	_
 429-1	BOI012	429	1	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	Fast=0-3(0)	0-3(0)	_
 429-2	BOI012	429	2	visto<°)	visto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=798.225	_	Fast=0-5(0)	0-5(0)	_
-430-0	BOR005	430	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=798.61	_	_	_	_
-430-1	BOR005	430	1	bo'	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=799.06	_	_	_	_
-431-0	BOI013	431	0	# >ch[e	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=799.185	_	Fast=0-3(0)	_	2-3(136)
-431-1	BOI013	431	1	bo']<	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=799.625	_	Fast=0-3(0)	_	0-3(136)
+430-0	BOR005	430	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=798.61	_	_	_	_
+430-1	BOR005	430	1	bo'	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=799.06	_	_	_	_
+431-0	BOI013	431	0	# >ch[e	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=799.185	_	Fast=0-3(0)	_	2-3(136)
+431-1	BOI013	431	1	bo']<	bo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=799.625	_	Fast=0-3(0)	_	0-3(136)
 432-0	BOI012	432	0	[>sto<]	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=799.345	_	Fast=0-3(0)	_	0-3(136)
 432-1	BOI012	432	1	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-2	BOI012	432	2	ridendo::	ridendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=800.685	6x2	_	_	_
@@ -5521,17 +5521,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1025-5	BOI012	1025	5	brusha:,	brusha	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	5x1	_	_	_
 1025-6	BOI012	1025	6	>cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 1025-7	BOI012	1025	7	tutta::<	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1950.983	4x2	Fast=0-5(0)	_	_
-1026-0	BOI012	1026	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1951.389	_	_	_	_
-1026-1	BOI012	1026	1	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-2	BOI012	1026	2	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-3	BOI012	1026	3	musicisti	musicisti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-4	BOI012	1026	4	jazz	jazz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-5	BOI012	1026	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-6	BOI012	1026	6	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1026-7	BOI012	1026	7	[li	li	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(1)
-1026-8	BOI012	1026	8	con]osco	conosco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	0-3(1)
+1026-0	BOI012	1026	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1951.389	_	_	_	_
+1026-1	BOI012	1026	1	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-2	BOI012	1026	2	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-3	BOI012	1026	3	musicisti	musicisti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-4	BOI012	1026	4	jazz	jazz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-5	BOI012	1026	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-6	BOI012	1026	6	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1026-7	BOI012	1026	7	[li	li	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(1)
+1026-8	BOI012	1026	8	con]osco	conosco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	0-3(1)
 1026-9	BOI012	1026	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1026-10	BOI012	1026	10	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1954.751	_	_	_	_
+1026-10	BOI012	1026	10	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1954.751	_	_	_	_
 1027-0	BOI013	1027	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1953.57|End=1953.889	_	_	_	0-4(1)
 1028-0	BOI012	1028	0	°praticamen~°	praticamen~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=low	Begin=1955.183|End=1955.705	_	_	_	_
 1029-0	BOR005	1029	0	°e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1957.262	_	_	_	_

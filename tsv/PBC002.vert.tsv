@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR003	0	0	<okay>	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.35|End=2.0	_	Slow=0-4(0)	_	_
 1-0	BOR003	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.89|End=4.39	_	_	_	_
 2-0	BOR003	2	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.82|End=5.34	_	_	_	_
@@ -899,17 +899,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 197-12	BOI008	197	12	tanti	tanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 197-13	BOI008	197	13	stranie:ri	stranieri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=355.55	6x1	_	_	_
 198-0	BOR003	198	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=355.819|End=356.138	_	_	_	_
-199-0	BOI008	199	0	# tanti:	tanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=356.45	4x1	_	_	_
-199-1	BOI008	199	1	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-2	BOI008	199	2	nati	nati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-3	BOI008	199	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-4	BOI008	199	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-5	BOI008	199	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-6	BOI008	199	6	inseri:ti	inseriti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	5x1	_	_	_
-199-7	BOI008	199	7	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-8	BOI008	199	8	poc	poc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-9	BOI008	199	9	poc	poc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-199-10	BOI008	199	10	mel	mel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=360.4	_	_	_	_
+199-0	BOI008	199	0	# tanti:	tanti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=356.45	4x1	_	_	_
+199-1	BOI008	199	1	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-2	BOI008	199	2	nati	nati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-3	BOI008	199	3	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-4	BOI008	199	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-5	BOI008	199	5	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-6	BOI008	199	6	inseri:ti	inseriti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	5x1	_	_	_
+199-7	BOI008	199	7	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-8	BOI008	199	8	poc	poc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-9	BOI008	199	9	poc	poc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+199-10	BOI008	199	10	mel	mel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=360.4	_	_	_	_
 200-0	BOR003	200	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=360.55|End=361.027	_	_	_	0-4(48)
 201-0	BOI008	201	0	[>cioè<]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=360.64|End=361.04	_	Fast=0-4(0)	_	0-4(48)
 202-0	BOI008	202	0	ma:le	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=361.12|End=361.758	1x1	_	_	_
@@ -948,11 +948,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 210-7	BOI008	210	7	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 210-8	BOI008	210	8	circa	circa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=374.21	_	_	_	_
 211-0	BOI008	211	0	centomila	centomila	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=374.6|End=375.41	_	_	_	_
-212-0	BOI008	212	0	# >(beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=376.84	_	Fast=0-3(0)	0-3(0)	_
-212-1	BOI008	212	1	so)<	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-2(0)	0-2(0)	_
-212-2	BOI008	212	2	centomila	centomila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-212-3	BOI008	212	3	studenti	studenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-212-4	BOI008	212	4	universita:ri	universitari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=379.68	9x1	_	_	_
+212-0	BOI008	212	0	# >(beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=376.84	_	Fast=0-3(0)	0-3(0)	_
+212-1	BOI008	212	1	so)<	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	0-2(0)	_
+212-2	BOI008	212	2	centomila	centomila	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+212-3	BOI008	212	3	studenti	studenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+212-4	BOI008	212	4	universita:ri	universitari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=379.68	9x1	_	_	_
 213-0	BOI008	213	0	capisci	capisci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=380.18	_	_	_	_
 213-1	BOI008	213	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=381.217	_	_	_	_
 214-0	BOI008	214	0	genera	genera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=381.7	_	_	_	_
@@ -1084,40 +1084,40 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 237-4	BOI007	237	4	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-5	BOI007	237	5	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 237-6	BOI007	237	6	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=435.97	_	_	_	_
-238-0	BOI007	238	0	# adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=436.63	_	_	_	_
-238-1	BOI007	238	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-2	BOI007	238	2	clima	clima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-3	BOI007	238	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-4	BOI007	238	4	cambia:[to	cambiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	5x1	_	_	6-8(57)
-238-5	BOI007	238	5	dappper]	dappper	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(57)
-238-6	BOI007	238	6	tutto:	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	4x1	_	_	_
-238-7	BOI007	238	7	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-8	BOI007	238	8	bolognesi:	bolognesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	8x1	_	_	_
-238-9	BOI007	238	9	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-10	BOI007	238	10	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-11	BOI007	238	11	stati	stati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-12	BOI007	238	12	chiamati	chiamati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-13	BOI007	238	13	biassanot	biassanot	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-14	BOI007	238	14	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-15	BOI007	238	15	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-16	BOI007	238	16	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-17	BOI007	238	17	vivono	vivono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-18	BOI007	238	18	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-19	BOI007	238	19	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-20	BOI007	238	20	notte	notte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-21	BOI007	238	21	tranquillo	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-22	BOI007	238	22	potevi	potevi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-238-23	BOI007	238	23	uscire:	uscire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=446.92	5x1	_	_	_
+238-0	BOI007	238	0	# adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=436.63	_	_	_	_
+238-1	BOI007	238	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-2	BOI007	238	2	clima	clima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-3	BOI007	238	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-4	BOI007	238	4	cambia:[to	cambiato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	5x1	_	_	6-8(57)
+238-5	BOI007	238	5	dappper]	dappper	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(57)
+238-6	BOI007	238	6	tutto:	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x1	_	_	_
+238-7	BOI007	238	7	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-8	BOI007	238	8	bolognesi:	bolognesi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	8x1	_	_	_
+238-9	BOI007	238	9	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-10	BOI007	238	10	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-11	BOI007	238	11	stati	stati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-12	BOI007	238	12	chiamati	chiamati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-13	BOI007	238	13	biassanot	biassanot	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-14	BOI007	238	14	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-15	BOI007	238	15	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-16	BOI007	238	16	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-17	BOI007	238	17	vivono	vivono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-18	BOI007	238	18	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-19	BOI007	238	19	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-20	BOI007	238	20	notte	notte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-21	BOI007	238	21	tranquillo	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-22	BOI007	238	22	potevi	potevi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+238-23	BOI007	238	23	uscire:	uscire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=446.92	5x1	_	_	_
 239-0	BOR003	239	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=438.33|End=438.84	_	_	_	0-4(57)
 240-0	BOI007	240	0	[senza	senza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=448.63	_	_	_	0-5(58)
 240-1	BOI007	240	1	proble:mi]	problemi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=449.909	5x1	_	_	0-8(58)
-241-0	BOI008	241	0	# [tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=448.67	_	_	_	0-2(58)
-241-1	BOI008	241	1	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(58)
-241-2	BOI008	241	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(58)
-241-3	BOI008	241	3	sono]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(58)
-241-4	BOI008	241	4	gl~	gl~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-241-5	BOI008	241	5	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-241-6	BOI008	241	6	umare:l	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=451.43	4x1	_	_	_
+241-0	BOI008	241	0	# [tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=448.67	_	_	_	0-2(58)
+241-1	BOI008	241	1	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(58)
+241-2	BOI008	241	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(58)
+241-3	BOI008	241	3	sono]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(58)
+241-4	BOI008	241	4	gl~	gl~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+241-5	BOI008	241	5	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+241-6	BOI008	241	6	umare:l	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=451.43	4x1	_	_	_
 242-0	BOR003	242	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=451.95	_	_	_	_
 242-1	BOR003	242	1	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 242-2	BOR003	242	2	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1128,13 +1128,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 243-2	BOR003	243	2	cantie:ri	cantieri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=456.74	5x1	_	_	_
 244-0	BOI008	244	0	e:[satto]	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=456.72|End=457.47	0x1	_	_	1-6(60)
 245-0	BOR003	245	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=456.92|End=457.37	_	_	_	0-4(60)
-246-0	BOI008	246	0	# gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=457.61	_	_	_	_
-246-1	BOI008	246	1	umarel	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-246-2	BOI008	246	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-246-3	BOI008	246	3	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-246-4	BOI008	246	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-246-5	BOI008	246	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-246-6	BOI008	246	6	mettono	mettono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=459.55	_	_	_	_
+246-0	BOI008	246	0	# gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=457.61	_	_	_	_
+246-1	BOI008	246	1	umarel	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+246-2	BOI008	246	2	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+246-3	BOI008	246	3	quelli	quelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+246-4	BOI008	246	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+246-5	BOI008	246	5	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+246-6	BOI008	246	6	mettono	mettono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=459.55	_	_	_	_
 247-0	BOI008	247	0	[al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=459.81	_	_	_	0-2(61)
 247-1	BOI008	247	1	bo]rdo	bordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(61)
 247-2	BOI008	247	2	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1153,8 +1153,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 249-5	BOI008	249	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 249-6	BOI008	249	6	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=465.234	_	_	_	_
 250-0	BOR003	250	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=465.37|End=465.71	_	_	_	_
-251-0	BOI008	251	0	# gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=465.77	_	_	_	_
-251-1	BOI008	251	1	umarel	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=466.79	_	_	_	_
+251-0	BOI008	251	0	# gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=465.77	_	_	_	_
+251-1	BOI008	251	1	umarel	umarel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=466.79	_	_	_	_
 252-0	BOR003	252	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=467.2	_	_	_	_
 252-1	BOR003	252	1	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(62)
 252-2	BOR003	252	2	vero]	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(62)
@@ -4113,13 +4113,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 881-4	BOI007	881	4	no]:i	noi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1788.03	1x1	_	_	0-2(207)
 882-0	BOI008	882	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1788.09	_	_	_	_
 882-1	BOI008	882	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1788.63	_	_	_	_
-883-0	BOI008	883	0	# [(se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1789.78	_	_	0-2(0)	0-2(208)
-883-1	BOI008	883	1	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-3(0)	0-3(208)
+883-0	BOI008	883	0	# [(se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1789.78	_	_	0-2(0)	0-2(208)
+883-1	BOI008	883	1	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-3(0)	0-3(208)
 883-2	BOI008	883	2	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	_	_	_	0-2(0)	0-2(208)
-883-3	BOI008	883	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-1(0)	0-1(208)
-883-4	BOI008	883	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-2(0)	0-2(208)
-883-5	BOI008	883	5	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-2(0)	0-2(208)
-883-6	BOI008	883	6	bri:sa)]	brisa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1792.1	2x1	_	0-5(0)	0-5(208)
+883-3	BOI008	883	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-1(0)	0-1(208)
+883-4	BOI008	883	4	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-2(0)	0-2(208)
+883-5	BOI008	883	5	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-2(0)	0-2(208)
+883-6	BOI008	883	6	bri:sa)]	brisa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1792.1	2x1	_	0-5(0)	0-5(208)
 884-0	BOR003	884	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1791.07|End=1791.95	_	_	_	_
 885-0	BOR003	885	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1792.37|End=1793.41	_	_	_	_
 886-0	BOR003	886	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1793.41	_	_	_	_

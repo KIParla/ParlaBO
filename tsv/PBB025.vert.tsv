@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR030	0	0	dunque	dunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=0.32	_	_	_	_
 0-1	BOR030	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR030	0	2	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1113,19 +1113,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 124-3	BOI092	124	3	boh	boh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=449.579	_	_	_	_
 125-0	BOR030	125	0	qualsiasi	qualsiasi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=449.75	_	_	_	_
 125-1	BOR030	125	1	gene[re]	genere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=450.724	_	_	_	4-6(22)
-126-0	BOI092	126	0	# [va]bbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=450.64	_	_	_	0-2(23)
-126-1	BOI092	126	1	tradizioni	tradizioni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-2	BOI092	126	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-3	BOI092	126	3	culinarie:	culinarie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	8x1	_	_	_
-126-4	BOI092	126	4	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-5	BOI092	126	5	conosco	conosco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-6	BOI092	126	6	i:	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-126-7	BOI092	126	7	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-8	BOI092	126	8	mangiarini	mangiarini	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-9	BOI092	126	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-10	BOI092	126	10	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-11	BOI092	126	11	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-126-12	BOI092	126	12	buoni	buoni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+126-0	BOI092	126	0	# [va]bbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=450.64	_	_	_	0-2(23)
+126-1	BOI092	126	1	tradizioni	tradizioni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-2	BOI092	126	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-3	BOI092	126	3	culinarie:	culinarie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	8x1	_	_	_
+126-4	BOI092	126	4	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-5	BOI092	126	5	conosco	conosco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-6	BOI092	126	6	i:	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+126-7	BOI092	126	7	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-8	BOI092	126	8	mangiarini	mangiarini	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-9	BOI092	126	9	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-10	BOI092	126	10	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-11	BOI092	126	11	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+126-12	BOI092	126	12	buoni	buoni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 126-13	BOI092	126	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=457.921	_	_	_	_
 127-0	BOR030	127	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=457.0|End=457.921	_	_	_	_
 128-0	BOI092	128	0	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=458.013	_	_	_	_
@@ -2191,10 +2191,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-1	BOI092	258	1	poi:	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
 258-2	BOI092	258	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 258-3	BOI092	258	3	piace	piace	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=870.58	_	_	_	_
-259-0	BOI092	259	0	# lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=871.56	_	_	_	_
-259-1	BOI092	259	1	puccio	puccio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-259-2	BOI092	259	2	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-259-3	BOI092	259	3	tè	tè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+259-0	BOI092	259	0	# lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=871.56	_	_	_	_
+259-1	BOI092	259	1	puccio	puccio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+259-2	BOI092	259	2	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+259-3	BOI092	259	3	tè	tè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 259-4	BOI092	259	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=874.574	_	_	_	_
 260-0	BOI092	260	0	co[sì]	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=875.194	_	_	_	2-4(63)
 260-1	BOI092	260	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=876.181	_	_	_	_

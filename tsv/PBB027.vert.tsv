@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR036	0	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1.341|End=1.708	_	_	_	_
 1-0	BOR036	1	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.835	_	_	_	_
 1-1	BOR036	1	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.35	_	_	_	_
@@ -4552,23 +4552,23 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 643-0	BOI098	643	0	posso	posso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1304.741	_	_	_	_
 643-1	BOI098	643	1	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 643-2	BOI098	643	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1305.43	_	_	_	_
-644-0	BOI098	644	0	# io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1305.493	_	_	_	_
-644-1	BOI098	644	1	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-2	BOI098	644	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-3	BOI098	644	3	quattordic'	quattordic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-644-4	BOI098	644	4	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-5	BOI098	644	5	quind~	quind~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-644-6	BOI098	644	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-7	BOI098	644	7	diciassette	diciassette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-8	BOI098	644	8	anni,	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-644-9	BOI098	644	9	sedic'	sedic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-644-10	BOI098	644	10	anni,	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-644-11	BOI098	644	11	quindic'	quindic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-644-12	BOI098	644	12	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-13	BOI098	644	13	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-14	BOI098	644	14	ero	ero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-15	BOI098	644	15	cinno	cinno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-16	BOI098	644	16	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1309.772	_	_	_	_
+644-0	BOI098	644	0	# io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1305.493	_	_	_	_
+644-1	BOI098	644	1	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-2	BOI098	644	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-3	BOI098	644	3	quattordic'	quattordic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+644-4	BOI098	644	4	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-5	BOI098	644	5	quind~	quind~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+644-6	BOI098	644	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-7	BOI098	644	7	diciassette	diciassette	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-8	BOI098	644	8	anni,	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+644-9	BOI098	644	9	sedic'	sedic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+644-10	BOI098	644	10	anni,	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+644-11	BOI098	644	11	quindic'	quindic'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+644-12	BOI098	644	12	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-13	BOI098	644	13	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-14	BOI098	644	14	ero	ero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-15	BOI098	644	15	cinno	cinno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-16	BOI098	644	16	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1309.772	_	_	_	_
 645-0	BOI098	645	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1310.404|End=1310.957	0x1	_	_	_
 646-0	BOI098	646	0	facevo	facevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1311.483	_	_	_	_
 646-1	BOI098	646	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6169,10 +6169,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 864-11	BOI098	864	11	bicicletta	bicicletta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 864-12	BOI098	864	12	prendendosi	prendendosi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1750.86	_	_	_	_
 865-0	BOI097	865	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1749.204|End=1751.927	_	_	_	_
-866-0	BOI098	866	0	# sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1751.182	_	_	_	_
-866-1	BOI098	866	1	sbalinata	sbalinata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-866-2	BOI098	866	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-866-3	BOI098	866	3	faccia	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1752.393	_	_	_	_
+866-0	BOI098	866	0	# sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1751.182	_	_	_	_
+866-1	BOI098	866	1	sbalinata	sbalinata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+866-2	BOI098	866	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+866-3	BOI098	866	3	faccia	faccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1752.393	_	_	_	_
 867-0	BOI097	867	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1752.749|End=1753.504	_	_	_	_
 868-0	BOI098	868	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=1752.749	_	_	_	_
 868-1	BOI098	868	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7544,58 +7544,58 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1100-0	BOI098	1100	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2163.188	_	_	_	_
 1100-1	BOI098	1100	1	dì	dì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1100-2	BOI098	1100	2	[no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2163.698	_	_	_	0-2(378)
-1101-0	BOI097	1101	0	# [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2163.53	_	_	_	0-2(378)
-1101-1	BOI097	1101	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-2	BOI097	1101	2	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-3	BOI097	1101	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-4	BOI097	1101	4	ment[e:]	mente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	4x1	_	_	4-5(379)
-1101-5	BOI097	1101	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-6	BOI097	1101	6	vie~	vie~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-1101-7	BOI097	1101	7	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-8	BOI097	1101	8	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-9	BOI097	1101	9	[mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(380)
-1101-10	BOI097	1101	10	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(380)
-1101-11	BOI097	1101	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(380)
-1101-12	BOI097	1101	12	me]nte	mente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(380)
-1101-13	BOI097	1101	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-14	BOI097	1101	14	[tiro:,	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	3x1	_	_	0-4(381)
-1101-15	BOI097	1101	15	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(381)
-1101-16	BOI097	1101	16	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-17	BOI097	1101	17	rusco:,	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	4x1	_	_	_
-1101-18	BOI097	1101	18	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1101-19	BOI097	1101	19	[noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(382)
-1101-20	BOI097	1101	20	abbiamo]	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(382)
-1101-21	BOI097	1101	21	a[bbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	1-7(383)
-1101-22	BOI097	1101	22	dei]	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2169.214	_	_	_	0-3(383)
-1102-0	BOI098	1102	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2164.504	_	_	_	0-2(379)
-1102-1	BOI098	1102	1	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2164.935	_	_	_	0-4(379)
-1103-0	BOI098	1103	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2165.688	_	_	_	0-2(380)
-1103-1	BOI098	1103	1	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2166.088	_	_	_	0-4(380)
-1104-0	BOR036	1104	0	# [<il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2166.372	_	Slow=0-2(0)	_	0-2(381)
-1104-1	BOR036	1104	1	tiro>],	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	End=2167.177	_	Slow=0-4(0)	_	0-4(381)
-1105-0	BOI098	1105	0	# [cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2168.067	_	_	_	0-4(382)
-1105-1	BOI098	1105	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(382)
-1105-2	BOI098	1105	2	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2168.526	_	_	_	0-4(382)
-1106-0	BOI098	1106	0	# [si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2168.667	_	_	_	0-2(383)
-1106-1	BOI098	1106	1	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(383)
-1106-2	BOI098	1106	2	perché]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-6(383)
-1106-3	BOI098	1106	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1106-4	BOI098	1106	4	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1106-5	BOI098	1106	5	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1106-6	BOI098	1106	6	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2170.177	_	_	_	_
-1107-0	BOR036	1107	0	# non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2170.635	_	_	_	_
-1107-1	BOR036	1107	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+1101-0	BOI097	1101	0	# [no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2163.53	_	_	_	0-2(378)
+1101-1	BOI097	1101	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-2	BOI097	1101	2	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-3	BOI097	1101	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-4	BOI097	1101	4	ment[e:]	mente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x1	_	_	4-5(379)
+1101-5	BOI097	1101	5	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-6	BOI097	1101	6	vie~	vie~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+1101-7	BOI097	1101	7	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-8	BOI097	1101	8	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-9	BOI097	1101	9	[mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(380)
+1101-10	BOI097	1101	10	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(380)
+1101-11	BOI097	1101	11	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(380)
+1101-12	BOI097	1101	12	me]nte	mente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(380)
+1101-13	BOI097	1101	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-14	BOI097	1101	14	[tiro:,	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	3x1	_	_	0-4(381)
+1101-15	BOI097	1101	15	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(381)
+1101-16	BOI097	1101	16	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-17	BOI097	1101	17	rusco:,	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	4x1	_	_	_
+1101-18	BOI097	1101	18	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1101-19	BOI097	1101	19	[noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(382)
+1101-20	BOI097	1101	20	abbiamo]	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(382)
+1101-21	BOI097	1101	21	a[bbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	1-7(383)
+1101-22	BOI097	1101	22	dei]	dei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2169.214	_	_	_	0-3(383)
+1102-0	BOI098	1102	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2164.504	_	_	_	0-2(379)
+1102-1	BOI098	1102	1	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2164.935	_	_	_	0-4(379)
+1103-0	BOI098	1103	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2165.688	_	_	_	0-2(380)
+1103-1	BOI098	1103	1	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2166.088	_	_	_	0-4(380)
+1104-0	BOR036	1104	0	# [<il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2166.372	_	Slow=0-2(0)	_	0-2(381)
+1104-1	BOR036	1104	1	tiro>],	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	End=2167.177	_	Slow=0-4(0)	_	0-4(381)
+1105-0	BOI098	1105	0	# [cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2168.067	_	_	_	0-4(382)
+1105-1	BOI098	1105	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(382)
+1105-2	BOI098	1105	2	tiro]	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2168.526	_	_	_	0-4(382)
+1106-0	BOI098	1106	0	# [si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2168.667	_	_	_	0-2(383)
+1106-1	BOI098	1106	1	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(383)
+1106-2	BOI098	1106	2	perché]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(383)
+1106-3	BOI098	1106	3	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1106-4	BOI098	1106	4	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1106-5	BOI098	1106	5	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1106-6	BOI098	1106	6	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2170.177	_	_	_	_
+1107-0	BOR036	1107	0	# non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2170.635	_	_	_	_
+1107-1	BOR036	1107	1	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 1107-2	BOR036	1107	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-1107-3	BOR036	1107	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1107-4	BOR036	1107	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1107-5	BOR036	1107	5	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1107-6	BOR036	1107	6	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2171.951	_	_	_	_
-1108-0	BOI098	1108	0	# si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2171.951	_	_	_	_
-1108-1	BOI098	1108	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1108-2	BOI098	1108	2	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1108-3	BOI098	1108	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1108-4	BOI098	1108	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1108-5	BOI098	1108	5	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2173.351	_	_	_	_
+1107-3	BOR036	1107	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1107-4	BOR036	1107	4	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1107-5	BOR036	1107	5	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1107-6	BOR036	1107	6	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2171.951	_	_	_	_
+1108-0	BOI098	1108	0	# si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2171.951	_	_	_	_
+1108-1	BOI098	1108	1	chiama	chiama	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1108-2	BOI098	1108	2	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1108-3	BOI098	1108	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1108-4	BOI098	1108	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1108-5	BOI098	1108	5	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2173.351	_	_	_	_
 1109-0	BOI097	1109	0	°s[i:]°	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2173.551|End=2174.114	1x1	_	_	1-2(384)
 1110-0	BOI098	1110	0	[era:]	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2174.009|End=2174.493	2x1	_	_	0-3(384)
 1111-0	BOI097	1111	0	[da]	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2174.398	_	_	_	0-2(385)
@@ -7692,52 +7692,52 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1126-5	BOI098	1126	5	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1126-6	BOI098	1126	6	dicevano	dicevano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1126-7	BOI098	1126	7	tira	tira	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2197.519	_	_	_	_
-1127-0	BOR036	1127	0	# mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2197.814	_	_	_	_
-1127-1	BOR036	1127	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-2	BOR036	1127	2	altre:	altre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	4x1	_	_	_
-1127-3	BOR036	1127	3	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-4	BOR036	1127	4	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-5	BOR036	1127	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-6	BOR036	1127	6	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-7	BOR036	1127	7	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-8	BOR036	1127	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-9	BOR036	1127	9	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-10	BOR036	1127	10	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-11	BOR036	1127	11	parole	parole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-12	BOR036	1127	12	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-13	BOR036	1127	13	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1127-14	BOR036	1127	14	[dicono]	dicono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-6(393)
-1127-15	BOR036	1127	15	s[olo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	1-4(556)
-1127-16	BOR036	1127	16	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	0-3(556)
+1127-0	BOR036	1127	0	# mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2197.814	_	_	_	_
+1127-1	BOR036	1127	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-2	BOR036	1127	2	altre:	altre	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x1	_	_	_
+1127-3	BOR036	1127	3	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-4	BOR036	1127	4	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-5	BOR036	1127	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-6	BOR036	1127	6	tiro	tiro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-7	BOR036	1127	7	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-8	BOR036	1127	8	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-9	BOR036	1127	9	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-10	BOR036	1127	10	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-11	BOR036	1127	11	parole	parole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-12	BOR036	1127	12	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-13	BOR036	1127	13	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1127-14	BOR036	1127	14	[dicono]	dicono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(393)
+1127-15	BOR036	1127	15	s[olo	solo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	1-4(556)
+1127-16	BOR036	1127	16	qui	qui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	0-3(556)
 1127-17	BOR036	1127	17	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(556)
-1127-18	BOR036	1127	18	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(556)
-1127-19	BOR036	1127	19	rusco]	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2203.23	_	_	_	0-5(556)
+1127-18	BOR036	1127	18	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(556)
+1127-19	BOR036	1127	19	rusco]	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2203.23	_	_	_	0-5(556)
 1128-0	BOI097	1128	0	[beh]	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2201.688|End=2201.946	_	_	_	0-3(393)
-1129-0	BOI098	1129	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2202.053	_	_	_	0-2(556)
-1129-1	BOI098	1129	1	rusco]?	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	End=2202.551	_	_	_	0-5(556)
-1130-0	BOI097	1130	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2202.272	_	_	_	0-2(556)
-1130-1	BOI097	1130	1	ru]sc[o:	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	4x1	_	_	0-2(556),4-5(557)
-1130-2	BOI097	1130	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(557)
-1130-3	BOI097	1130	3	rusco::]	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	4x2	_	_	0-5(557)
-1130-4	BOI097	1130	4	ch[e	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	2-3(394)
-1130-5	BOI097	1130	5	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(394)
-1130-6	BOI097	1130	6	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1130-7	BOI097	1130	7	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1130-8	BOI097	1130	8	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1130-9	BOI097	1130	9	esattamente	esattamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2206.372	_	_	_	_
-1131-0	BOI098	1131	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2203.025	_	_	_	0-2(557)
-1131-1	BOI098	1131	1	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(557)
-1131-2	BOI098	1131	2	so]	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2203.809	_	_	_	0-2(557)
+1129-0	BOI098	1129	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2202.053	_	_	_	0-2(556)
+1129-1	BOI098	1129	1	rusco]?	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	End=2202.551	_	_	_	0-5(556)
+1130-0	BOI097	1130	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2202.272	_	_	_	0-2(556)
+1130-1	BOI097	1130	1	ru]sc[o:	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x1	_	_	0-2(556),4-5(557)
+1130-2	BOI097	1130	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(557)
+1130-3	BOI097	1130	3	rusco::]	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x2	_	_	0-5(557)
+1130-4	BOI097	1130	4	ch[e	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	2-3(394)
+1130-5	BOI097	1130	5	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(394)
+1130-6	BOI097	1130	6	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1130-7	BOI097	1130	7	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1130-8	BOI097	1130	8	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1130-9	BOI097	1130	9	esattamente	esattamente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2206.372	_	_	_	_
+1131-0	BOI098	1131	0	# [il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2203.025	_	_	_	0-2(557)
+1131-1	BOI098	1131	1	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(557)
+1131-2	BOI098	1131	2	so]	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2203.809	_	_	_	0-2(557)
 1132-0	BOI098	1132	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=2204.614|End=2204.825	_	_	_	0-1(394)
 1133-0	BOI097	1133	0	quale	quale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2206.95	_	_	_	_
 1133-1	BOI097	1133	1	[sia]	sia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2207.483	_	_	_	0-3(395)
-1134-0	BOI098	1134	0	# [no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2207.104	_	_	_	0-2(395)
-1134-1	BOI098	1134	1	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(395)
-1134-2	BOI098	1134	2	n]on	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(395)
-1134-3	BOI098	1134	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1134-4	BOI098	1134	4	>da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-2(0)	_	_
-1134-5	BOI098	1134	5	[dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-4(0)	_	0-4(396)
-1134-6	BOI098	1134	6	deriva]<	deriva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2208.288	_	Fast=0-6(0)	_	0-6(396)
+1134-0	BOI098	1134	0	# [no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2207.104	_	_	_	0-2(395)
+1134-1	BOI098	1134	1	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(395)
+1134-2	BOI098	1134	2	n]on	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(395)
+1134-3	BOI098	1134	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1134-4	BOI098	1134	4	>da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	_	_
+1134-5	BOI098	1134	5	[dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-4(0)	_	0-4(396)
+1134-6	BOI098	1134	6	deriva]<	deriva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2208.288	_	Fast=0-6(0)	_	0-6(396)
 1135-0	BOI097	1135	0	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2207.809	_	_	_	0-2(396)
 1135-1	BOI097	1135	1	signifi]cato	significato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2208.919	_	_	_	0-7(396)
 1136-0	BOI098	1136	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2209.546	_	_	_	_
@@ -7812,18 +7812,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1143-3	BOR036	1143	3	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(399)
 1143-4	BOR036	1143	4	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(399)
 1143-5	BOR036	1143	5	capito]	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2224.223	_	_	_	0-6(399)
-1144-0	BOI097	1144	0	# [ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2223.209	_	_	_	0-2(399)
-1144-1	BOI097	1144	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(399)
-1144-2	BOI097	1144	2	<bazza>]	bazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Slow=0-5(0)	_	0-5(399)
-1144-3	BOI097	1144	3	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1144-4	BOI097	1144	4	bazza	bazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1144-5	BOI097	1144	5	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1144-6	BOI097	1144	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1144-7	BOI097	1144	7	[non::	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	2x2	_	_	0-3(400)
-1144-8	BOI097	1144	8	e]sci	esci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-1(400)
-1144-9	BOI097	1144	9	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1144-10	BOI097	1144	10	bolo[gna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	4-7(401)
-1144-11	BOI097	1144	11	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2227.467	_	_	_	0-3(401)
+1144-0	BOI097	1144	0	# [ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2223.209	_	_	_	0-2(399)
+1144-1	BOI097	1144	1	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(399)
+1144-2	BOI097	1144	2	<bazza>]	bazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-5(0)	_	0-5(399)
+1144-3	BOI097	1144	3	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1144-4	BOI097	1144	4	bazza	bazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1144-5	BOI097	1144	5	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1144-6	BOI097	1144	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1144-7	BOI097	1144	7	[non::	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x2	_	_	0-3(400)
+1144-8	BOI097	1144	8	e]sci	esci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-1(400)
+1144-9	BOI097	1144	9	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1144-10	BOI097	1144	10	bolo[gna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	4-7(401)
+1144-11	BOI097	1144	11	non]	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2227.467	_	_	_	0-3(401)
 1145-0	BOR036	1145	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2226.251|End=2226.56	_	_	_	0-4(400)
 1146-0	BOI098	1146	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2227.042	_	_	_	0-2(401)
 1146-1	BOI098	1146	1	vabbè]	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-5(401)
@@ -7895,8 +7895,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1154-3	BOR036	1154	3	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2244.798	_	_	_	_
 1155-0	BOI097	1155	0	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2243.309	_	_	_	0-2(404)
 1155-1	BOI097	1155	1	ba~]	ba~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=2243.635	_	_	_	0-3(404)
-1156-0	BOR036	1156	0	# burazzo	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2246.898|End=2247.614	_	_	_	_
-1157-0	BOI097	1157	0	# bura[zzo]	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2248.021|End=2248.569	_	_	_	4-7(?)
+1156-0	BOR036	1156	0	# burazzo	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2246.898|End=2247.614	_	_	_	_
+1157-0	BOI097	1157	0	# bura[zzo]	burazzo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2248.021|End=2248.569	_	_	_	4-7(?)
 1158-0	BOI098	1158	0	[#bu]razzo	#burazzo	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2248.569|End=2249.167	_	_	_	0-3(?)
 1159-0	BOI098	1159	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2249.614|End=2250.125	0x1	_	_	0-2(405)
 1160-0	BOR036	1160	0	[però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2249.719	_	_	_	0-4(405)
@@ -8438,9 +8438,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1245-3	BOI097	1245	3	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1245-4	BOI097	1245	4	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1245-5	BOI097	1245	5	parole	parole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2380.835	_	_	_	_
-1246-0	BOI097	1246	0	# soccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2381.156	_	_	_	_
-1246-1	BOI097	1246	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1246-2	BOI097	1246	2	zagno::::	zagno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2383.867	4x4	_	_	_
+1246-0	BOI097	1246	0	# soccia	soccia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2381.156	_	_	_	_
+1246-1	BOI097	1246	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1246-2	BOI097	1246	2	zagno::::	zagno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2383.867	4x4	_	_	_
 1247-0	BOI097	1247	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2384.577	_	_	_	_
 1247-1	BOI097	1247	1	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 1247-2	BOI097	1247	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

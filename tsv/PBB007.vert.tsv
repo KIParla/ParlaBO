@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR005	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.24	_	_	_	_
 0-1	BOR005	0	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.58	_	_	_	_
 1-0	BOR005	1	0	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.11	_	_	_	_
@@ -3775,10 +3775,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 538-3	BOI025	538	3	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 538-4	BOI025	538	4	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 538-5	BOI025	538	5	°m:h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1276.1	0x1	_	_	_
-539-0	BOI024	539	0	# c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Reduced=Yes	Begin=1275.027	_	_	_	_
-539-1	BOI024	539	1	subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-539-2	BOI024	539	2	sgamati	sgamati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-539-3	BOI024	539	3	pr[oprio]	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	2-7(151)
+539-0	BOI024	539	0	# c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Reduced=Yes	Begin=1275.027	_	_	_	_
+539-1	BOI024	539	1	subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+539-2	BOI024	539	2	sgamati	sgamati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+539-3	BOI024	539	3	pr[oprio]	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	2-7(151)
 539-4	BOI024	539	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1278.666	_	_	_	_
 540-0	BOI025	540	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1276.503	_	_	_	0-2(151)
 540-1	BOI025	540	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1278.666	_	_	_	_
@@ -6761,7 +6761,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1039-6	BOI025	1039	6	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1039-7	BOI025	1039	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1039-8	BOI025	1039	8	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2244.381	_	_	_	_
-1040-0	BOI024	1040	0	# o:i	oi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2244.387|End=2244.796	0x1	_	_	_
+1040-0	BOI024	1040	0	# o:i	oi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2244.387|End=2244.796	0x1	_	_	_
 1041-0	BOR005	1041	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2245.275|End=2245.668	_	_	_	_
 1042-0	BOR005	1042	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2246.946	_	_	_	_
 1042-1	BOR005	1042	1	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2247.828	_	_	_	_

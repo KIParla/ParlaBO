@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOI026	0	0	d'	d'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1.89	_	_	_	_
 0-1	BOI026	0	1	accordo	accordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.58	_	_	_	_
 1-0	BOR004	1	0	>allora<	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.61	_	Fast=0-6(0)	_	_
@@ -1897,22 +1897,22 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-0	BOR004	258	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=725.945	_	_	_	_
 258-1	BOR004	258	1	[sì:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=727.235	1x1	_	_	0-2(64)
 259-0	BOR004	259	0	[sì:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=727.55|End=727.81	1x1	_	_	0-2(65)
-260-0	BOI026	260	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=729.545	_	_	_	_
-260-1	BOI026	260	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-2	BOI026	260	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-3	BOI026	260	3	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-4	BOI026	260	4	miei	miei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-5	BOI026	260	5	occhi	occhi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-6	BOI026	260	6	>vedevano<	vedevano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-8(0)	_	_
-260-7	BOI026	260	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-8	BOI026	260	8	<portiere>	portiere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Slow=0-8(0)	_	_
-260-9	BOI026	260	9	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-10	BOI026	260	10	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-11	BOI026	260	11	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-12	BOI026	260	12	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-260-13	BOI026	260	13	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+260-0	BOI026	260	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=729.545	_	_	_	_
+260-1	BOI026	260	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-2	BOI026	260	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-3	BOI026	260	3	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-4	BOI026	260	4	miei	miei	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-5	BOI026	260	5	occhi	occhi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-6	BOI026	260	6	>vedevano<	vedevano	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-8(0)	_	_
+260-7	BOI026	260	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-8	BOI026	260	8	<portiere>	portiere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-8(0)	_	_
+260-9	BOI026	260	9	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-10	BOI026	260	10	lui	lui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-11	BOI026	260	11	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-12	BOI026	260	12	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+260-13	BOI026	260	13	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 260-14	BOI026	260	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-260-15	BOI026	260	15	coppi	coppi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+260-15	BOI026	260	15	coppi	coppi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 260-16	BOI026	260	16	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=733.09	_	_	_	_
 261-0	BOR004	261	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=732.24|End=732.74	_	_	_	_
 262-0	BOR006	262	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=732.83|End=733.54	_	_	_	_
@@ -5598,10 +5598,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 806-12	BOI026	806	12	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 806-13	BOI026	806	13	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 806-14	BOI026	806	14	mondo	mondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2238.03	_	_	_	_
-807-0	BOI026	807	0	# sciavo	sciavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2238.105	_	_	_	_
-807-1	BOI026	807	1	vostro	vostro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-807-2	BOI026	807	2	signor	signor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-807-3	BOI026	807	3	paron.	paron	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	End=2239.665	_	_	_	_
+807-0	BOI026	807	0	# sciavo	sciavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2238.105	_	_	_	_
+807-1	BOI026	807	1	vostro	vostro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+807-2	BOI026	807	2	signor	signor	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+807-3	BOI026	807	3	paron.	paron	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	End=2239.665	_	_	_	_
 808-0	BOI026	808	0	e::	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2240.175	0x2	_	_	_
 808-1	BOI026	808	1	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2241.375	_	_	_	_
 809-0	BOR004	809	0	[mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2241.595	_	_	_	0-4(139)

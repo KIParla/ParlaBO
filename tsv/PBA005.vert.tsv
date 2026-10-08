@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR019	0	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.566|End=0.989	_	_	_	_
 1-0	BOR019	1	0	cominciamo	cominciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.317|End=2.057	_	_	_	_
 2-0	BOR019	2	0	allo:ra	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.515	3x1	_	_	_
@@ -3404,18 +3404,18 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 408-10	BOI063	408	10	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 408-11	BOI063	408	11	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 408-12	BOI063	408	12	divertente	divertente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1413.507	_	_	_	_
-409-0	BOI063	409	0	# i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	Begin=1413.602	_	_	_	_
-409-1	BOI063	409	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-2	BOI063	409	2	atleti	atleti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-3	BOI063	409	3	stessi	stessi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-4	BOI063	409	4	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-5	BOI063	409	5	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-6	BOI063	409	6	più:	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	2x1	_	_	_
-409-7	BOI063	409	7	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-8	BOI063	409	8	direbbero	direbbero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-9	BOI063	409	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-10	BOI063	409	10	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-409-11	BOI063	409	11	polleggiati	polleggiati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1417.308	_	_	_	_
+409-0	BOI063	409	0	# i~	i~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	Begin=1413.602	_	_	_	_
+409-1	BOI063	409	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-2	BOI063	409	2	atleti	atleti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-3	BOI063	409	3	stessi	stessi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-4	BOI063	409	4	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-5	BOI063	409	5	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-6	BOI063	409	6	più:	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x1	_	_	_
+409-7	BOI063	409	7	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-8	BOI063	409	8	direbbero	direbbero	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-9	BOI063	409	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-10	BOI063	409	10	bologna	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+409-11	BOI063	409	11	polleggiati	polleggiati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1417.308	_	_	_	_
 410-0	BOR019	410	0	oka:y	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1417.522|End=1418.198	2x1	_	_	_
 411-0	BOI063	411	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=1418.205	_	_	_	_
 411-1	BOI063	411	1	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

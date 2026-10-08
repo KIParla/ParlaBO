@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR030	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.314|End=0.689	_	_	_	_
 1-0	BOR030	1	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.744	_	_	_	_
 1-1	BOR030	1	1	inizierei	inizierei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4668,15 +4668,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 577-10	BOI091	577	10	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 577-11	BOI091	577	11	così	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1811.111	_	_	_	_
 578-0	BOR030	578	0	certamente	certamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1811.131|End=1811.625	_	_	_	_
-579-0	BOI091	579	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1811.83	_	_	_	_
-579-1	BOI091	579	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-2	BOI091	579	2	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-3	BOI091	579	3	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-4	BOI091	579	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-5	BOI091	579	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-6	BOI091	579	6	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-7	BOI091	579	7	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-579-8	BOI091	579	8	divertirsi	divertirsi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1814.288	_	_	_	_
+579-0	BOI091	579	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1811.83	_	_	_	_
+579-1	BOI091	579	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-2	BOI091	579	2	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-3	BOI091	579	3	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-4	BOI091	579	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-5	BOI091	579	5	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-6	BOI091	579	6	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-7	BOI091	579	7	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+579-8	BOI091	579	8	divertirsi	divertirsi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1814.288	_	_	_	_
 580-0	BOR030	580	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1814.453|End=1814.74	_	_	_	_
 581-0	BOR030	581	0	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1815.255	0x1	_	_	_
 581-1	BOR030	581	1	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR036	0	0	secondo:	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.11	6x1	_	_	_
 0-1	BOR036	0	1	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR036	0	2	tentativo	tentativo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.15	_	_	_	_
@@ -4057,14 +4057,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 541-6	BOI101	541	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 541-7	BOI101	541	7	[dà]	dà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1368.056	_	_	_	0-2(121)
 542-0	BOR036	542	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1367.94|End=1368.33	_	_	_	0-2(121)
-543-0	BOI101	543	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1369.334	_	_	_	_
-543-1	BOI101	543	1	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-2	BOI101	543	2	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-3	BOI101	543	3	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-4	BOI101	543	4	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-5	BOI101	543	5	ciacaroni	ciacaroni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-6	BOI101	543	6	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-543-7	BOI101	543	7	pi[ù]:::	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1373.027	2x3	_	_	2-3(122)
+543-0	BOI101	543	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1369.334	_	_	_	_
+543-1	BOI101	543	1	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-2	BOI101	543	2	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-3	BOI101	543	3	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-4	BOI101	543	4	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-5	BOI101	543	5	ciacaroni	ciacaroni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-6	BOI101	543	6	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+543-7	BOI101	543	7	pi[ù]:::	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1373.027	2x3	_	_	2-3(122)
 544-0	BOR036	544	0	[ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1371.93	_	_	_	0-2(122)
 544-1	BOR036	544	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(122)
 544-2	BOR036	544	2	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(122)

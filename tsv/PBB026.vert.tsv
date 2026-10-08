@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR031	0	0	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.62	_	_	_	_
 0-1	BOR031	0	1	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR031	0	2	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -70,7 +70,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 11-0	BOR031	11	0	[in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=23.59	_	_	_	0-2(4)
 11-1	BOR031	11	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(4)
 11-2	BOR031	11	2	casa]?	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=24.492	_	_	_	0-4(4)
-12-0	BOR031	12	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=25.53|End=26.104	_	_	_	_
+12-0	BOR031	12	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=25.53|End=26.104	_	_	_	_
 13-0	BOR032	13	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=26.2	_	_	_	0-2(5)
 13-1	BOR032	13	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(5)
 13-2	BOR032	13	2	casa	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(5)
@@ -400,7 +400,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 68-8	BOI094	68	8	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-9	BOI094	68	9	stata	stata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-10	BOI094	68	10	chiusa	chiusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=132.74	_	_	_	_
-69-0	BOR031	69	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=133.1	_	_	_	_
+69-0	BOR031	69	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=133.1	_	_	_	_
 69-1	BOR031	69	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=134.204	_	_	_	_
 70-0	BOI093	70	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=134.242	_	_	_	_
 70-1	BOI093	70	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
@@ -443,7 +443,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 81-0	BOR031	81	0	[oh]	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=148.71|End=149.17	_	_	_	0-2(30)
 82-0	BOI093	82	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=148.71	0x1	_	_	0-2(30)
 82-1	BOI093	82	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=149.6	_	_	_	_
-83-0	BOR031	83	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=149.66|End=150.04	_	_	_	_
+83-0	BOR031	83	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=149.66|End=150.04	_	_	_	_
 84-0	BOI093	84	0	faceva	faceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=150.1	_	_	_	_
 84-1	BOI093	84	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 84-2	BOI093	84	2	muratore	muratore	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=151.109	_	_	_	_
@@ -1530,7 +1530,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 257-8	BOI094	257	8	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 257-9	BOI094	257	9	extra	extra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 257-10	BOI094	257	10	[comunitari]	comunitari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=509.17	_	_	_	0-10(106)
-258-0	BOR031	258	0	# [osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=508.713|End=509.169	_	_	_	0-4(106)
+258-0	BOR031	258	0	# [osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=508.713|End=509.169	_	_	_	0-4(106)
 259-0	BOR031	259	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=509.395	_	_	_	_
 259-1	BOR031	259	1	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(107)
 259-2	BOR031	259	2	massa	massa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(107)
@@ -3777,17 +3777,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 620-4	BOI094	620	4	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 620-5	BOI094	620	5	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 620-6	BOI094	620	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1284.16	_	_	_	_
-621-0	BOI094	621	0	# e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1286.44	0x1	_	_	_
-621-1	BOI094	621	1	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-2	BOI094	621	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-3	BOI094	621	3	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-4	BOI094	621	4	chiamata	chiamata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-5	BOI094	621	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-6	BOI094	621	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-621-7	BOI094	621	7	(caursa	caursa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-6(0)	_
-621-8	BOI094	621	8	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-3(0)	_
-621-9	BOI094	621	9	doge	doge	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	0-4(0)	_
-621-10	BOI094	621	10	tri)	tri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1290.32	_	_	0-3(0)	_
+621-0	BOI094	621	0	# e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1286.44	0x1	_	_	_
+621-1	BOI094	621	1	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-2	BOI094	621	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-3	BOI094	621	3	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-4	BOI094	621	4	chiamata	chiamata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-5	BOI094	621	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-6	BOI094	621	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+621-7	BOI094	621	7	(caursa	caursa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-6(0)	_
+621-8	BOI094	621	8	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-3(0)	_
+621-9	BOI094	621	9	doge	doge	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	0-4(0)	_
+621-10	BOI094	621	10	tri)	tri	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1290.32	_	_	0-3(0)	_
 622-0	BOR031	622	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1290.795|End=1291.186	_	_	_	_
 623-0	BOI094	623	0	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1291.23	_	_	_	_
 623-1	BOI094	623	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4124,13 +4124,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 675-10	BOR031	675	10	avete	avete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 675-11	BOR031	675	11	[incuriosito]	incuriosito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-11(251)
 675-12	BOR031	675	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1399.82	_	_	_	_
-676-0	BOI094	676	0	# [perché]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1399.39	_	_	_	0-6(251)
-676-1	BOI094	676	1	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-676-2	BOI094	676	2	sarai?	sarai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	_	_	_	_	_
-676-3	BOI094	676	3	du	du	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-676-4	BOI094	676	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-676-5	BOI094	676	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-676-6	BOI094	676	6	ander?	ander	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	End=1401.305	_	_	_	_
+676-0	BOI094	676	0	# [perché]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1399.39	_	_	_	0-6(251)
+676-1	BOI094	676	1	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+676-2	BOI094	676	2	sarai?	sarai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	_	_	_	_	_
+676-3	BOI094	676	3	du	du	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+676-4	BOI094	676	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+676-5	BOI094	676	5	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+676-6	BOI094	676	6	ander?	ander	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	End=1401.305	_	_	_	_
 677-0	BOR031	677	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1401.579	0x1	_	_	_
 677-1	BOR031	677	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 677-2	BOR031	677	2	piacerebbe	piacerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8031,7 +8031,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1351-18	BOI094	1351	18	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1351-19	BOI094	1351	19	nuovo	nuovo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2707.437	_	_	_	_
 1352-0	BOR031	1352	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2703.708|End=2704.098	_	_	_	0-2(530)
-1353-0	BOR031	1353	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2707.658|End=2708.152	_	_	_	_
+1353-0	BOR031	1353	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2707.658|End=2708.152	_	_	_	_
 1354-0	BOI094	1354	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2708.63|End=2708.86	_	_	_	_
 1355-0	BOR031	1355	0	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2709.61	_	_	_	_
 1355-1	BOR031	1355	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9585,7 +9585,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1631-4	BOR032	1631	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1631-5	BOR032	1631	5	tradizione	tradizione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3220.93	_	_	_	_
 1632-0	BOR031	1632	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3219.44|End=3219.82	_	_	_	0-2(631)
-1633-0	BOR031	1633	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=3220.97|End=3221.376	_	_	_	_
+1633-0	BOR031	1633	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3220.97|End=3221.376	_	_	_	_
 1634-0	BOR031	1634	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3221.91	_	_	_	_
 1634-1	BOR031	1634	1	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1634-2	BOR031	1634	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -9878,8 +9878,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1683-27	BOR032	1683	27	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1683-28	BOR032	1683	28	volta	volta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3312.31	_	_	_	_
 1684-0	BOR031	1684	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3311.07|End=3311.44	_	_	_	0-2(651)
-1685-0	BOR031	1685	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=3312.36	_	_	_	_
-1685-1	BOR031	1685	1	osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=3312.959	_	_	_	_
+1685-0	BOR031	1685	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3312.36	_	_	_	_
+1685-1	BOR031	1685	1	osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=3312.959	_	_	_	_
 1686-0	BOR032	1686	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3313.23	0x1	_	_	_
 1686-1	BOR032	1686	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1686-2	BOR032	1686	2	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

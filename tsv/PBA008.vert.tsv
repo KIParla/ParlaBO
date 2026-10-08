@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOI067	0	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=0.6|End=1.04	_	_	_	_
 1-0	BOI067	1	0	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.2	0x2	_	_	_
 1-1	BOI067	1	1	a:::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3.31	0x3	_	_	_
@@ -1720,10 +1720,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 265-0	BOI067	265	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=711.635	_	_	_	_
 265-1	BOI067	265	1	compagnia	compagnia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=712.36	_	_	_	_
 266-0	BOR020	266	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=712.376|End=712.881	_	_	_	_
-267-0	BOI067	267	0	# e::::	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=713.581	0x4	_	_	_
-267-1	BOI067	267	1	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-267-2	BOI067	267	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-267-3	BOI067	267	3	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=715.755	_	_	_	_
+267-0	BOI067	267	0	# e::::	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=713.581	0x4	_	_	_
+267-1	BOI067	267	1	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+267-2	BOI067	267	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+267-3	BOI067	267	3	balotta	balotta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=715.755	_	_	_	_
 268-0	BOR020	268	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=715.996|End=716.455	_	_	_	_
 269-0	BOI067	269	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=716.499|End=716.866	_	_	_	_
 270-0	BOI067	270	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=717.855	_	_	_	_
@@ -2215,19 +2215,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 352-3	BOR020	352	3	viene	viene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-4	BOR020	352	4	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-5	BOR020	352	5	dirti	dirti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=920.107	_	_	_	_
-353-0	BOI067	353	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=920.107	_	_	_	_
-353-1	BOI067	353	1	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-2	BOI067	353	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-3	BOI067	353	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-4	BOI067	353	4	po:'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	1x1	_	_	_
-353-5	BOI067	353	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-6	BOI067	353	6	volte	volte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-7	BOI067	353	7	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-8	BOI067	353	8	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-9	BOI067	353	9	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-353-10	BOI067	353	10	sbatt'	sbatt'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	_	_	_	_	_
-353-11	BOI067	353	11	u'	u'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	_	_	_	_	_
-353-12	BOI067	353	12	cazz'	cazz'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=923.893	_	_	_	_
+353-0	BOI067	353	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=920.107	_	_	_	_
+353-1	BOI067	353	1	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-2	BOI067	353	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-3	BOI067	353	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-4	BOI067	353	4	po:'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	1x1	_	_	_
+353-5	BOI067	353	5	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-6	BOI067	353	6	volte	volte	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-7	BOI067	353	7	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-8	BOI067	353	8	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-9	BOI067	353	9	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+353-10	BOI067	353	10	sbatt'	sbatt'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	_	_	_	_	_
+353-11	BOI067	353	11	u'	u'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	_	_	_	_	_
+353-12	BOI067	353	12	cazz'	cazz'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=923.893	_	_	_	_
 354-0	BOR020	354	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=923.897	_	_	_	_
 354-1	BOR020	354	1	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(80)
 354-2	BOR020	354	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=925.971	_	_	_	0-2(80)
@@ -4459,12 +4459,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 745-8	BOR020	745	8	state	state	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 745-9	BOR020	745	9	[simpa]tici	simpatici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1822.819	_	_	_	0-5(155)
 746-0	BOI067	746	0	[°sì°]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1821.744|End=1822.102	_	_	_	0-2(155)
-747-0	BOI067	747	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1822.833	_	_	_	_
-747-1	BOI067	747	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+747-0	BOI067	747	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1822.833	_	_	_	_
+747-1	BOI067	747	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 747-2	BOI067	747	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-747-3	BOI067	747	3	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-747-4	BOI067	747	4	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-747-5	BOI067	747	5	cartole	cartole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1824.952	_	_	_	_
+747-3	BOI067	747	3	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+747-4	BOI067	747	4	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+747-5	BOI067	747	5	cartole	cartole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1824.952	_	_	_	_
 748-0	BOI067	748	0	no::	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1826.503	1x2	_	_	_
 748-1	BOI067	748	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 748-2	BOI067	748	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1827.319	_	_	_	_

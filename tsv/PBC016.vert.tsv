@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR010	0	0	pe:rfettto,	perfettto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=0.207|End=1.353	1x1	_	_	_
 1-0	BOR010	1	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.72	_	_	_	_
 1-1	BOR010	1	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_

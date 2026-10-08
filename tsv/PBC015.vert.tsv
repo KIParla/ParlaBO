@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR010	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.19	_	_	_	_
 0-1	BOR010	0	1	dovrebbe	dovrebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	BOR010	0	2	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -2226,20 +2226,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 300-2	BOI037	300	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 300-3	BOI037	300	3	esatto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=940.158	_	_	_	_
 301-0	BOR010	301	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=939.99|End=940.58	_	_	_	_
-302-0	BOI037	302	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=940.3	_	_	_	_
-302-1	BOI037	302	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-2	BOI037	302	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-302-3	BOI037	302	3	i:	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-302-4	BOI037	302	4	carrelli	carrelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-5	BOI037	302	5	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-6	BOI037	302	6	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-7	BOI037	302	7	messi	messi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-8	BOI037	302	8	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-9	BOI037	302	9	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-10	BOI037	302	10	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-11	BOI037	302	11	vuole,	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-302-12	BOI037	302	12	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-302-13	BOI037	302	13	cui	cui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=945.55	_	_	_	_
+302-0	BOI037	302	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=940.3	_	_	_	_
+302-1	BOI037	302	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-2	BOI037	302	2	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+302-3	BOI037	302	3	i:	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+302-4	BOI037	302	4	carrelli	carrelli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-5	BOI037	302	5	del	del	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-6	BOI037	302	6	rusco	rusco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-7	BOI037	302	7	messi	messi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-8	BOI037	302	8	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-9	BOI037	302	9	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-10	BOI037	302	10	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-11	BOI037	302	11	vuole,	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+302-12	BOI037	302	12	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+302-13	BOI037	302	13	cui	cui	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=945.55	_	_	_	_
 303-0	BOI037	303	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=945.97	0x1	_	_	_
 303-1	BOI037	303	1	spesso	spesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 303-2	BOI037	303	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

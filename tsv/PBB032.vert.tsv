@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR031	0	0	appunto	appunto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.14	_	_	_	_
 0-1	BOR031	0	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 0-2	BOR031	0	2	voi	voi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3974,7 +3974,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 662-8	BOI117	662	8	imparato	imparato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 662-9	BOI117	662	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 662-10	BOI117	662	10	farli:	farli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1329.43	4x1	_	_	_
-663-0	BOR031	663	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1329.462	_	_	_	_
+663-0	BOR031	663	0	# osta	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1329.462	_	_	_	_
 663-1	BOR031	663	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=1329.852	_	_	_	_
 664-0	BOI117	664	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1329.89	_	_	_	_
 664-1	BOI117	664	1	[(però)]	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1331.15	_	_	0-4(0)	0-4(238)
@@ -4872,8 +4872,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 829-10	BOI117	829	10	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 829-11	BOI117	829	11	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1663.032	_	_	_	_
 830-0	BOR031	830	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1659.26|End=1659.65	_	_	_	0-4(286)
-831-0	BOR031	831	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1663.296	_	_	_	_
-831-1	BOR031	831	1	[osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1664.03	_	_	_	0-4(287)
+831-0	BOR031	831	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1663.296	_	_	_	_
+831-1	BOR031	831	1	[osta]	osta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1664.03	_	_	_	0-4(287)
 832-0	BOI117	832	0	[per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1663.53	_	_	_	0-3(289)
 832-1	BOI117	832	1	questo]	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(289)
 832-2	BOI117	832	2	parlo	parlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5772,16 +5772,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 996-4	BOI118	996	4	residenti:	residenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1964.496	8x1	_	_	_
 997-0	BOI117	997	0	[xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1962.172	_	_	_	0-2(536)
 997-1	BOI117	997	1	xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1963.603	_	_	_	0-2(536)
-998-0	BOI118	998	0	# vanno,	vanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	Begin=1965.56	_	_	_	_
-998-1	BOI118	998	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-2	BOI118	998	2	residenti	residenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-3	BOI118	998	3	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-4	BOI118	998	4	vivono	vivono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-5	BOI118	998	5	coi	coi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-6	BOI118	998	6	figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-7	BOI118	998	7	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-8	BOI118	998	8	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-998-9	BOI118	998	9	paese	paese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1968.47	_	_	_	_
+998-0	BOI118	998	0	# vanno,	vanno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	Begin=1965.56	_	_	_	_
+998-1	BOI118	998	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-2	BOI118	998	2	residenti	residenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-3	BOI118	998	3	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-4	BOI118	998	4	vivono	vivono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-5	BOI118	998	5	coi	coi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-6	BOI118	998	6	figli	figli	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-7	BOI118	998	7	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-8	BOI118	998	8	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+998-9	BOI118	998	9	paese	paese	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1968.47	_	_	_	_
 999-0	BOI117	999	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1968.78|End=1969.15	_	_	_	0-2(344)
 1000-0	BOI118	1000	0	[tipo]	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1968.78	_	_	_	0-4(344)
 1000-1	BOI118	1000	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6723,29 +6723,29 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1160-7	BOR031	1160	7	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1160-8	BOR031	1160	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=2261.76	_	_	_	_
 1161-0	BOI117	1161	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2261.88|End=2262.376	_	_	_	_
-1162-0	BOI117	1162	0	# [e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2262.55	0x1	_	_	0-2(405)
-1162-1	BOI117	1162	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-1162-2	BOI117	1162	2	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-3	BOI117	1162	3	col~	col~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-1162-4	BOI117	1162	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-5	BOI117	1162	5	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-6	BOI117	1162	6	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-7	BOI117	1162	7	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-8	BOI117	1162	8	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-9	BOI117	1162	9	sentiamo	sentiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-10	BOI117	1162	10	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-11	BOI117	1162	11	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-12	BOI117	1162	12	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-1162-13	BOI117	1162	13	sara	sara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-14	BOI117	1162	14	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-15	BOI117	1162	15	monica	monica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-16	BOI117	1162	16	[sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(406)
-1162-17	BOI117	1162	17	state	state	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(406)
-1162-18	BOI117	1162	18	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(406)
-1162-19	BOI117	1162	19	classe	classe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-6(406)
-1162-20	BOI117	1162	20	insie]me	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(406)
-1162-21	BOI117	1162	21	alle	alle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1162-22	BOI117	1162	22	elementari	elementari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2272.27	_	_	_	_
+1162-0	BOI117	1162	0	# [e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2262.55	0x1	_	_	0-2(405)
+1162-1	BOI117	1162	1	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+1162-2	BOI117	1162	2	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-3	BOI117	1162	3	col~	col~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+1162-4	BOI117	1162	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-5	BOI117	1162	5	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-6	BOI117	1162	6	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-7	BOI117	1162	7	vediamo	vediamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-8	BOI117	1162	8	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-9	BOI117	1162	9	sentiamo	sentiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-10	BOI117	1162	10	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-11	BOI117	1162	11	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-12	BOI117	1162	12	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+1162-13	BOI117	1162	13	sara	sara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-14	BOI117	1162	14	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-15	BOI117	1162	15	monica	monica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-16	BOI117	1162	16	[sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(406)
+1162-17	BOI117	1162	17	state	state	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(406)
+1162-18	BOI117	1162	18	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(406)
+1162-19	BOI117	1162	19	classe	classe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(406)
+1162-20	BOI117	1162	20	insie]me	insieme	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(406)
+1162-21	BOI117	1162	21	alle	alle	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1162-22	BOI117	1162	22	elementari	elementari	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2272.27	_	_	_	_
 1163-0	BOR031	1163	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2262.55|End=2263.14	0x1	_	_	0-2(405)
 1164-0	BOI118	1164	0	[erano	erano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2269.235	_	_	_	0-5(406)
 1164-1	BOI118	1164	1	andate	andate	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(406)
