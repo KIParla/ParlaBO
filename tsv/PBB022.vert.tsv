@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR024	0	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.9|End=1.379	_	_	_	_
 1-0	BOR024	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.76	_	_	_	_
 1-1	BOR024	1	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1469,8 +1469,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 136-26	BOI086	136	26	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 136-27	BOI086	136	27	mangiava:	mangiava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	_
 136-28	BOI086	136	28	lassù	lassù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=423.61	_	_	_	_
-137-0	BOR024	137	0	[(°bello°)]	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=418.38|End=419.17	_	_	0-5(0)	0-5(64)
-138-0	BOR024	138	0	[(°bello°)]	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=419.58|End=420.264	_	_	0-5(0)	0-5(65)
+137-0	BOR024	137	0	[(°bello°)]	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=418.38|End=419.17	_	_	0-5(0)	0-5(64)
+138-0	BOR024	138	0	[(°bello°)]	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=419.58|End=420.264	_	_	0-5(0)	0-5(65)
 139-0	BOI086	139	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=423.93	_	_	_	_
 139-1	BOI086	139	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 139-2	BOI086	139	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6006,11 +6006,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 612-0	BOR024	612	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1740.89|End=1741.273	_	_	_	0-2(255)
 613-0	BOR024	613	0	purtroppo	purtroppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1742.3	_	_	_	_
 613-1	BOR024	613	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-613-2	BOR024	613	2	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-613-3	BOR024	613	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-613-4	BOR024	613	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-613-5	BOR024	613	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-613-6	BOR024	613	6	così°	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1744.85	_	_	_	_
+613-2	BOR024	613	2	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+613-3	BOR024	613	3	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+613-4	BOR024	613	4	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+613-5	BOR024	613	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+613-6	BOR024	613	6	così°	così	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1744.85	_	_	_	_
 614-0	BOR024	614	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1745.4|End=1746.42	0x1	_	_	_
 615-0	BOR024	615	0	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1746.97	_	_	_	_
 615-1	BOR024	615	1	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8087,7 +8087,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 820-13	BOI086	820	13	discesa	discesa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 820-14	BOI086	820	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
 820-15	BOI086	820	15	incredibile	incredibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2365.648	_	_	_	_
-821-0	BOR024	821	0	[°no°]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2360.38|End=2360.92	_	_	_	0-2(332)
+821-0	BOR024	821	0	[°no°]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2360.38|End=2360.92	_	_	_	0-2(332)
 822-0	BOR024	822	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=2364.1|End=2365.65	_	_	_	_
 823-0	BOI086	823	0	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2366.06	0x1	_	_	_
 823-1	BOI086	823	1	m:h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
@@ -9549,7 +9549,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 962-4	BOI086	962	4	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 962-5	BOI086	962	5	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 962-6	BOI086	962	6	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2777.61	_	_	_	_
-963-0	BOR025	963	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2777.73|End=2778.111	_	_	_	_
+963-0	BOR025	963	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2777.73|End=2778.111	_	_	_	_
 964-0	BOR024	964	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2778.166	_	_	_	_
 964-1	BOR024	964	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 964-2	BOR024	964	2	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -11596,7 +11596,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1191-26	BOR025	1191	26	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(495)
 1191-27	BOR025	1191	27	spell]	spell	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(495)
 1191-28	BOR025	1191	28	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3354.1	_	_	_	_
-1192-0	BOR024	1192	0	[°pazzesco°]	pazzesco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3352.9|End=3353.67	_	_	_	0-8(495)
+1192-0	BOR024	1192	0	[°pazzesco°]	pazzesco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3352.9|End=3353.67	_	_	_	0-8(495)
 1193-0	BOR025	1193	0	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3354.38	_	_	_	_
 1193-1	BOR025	1193	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1193-2	BOR025	1193	2	succede	succede	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

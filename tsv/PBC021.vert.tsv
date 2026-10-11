@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR012	0	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.95	_	_	_	_
 0-1	BOR012	0	1	nonna	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.58	_	_	_	_
 1-0	BOI051	1	0	ciao	ciao	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.71	_	_	_	_
@@ -1955,9 +1955,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 325-22	BOI051	325	22	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=704.93	_	_	_	_
 326-0	BOR012	326	0	[ah]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=700.695|End=701.045	_	_	_	0-2(97)
 327-0	BOR012	327	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=702.505|End=702.985	_	_	_	0-4(98)
-328-0	BOI051	328	0	[°era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=705.815	_	_	_	0-3(99)
-328-1	BOI051	328	1	assolutame]nte	assolutamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-10(99)
-328-2	BOI051	328	2	impossibile°	impossibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+328-0	BOI051	328	0	[°era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=705.815	_	_	_	0-3(99)
+328-1	BOI051	328	1	assolutame]nte	assolutamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-10(99)
+328-2	BOI051	328	2	impossibile°	impossibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 328-3	BOI051	328	3	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 328-4	BOI051	328	4	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 328-5	BOI051	328	5	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8250,7 +8250,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1384-8	BOR012	1384	8	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1384-9	BOR012	1384	9	certe	certe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1384-10	BOR012	1384	10	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1384-11	BOR012	1384	11	[°e°]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3064.524	_	_	_	0-1(386)
+1384-11	BOR012	1384	11	[°e°]	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3064.524	_	_	_	0-1(386)
 1385-0	BOI051	1385	0	[no:]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3064.197	1x1	_	_	0-2(386)
 1385-1	BOI051	1385	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1385-2	BOI051	1385	2	cre:do	credo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3065.418	2x1	_	_	_
@@ -8263,7 +8263,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1386-6	BOR012	1386	6	direttamente	direttamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1386-7	BOR012	1386	7	[dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(388)
 1386-8	BOR012	1386	8	genitori]	genitori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3068.436	_	_	_	0-8(388)
-1387-0	BOI051	1387	0	[°non°	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3067.498	_	_	_	0-3(388)
+1387-0	BOI051	1387	0	[°non°	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3067.498	_	_	_	0-3(388)
 1387-1	BOI051	1387	1	credo	credo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(388)
 1387-2	BOI051	1387	2	però]::	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	3x2	_	_	0-4(388)
 1387-3	BOI051	1387	3	non:	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_

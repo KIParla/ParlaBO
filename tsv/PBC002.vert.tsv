@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR003	0	0	<okay>	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.35|End=2.0	_	Slow=0-4(0)	_	_
 1-0	BOR003	1	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.89|End=4.39	_	_	_	_
 2-0	BOR003	2	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=4.82|End=5.34	_	_	_	_
@@ -1742,10 +1742,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 368-1	BOR003	368	1	siete	siete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 368-2	BOR003	368	2	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 368-3	BOR003	368	3	stati:	stati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=707.56	4x1	_	_	_
-369-0	BOI008	369	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=707.69	_	_	_	_
-369-1	BOI008	369	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-369-2	BOI008	369	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-369-3	BOI008	369	3	[xxxxx]°	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=5	End=709.29	_	_	_	0-5(99)
+369-0	BOI008	369	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=707.69	_	_	_	_
+369-1	BOI008	369	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+369-2	BOI008	369	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+369-3	BOI008	369	3	[xxxxx]°	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=5	End=709.29	_	_	_	0-5(99)
 370-0	BOI007	370	0	[carat]teristica	caratteristica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=709.03	_	_	_	0-5(99)
 370-1	BOI007	370	1	sicurame:nte	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=711.05	7x1	_	_	_
 371-0	BOR003	371	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=711.09	_	_	_	_
@@ -3336,7 +3336,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 684-7	BOI007	684	7	cantato	cantato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 684-8	BOI007	684	8	luciano	luciano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 684-9	BOI007	684	9	pavaro:tti	pavarotti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1414.84	5x1	_	_	_
-685-0	BOR003	685	0	MH	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1415.05|End=1415.5	_	_	_	_
+685-0	BOR003	685	0	MH	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1415.05|End=1415.5	_	_	_	_
 686-0	BOR003	686	0	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1416.66|End=1417.263	_	_	_	_
 687-0	BOI007	687	0	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1417.34	_	_	_	_
 687-1	BOI007	687	1	altra:	altra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
@@ -3505,8 +3505,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 732-5	BOR003	732	5	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 732-6	BOR003	732	6	tempo	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 732-7	BOR003	732	7	dopo:	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1507.75	3x1	_	_	_
-733-0	BOI008	733	0	°quattro	quattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1507.76	_	_	_	_
-733-1	BOI008	733	1	anni°	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1508.36	_	_	_	_
+733-0	BOI008	733	0	°quattro	quattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1507.76	_	_	_	_
+733-1	BOI008	733	1	anni°	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1508.36	_	_	_	_
 734-0	BOR003	734	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1508.61|End=1509.05	_	_	_	_
 735-0	BOR003	735	0	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1509.53	5x1	_	_	_
 735-1	BOR003	735	1	quattro	quattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4258,9 +4258,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 912-0	BOR003	912	0	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1847.76	_	_	_	_
 912-1	BOR003	912	1	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 912-2	BOR003	912	2	posto:	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1849.37	4x1	_	_	_
-913-0	BOI008	913	0	°in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1849.39	_	_	_	_
-913-1	BOI008	913	1	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-913-2	BOI008	913	2	posto°	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1850.47	_	_	_	_
+913-0	BOI008	913	0	°in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1849.39	_	_	_	_
+913-1	BOI008	913	1	ogni	ogni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+913-2	BOI008	913	2	posto°	posto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1850.47	_	_	_	_
 914-0	BOI007	914	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1851.76	_	_	_	_
 914-1	BOI007	914	1	guarda	guarda	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 914-2	BOI007	914	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

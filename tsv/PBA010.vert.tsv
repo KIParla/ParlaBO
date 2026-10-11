@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR019	0	0	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.77|End=1.401	_	_	_	_
 1-0	BOR019	1	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.6	_	_	_	_
 1-1	BOR019	1	1	e:::hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x3	_	_	_
@@ -30,7 +30,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 5-5	BOI069	5	5	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 5-6	BOI069	5	6	minuti	minuti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 5-7	BOI069	5	7	circa	circa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=14.005	_	_	_	_
-6-0	BOR019	6	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=14.3	_	_	_	_
+6-0	BOR019	6	0	°okay°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=14.3	_	_	_	_
 6-1	BOR019	6	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 6-2	BOR019	6	2	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 6-3	BOR019	6	3	vi[cino]	vicino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=16.11	_	_	_	2-6(1)
@@ -100,7 +100,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 14-12	BOI069	14	12	>cioè<]	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	0-4(2)
 14-13	BOI069	14	13	siamo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 14-14	BOI069	14	14	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=41.12	_	_	_	_
-15-0	BOR019	15	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=39.62|End=40.098	_	_	_	0-4(2)
+15-0	BOR019	15	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=39.62|End=40.098	_	_	_	0-4(2)
 16-0	BOI069	16	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=41.71	_	_	_	_
 16-1	BOI069	16	1	bologna,	bologna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 16-2	BOI069	16	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -189,7 +189,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 26-18	BOI069	26	18	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 26-19	BOI069	26	19	nord	nord	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 26-20	BOI069	26	20	italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=74.066	_	_	_	_
-27-0	BOR019	27	0	°[okay]°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=66.557|End=67.007	_	_	_	0-4(7)
+27-0	BOR019	27	0	°[okay]°	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=66.557|End=67.007	_	_	_	0-4(7)
 28-0	BOR019	28	0	giusto	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=74.607	_	_	_	_
 28-1	BOR019	28	1	giusto	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 28-2	BOR019	28	2	((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=75.961	_	_	_	_
@@ -245,7 +245,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 34-1	BOR019	34	1	>bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 34-2	BOR019	34	2	bene<	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=95.809	_	Fast=0-4(0)	_	_
 35-0	BOR019	35	0	((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=95.809	_	_	_	_
-35-1	BOR019	35	1	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	_	_	_	_	_
+35-1	BOR019	35	1	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	_	_	_	_	_
 35-2	BOR019	35	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 35-3	BOR019	35	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 35-4	BOR019	35	4	collegata	collegata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -310,7 +310,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-3	BOR019	39	3	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 39-4	BOR019	39	4	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 39-5	BOR019	39	5	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-39-6	BOR019	39	6	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+39-6	BOR019	39	6	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 39-7	BOR019	39	7	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 39-8	BOR019	39	8	andavi	andavi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 39-9	BOR019	39	9	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -352,7 +352,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 45-2	BOI069	45	2	autobus	autobus	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 45-3	BOI069	45	3	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 45-4	BOI069	45	4	<un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	Slow=0-3(0)	_	_
-45-5	BOI069	45	5	ORA>	ora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	_	_	Slow=0-3(0)	_	_
+45-5	BOI069	45	5	ORA>	ora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	_	_	Slow=0-3(0)	_	_
 45-6	BOI069	45	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 45-7	BOI069	45	7	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
 45-8	BOI069	45	8	tra	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -384,7 +384,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-10	BOR019	48	10	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-11	BOR019	48	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 48-12	BOR019	48	12	grande:?	grande	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	5x1	_	_	_
-48-13	BOR019	48	13	[°o:°]	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=140.801	0x1	_	_	0-1(?)
+48-13	BOR019	48	13	[°o:°]	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=140.801	0x1	_	_	0-1(?)
 49-0	BOI069	49	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=140.905	_	_	_	_
 49-1	BOI069	49	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 49-2	BOI069	49	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -657,9 +657,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 74-17	BOI069	74	17	dei	dei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 74-18	BOI069	74	18	controlli:	controlli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	8x1	_	_	_
 74-19	BOI069	74	19	[vari]	vari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=247.306	_	_	_	0-4(28)
-75-0	BOR019	75	0	°[ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=246.604	_	_	_	0-2(28)
-75-1	BOR019	75	1	capito]°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=247.306	_	_	_	0-6(28)
-76-0	BOR019	76	0	O[KAY]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=247.546|End=248.044	_	_	_	1-4(29)
+75-0	BOR019	75	0	°[ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=246.604	_	_	_	0-2(28)
+75-1	BOR019	75	1	capito]°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=247.306	_	_	_	0-6(28)
+76-0	BOR019	76	0	O[KAY]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=247.546|End=248.044	_	_	_	1-4(29)
 77-0	BOI069	77	0	[o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=247.806	_	_	_	0-1(29)
 77-1	BOI069	77	1	an]che	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(29)
 77-2	BOI069	77	2	studi	studi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -897,8 +897,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 100-18	BOI069	100	18	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 100-19	BOI069	100	19	compere	compere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 100-20	BOI069	100	20	ma:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=332.142	1x1	_	_	_
-101-0	BOR019	101	0	[°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=324.683	_	_	_	0-2(37)
-101-1	BOR019	101	1	bene°]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=325.099	_	_	_	0-4(37)
+101-0	BOR019	101	0	[°va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=324.683	_	_	_	0-2(37)
+101-1	BOR019	101	1	bene°]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=325.099	_	_	_	0-4(37)
 102-0	BOI069	102	0	>essendo<	essendo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=332.802	_	Fast=0-7(0)	_	_
 102-1	BOI069	102	1	tutto	tutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 102-2	BOI069	102	2	pedonabile	pedonabile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1040,7 +1040,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 120-0	BOR019	120	0	>vero	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=376.593	_	Fast=0-4(0)	_	_
 120-1	BOR019	120	1	vero<	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 120-2	BOR019	120	2	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-120-3	BOR019	120	3	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+120-3	BOR019	120	3	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 120-4	BOR019	120	4	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 120-5	BOR019	120	5	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 120-6	BOR019	120	6	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1130,7 +1130,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 132-2	BOR019	132	2	[ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(47)
 132-3	BOR019	132	3	piacerebbe]?	piacerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=408.652	_	_	_	0-10(47)
 133-0	BOI069	133	0	[e::]:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=407.969|End=408.992	0x3	_	_	0-1(47)
-134-0	BOI069	134	0	GIÀ	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=410.175	_	_	_	_
+134-0	BOI069	134	0	GIÀ	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=410.175	_	_	_	_
 134-1	BOI069	134	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 134-2	BOI069	134	2	san	san	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 134-3	BOI069	134	3	giovanni	giovanni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1205,8 +1205,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 142-2	BOR019	142	2	indietro	indietro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 142-3	BOR019	142	3	spesso?	spesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=442.396	_	_	_	_
 143-0	BOI069	143	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=442.495|End=442.793	_	_	_	_
-144-0	BOR019	144	0	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=443.19	_	_	_	_
-144-1	BOR019	144	1	capito°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	_
+144-0	BOR019	144	0	°ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=443.19	_	_	_	_
+144-1	BOR019	144	1	capito°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	_
 144-2	BOR019	144	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 144-3	BOR019	144	3	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 144-4	BOR019	144	4	mai?	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=444.296	_	_	_	_
@@ -1216,7 +1216,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 146-0	BOI069	146	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=445.35	_	_	_	_
 146-1	BOI069	146	1	morosa	morosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 146-2	BOI069	146	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=445.942	_	_	_	_
-147-0	BOR019	147	0	A::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=446.076	0x2	_	_	_
+147-0	BOR019	147	0	A::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=446.076	0x2	_	_	_
 147-1	BOR019	147	1	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(48)
 147-2	BOR019	147	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=447.415	_	_	_	_
 148-0	BOI069	148	0	[xxx]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=446.368|End=446.593	_	_	_	0-3(48)
@@ -1391,7 +1391,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 167-10	BOI069	167	10	riesce	riesce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 167-11	BOI069	167	11	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 167-12	BOI069	167	12	riposare.	riposare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-167-13	BOI069	167	13	QUA	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+167-13	BOI069	167	13	QUA	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 167-14	BOI069	167	14	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 167-15	BOI069	167	15	>anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 167-16	BOI069	167	16	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	_
@@ -1730,15 +1730,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 205-2	BOI069	205	2	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 205-3	BOI069	205	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 205-4	BOI069	205	4	italia	italia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=615.081	_	_	_	_
-206-0	BOR019	206	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=615.302|End=615.459	_	_	_	_
+206-0	BOR019	206	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=615.302|End=615.459	_	_	_	_
 207-0	BOI069	207	0	quindi:::	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=617.606	5x3	_	_	_
 207-1	BOI069	207	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 207-2	BOI069	207	2	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 207-3	BOI069	207	3	male	male	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=619.481	_	_	_	_
-208-0	BOI069	208	0	LÌ:	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=619.682	1x1	_	_	_
+208-0	BOI069	208	0	LÌ:	lì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=619.682	1x1	_	_	_
 208-1	BOI069	208	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 208-2	BOI069	208	2	bisognerebbe,	bisognerebbe	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=621.192	_	_	_	_
-209-0	BOI069	209	0	(°>come<°	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=621.74	_	Fast=0-4(0)	0-4(0)	_
+209-0	BOI069	209	0	(°>come<°	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=621.74	_	Fast=0-4(0)	0-4(0)	_
 209-1	BOI069	209	1	mi~)	mi~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	0-3(0)	_
 209-2	BOI069	209	2	giustamente	giustamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 209-3	BOI069	209	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1763,7 +1763,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 209-22	BOI069	209	22	diverse	diverse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=628.411	_	_	_	_
 210-0	BOR019	210	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=628.467|End=628.669	_	_	_	_
 211-0	BOR019	211	0	[cio]è?	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=629.025|End=629.315	_	_	_	0-3(65)
-212-0	BOI069	212	0	°[e:h]°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=629.026|End=629.079	0x1	_	_	0-2(65)
+212-0	BOI069	212	0	°[e:h]°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=629.026|End=629.079	0x1	_	_	0-2(65)
 213-0	BOI069	213	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=629.663	_	_	_	_
 213-1	BOI069	213	1	livello	livello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 213-2	BOI069	213	2	elettrico,	elettrico	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
@@ -1857,7 +1857,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 227-7	BOR019	227	7	e::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=667.357	0x2	_	_	_
 228-0	BOR019	228	0	frequanta~	frequanta~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=667.429	_	_	_	_
 228-1	BOR019	228	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	_	_	_	_	_
-228-2	BOR019	228	2	FREQUENTI	frequenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+228-2	BOR019	228	2	FREQUENTI	frequenti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 228-3	BOR019	228	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 228-4	BOR019	228	4	frequentavi	frequentavi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 228-5	BOR019	228	5	magari:	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	5x1	_	_	_
@@ -1943,7 +1943,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 241-5	BOI069	241	5	(adesso	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(0)	_
 241-6	BOI069	241	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 241-7	BOI069	241	7	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
-241-8	BOI069	241	8	°m:h°)	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=709.79	0x1	_	0-2(0)	_
+241-8	BOI069	241	8	°m:h°)	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=709.79	0x1	_	0-2(0)	_
 242-0	BOI069	242	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=710.092	_	_	_	_
 242-1	BOI069	242	1	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 242-2	BOI069	242	2	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2001,7 +2001,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 247-29	BOI069	247	29	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 247-30	BOI069	247	30	mano	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=727.531	_	_	_	_
 248-0	BOI069	248	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=727.847	_	_	_	_
-248-1	BOI069	248	1	(°tipo°)	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-4(0)	_
+248-1	BOI069	248	1	(°tipo°)	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-4(0)	_
 248-2	BOI069	248	2	tortellini	tortellini	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 248-3	BOI069	248	3	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 248-4	BOI069	248	4	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -2144,7 +2144,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 272-0	BOI069	272	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=780.035	_	_	_	0-1(73)
 272-1	BOI069	272	1	mo]lto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(73)
 272-2	BOI069	272	2	rossa	rossa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=780.979	_	_	_	_
-273-0	BOR019	273	0	[°oddio°]	oddio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=781.194|End=781.659	_	_	_	0-5(74)
+273-0	BOR019	273	0	[°oddio°]	oddio	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=781.194|End=781.659	_	_	_	0-5(74)
 274-0	BOI069	274	0	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=781.202	_	_	_	0-6(74)
 274-1	BOI069	274	1	ovviame]nte	ovviamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-7(74)
 274-2	BOI069	274	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2232,7 +2232,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 284-12	BOR019	284	12	nella	nella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 284-13	BOR019	284	13	tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 284-14	BOR019	284	14	città?	città	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=812.956	_	_	_	_
-285-0	BOI069	285	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=813.029|End=813.176	_	_	_	_
+285-0	BOI069	285	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=813.029|End=813.176	_	_	_	_
 286-0	BOR019	286	0	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=813.387	_	_	_	_
 286-1	BOR019	286	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 286-2	BOR019	286	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2409,9 +2409,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 307-11	BOI069	307	11	queste	queste	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 307-12	BOI069	307	12	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 307-13	BOI069	307	13	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=877.621	_	_	_	_
-308-0	BOR019	308	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=873.089|End=873.447	_	_	_	0-4(81)
+308-0	BOR019	308	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=873.089|End=873.447	_	_	_	0-4(81)
 309-0	BOR019	309	0	[okay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=875.476|End=875.872	_	_	_	0-4(82)
-310-0	BOI069	310	0	°quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=879.219	_	_	_	_
+310-0	BOI069	310	0	°quindi°	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=879.219	_	_	_	_
 310-1	BOI069	310	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 310-2	BOI069	310	2	m'	m'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 310-3	BOI069	310	3	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2569,7 +2569,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 321-2	BOI069	321	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 321-3	BOI069	321	3	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 321-4	BOI069	321	4	rinomato,	rinomato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
-321-5	BOI069	321	5	DOVE	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+321-5	BOI069	321	5	DOVE	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 321-6	BOI069	321	6	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 321-7	BOI069	321	7	mangiano	mangiano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 321-8	BOI069	321	8	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3416,7 +3416,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 398-8	BOI069	398	8	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 398-9	BOI069	398	9	giro	giro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 398-10	BOI069	398	10	verso::	verso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x2	_	_	_
-398-11	BOI069	398	11	°magari°	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1252.621	_	_	_	_
+398-11	BOI069	398	11	°magari°	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1252.621	_	_	_	_
 399-0	BOI069	399	0	quei	quei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1253.315	_	_	_	_
 399-1	BOI069	399	1	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 399-2	BOI069	399	2	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3593,8 +3593,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 418-17	BOR019	418	17	imma~	imma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-5(98)
 418-18	BOR019	418	18	immaga]zzina	immagazzina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(98)
 418-19	BOR019	418	19	energi[a?	energia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	_	_	_	6-7(99)
-418-20	BOR019	418	20	°immagazzina	immagazzina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-11(99)
-418-21	BOR019	418	21	energia?°]	energia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=1321.611	_	_	_	0-7(99)
+418-20	BOR019	418	20	°immagazzina	immagazzina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-11(99)
+418-21	BOR019	418	21	energia?°]	energia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=1321.611	_	_	_	0-7(99)
 419-0	BOI069	419	0	[allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1318.306	_	_	_	0-6(98)
 419-1	BOI069	419	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(98)
 419-2	BOI069	419	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(98)
@@ -3627,7 +3627,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 421-11	BOI069	421	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 421-12	BOI069	421	12	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 421-13	BOI069	421	13	solare.	solare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1332.59	_	_	_	_
-422-0	BOI069	422	0	°>cioè<°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1332.802	_	Fast=0-4(0)	_	_
+422-0	BOI069	422	0	°>cioè<°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1332.802	_	Fast=0-4(0)	_	_
 422-1	BOI069	422	1	tutti	tutti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 422-2	BOI069	422	2	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 422-3	BOI069	422	3	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3650,7 +3650,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 425-3	BOI069	425	3	dipende	dipende	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 425-4	BOI069	425	4	dal	dal	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 425-5	BOI069	425	5	tipo,	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1340.843	_	_	_	_
-426-0	BOR019	426	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1339.398|End=1339.697	_	_	_	0-4(101)
+426-0	BOR019	426	0	[°okay°]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1339.398|End=1339.697	_	_	_	0-4(101)
 427-0	BOI069	427	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1341.596	_	_	_	_
 427-1	BOI069	427	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 427-2	BOI069	427	2	assorbono	assorbono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3937,7 +3937,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 461-0	BOI069	461	0	[s]ì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1459.868	_	_	_	0-1(108)
 461-1	BOI069	461	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 461-2	BOI069	461	2	livello	livello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-461-3	BOI069	461	3	°diciamo°	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+461-3	BOI069	461	3	°diciamo°	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 461-4	BOI069	461	4	lavorativo,	lavorativo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1463.298	_	_	_	_
 462-0	BOI069	462	0	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1463.746	_	_	_	_
 462-1	BOI069	462	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4148,7 +4148,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 485-3	BOR019	485	3	giusto	giusto	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 485-4	BOR019	485	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 485-5	BOR019	485	5	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-485-6	BOR019	485	6	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	_	_	_	_	_
+485-6	BOR019	485	6	MA	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	_	_	_	_	_
 485-7	BOR019	485	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 485-8	BOR019	485	8	e:hm	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 485-9	BOR019	485	9	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4327,7 +4327,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 505-1	BOI069	505	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 505-2	BOI069	505	2	lode	lode	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 505-3	BOI069	505	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-505-4	BOI069	505	4	°ovviamente°	ovviamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+505-4	BOI069	505	4	°ovviamente°	ovviamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 505-5	BOI069	505	5	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 505-6	BOI069	505	6	ingegneria	ingegneria	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 505-7	BOI069	505	7	energetica	energetica	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -4607,7 +4607,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 535-9	BOI069	535	9	mese	mese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1719.064	_	_	_	_
 536-0	BOI069	536	0	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1719.55	_	_	_	_
 536-1	BOI069	536	1	ricavo.	ricavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-536-2	BOI069	536	2	OLTRE	oltre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+536-2	BOI069	536	2	OLTRE	oltre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 536-3	BOI069	536	3	tutta	tutta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 536-4	BOI069	536	4	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 536-5	BOI069	536	5	energia	energia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4642,7 +4642,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 540-0	BOR019	540	0	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1728.686	_	_	_	_
 540-1	BOR019	540	1	be~	be~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 540-2	BOR019	540	2	((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-540-3	BOR019	540	3	MA:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x1	_	_	_
+540-3	BOR019	540	3	MA:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 540-4	BOR019	540	4	vi	vi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-5	BOR019	540	5	siete	siete	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 540-6	BOR019	540	6	trovati	trovati	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4793,7 +4793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 558-13	BOI069	558	13	riflette	riflette	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 558-14	BOI069	558	14	ottanta,	ottanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 558-15	BOI069	558	15	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-558-16	BOI069	558	16	°m[a]°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1784.443	_	_	_	0-2(17)
+558-16	BOI069	558	16	°m[a]°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1784.443	_	_	_	0-2(17)
 559-0	BOR019	559	0	[e]satto	esatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1784.341	_	_	_	0-1(17)
 559-1	BOR019	559	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1785.603	_	_	_	_
 560-0	BOI069	560	0	altri	altri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1785.773	_	_	_	_
@@ -4927,7 +4927,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 572-2	BOI069	572	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 572-3	BOI069	572	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 572-4	BOI069	572	4	incredibile	incredibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-572-5	BOI069	572	5	°incredibile°	incredibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1836.088	_	_	_	_
+572-5	BOI069	572	5	°incredibile°	incredibile	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1836.088	_	_	_	_
 573-0	BOI069	573	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1836.654	_	_	_	_
 573-1	BOI069	573	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 573-2	BOI069	573	2	gli:	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
@@ -4971,7 +4971,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 574-24	BOI069	574	24	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 574-25	BOI069	574	25	hanno:	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	4x1	_	_	_
 574-26	BOI069	574	26	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-574-27	BOI069	574	27	°ottanta°.	ottanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=low	End=1851.663	_	_	_	_
+574-27	BOI069	574	27	°ottanta°.	ottanta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling|Volume=Low	End=1851.663	_	_	_	_
 575-0	BOR019	575	0	mam[ma	mamma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1851.968	_	_	_	3-5(22)
 575-1	BOR019	575	1	mia]	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1853.021	_	_	_	0-3(22)
 576-0	BOI069	576	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1852.453	_	_	_	0-3(22)

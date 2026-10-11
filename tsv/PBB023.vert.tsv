@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	BOR026	0	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.24	_	_	_	_
 0-1	BOR026	0	1	iniziamo	iniziamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.23	_	_	_	_
 1-0	BOR026	1	0	intanto	intanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.71	_	_	_	_
@@ -5842,7 +5842,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 740-2	BOI088	740	2	tipico	tipico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 740-3	BOI088	740	3	dolce	dolce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 740-4	BOI088	740	4	[tradizionale]	tradizionale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1847.59	_	_	_	0-12(229)
-741-0	BOR026	741	0	[A:H]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1847.3	0x1	_	_	0-2(229)
+741-0	BOR026	741	0	[A:H]	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1847.3	0x1	_	_	0-2(229)
 741-1	BOR026	741	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 741-2	BOR026	741	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 741-3	BOR026	741	3	co~	co~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -6092,9 +6092,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 777-1	BOI088	777	1	neanche	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 777-2	BOI088	777	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 777-3	BOI088	777	3	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1910.902	_	_	_	_
-778-0	BOI088	778	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1912.12	_	_	_	_
-778-1	BOI088	778	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-778-2	BOI088	778	2	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1912.88	_	_	_	_
+778-0	BOI088	778	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1912.12	_	_	_	_
+778-1	BOI088	778	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+778-2	BOI088	778	2	so°	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1912.88	_	_	_	_
 779-0	BOR027	779	0	[io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1912.579	_	_	_	0-2(250)
 779-1	BOR027	779	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(250)
 779-2	BOR027	779	2	fatto]	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(250)
