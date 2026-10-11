@@ -117,7 +117,7 @@ BOI116	0-Students	M	PBA030	emilia-romagna	21-25	university-degree-ongoing	italia
 BOI117	4-Clerical-Workers	F	PBB032	calabria	46-50	university-degree	italian
 BOI118	2-Professionals	M	PBB032	calabria	51-55	university-degree	italian
 BOI119	2-Professionals	M	PBB033	emilia-romagna	71-75	university-degree	italian
-BOR002	0-Students	F	PBC005;PBC009;PBC008;PBB003	emilia-romagna	21-25	university-degree-ongoing	italian
+BOR002	0-Students	F	PBC005;PBC009;PBC008;PBB003;PBB006	emilia-romagna	21-25	university-degree-ongoing	italian
 BOR003	0-Students	F	PBC002;PBA001	emilia-romagna	21-25	university-degree-ongoing	italian
 BOR004	0-Students	F	PBC006;PBB008;PBC004	emilia-romagna	21-25	university-degree-ongoing	italian
 BOR005	0-Students	M	PBB013;PBB014;PBB007;PBC012;PBC008;PBC007;PBB004	marche	21-25	university-degree-ongoing	italian

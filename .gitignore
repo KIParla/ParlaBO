@@ -1,5 +1,12 @@
 *.pfsx
 *.bak
+*.eaf.001
 .DS*
 *.py
 *.zip
+tmp/
+.DS_Store
+
+original/
+.vscode/
+*.xlsx
