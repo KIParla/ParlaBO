@@ -175,6 +175,9 @@ If you use the ParlaBO module in your research, please also reference this repos
   * All files are UTF-8 (no BOM), LF line endings and Unicode NFC; `eaf/` is regenerated from `tsv/` (audio linked by relative path)
   * The 20 columns of the `tsv/` files are now fully documented, and `csv-metadata.json` and the enriched notation reference are updated
 
+* 2026-10-13 v2.0.1
+  * Fix: 17 words in 10 conversations (PBA011, PBA013, PBA028, PBB024, PBB026, PBB027, PBB032, PBC003, PBC005, PBC022) had the code-variation marker glued to the word (e.g. `[#eh]`), which made the token an `error`. The marker is now the unit-initial `# `, so the units are annotated as code variation (`Code=Underspecified`)
+
 -----
 
 This work is licensed under a
