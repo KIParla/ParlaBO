@@ -532,7 +532,7 @@ BOI011	ci sono lapidi dove dicono per esempio qui ha abitato leopardi
 BOI011	in: santo stefano qui c'era il teatro del corso andato distrutto dalle bombe
 BOI011	tutte queste lapidi se uno alzasse gli occhi
 BOI011	una volta si diceva dalle vetrine adesso si direbbe dallo smartphone
-BOR004	°mhmh ° ((ride))
+BOR004	°mhmh° ((ride))
 BOI011	se uno alzasse gli occhi così:
 BOI011	di queste lapidi ne vedrebbe veramente tante
 BOI011	è una grande parte della storia di bologna da queste lapidi si può vedere
