@@ -164,8 +164,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 24-20	BOI067	24	20	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 24-21	BOI067	24	21	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 24-22	BOI067	24	22	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-24-23	BOI067	24	23	raccont[ato	raccontato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(8)
-24-24	BOI067	24	24	sic]uramente	sicuramente	_	_	_	_	_	linguistic	_	_	_	End=74.674	_	_	_	0-2(8)
+24-23	BOI067	24	23	raccont[ato	raccontato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-10(8)
+24-24	BOI067	24	24	sic]uramente	sicuramente	_	_	_	_	_	linguistic	_	_	_	End=74.674	_	_	_	0-3(8)
 25-0	BOR020	25	0	[si	si	_	_	_	_	_	linguistic	_	_	_	Begin=73.537	_	_	_	0-2(8)
 25-1	BOR020	25	1	vede]	vede	_	_	_	_	_	linguistic	_	_	_	End=74.152	_	_	_	0-4(8)
 26-0	BOR020	26	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=74.737	_	_	_	_
@@ -1333,7 +1333,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 204-5	BOR020	204	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 204-6	BOR020	204	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 204-7	BOR020	204	7	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-204-8	BOR020	204	8	ri[masto]	rimasto	_	_	_	_	_	linguistic	_	_	_	End=553.125	_	_	_	1-7(50)
+204-8	BOR020	204	8	ri[masto]	rimasto	_	_	_	_	_	linguistic	_	_	_	End=553.125	_	_	_	2-7(50)
 205-0	BOI067	205	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=552.401	_	_	_	0-1(50)
 205-1	BOI067	205	1	figo	figo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(50)
 205-2	BOI067	205	2	propri]o::	proprio	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	6x2	_	_	0-6(50)
@@ -1853,7 +1853,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 289-7	BOI067	289	7	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-8	BOI067	289	8	voluto	voluto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-9	BOI067	289	9	sentir	sentir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-289-10	BOI067	289	10	dir[e]	dire	_	_	_	_	_	linguistic	_	_	_	End=772.896	_	_	_	2-4(61)
+289-10	BOI067	289	10	dir[e]	dire	_	_	_	_	_	linguistic	_	_	_	End=772.896	_	_	_	3-4(61)
 290-0	BOR020	290	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=772.791	_	_	_	0-1(61)
 290-1	BOR020	290	1	v]ero	vero	_	_	_	_	_	linguistic	_	_	_	End=773.112	_	_	_	0-1(61)
 291-0	BOI067	291	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=773.26	_	Fast=0-4(0)	_	_
@@ -3047,7 +3047,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 492-4	BOR020	492	4	entrata	entrata	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 492-5	BOR020	492	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 492-6	BOR020	492	6	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-492-7	BOR020	492	7	ambien[te]	ambiente	_	_	_	_	_	linguistic	_	_	_	End=1258.685	_	_	_	5-8(99)
+492-7	BOR020	492	7	ambien[te]	ambiente	_	_	_	_	_	linguistic	_	_	_	End=1258.685	_	_	_	6-8(99)
 493-0	BOI067	493	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1258.595	_	_	_	0-2(99)
 493-1	BOI067	493	1	s]ì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(99)
 493-2	BOI067	493	2	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3104,7 +3104,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 500-3	BOI067	500	3	di:::	di	_	_	_	_	_	linguistic	_	_	_	_	1x3	_	_	_
 500-4	BOI067	500	4	trent'	trent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 500-5	BOI067	500	5	anni::	anni	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	_
-500-6	BOI067	500	6	abbondan[ti]	abbondanti	_	_	_	_	_	linguistic	_	_	_	End=1278.5	_	_	_	6-9(103)
+500-6	BOI067	500	6	abbondan[ti]	abbondanti	_	_	_	_	_	linguistic	_	_	_	End=1278.5	_	_	_	8-10(103)
 501-0	BOR020	501	0	[a:]:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1278.407	0x2	_	_	0-1(103)
 501-1	BOR020	501	1	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 501-2	BOR020	501	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3508,7 +3508,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 569-18	BOI067	569	18	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 569-19	BOI067	569	19	mc	mc	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 569-20	BOI067	569	20	donald	donald	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-569-21	BOI067	569	21	°ci[oè]	cioè	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	1-4(120)
+569-21	BOI067	569	21	°ci[oè]	cioè	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	2-4(120)
 569-22	BOI067	569	22	quindi::°	quindi	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1437.719	5x2	_	_	_
 570-0	BOR020	570	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1436.953|End=1437.22	_	_	_	0-2(120)
 571-0	BOR020	571	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1438.771	_	_	_	_

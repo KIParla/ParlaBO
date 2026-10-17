@@ -116,7 +116,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-12	BOI085	23	12	duemila	duemila	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-13	BOI085	23	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-14	BOI085	23	14	sedici	sedici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-23-15	BOI085	23	15	dicia[ssette]	diciassette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-11(8)
+23-15	BOI085	23	15	dicia[ssette]	diciassette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-11(8)
 23-16	BOI085	23	16	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-17	BOI085	23	17	andato	andato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 23-18	BOI085	23	18	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1255,7 +1255,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 139-7	BOI085	139	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 139-8	BOI085	139	8	attività:?	attività	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	7x1	_	_	_
 139-9	BOI085	139	9	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-139-10	BOI085	139	10	(sem[plificata)]?	semplificata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=473.72	_	_	0-12(0)	2-12(41)
+139-10	BOI085	139	10	(sem[plificata)]?	semplificata	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=473.72	_	_	0-12(0)	3-12(41)
 140-0	BOR023	140	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=472.99	_	_	_	0-2(41)
 140-1	BOR023	140	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(41)
 140-2	BOR023	140	2	se:]	se	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(41)
@@ -2303,8 +2303,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 245-23	BOI085	245	23	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-24	BOI085	245	24	stalingrado	stalingrado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-25	BOI085	245	25	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-245-26	BOI085	245	26	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(64)
-245-27	BOI085	245	27	[interes]sante	interessante	_	_	_	_	_	linguistic	_	_	_	End=900.72	_	_	_	0-6(64)
+245-26	BOI085	245	26	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+245-27	BOI085	245	27	[interes]sante	interessante	_	_	_	_	_	linguistic	_	_	_	End=900.72	_	_	_	0-7(64)
 246-0	BOR023	246	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=897.44|End=897.76	_	_	_	0-2(63)
 247-0	BOR023	247	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=899.61|End=899.96	_	_	_	0-2(64)
 248-0	BOI085	248	0	clima	clima	_	_	_	_	_	linguistic	_	_	_	Begin=901.25	_	_	_	_

@@ -4919,9 +4919,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 485-10	BOR010	485	10	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
 485-11	BOR010	485	11	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 485-12	BOR010	485	12	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-485-13	BOR010	485	13	ha:	ha	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	1-2(0)	_
+485-13	BOR010	485	13	ha:	ha	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 485-14	BOR010	485	14	(un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
-485-15	BOR010	485	15	po')	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
+485-15	BOR010	485	15	po')	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
 485-16	BOR010	485	16	vissuta:	vissuta	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	_
 485-17	BOR010	485	17	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	End=1938.15	_	_	_	_
 486-0	BOR010	486	0	ehm:	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1939.39|End=1940.26	2x1	_	_	_
@@ -5026,7 +5026,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 498-9	BOI036	498	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 498-10	BOI036	498	10	potessero	potessero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 498-11	BOI036	498	11	finire	finire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-498-12	BOI036	498	12	per	per	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+498-12	BOI036	498	12	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 498-13	BOI036	498	13	°andarsene°	andarsene	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1986.92	_	_	_	_
 499-0	BOI036	499	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1987.63	_	_	_	_
 499-1	BOI036	499	1	e:h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
@@ -5616,8 +5616,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 567-8	BOR010	567	8	unesco	unesco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 567-9	BOR010	567	9	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 567-10	BOR010	567	10	quel	quel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-567-11	BOR010	567	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(11)
-567-12	BOR010	567	12	[so]	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(11)
+567-11	BOR010	567	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+567-12	BOR010	567	12	[so]	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(11)
 567-13	BOR010	567	13	quindi:	quindi	_	_	_	_	_	linguistic	_	_	_	End=2250.83	5x1	_	_	_
 568-0	BOI036	568	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2249.9|End=2250.637	_	_	_	0-2(11)
 569-0	BOR010	569	0	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=2251.44	_	_	_	_

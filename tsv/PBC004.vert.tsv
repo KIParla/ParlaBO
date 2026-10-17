@@ -5686,7 +5686,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 777-1	BOI011	777	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 777-2	BOI011	777	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 777-3	BOI011	777	3	abbia	abbia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-777-4	BOI011	777	4	inventa[ta	inventata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(122)
+777-4	BOI011	777	4	inventa[ta	inventata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(122)
 777-5	BOI011	777	5	lui]	lui	_	_	_	_	_	linguistic	_	_	_	End=2035.235	_	_	_	0-3(122)
 778-0	BOR004	778	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2034.69	_	_	_	0-2(122)
 778-1	BOR004	778	1	ah]	ah	_	_	_	_	_	linguistic	_	_	_	End=2035.185	_	_	_	0-2(122)
@@ -6164,7 +6164,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 839-7	BOI011	839	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 839-8	BOI011	839	8	eran	eran	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 839-9	BOI011	839	9	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-839-10	BOI011	839	10	case<	case	_	_	_	_	_	linguistic	_	_	_	End=2208.851	_	Fast=0-3(0)	_	_
+839-10	BOI011	839	10	case<	case	_	_	_	_	_	linguistic	_	_	_	End=2208.851	_	Fast=0-4(0)	_	_
 840-0	BOI011	840	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=2209.099	_	_	_	_
 840-1	BOI011	840	1	accursio	accursio	_	_	_	_	_	linguistic	_	_	_	End=2209.79	_	_	_	_
 841-0	BOI011	841	0	benisimo	benisimo	_	_	_	_	_	linguistic	_	_	_	Begin=2210.881	_	_	_	_
@@ -6842,7 +6842,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 933-4	BOI011	933	4	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 933-5	BOI011	933	5	vedere	vedere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 933-6	BOI011	933	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-933-7	BOI011	933	7	immagi[ne]	immagine	_	_	_	_	_	linguistic	_	_	_	End=2449.872	_	_	_	5-8(132)
+933-7	BOI011	933	7	immagi[ne]	immagine	_	_	_	_	_	linguistic	_	_	_	End=2449.872	_	_	_	6-8(132)
 934-0	BOR004	934	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2449.645	_	_	_	0-2(132)
 934-1	BOR004	934	1	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	End=2450.4	_	_	_	_
 935-0	BOI011	935	0	vede	vede	_	_	_	_	_	linguistic	_	_	_	Begin=2450.399	_	_	_	_
@@ -7662,8 +7662,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1053-4	BOI011	1053	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1053-5	BOI011	1053	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1053-6	BOI011	1053	6	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1053-7	BOI011	1053	7	pratica[to	praticato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-9(6)
-1053-8	BOI011	1053	8	spie]go	spiego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(6)
+1053-7	BOI011	1053	7	pratica[to	praticato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(6)
+1053-8	BOI011	1053	8	spie]go	spiego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(6)
 1053-9	BOI011	1053	9	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1053-10	BOI011	1053	10	volta	volta	_	_	_	_	_	linguistic	_	_	_	End=2752.045	_	_	_	_
 1054-0	BOR004	1054	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=2750.908|End=2751.291	_	_	_	0-4(6)

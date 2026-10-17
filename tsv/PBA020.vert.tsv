@@ -888,14 +888,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 202-1	BOI089	202	1	perché:	perché	_	_	_	_	_	linguistic	_	_	_	End=371.621	5x1	_	_	_
 203-0	BOI089	203	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=371.9	_	_	_	_
 203-1	BOI089	203	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-203-2	BOI089	203	2	>anche<	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=4-5(0)|Fast=0-5(0)	_	_
+203-2	BOI089	203	2	>anche<	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 203-3	BOI089	203	3	poca	poca	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
 203-4	BOI089	203	4	luce	luce	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Slow=0-4(0)	_	_
 203-5	BOI089	203	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 203-6	BOI089	203	6	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
 203-7	BOI089	203	7	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
-203-8	BOI089	203	8	poca	poca	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)|Fast=3-4(1)	_	_
-203-9	BOI089	203	9	>anche<	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	_	_
+203-8	BOI089	203	8	poca	poca	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
+203-9	BOI089	203	9	>anche<	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(1)	_	_
 203-10	BOI089	203	10	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 203-11	BOI089	203	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 203-12	BOI089	203	12	girava	girava	_	_	_	_	_	linguistic	_	_	_	End=374.521	_	_	_	_
@@ -1690,7 +1690,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 369-11	BOR029	369	11	anno,	anno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 369-12	BOR029	369	12	finisce:,	finisce	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	6x1	_	_	_
 369-13	BOR029	369	13	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-369-14	BOR029	369	14	avan(ti)	avanti	_	_	_	_	_	linguistic	_	_	_	End=686.061	_	_	2-5(1)	_
+369-14	BOR029	369	14	avan(ti)	avanti	_	_	_	_	_	linguistic	_	_	_	End=686.061	_	_	4-6(1)	_
 370-0	BOI089	370	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=686.874	_	_	_	_
 370-1	BOI089	370	1	finisce	finisce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 370-2	BOI089	370	2	trentun	trentun	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_

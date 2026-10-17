@@ -1557,7 +1557,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 212-5	BOR030	212	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 212-6	BOR030	212	6	albero?	albero	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 212-7	BOR030	212	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-212-8	BOR030	212	8	pres[e:pe]?	presepe	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=565.623	4x1	_	_	3-7(48)
+212-8	BOR030	212	8	pres[e:pe]?	presepe	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=565.623	4x1	_	_	4-7(48)
 213-0	BOI090	213	0	[ce:r]to,	certo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=565.092	1x1	_	_	0-3(48)
 213-1	BOI090	213	1	sì:	sì	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 213-2	BOI090	213	2	facciam	facciam	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1683,7 +1683,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 227-15	BOR030	227	15	albero	albero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 227-16	BOR030	227	16	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 227-17	BOR030	227	17	rimanete:	rimanete	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
-227-18	BOR030	227	18	fer[mi]	fermi	_	_	_	_	_	linguistic	_	_	_	End=609.437	_	_	_	1-4(49)
+227-18	BOR030	227	18	fer[mi]	fermi	_	_	_	_	_	linguistic	_	_	_	End=609.437	_	_	_	3-5(49)
 228-0	BOI090	228	0	[al]lo:ra	allora	_	_	_	_	_	linguistic	_	_	_	Begin=609.197	3x1	_	_	0-2(49)
 228-1	BOI090	228	1	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 228-2	BOI090	228	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2673,7 +2673,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 349-18	BOI090	349	18	ridere	ridere	_	_	_	_	_	linguistic	_	_	_	End=973.998	_	_	_	_
 350-0	BOR030	350	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=973.082|End=973.902	_	_	_	_
 351-0	BOR030	351	0	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=974.178	_	_	_	_
-351-1	BOR030	351	1	a[ccordo]	accordo	_	_	_	_	_	linguistic	_	_	_	End=975.013	_	_	_	0-7(77)
+351-1	BOR030	351	1	a[ccordo]	accordo	_	_	_	_	_	linguistic	_	_	_	End=975.013	_	_	_	1-7(77)
 352-0	BOI090	352	0	[°no:	no	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=974.481	1x1	_	_	0-2(77)
 352-1	BOI090	352	1	xx°]	xx	_	_	_	_	_	unknown	_	_	Volume=Low|Syllables=2	End=975.244	_	_	_	0-2(77)
 353-0	BOR030	353	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=975.905	0x1	_	_	_
@@ -4342,7 +4342,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 610-17	BOR030	610	17	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 610-18	BOR030	610	18	fanno	fanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 610-19	BOR030	610	19	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-610-20	BOR030	610	20	pi[azza	piazza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(23)
+610-20	BOR030	610	20	pi[azza	piazza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(23)
 610-21	BOR030	610	21	maggiore]	maggiore	_	_	_	_	_	linguistic	_	_	_	End=1620.682	_	_	_	0-8(23)
 611-0	BOI090	611	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1619.926	1x1	_	_	0-2(23)
 611-1	BOI090	611	1	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7086,7 +7086,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1015-5	BOR030	1015	5	valuti	valuti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1015-6	BOR030	1015	6	bene	bene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1015-7	BOR030	1015	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1015-8	BOR030	1015	8	esperie:n[za]	esperienza	_	_	_	_	_	linguistic	_	_	_	End=2628.368	6x1	_	_	7-10(95)
+1015-8	BOR030	1015	8	esperie:n[za]	esperienza	_	_	_	_	_	linguistic	_	_	_	End=2628.368	6x1	_	_	8-10(95)
 1016-0	BOI090	1016	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2627.957	_	_	_	0-2(95)
 1016-1	BOI090	1016	1	as]solutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	End=2629.127	_	_	_	0-2(95)
 1017-0	BOR030	1017	0	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2629.28	_	_	_	_

@@ -1566,7 +1566,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 202-29	BOR010	202	29	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 202-30	BOR010	202	30	tavolini:	tavolini	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 202-31	BOR010	202	31	[quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(36)
-202-32	BOR010	202	32	x]	x	_	_	_	_	_	unknown	_	_	Syllables=1	End=647.7	_	_	_	_
+202-32	BOR010	202	32	x]	x	_	_	_	_	_	unknown	_	_	Syllables=1	End=647.7	_	_	_	0-1(36)
 203-0	BOI037	203	0	[sì:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=646.895	1x1	_	_	0-2(36)
 203-1	BOI037	203	1	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(36)
 203-2	BOI037	203	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2424,9 +2424,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 328-8	BOI037	328	8	arroganza:,	arroganza	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	8x1	_	_	_
 328-9	BOI037	328	9	l~	l~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 328-10	BOI037	328	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-328-11	BOI037	328	11	atteggiamento	atteggiamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	12-13(0)	_
+328-11	BOI037	328	11	atteggiamento	atteggiamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 328-12	BOI037	328	12	(da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
-328-13	BOI037	328	13	eroi)	eroi	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
+328-13	BOI037	328	13	eroi)	eroi	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-4(0)	_
 328-14	BOI037	328	14	insomma	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 328-15	BOI037	328	15	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 328-16	BOI037	328	16	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

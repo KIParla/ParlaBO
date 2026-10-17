@@ -2102,7 +2102,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 248-10	BOI092	248	10	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 248-11	BOI092	248	11	dentro	dentro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 248-12	BOI092	248	12	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-248-13	BOI092	248	13	piac[ciono	piacciono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(60)
+248-13	BOI092	248	13	piac[ciono	piacciono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(60)
 248-14	BOI092	248	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(60)
 248-15	BOI092	248	15	sacco]	sacco	_	_	_	_	_	linguistic	_	_	_	End=841.019	_	_	_	0-5(60)
 249-0	BOR030	249	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=840.204	_	_	_	0-1(60)
@@ -2433,7 +2433,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 289-2	BOI092	289	2	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-3	BOI092	289	3	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(66)
 289-4	BOI092	289	4	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(66)
-289-5	BOI092	289	5	scorso]	scorso	_	_	_	_	_	linguistic	_	_	_	End=973.807	_	_	_	0-5(66)
+289-5	BOI092	289	5	scorso]	scorso	_	_	_	_	_	linguistic	_	_	_	End=973.807	_	_	_	0-6(66)
 290-0	BOR030	290	0	[intanto	intanto	_	_	_	_	_	linguistic	_	_	_	Begin=972.759	_	_	_	0-7(66)
 290-1	BOR030	290	1	verso	verso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(66)
 290-2	BOR030	290	2	un]	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(66)
@@ -2613,7 +2613,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 311-9	BOR030	311	9	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 311-10	BOR030	311	10	festività	festività	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 311-11	BOR030	311	11	[dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(68)
-311-12	BOR030	311	12	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1040.02	_	_	_	0-3(68)
+311-12	BOR030	311	12	anno]	anno	_	_	_	_	_	linguistic	_	_	_	End=1040.02	_	_	_	0-4(68)
 312-0	BOI092	312	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1039.121	_	_	_	0-2(68)
 312-1	BOI092	312	1	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(68)
 312-2	BOI092	312	2	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=1040.02	_	_	_	0-2(68)
@@ -3211,7 +3211,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 384-13	BOI092	384	13	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 384-14	BOI092	384	14	bene	bene	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 384-15	BOI092	384	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-384-16	BOI092	384	16	quin[di]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1269.699	_	_	_	2-5(81)
+384-16	BOI092	384	16	quin[di]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1269.699	_	_	_	4-6(81)
 385-0	BOR030	385	0	°[ca]pito°	capito	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1269.479|End=1270.315	_	_	_	0-2(81)
 386-0	BOR030	386	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=1270.466	_	_	_	_
 386-1	BOR030	386	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -3749,7 +3749,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 442-2	BOI092	442	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 442-3	BOI092	442	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 442-4	BOI092	442	4	birra:	birra	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
-442-5	BOI092	442	5	>adesso<	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=5-6(0)|Fast=0-6(0)	_	_
+442-5	BOI092	442	5	>adesso<	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 442-6	BOI092	442	6	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
 442-7	BOI092	442	7	>insomma<	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(1)	_	_
 442-8	BOI092	442	8	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4648,7 +4648,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 533-17	BOR030	533	17	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 533-18	BOR030	533	18	pulci	pulci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 533-19	BOR030	533	19	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-533-20	BOR030	533	20	organizz[ano:]	organizzano	_	_	_	_	_	linguistic	_	_	_	End=1830.0	10x1	_	_	7-11(110)
+533-20	BOR030	533	20	organizz[ano:]	organizzano	_	_	_	_	_	linguistic	_	_	_	End=1830.0	10x1	_	_	8-11(110)
 534-0	BOI092	534	0	[ah:	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1829.711	1x1	_	_	0-2(110)
 534-1	BOI092	534	1	io]	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(110)
 534-2	BOI092	534	2	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5241,7 +5241,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 593-9	BOI092	593	9	assistente	assistente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 593-10	BOI092	593	10	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 593-11	BOI092	593	11	poltrona	poltrona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-593-12	BOI092	593	12	che	che	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+593-12	BOI092	593	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 593-13	BOI092	593	13	°non	non	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 593-14	BOI092	593	14	mi	mi	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 593-15	BOI092	593	15	piaeva	piaeva	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
@@ -6437,7 +6437,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 722-1	BOR030	722	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(142)
 722-2	BOR030	722	2	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(142)
 722-3	BOR030	722	3	an]ch'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(142)
-722-4	BOR030	722	4	i[o]	io	_	_	_	_	_	linguistic	_	_	_	End=2562.551	_	_	_	0-1(143)
+722-4	BOR030	722	4	i[o]	io	_	_	_	_	_	linguistic	_	_	_	End=2562.551	_	_	_	1-2(143)
 723-0	BOI092	723	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2562.316	_	_	_	0-2(143)
 723-1	BOI092	723	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 723-2	BOI092	723	2	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6813,7 +6813,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 760-7	BOI092	760	7	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 760-8	BOI092	760	8	cinema	cinema	_	_	_	_	_	linguistic	_	_	_	End=2700.412	_	_	_	_
 761-0	BOR030	761	0	°d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	Begin=2700.829	_	_	_	_
-761-1	BOR030	761	1	accord[o]°	accordo	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2701.59	_	_	_	5-7(153)
+761-1	BOR030	761	1	accord[o]°	accordo	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2701.59	_	_	_	6-7(153)
 762-0	BOI092	762	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2701.458|End=2701.8	_	_	_	0-2(153)
 763-0	BOR030	763	0	va	va	_	_	_	_	_	linguistic	_	_	_	Begin=2702.057	_	_	_	_
 763-1	BOR030	763	1	bene	bene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

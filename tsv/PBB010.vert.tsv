@@ -432,8 +432,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 57-15	BOI030	57	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 57-16	BOI030	57	16	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 57-17	BOI030	57	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-57-18	BOI030	57	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	1-2(18)
-57-19	BOI030	57	19	i[talia]	italia	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-4(18)
+57-18	BOI030	57	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+57-19	BOI030	57	19	i[talia]	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(18)
 57-20	BOI030	57	20	°ecco°	ecco	_	_	_	_	_	linguistic	_	_	Volume=Low	End=172.376	_	_	_	_
 58-0	BOR007	58	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=169.72|End=170.12	_	_	_	0-2(17)
 59-0	BOR007	59	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=171.546|End=172.065	_	_	_	0-2(18)
@@ -1032,7 +1032,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 147-24	BOI030	147	24	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-25	BOI030	147	25	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 147-26	BOI030	147	26	[quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(42)
-147-27	BOI030	147	27	no]n	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(42)
+147-27	BOI030	147	27	no]n	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(42)
 147-28	BOI030	147	28	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 147-29	BOI030	147	29	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	End=396.534	_	_	_	_
 148-0	BOR007	148	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=395.14|End=395.71	_	_	_	0-4(42)
@@ -1703,11 +1703,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 277-2	BOI030	277	2	hostess	hostess	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 277-3	BOI030	277	3	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 277-4	BOI030	277	4	ingresso	ingresso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-277-5	BOI030	277	5	anch[e	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(67)
+277-5	BOI030	277	5	anch[e	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(67)
 277-6	BOI030	277	6	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(67)
-277-7	BOI030	277	7	x]x	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
+277-7	BOI030	277	7	x]x	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	0-1(67)
 277-8	BOI030	277	8	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-277-9	BOI030	277	9	pri[vè]	privè	_	_	_	_	_	linguistic	_	_	_	End=657.18	_	_	_	1-4(68)
+277-9	BOI030	277	9	pri[vè]	privè	_	_	_	_	_	linguistic	_	_	_	End=657.18	_	_	_	3-5(68)
 278-0	BOR007	278	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=655.893|End=656.329	_	_	_	0-4(67)
 279-0	BOR007	279	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=656.939|End=657.215	_	_	_	0-2(68)
 280-0	BOI030	280	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=657.513	_	_	_	_
@@ -1990,7 +1990,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 345-11	BOI030	345	11	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 345-12	BOI030	345	12	ditta	ditta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 345-13	BOI030	345	13	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-345-14	BOI030	345	14	tr[enta]	trenta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-6(81)
+345-14	BOI030	345	14	tr[enta]	trenta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(81)
 345-15	BOI030	345	15	settembre	settembre	_	_	_	_	_	linguistic	_	_	_	End=772.851	_	_	_	_
 346-0	BOR007	346	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=771.755|End=772.106	_	_	_	0-2(81)
 347-0	BOR007	347	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=773.039|End=773.492	_	_	_	_
@@ -2932,7 +2932,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 528-8	BOI030	528	8	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 528-9	BOI030	528	9	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 528-10	BOI030	528	10	male	male	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-528-11	BOI030	528	11	vad[o	vado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(132)
+528-11	BOI030	528	11	vad[o	vado	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(132)
 528-12	BOI030	528	12	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(132)
 528-13	BOI030	528	13	pie]di	piedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(132)
 528-14	BOI030	528	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1114.427	_	_	_	_
@@ -3099,15 +3099,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-8	BOR007	563	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(140)
 563-9	BOR007	563	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(140)
 563-10	BOR007	563	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(140)
-563-11	BOR007	563	11	è]	è	_	_	_	_	_	linguistic	_	_	_	End=1173.131	_	_	_	_
+563-11	BOR007	563	11	è]	è	_	_	_	_	_	linguistic	_	_	_	End=1173.131	_	_	_	0-1(140)
 564-0	BOI030	564	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1172.558|End=1173.128	_	_	_	0-2(140)
 565-0	BOR007	565	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1173.378	_	_	_	0-2(141)
 565-1	BOR007	565	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(141)
 565-2	BOR007	565	2	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(141)
 565-3	BOR007	565	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(141)
-565-4	BOR007	565	4	aut]obus	autobus	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(141),6-7(142)
+565-4	BOR007	565	4	aut]obus	autobus	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(141)
 565-5	BOR007	565	5	[che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(142)
-565-6	BOR007	565	6	ti]	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(142)
+565-6	BOR007	565	6	ti]	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(142)
 565-7	BOR007	565	7	porta:	porta	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 565-8	BOR007	565	8	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 565-9	BOR007	565	9	centro	centro	_	_	_	_	_	linguistic	_	_	_	End=1176.273	_	_	_	_
@@ -3382,7 +3382,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 620-3	BOI030	620	3	neanche	neanche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-4	BOI030	620	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-5	BOI030	620	5	puoi	puoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-620-6	BOI030	620	6	tro[vare	trovare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(151)
+620-6	BOI030	620	6	tro[vare	trovare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(151)
 620-7	BOI030	620	7	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(151)
 620-8	BOI030	620	8	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(151)
 620-9	BOI030	620	9	lavo]rare	lavorare	_	_	_	_	_	linguistic	_	_	_	End=1290.927	_	_	_	0-4(151)
@@ -4183,7 +4183,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 786-9	BOI030	786	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 786-10	BOI030	786	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 786-11	BOI030	786	11	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-786-12	BOI030	786	12	pien[o	pieno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(184)
+786-12	BOI030	786	12	pien[o	pieno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(184)
 786-13	BOI030	786	13	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(184)
 786-14	BOI030	786	14	sa]i	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(184)
 786-15	BOI030	786	15	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4590,7 +4590,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 849-20	BOI030	849	20	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 849-21	BOI030	849	21	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 849-22	BOI030	849	22	aperitivo	aperitivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-849-23	BOI030	849	23	ogn[i	ogni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(200)
+849-23	BOI030	849	23	ogn[i	ogni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(200)
 849-24	BOI030	849	24	ta:]nto	tanto	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(200)
 849-25	BOI030	849	25	rara~	rara~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 849-26	BOI030	849	26	NON	non	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
@@ -4614,7 +4614,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 855-2	BOR007	855	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 855-3	BOR007	855	3	portici	portici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 855-4	BOR007	855	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-855-5	BOR007	855	5	aperi[tivo]	aperitivo	_	_	_	_	_	linguistic	_	_	_	End=1785.785	_	_	_	4-9(204)
+855-5	BOR007	855	5	aperi[tivo]	aperitivo	_	_	_	_	_	linguistic	_	_	_	End=1785.785	_	_	_	5-9(204)
 856-0	BOI030	856	0	[esa]ttamente	esattamente	_	_	_	_	_	linguistic	_	_	_	Begin=1785.297	_	_	_	0-3(204)
 856-1	BOI030	856	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 856-2	BOI030	856	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

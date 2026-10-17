@@ -898,8 +898,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 87-12	BOI038	87	12	avevo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 87-13	BOI038	87	13	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
 87-14	BOI038	87	14	vent'	vent'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-5(0)	_	_
-87-15	BOI038	87	15	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)|Fast=3-4(1)	_	_
-87-16	BOI038	87	16	>non<	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
+87-15	BOI038	87	15	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
+87-16	BOI038	87	16	>non<	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(1)	_	_
 87-17	BOI038	87	17	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 87-18	BOI038	87	18	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 87-19	BOI038	87	19	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2211,8 +2211,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-7	BOR010	231	7	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-8	BOR010	231	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 231-9	BOR010	231	9	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-231-10	BOR010	231	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-2(0)	_
-231-11	BOR010	231	11	(versione)	versione	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-7(0)	_
+231-10	BOR010	231	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+231-11	BOR010	231	11	(versione)	versione	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-8(0)	_
 231-12	BOR010	231	12	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-13	BOR010	231	13	posso	posso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 231-14	BOR010	231	14	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2661,7 +2661,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 292-2	BOR010	292	2	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 292-3	BOR010	292	3	universtià	universtià	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 292-4	BOR010	292	4	>non	non	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-292-5	BOR010	292	5	so<	so	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=1-2(0)|Fast=0-2(0)	_	_
+292-5	BOR010	292	5	so<	so	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 292-6	BOR010	292	6	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 292-7	BOR010	292	7	via:	via	_	_	_	_	_	linguistic	_	_	_	_	2x1	Slow=0-3(0)	_	_
 292-8	BOR010	292	8	>come	come	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	_	_
@@ -4921,7 +4921,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 577-7	BOI038	577	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(13)
 577-8	BOI038	577	8	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(13)
 577-9	BOI038	577	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(13)
-577-10	BOI038	577	10	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+577-10	BOI038	577	10	è]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(13)
 577-11	BOI038	577	11	bassorilievi:	bassorilievi	_	_	_	_	_	linguistic	_	_	_	_	11x1	_	_	_
 577-12	BOI038	577	12	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 577-13	BOI038	577	13	riproducono:	riproducono	_	_	_	_	_	linguistic	_	_	_	_	10x1	_	_	_
@@ -6201,7 +6201,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 743-25	BOR010	743	25	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 743-26	BOR010	743	26	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 743-27	BOR010	743	27	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-743-28	BOR010	743	28	altro:<	altro	_	_	_	_	_	linguistic	_	_	_	End=2557.397	4x1	Fast=0-3(0)	_	_
+743-28	BOR010	743	28	altro:<	altro	_	_	_	_	_	linguistic	_	_	_	End=2557.397	4x1	Fast=0-5(0)	_	_
 744-0	BOI038	744	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2557.68	_	_	_	_
 744-1	BOI038	744	1	beh	beh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 744-2	BOI038	744	2	(anch'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	0-5(0)	_

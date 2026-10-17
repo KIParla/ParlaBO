@@ -1475,7 +1475,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-4	BOI114	195	4	sentita	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(52)
 195-5	BOI114	195	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(52)
 195-6	BOI114	195	6	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(52)
-195-7	BOI114	195	7	sentita]	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(52)
+195-7	BOI114	195	7	sentita]	sentita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(52)
 195-8	BOI114	195	8	pesante	pesante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-9	BOI114	195	9	negli	negli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 195-10	BOI114	195	10	ultimi	ultimi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1953,7 +1953,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 245-16	BOI113	245	16	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-17	BOI113	245	17	fine	fine	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 245-18	BOI113	245	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-245-19	BOI113	245	19	que[llo]	quello	_	_	_	_	_	linguistic	_	_	_	End=674.72	_	_	_	2-6(69)
+245-19	BOI113	245	19	que[llo]	quello	_	_	_	_	_	linguistic	_	_	_	End=674.72	_	_	_	3-6(69)
 246-0	BOR028	246	0	[lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=671.86	_	_	_	0-2(70)
 246-1	BOR028	246	1	scroccone	scroccone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(70)
 246-2	BOR028	246	2	con]	con	_	_	_	_	_	linguistic	_	_	_	End=673.3	_	_	_	0-3(70)
@@ -5453,7 +5453,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 644-53	BOI113	644	53	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 644-54	BOI113	644	54	facilissmo	facilissmo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 644-55	BOI113	644	55	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-644-56	BOI113	644	56	piccoli[ssimo]	piccolissimo	_	_	_	_	_	linguistic	_	_	_	End=1789.92	_	_	_	5-11(200)
+644-56	BOI113	644	56	piccoli[ssimo]	piccolissimo	_	_	_	_	_	linguistic	_	_	_	End=1789.92	_	_	_	7-12(200)
 645-0	BOI114	645	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1774.2|End=1774.895	_	_	_	_
 646-0	BOR028	646	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1780.07|End=1780.867	_	_	_	_
 647-0	BOI114	647	0	[però]	però	_	_	_	_	_	linguistic	_	_	_	Begin=1789.62	_	_	_	0-4(202)
@@ -6160,7 +6160,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 711-27	BOI113	711	27	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(222)
 711-28	BOI113	711	28	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(222)
 711-29	BOI113	711	29	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(222)
-711-30	BOI113	711	30	cane]	cane	_	_	_	_	_	linguistic	_	_	_	End=2028.24	_	_	_	0-3(222)
+711-30	BOI113	711	30	cane]	cane	_	_	_	_	_	linguistic	_	_	_	End=2028.24	_	_	_	0-4(222)
 712-0	BOI114	712	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2026.77	_	_	_	0-2(222)
 712-1	BOI114	712	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(222)
 712-2	BOI114	712	2	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(222)
@@ -6399,13 +6399,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 738-24	BOI113	738	24	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 738-25	BOI113	738	25	capito?	capito	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 738-26	BOI113	738	26	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-738-27	BOI113	738	27	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(368)
+738-27	BOI113	738	27	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 738-28	BOI113	738	28	[condividere	condividere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-11(368)
 738-29	BOI113	738	29	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(368)
 738-30	BOI113	738	30	stile	stile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(368)
 738-31	BOI113	738	31	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(368)
 738-32	BOI113	738	32	vita	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(368)
-738-33	BOI113	738	33	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=2103.12	_	_	_	0-1(368)
+738-33	BOI113	738	33	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=2103.12	_	_	_	0-2(368)
 739-0	BOI114	739	0	[sarebbe	sarebbe	_	_	_	_	_	linguistic	_	_	_	Begin=2094.4	_	_	_	0-7(236)
 739-1	BOI114	739	1	diverso	diverso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(236)
 739-2	BOI114	739	2	(magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-6(236)
@@ -6801,8 +6801,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 787-24	BOI114	787	24	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 787-25	BOI114	787	25	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 787-26	BOI114	787	26	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-787-27	BOI114	787	27	effetti	effetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-7(247)
-787-28	BOI114	787	28	[e]	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+787-27	BOI114	787	27	effetti	effetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+787-28	BOI114	787	28	[e]	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(247)
 787-29	BOI114	787	29	funziona	funziona	_	_	_	_	_	linguistic	_	_	_	End=2230.13	_	_	_	_
 788-0	BOR028	788	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2229.27|End=2229.755	_	_	_	0-2(247)
 789-0	BOI114	789	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2230.466	_	_	_	_
@@ -7150,8 +7150,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 814-33	BOI114	814	33	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 814-34	BOI114	814	34	mezza	mezza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 814-35	BOI114	814	35	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-814-36	BOI114	814	36	piedi	piedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(255)
-814-37	BOI114	814	37	[per]	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(255)
+814-36	BOI114	814	36	piedi	piedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+814-37	BOI114	814	37	[per]	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(255)
 814-38	BOI114	814	38	tornare	tornare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 814-39	BOI114	814	39	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 814-40	BOI114	814	40	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7507,10 +7507,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 864-21	BOI113	864	21	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-22	BOI113	864	22	trovare	trovare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-23	BOI113	864	23	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-864-24	BOI113	864	24	enjoy	enjoy	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(273)
+864-24	BOI113	864	24	enjoy	enjoy	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-25	BOI113	864	25	[ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(273)
 864-26	BOI113	864	26	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(273)
-864-27	BOI113	864	27	voluto]	voluto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(273)
+864-27	BOI113	864	27	voluto]	voluto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(273)
 864-28	BOI113	864	28	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-29	BOI113	864	29	trovare	trovare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 864-30	BOI113	864	30	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -8857,7 +8857,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 999-6	BOI114	999	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 999-7	BOI114	999	7	aria	aria	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 999-8	BOI114	999	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-999-9	BOI114	999	9	bologn[a:	bologna	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	5-7(?)
+999-9	BOI114	999	9	bologn[a:	bologna	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	6-7(?)
 999-10	BOI114	999	10	(è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	0-1(?)
 999-11	BOI114	999	11	record	record	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-6(?)
 999-12	BOI114	999	12	eh)]	eh	_	_	_	_	_	linguistic	_	_	_	End=2883.4	_	_	0-2(0)	0-2(?)
@@ -9144,9 +9144,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1038-12	BOI113	1038	12	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-13	BOI113	1038	13	sembra	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-14	BOI113	1038	14	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1038-15	BOI113	1038	15	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(342)
+1038-15	BOI113	1038	15	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-16	BOI113	1038	16	[in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(342)
-1038-17	BOI113	1038	17	amazzonia]	amazzonia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(342)
+1038-17	BOI113	1038	17	amazzonia]	amazzonia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(342)
 1038-18	BOI113	1038	18	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-19	BOI113	1038	19	bonjour	bonjour	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1038-20	BOI113	1038	20	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -9206,7 +9206,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1042-5	BOI113	1042	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(344)
 1042-6	BOI113	1042	6	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(344)
 1042-7	BOI113	1042	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(344)
-1042-8	BOI113	1042	8	hai]	hai	_	_	_	_	_	linguistic	_	_	_	End=2982.132	_	_	_	0-2(344)
+1042-8	BOI113	1042	8	hai]	hai	_	_	_	_	_	linguistic	_	_	_	End=2982.132	_	_	_	0-3(344)
 1043-0	BOI113	1043	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2982.64	_	_	_	0-2(373)
 1043-1	BOI113	1043	1	capito]?	capito	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2983.76	_	_	_	0-6(373)
 1044-0	BOR028	1044	0	[esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=2982.81|End=2983.41	_	_	_	0-6(373)

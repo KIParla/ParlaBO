@@ -467,7 +467,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 64-14	BOI088	64	14	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(14)
 64-15	BOI088	64	15	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(14)
 64-16	BOI088	64	16	molta	molta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(14)
-64-17	BOI088	64	17	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(14)
+64-17	BOI088	64	17	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(14)
 64-18	BOI088	64	18	maleducazione	maleducazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 64-19	BOI088	64	19	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 64-20	BOI088	64	20	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3672,7 +3672,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 471-6	BOI087	471	6	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-7	BOI087	471	7	diverso	diverso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 471-8	BOI087	471	8	[dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(145)
-471-9	BOI087	471	9	italia]	italia	_	_	_	_	_	linguistic	_	_	_	End=1222.06	_	_	_	0-5(145)
+471-9	BOI087	471	9	italia]	italia	_	_	_	_	_	linguistic	_	_	_	End=1222.06	_	_	_	0-6(145)
 472-0	BOI088	472	0	[assolutamente]	assolutamente	_	_	_	_	_	linguistic	_	_	_	Begin=1219.15|End=1220.045	_	_	_	0-13(144)
 473-0	BOI088	473	0	[però	però	_	_	_	_	_	linguistic	_	_	_	Begin=1221.12	_	_	_	0-4(145)
 473-1	BOI088	473	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(145)
@@ -4220,7 +4220,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 538-22	BOI087	538	22	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 538-23	BOI087	538	23	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 538-24	BOI087	538	24	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-538-25	BOI087	538	25	fatt[o:]	fatto	_	_	_	_	_	linguistic	_	_	_	End=1381.574	4x1	_	_	0-4(168)
+538-25	BOI087	538	25	fatt[o:]	fatto	_	_	_	_	_	linguistic	_	_	_	End=1381.574	4x1	_	_	4-5(168)
 539-0	BOR027	539	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1381.01	_	_	_	0-2(168)
 539-1	BOR027	539	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(168)
 539-2	BOR027	539	2	ancora]	ancora	_	_	_	_	_	linguistic	_	_	_	End=1381.49	_	_	_	0-6(168)
@@ -5927,7 +5927,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 753-10	BOI088	753	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 753-11	BOI088	753	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 753-12	BOI088	753	12	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-753-13	BOI088	753	13	sta[to:]	stato	_	_	_	_	_	linguistic	_	_	_	End=1869.607	4x1	_	_	2-5(238)
+753-13	BOI088	753	13	sta[to:]	stato	_	_	_	_	_	linguistic	_	_	_	End=1869.607	4x1	_	_	3-5(238)
 754-0	BOI087	754	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=1869.15|End=1869.432	_	_	_	0-2(238)
 755-0	BOI087	755	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1870.01	_	_	_	_
 755-1	BOI087	755	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

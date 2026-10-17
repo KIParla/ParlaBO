@@ -175,7 +175,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-13	BOI031	29	13	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-14	BOI031	29	14	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-15	BOI031	29	15	caso	caso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-29-16	BOI031	29	16	son[o	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(5)
+29-16	BOI031	29	16	son[o	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(5)
 29-17	BOI031	29	17	andata]	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(5)
 29-18	BOI031	29	18	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 29-19	BOI031	29	19	lavorare:	lavorare	_	_	_	_	_	linguistic	_	_	_	End=71.475	7x1	_	_	_
@@ -1424,7 +1424,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 283-22	BOI031	283	22	trovato	trovato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 283-23	BOI031	283	23	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 283-24	BOI031	283	24	enorme	enorme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-283-25	BOI031	283	25	differenz[a	differenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-10(52)
+283-25	BOI031	283	25	differenz[a	differenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(52)
 283-26	BOI031	283	26	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(52)
 283-27	BOI031	283	27	pa]rte	parte	_	_	_	_	_	linguistic	_	_	_	End=567.661	_	_	_	0-2(52)
 284-0	BOR007	284	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=566.73|End=567.1	_	_	_	0-4(52)
@@ -2078,7 +2078,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 394-9	BOI031	394	9	universitari	universitari	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-10	BOI031	394	10	[e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(78)
 394-11	BOI031	394	11	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(78)
-394-12	BOI031	394	12	eran]	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(78)
+394-12	BOI031	394	12	eran]	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(78)
 394-13	BOI031	394	13	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 394-14	BOI031	394	14	feste::	feste	_	_	_	_	_	linguistic	_	_	_	End=815.111	4x2	_	_	_
 395-0	BOR007	395	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=812.938	_	_	_	0-2(78)
@@ -2491,7 +2491,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 468-10	BOI031	468	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 468-11	BOI031	468	11	pon~	pon~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 468-12	BOI031	468	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-468-13	BOI031	468	13	pandemi[a:]	pandemia	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	6-8(96)
+468-13	BOI031	468	13	pandemi[a:]	pandemia	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	7-8(96)
 468-14	BOI031	468	14	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 468-15	BOI031	468	15	calato	calato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 468-16	BOI031	468	16	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2742,7 +2742,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 512-10	BOI031	512	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 512-11	BOI031	512	11	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 512-12	BOI031	512	12	ripresa	ripresa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-512-13	BOI031	512	13	ade[sso]	adesso	_	_	_	_	_	linguistic	_	_	_	End=1064.223	_	_	_	1-5(106)
+512-13	BOI031	512	13	ade[sso]	adesso	_	_	_	_	_	linguistic	_	_	_	End=1064.223	_	_	_	3-6(106)
 513-0	BOR007	513	0	°[sì]°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1063.923|End=1064.207	_	_	_	0-2(106)
 514-0	BOI031	514	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1065.331	0x2	_	_	_
 514-1	BOI031	514	1	amo	amo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3590,7 +3590,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 671-10	BOR007	671	10	età	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 671-11	BOR007	671	11	insomma	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 671-12	BOR007	671	12	andando	andando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-671-13	BOR007	671	13	ver[so]	verso	_	_	_	_	_	linguistic	_	_	_	End=1370.823	_	_	_	2-5(150)
+671-13	BOR007	671	13	ver[so]	verso	_	_	_	_	_	linguistic	_	_	_	End=1370.823	_	_	_	3-5(150)
 672-0	BOI031	672	0	[cam]biano	cambiano	_	_	_	_	_	linguistic	_	_	_	Begin=1370.646	_	_	_	0-3(150)
 672-1	BOI031	672	1	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 672-2	BOI031	672	2	interes[si	interessi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(151)

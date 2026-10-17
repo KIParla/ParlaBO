@@ -323,8 +323,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 41-9	BOI020	41	9	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 41-10	BOI020	41	10	scatto	scatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 41-11	BOI020	41	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-41-12	BOI020	41	12	livello	livello	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-41-13	BOI020	41	13	°(i)nsomma°	insomma	_	_	_	_	_	linguistic	_	_	Volume=Low	End=151.41	_	_	_	_
+41-12	BOI020	41	12	livello	livello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+41-13	BOI020	41	13	°(i)nsomma°	insomma	_	_	_	_	_	linguistic	_	_	Volume=Low	End=151.41	_	_	0-1(0)	_
 42-0	BOI020	42	0	(in	in	_	_	_	_	_	linguistic	_	_	_	Begin=151.63	_	_	0-2(0)	_
 42-1	BOI020	42	1	qualche)	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-7(0)	_
 42-2	BOI020	42	2	maniera	maniera	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
@@ -396,7 +396,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-4	BOI020	48	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 48-5	BOI020	48	5	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-6	BOI020	48	6	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-48-7	BOI020	48	7	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(1)	_
+48-7	BOI020	48	7	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-4(1)	_
 48-8	BOI020	48	8	stati	stati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-9	BOI020	48	9	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 48-10	BOI020	48	10	lavori	lavori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1353,12 +1353,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-7	BOI020	155	7	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-8	BOI020	155	8	pa:rco:	parco	_	_	_	_	_	linguistic	_	_	_	_	1x1,4x1	_	_	_
 155-9	BOI020	155	9	m:	m	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
-155-10	BOI020	155	10	(i)nsom(m)a	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0),4-6(3)	_
+155-10	BOI020	155	10	(i)nsom(m)a	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0),5-6(3)	_
 155-11	BOI020	155	11	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-12	BOI020	155	12	vita	vita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-13	BOI020	155	13	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-14	BOI020	155	14	(confortevole)	confortevole	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-12(1)	_
-155-15	BOI020	155	15	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(2)	_
+155-15	BOI020	155	15	son(o)	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-4(2)	_
 155-16	BOI020	155	16	contento	contento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-17	BOI020	155	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-18	BOI020	155	18	essermi	essermi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3764,8 +3764,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 460-3	BOI020	460	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 460-4	BOI020	460	4	area	area	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 460-5	BOI020	460	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-460-6	BOI020	460	6	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-5(0)	_
-460-7	BOI020	460	7	(interess)ante	interessante	_	_	_	_	_	linguistic	_	_	_	End=1756.255	_	_	0-7(0)	_
+460-6	BOI020	460	6	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+460-7	BOI020	460	7	(interess)ante	interessante	_	_	_	_	_	linguistic	_	_	_	End=1756.255	_	_	0-8(0)	_
 461-0	BOI020	461	0	xxxxxxxxxxxxxxx	xxxxxxxxxxxxxxx	_	_	_	_	_	unknown	_	_	Syllables=15	Begin=1756.922	_	_	_	_
 461-1	BOI020	461	1	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 461-2	BOI020	461	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3923,7 +3923,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 485-5	BOI020	485	5	fare~	fare~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 485-6	BOI020	485	6	>c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
 485-7	BOI020	485	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
-485-8	BOI020	485	8	spesso<	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+485-8	BOI020	485	8	spesso<	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 485-9	BOI020	485	9	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 485-10	BOI020	485	10	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 485-11	BOI020	485	11	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4465,7 +4465,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 553-9	BOI020	553	9	treme:ndo	tremendo	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 553-10	BOI020	553	10	lockdown	lockdown	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 553-11	BOI020	553	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-553-12	BOI020	553	12	abbiam(o)	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-7(0)	_
+553-12	BOI020	553	12	abbiam(o)	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-7(0)	_
 553-13	BOI020	553	13	vissuto	vissuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 553-14	BOI020	553	14	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 553-15	BOI020	553	15	a:	a	_	_	_	_	_	linguistic	_	_	_	End=2120.511	0x1	_	_	_

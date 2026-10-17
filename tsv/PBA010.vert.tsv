@@ -367,7 +367,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 45-17	BOI069	45	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 45-18	BOI069	45	18	[un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(15)
 45-19	BOI069	45	19	gran	gran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(15)
-45-20	BOI069	45	20	diva]rio	divario	_	_	_	_	_	linguistic	_	_	_	End=134.495	_	_	_	0-2(15)
+45-20	BOI069	45	20	diva]rio	divario	_	_	_	_	_	linguistic	_	_	_	End=134.495	_	_	_	0-4(15)
 46-0	BOR019	46	0	[giusto]	giusto	_	_	_	_	_	linguistic	_	_	_	Begin=133.396|End=134.099	_	_	_	0-6(15)
 47-0	BOR019	47	0	giusto	giusto	_	_	_	_	_	linguistic	_	_	_	Begin=134.487	_	_	_	_
 47-1	BOR019	47	1	((prende_fiato))	((prende_fiato))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=135.9	_	_	_	_
@@ -1084,7 +1084,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 123-24	BOI069	123	24	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 123-25	BOI069	123	25	appartamentino	appartamentino	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 123-26	BOI069	123	26	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-123-27	BOI069	123	27	picco[lo]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=390.9	_	_	_	4-7(44)
+123-27	BOI069	123	27	picco[lo]	piccolo	_	_	_	_	_	linguistic	_	_	_	End=390.9	_	_	_	5-7(44)
 124-0	BOR019	124	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=385.958|End=386.198	_	_	_	0-2(43)
 125-0	BOR019	125	0	[pic]co[lo]	piccolo	_	_	_	_	_	linguistic	_	_	_	Begin=390.74|End=391.178	_	_	_	0-3(44),5-7(45)
 126-0	BOI069	126	0	[mo~]	mo~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=391.085	_	_	_	0-3(45)
@@ -1804,7 +1804,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 218-4	BOI069	218	4	fare	fare	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 218-5	BOI069	218	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 218-6	BOI069	218	6	>cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-4(0)	_	_
-218-7	BOI069	218	7	era<	era	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=2-3(0)|Fast=0-3(0)	_	_
+218-7	BOI069	218	7	era<	era	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 218-8	BOI069	218	8	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 218-9	BOI069	218	9	corso	corso	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 218-10	BOI069	218	10	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	Slow=0-2(0)	_	_
@@ -3563,7 +3563,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 413-16	BOR019	413	16	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 413-17	BOR019	413	17	brutto	brutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 413-18	BOR019	413	18	tempo,	tempo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-413-19	BOR019	413	19	c[ome	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(96)
+413-19	BOR019	413	19	c[ome	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-4(96)
 413-20	BOR019	413	20	funz]iona?	funziona	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1310.206	_	_	_	0-4(96)
 414-0	BOI069	414	0	[(non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1309.559	_	_	0-3(0)	0-3(96)
 414-1	BOI069	414	1	vanno)]	vanno	_	_	_	_	_	linguistic	_	_	_	End=1310.006	_	_	0-5(0)	0-5(96)
@@ -3788,9 +3788,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 444-25	BOI069	444	25	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 444-26	BOI069	444	26	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 444-27	BOI069	444	27	tensione	tensione	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	_
-444-28	BOI069	444	28	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	Slow=0-2(0)|Fast=1-2(1)	_	_
-444-29	BOI069	444	29	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(1)	6-7(0)	_
-444-30	BOI069	444	30	(diretta)	diretta	_	_	_	_	_	linguistic	_	_	_	End=1400.687	_	_	0-5(0)	_
+444-28	BOI069	444	28	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	Slow=0-2(0)	_	_
+444-29	BOI069	444	29	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(1)	_	_
+444-30	BOI069	444	30	(diretta)	diretta	_	_	_	_	_	linguistic	_	_	_	End=1400.687	_	_	0-7(0)	_
 445-0	BOR019	445	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1400.992|End=1401.475	_	_	_	_
 446-0	BOI069	446	0	da	da	_	_	_	_	_	linguistic	_	_	_	Begin=1401.772	_	_	_	_
 446-1	BOI069	446	1	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4355,8 +4355,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 508-10	BOI069	508	10	appena	appena	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-11	BOI069	508	11	usciti	usciti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-12	BOI069	508	12	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-508-13	BOI069	508	13	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=9-10(0)	_	_
-508-14	BOI069	508	14	>quindi<	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+508-13	BOI069	508	13	università	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+508-14	BOI069	508	14	>quindi<	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 508-15	BOI069	508	15	venticinque	venticinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-16	BOI069	508	16	ventisei	ventisei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 508-17	BOI069	508	17	anni,	anni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1629.0	_	_	_	_
@@ -4793,7 +4793,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 558-13	BOI069	558	13	riflette	riflette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 558-14	BOI069	558	14	ottanta,	ottanta	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 558-15	BOI069	558	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-558-16	BOI069	558	16	°m[a]°	ma	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1784.443	_	_	_	0-2(17)
+558-16	BOI069	558	16	°m[a]°	ma	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1784.443	_	_	_	1-2(17)
 559-0	BOR019	559	0	[e]satto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=1784.341	_	_	_	0-1(17)
 559-1	BOR019	559	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1785.603	_	_	_	_
 560-0	BOI069	560	0	altri	altri	_	_	_	_	_	linguistic	_	_	_	Begin=1785.773	_	_	_	_

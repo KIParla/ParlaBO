@@ -2798,7 +2798,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 439-4	BOI064	439	4	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 439-5	BOI064	439	5	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 439-6	BOI064	439	6	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-439-7	BOI064	439	7	traffi[cata	trafficata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(99)
+439-7	BOI064	439	7	traffi[cata	trafficata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-10(99)
 439-8	BOI064	439	8	tut]to	tutto	_	_	_	_	_	linguistic	_	_	_	End=1042.18	_	_	_	0-3(99)
 440-0	BOR020	440	0	[sempre]	sempre	_	_	_	_	_	linguistic	_	_	_	Begin=1041.305|End=1041.944	_	_	_	0-6(99)
 441-0	BOI064	441	0	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	Begin=1042.265	_	_	_	_
@@ -4355,10 +4355,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 655-3	BOI064	655	3	serbatoio	serbatoio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 655-4	BOI064	655	4	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 655-5	BOI064	655	5	acqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-655-6	BOI064	655	6	dopo[diché]	dopodiché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-9(36)
+655-6	BOI064	655	6	dopo[diché]	dopodiché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-9(36)
 655-7	BOI064	655	7	fai	fai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 655-8	BOI064	655	8	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-655-9	BOI064	655	9	al[tro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(37)
+655-9	BOI064	655	9	al[tro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(37)
 655-10	BOI064	655	10	caffè]	caffè	_	_	_	_	_	linguistic	_	_	_	End=1555.715	_	_	_	0-5(37)
 656-0	BOR020	656	0	[a::h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1553.88|End=1554.42	0x2	_	_	0-2(36)
 657-0	BOR020	657	0	[il	il	_	_	_	_	_	linguistic	_	_	_	Begin=1554.93	_	_	_	0-2(37)
@@ -4427,9 +4427,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 663-27	BOI064	663	27	tenere	tenere	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 663-28	BOI064	663	28	sveglio	sveglio	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 663-29	BOI064	663	29	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-663-30	BOI064	663	30	corti~<	corti~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-5(0)	_	_
-663-31	BOI064	663	31	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=1-2(0)	_	_
-663-32	BOI064	663	32	<cortisolo>?	cortisolo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1572.495	_	Slow=0-8(0)	_	_
+663-30	BOI064	663	30	corti~<	corti~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	Fast=0-6(0)	_	_
+663-31	BOI064	663	31	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+663-32	BOI064	663	32	<cortisolo>?	cortisolo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1572.495	_	Slow=0-9(0)	_	_
 664-0	BOI064	664	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=1572.8	_	_	_	_
 664-1	BOI064	664	1	cortisolo	cortisolo	_	_	_	_	_	linguistic	_	_	_	End=1573.55	_	_	_	_
 665-0	BOI064	665	0	>non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1574.085	_	Fast=0-3(0)	_	_
@@ -5402,7 +5402,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 796-9	BOI064	796	9	fuorisede	fuorisede	_	_	_	_	_	linguistic	_	_	_	End=1867.755	_	_	_	_
 797-0	BOR020	797	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1868.175	_	_	_	_
 797-1	BOR020	797	1	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-797-2	BOR020	797	2	p[ersa]	persa	_	_	_	_	_	linguistic	_	_	_	End=1868.985	_	_	_	0-5(63)
+797-2	BOR020	797	2	p[ersa]	persa	_	_	_	_	_	linguistic	_	_	_	End=1868.985	_	_	_	1-5(63)
 798-0	BOI064	798	0	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1868.555	_	_	_	0-2(63)
 798-1	BOI064	798	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(63)
 798-2	BOI064	798	2	p]ersa	persa	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-1(63)
@@ -6576,7 +6576,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 965-24	BOI064	965	24	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(1)	_	_
 965-25	BOI064	965	25	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(1)	_	_
 965-26	BOI064	965	26	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-5(1)	_	_
-965-27	BOI064	965	27	esselunga<	esselunga	_	_	_	_	_	linguistic	_	_	_	End=2226.85	_	Fast=0-8(1)	_	_
+965-27	BOI064	965	27	esselunga<	esselunga	_	_	_	_	_	linguistic	_	_	_	End=2226.85	_	Fast=0-9(1)	_	_
 966-0	BOR020	966	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=2222.925	_	_	_	0-2(102)
 966-1	BOR020	966	1	pensavo	pensavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(102)
 966-2	BOR020	966	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(102)
@@ -7085,7 +7085,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1032-13	BOI064	1032	13	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 1032-14	BOI064	1032	14	sola	sola	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 1032-15	BOI064	1032	15	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-1032-16	BOI064	1032	16	i<	i	_	_	_	_	_	linguistic	_	_	_	End=2366.49	_	_	_	_
+1032-16	BOI064	1032	16	i<	i	_	_	_	_	_	linguistic	_	_	_	End=2366.49	_	Fast=0-1(0)	_	_
 1033-0	BOI064	1033	0	cazzi	cazzi	_	_	_	_	_	linguistic	_	_	_	Begin=2366.58	_	_	_	_
 1033-1	BOI064	1033	1	suoi	suoi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 1033-2	BOI064	1033	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

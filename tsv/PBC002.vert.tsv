@@ -196,7 +196,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 53-5	BOI008	53	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 53-6	BOI008	53	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 53-7	BOI008	53	7	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-53-8	BOI008	53	8	atti[vità]	attività	_	_	_	_	_	linguistic	_	_	_	End=90.7	_	_	_	2-7(7)
+53-8	BOI008	53	8	atti[vità]	attività	_	_	_	_	_	linguistic	_	_	_	End=90.7	_	_	_	4-8(7)
 54-0	BOI007	54	0	[di	di	_	_	_	_	_	linguistic	_	_	_	Begin=90.34	_	_	_	0-2(7)
 54-1	BOI007	54	1	cinqu]ant'	cinquant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(7)
 54-2	BOI007	54	2	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -501,7 +501,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 115-3	BOI007	115	3	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 115-4	BOI007	115	4	acqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 115-5	BOI007	115	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-115-6	BOI007	115	6	diceva[no	dicevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(25)
+115-6	BOI007	115	6	diceva[no	dicevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(25)
 115-7	BOI007	115	7	fosse:]	fosse	_	_	_	_	_	linguistic	_	_	_	End=210.14	4x1	_	_	0-5(25)
 116-0	BOR003	116	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=209.36|End=210.25	_	_	_	_
 117-0	BOI007	117	0	sa:na:	sana	_	_	_	_	_	linguistic	_	_	_	Begin=210.38|End=211.073	1x1,3x1	_	_	_
@@ -1191,7 +1191,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 259-2	BOI007	259	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-3	BOI007	259	3	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-4	BOI007	259	4	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-259-5	BOI007	259	5	movim[ento:]	movimento	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	4-9(64)
+259-5	BOI007	259	5	movim[ento:]	movimento	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	5-9(64)
 259-6	BOI007	259	6	rispetto:	rispetto	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 259-7	BOI007	259	7	ai	ai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 259-8	BOI007	259	8	pe~	pe~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=484.828	_	_	_	_
@@ -1441,7 +1441,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 304-7	BOI007	304	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-8	BOI007	304	8	diventata	diventata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 304-9	BOI007	304	9	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-304-10	BOI007	304	10	biblio[te:ca:]	biblioteca	_	_	_	_	_	linguistic	_	_	_	End=588.15	7x1,9x1	_	_	5-10(79)
+304-10	BOI007	304	10	biblio[te:ca:]	biblioteca	_	_	_	_	_	linguistic	_	_	_	End=588.15	7x1,9x1	_	_	6-10(79)
 305-0	BOR003	305	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=587.33	_	_	_	0-2(79)
 305-1	BOR003	305	1	bellissi]ma	bellissima	_	_	_	_	_	linguistic	_	_	_	End=588.57	_	_	_	0-8(79)
 306-0	BOI007	306	0	questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=588.62	_	_	_	_
@@ -2281,7 +2281,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 475-1	BOI007	475	1	puo:i	puoi	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 475-2	BOI007	475	2	mettere:	mettere	_	_	_	_	_	linguistic	_	_	_	_	6x1	_	_	_
 475-3	BOI007	475	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-475-4	BOI007	475	4	ese:rcit[o:	esercito	_	_	_	_	_	linguistic	_	_	_	_	2x1,7x1	_	_	6-8(126)
+475-4	BOI007	475	4	ese:rcit[o:	esercito	_	_	_	_	_	linguistic	_	_	_	_	2x1,7x1	_	_	7-8(126)
 475-5	BOI007	475	5	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(126)
 475-6	BOI007	475	6	stra:de]:	strade	_	_	_	_	_	linguistic	_	_	_	_	3x1,5x1	_	_	0-6(126)
 475-7	BOI007	475	7	insomma	insomma	_	_	_	_	_	linguistic	_	_	_	End=951.93	_	_	_	_
@@ -3171,10 +3171,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 648-4	BOI008	648	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-5	BOI008	648	5	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 648-6	BOI008	648	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-648-7	BOI008	648	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(158)
+648-7	BOI008	648	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-8	BOI008	648	8	[ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(158)
 648-9	BOI008	648	9	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(158)
-648-10	BOI008	648	10	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(158)
+648-10	BOI008	648	10	più]	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(158)
 648-11	BOI008	648	11	quei	quei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-12	BOI008	648	12	locali:	locali	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 648-13	BOI008	648	13	lì	lì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3488,7 +3488,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 728-3	BOR003	728	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 728-4	BOR003	728	4	nato	nato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 728-5	BOR003	728	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-728-6	BOR003	728	6	am[o:re]	amore	_	_	_	_	_	linguistic	_	_	_	End=1500.81	2x1	_	_	1-5(178)
+728-6	BOR003	728	6	am[o:re]	amore	_	_	_	_	_	linguistic	_	_	_	End=1500.81	2x1	_	_	2-5(178)
 729-0	BOI007	729	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1500.36	_	_	_	0-1(178)
 729-1	BOI007	729	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(178)
 729-2	BOI007	729	2	vole]	vole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(178)
@@ -3916,7 +3916,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 825-1	BOI007	825	1	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 825-2	BOI007	825	2	ripresa	ripresa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 825-3	BOI007	825	3	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-825-4	BOI007	825	4	venticinq[ue	venticinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-11(198)
+825-4	BOI007	825	4	venticinq[ue	venticinque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-11(198)
 825-5	BOI007	825	5	a:nni]	anni	_	_	_	_	_	linguistic	_	_	_	End=1702.765	0x1	_	_	0-4(198)
 826-0	BOI008	826	0	[beh	beh	_	_	_	_	_	linguistic	_	_	_	Begin=1702.25	_	_	_	0-3(198)
 826-1	BOI008	826	1	ce]:rto	certo	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(198)

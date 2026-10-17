@@ -246,7 +246,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 30-1	BOR010	30	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 30-2	BOR010	30	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 30-3	BOR010	30	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-30-4	BOR010	30	4	anch[e:]	anche	_	_	_	_	_	linguistic	_	_	_	End=96.77	4x1	_	_	3-5(12)
+30-4	BOR010	30	4	anch[e:]	anche	_	_	_	_	_	linguistic	_	_	_	End=96.77	4x1	_	_	4-5(12)
 31-0	BOI044	31	0	[s:]ì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=96.54	0x1	_	_	0-1(12)
 31-1	BOI044	31	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 31-2	BOI044	31	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1069,8 +1069,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 135-4	BOR010	135	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 135-5	BOR010	135	5	allora:	allora	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	_
 135-6	BOR010	135	6	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-135-7	BOR010	135	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(45)
-135-8	BOR010	135	8	[bolo~]	bolo~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=436.679	_	_	_	0-4(45)
+135-7	BOR010	135	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+135-8	BOR010	135	8	[bolo~]	bolo~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=436.679	_	_	_	0-5(45)
 136-0	BOI044	136	0	[s:ì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=435.69	0x1	_	_	0-2(45)
 136-1	BOI044	136	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 136-2	BOI044	136	2	molti	molti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2387,7 +2387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 313-14	BOR010	313	14	arte:	arte	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 313-15	BOR010	313	15	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 313-16	BOR010	313	16	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-313-17	BOR010	313	17	pens[avo]	pensavo	_	_	_	_	_	linguistic	_	_	_	End=990.59	_	_	_	3-7(79)
+313-17	BOR010	313	17	pens[avo]	pensavo	_	_	_	_	_	linguistic	_	_	_	End=990.59	_	_	_	4-7(79)
 314-0	BOI044	314	0	[beh]	beh	_	_	_	_	_	linguistic	_	_	_	Begin=990.19	_	_	_	0-3(79)
 314-1	BOI044	314	1	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 314-2	BOI044	314	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2657,7 +2657,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 342-10	BOI044	342	10	cellulare	cellulare	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
 342-11	BOI044	342	11	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 342-12	BOI044	342	12	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-342-13	BOI044	342	13	telefono<	telefono	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
+342-13	BOI044	342	13	telefono<	telefono	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	_
 342-14	BOI044	342	14	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 342-15	BOI044	342	15	volta:	volta	_	_	_	_	_	linguistic	_	_	_	End=1083.047	4x1	_	_	_
 343-0	BOI044	343	0	dovevi	dovevi	_	_	_	_	_	linguistic	_	_	_	Begin=1083.33	_	_	_	_
@@ -4741,11 +4741,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-13	BOI044	606	13	terra	terra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-14	BOI044	606	14	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-15	BOI044	606	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-606-16	BOI044	606	16	orgoglio:	orgoglio	_	_	_	_	_	linguistic	_	_	Volume=Low	_	7x1	_	_	_
+606-16	BOI044	606	16	orgoglio:	orgoglio	_	_	_	_	_	linguistic	_	_	_	_	7x1	_	_	_
 606-17	BOI044	606	17	°cosa	cosa	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 606-18	BOI044	606	18	te	te	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 606-19	BOI044	606	19	ne	ne	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-606-20	BOI044	606	20	fai°	fai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+606-20	BOI044	606	20	fai°	fai	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 606-21	BOI044	606	21	nieinte	nieinte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-22	BOI044	606	22	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-23	BOI044	606	23	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

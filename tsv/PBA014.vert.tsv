@@ -3120,7 +3120,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 632-10	BOI076	632	10	tutto::	tutto	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_
 632-11	BOI076	632	11	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 632-12	BOI076	632	12	palazzetto	palazzetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-632-13	BOI076	632	13	app[unto]	appunto	_	_	_	_	_	linguistic	_	_	_	End=1373.282	_	_	_	1-6(28)
+632-13	BOI076	632	13	app[unto]	appunto	_	_	_	_	_	linguistic	_	_	_	End=1373.282	_	_	_	3-7(28)
 633-0	BOR019	633	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1373.19	_	_	_	0-4(28)
 633-1	BOR019	633	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 633-2	BOR019	633	2	ah	ah	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -4145,7 +4145,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 502-8	BOI043	502	8	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 502-9	BOI043	502	9	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 502-10	BOI043	502	10	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-502-11	BOI043	502	11	dire<	dire	_	_	_	_	_	linguistic	_	_	_	End=1554.574	_	Fast=0-3(0)	_	_
+502-11	BOI043	502	11	dire<	dire	_	_	_	_	_	linguistic	_	_	_	End=1554.574	_	Fast=0-4(0)	_	_
 503-0	BOI043	503	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1555.274	0x1	_	_	_
 503-1	BOI043	503	1	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 503-2	BOI043	503	2	siamo:	siamo	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_

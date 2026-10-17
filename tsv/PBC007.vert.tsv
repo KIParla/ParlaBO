@@ -93,7 +93,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 15-7	BOI019	15	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 15-8	BOI019	15	8	e:ra	era	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 15-9	BOI019	15	9	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-15-10	BOI019	15	10	esemp[io]	esempio	_	_	_	_	_	linguistic	_	_	_	End=42.971	_	_	_	4-7(4)
+15-10	BOI019	15	10	esemp[io]	esempio	_	_	_	_	_	linguistic	_	_	_	End=42.971	_	_	_	5-7(4)
 16-0	BOR005	16	0	[ah]:	ah	_	_	_	_	_	linguistic	_	_	_	Begin=42.78|End=43.321	1x1	_	_	0-2(4)
 17-0	BOI019	17	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=43.87	_	_	_	_
 17-1	BOI019	17	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
