@@ -691,16 +691,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 75-5	BOI101	75	5	corriera	corriera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-6	BOI101	75	6	arrivavi,	arrivavi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 75-7	BOI101	75	7	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-75-8	BOI101	75	8	auto[stazio]ne	autostazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-10(20)
+75-8	BOI101	75	8	auto[stazio]ne	autostazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-10(20)
 75-9	BOI101	75	9	attraversavo	attraversavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-10	BOI101	75	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-11	BOI101	75	11	ponte	ponte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-12	BOI101	75	12	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-13	BOI101	75	13	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-75-14	BOI101	75	14	avevo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(21)
+75-14	BOI101	75	14	avevo	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 75-15	BOI101	75	15	[la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(21)
 75-16	BOI101	75	16	scuola	scuola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(21)
-75-17	BOI101	75	17	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=235.58	_	_	_	0-1(21)
+75-17	BOI101	75	17	lì]	lì	_	_	_	_	_	linguistic	_	_	_	End=235.58	_	_	_	0-2(21)
 76-0	BOR036	76	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=232.444|End=232.757	_	_	_	0-4(20)
 77-0	BOR036	77	0	[ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=234.683	_	_	_	0-2(21)
 77-1	BOR036	77	1	sai	sai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(21)
@@ -1577,8 +1577,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 191-16	BOI101	191	16	ansia	ansia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 191-17	BOI101	191	17	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 191-18	BOI101	191	18	gara,	gara	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-191-19	BOI101	191	19	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
-191-20	BOI101	191	20	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	_	End=514.424	_	_	0-1(0)	_
+191-19	BOI101	191	19	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+191-20	BOI101	191	20	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	End=514.424	_	_	_	_
 192-0	BOI101	192	0	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	_	_	Begin=515.207	_	_	_	_
 192-1	BOI101	192	1	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 192-2	BOI101	192	2	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2364,7 +2364,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 280-7	BOI101	280	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 280-8	BOI101	280	8	avrei	avrei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 280-9	BOI101	280	9	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-280-10	BOI101	280	10	fat[to].	fatto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=784.866	_	_	_	1-4(55)
+280-10	BOI101	280	10	fat[to].	fatto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=784.866	_	_	_	3-5(55)
 281-0	BOR036	281	0	[mh]mh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=784.725|End=785.05	_	_	_	0-2(55)
 282-0	BOR036	282	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=785.334	_	_	_	_
 282-1	BOR036	282	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2577,7 +2577,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 311-4	BOR036	311	4	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 311-5	BOR036	311	5	brasiliana	brasiliana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 311-6	BOR036	311	6	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
-311-7	BOR036	311	7	anch[e],	anche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=860.347	_	_	_	3-5(63)
+311-7	BOR036	311	7	anch[e],	anche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=860.347	_	_	_	4-5(63)
 312-0	BOI101	312	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=860.118	_	_	_	0-2(63)
 312-1	BOI101	312	1	rebecca	rebecca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 312-2	BOI101	312	2	andra[de].	andrade	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=861.515	_	_	_	5-7(64)
@@ -3335,7 +3335,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 436-12	BOI101	436	12	poco	poco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 436-13	BOI101	436	13	traffico	traffico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 436-14	BOI101	436	14	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-436-15	BOI101	436	15	gener[ale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(98)
+436-15	BOI101	436	15	gener[ale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(98)
 436-16	BOI101	436	16	per]ché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(98)
 436-17	BOI101	436	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 436-18	BOI101	436	18	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4937,7 +4937,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 684-11	BOI101	684	11	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 684-12	BOI101	684	12	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 684-13	BOI101	684	13	età	età	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-684-14	BOI101	684	14	universi[taria:]	universitaria	_	_	_	_	_	linguistic	_	_	_	_	12x1	_	_	6-13(?)
+684-14	BOI101	684	14	universi[taria:]	universitaria	_	_	_	_	_	linguistic	_	_	_	_	12x1	_	_	8-13(?)
 684-15	BOI101	684	15	[>°anche	anche	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	Fast=0-5(0)	_	0-5(?)
 684-16	BOI101	684	16	perché:°<]	perché	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1656.808	5x1	Fast=0-6(0)	_	0-6(?)
 685-0	BOR036	685	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1655.859	_	_	_	0-2(?)
@@ -5908,7 +5908,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 846-4	BOI101	846	4	accademia	accademia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 846-5	BOI101	846	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 846-6	BOI101	846	6	iper	iper	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-846-7	BOI101	846	7	eteroge[nea],	eterogenea	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1993.185	_	_	_	6-10(199)
+846-7	BOI101	846	7	eteroge[nea],	eterogenea	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1993.185	_	_	_	7-10(199)
 847-0	BOR036	847	0	[°mhmh°]	mhmh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1992.891|End=1993.188	_	_	_	0-4(199)
 848-0	BOI101	848	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1993.214	_	_	_	_
 848-1	BOI101	848	1	>magari	magari	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
@@ -6172,7 +6172,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 891-4	??	891	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	_
 891-5	??	891	5	entra	entra	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 891-6	??	891	6	un	un	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-891-7	??	891	7	caz[zo]°	cazzo	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2074.643	_	_	_	2-5(213)
+891-7	??	891	7	caz[zo]°	cazzo	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2074.643	_	_	_	3-5(213)
 892-0	BOI101	892	0	[e]h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2074.565|End=2074.82	_	_	_	0-1(213)
 893-0	BOR036	893	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2075.851|End=2076.085	_	_	_	_
 894-0	??	894	0	ma:::	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2076.085|End=2077.11	1x3	_	_	_
@@ -6221,7 +6221,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 900-5	BOI101	900	5	quattro	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 900-6	BOI101	900	6	materassi,	materassi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 900-7	BOI101	900	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-900-8	BOI101	900	8	ba[sta]	basta	_	_	_	_	_	linguistic	_	_	_	End=2087.655	_	_	_	1-5(217)
+900-8	BOI101	900	8	ba[sta]	basta	_	_	_	_	_	linguistic	_	_	_	End=2087.655	_	_	_	2-5(217)
 901-0	??	901	0	>[li	li	_	_	_	_	_	linguistic	_	_	_	Begin=2087.349	_	Fast=0-2(0)	_	0-2(217)
 901-1	??	901	1	utili]zzati<	utilizzati	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	0-5(217)
 901-2	??	901	2	nei	nei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6320,7 +6320,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 911-20	BOI101	911	20	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 911-21	BOI101	911	21	acquistare	acquistare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 911-22	BOI101	911	22	[qualcos'	qualcos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-8(222)
-911-23	BOI101	911	23	altro],	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(222)
+911-23	BOI101	911	23	altro],	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-5(222)
 911-24	BOI101	911	24	((_ride))	((_ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2113.768	_	_	_	_
 912-0	BOR036	912	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2108.488|End=2108.785	_	_	_	0-2(220)
 913-0	??	913	0	[°x	x	_	_	_	_	_	unknown	_	_	Volume=Low|Syllables=1	Begin=2111.594	_	_	_	0-1(221)

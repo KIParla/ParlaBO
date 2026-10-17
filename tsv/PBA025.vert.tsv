@@ -610,8 +610,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-6	BOR034	107	6	interrogazione	interrogazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 107-7	BOR034	107	7	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 107-8	BOR034	107	8	sesta	sesta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-107-9	BOR034	107	9	o:[ra	ora	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-3(22)
-107-10	BOR034	107	10	x]	x	_	_	_	_	_	unknown	_	_	Syllables=1	End=277.344	_	_	_	_
+107-9	BOR034	107	9	o:[ra	ora	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	1-3(22)
+107-10	BOR034	107	10	x]	x	_	_	_	_	_	unknown	_	_	Syllables=1	End=277.344	_	_	_	0-1(22)
 108-0	BOI096	108	0	[tu	tu	_	_	_	_	_	linguistic	_	_	_	Begin=276.824	_	_	_	0-2(22)
 108-1	BOI096	108	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(22)
 108-2	BOI096	108	2	vai	vai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(22)
@@ -1140,7 +1140,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 180-10	BOI096	180	10	uva	uva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 180-11	BOI096	180	11	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 180-12	BOI096	180	12	porta	porta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-180-13	BOI096	180	13	fo[rtuna]	fortuna	_	_	_	_	_	linguistic	_	_	_	End=482.832	_	_	_	1-7(34)
+180-13	BOI096	180	13	fo[rtuna]	fortuna	_	_	_	_	_	linguistic	_	_	_	End=482.832	_	_	_	2-7(34)
 181-0	BOR034	181	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=482.395	_	_	_	0-3(34)
 181-1	BOR034	181	1	e:]	e	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	0-1(34)
 181-2	BOR034	181	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1441,7 +1441,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 236-6	BOR034	236	6	°non	non	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 236-7	BOR034	236	7	>era	era	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	Fast=0-3(0)	_	_
 236-8	BOR034	236	8	di	di	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	Fast=0-2(0)	_	_
-236-9	BOR034	236	9	bolo[gna°<]	bologna	_	_	_	_	_	linguistic	_	_	Volume=Low	End=606.73	_	Fast=0-7(0)	_	3-7(?)
+236-9	BOR034	236	9	bolo[gna°<]	bologna	_	_	_	_	_	linguistic	_	_	Volume=Low	End=606.73	_	Fast=0-7(0)	_	4-7(?)
 237-0	BOI096	237	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=606.437	_	_	_	0-3(45)
 237-1	BOI096	237	1	c]redo	credo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(45)
 237-2	BOI096	237	2	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

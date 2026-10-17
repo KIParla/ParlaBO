@@ -1001,7 +1001,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 176-4	BOR021	176	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 176-5	BOR021	176	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 176-6	BOR021	176	6	avete	avete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-176-7	BOR021	176	7	vissuta	vissuta	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+176-7	BOR021	176	7	vissuta	vissuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 176-8	BOR021	176	8	°insomma	insomma	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
 176-9	BOR021	176	9	da:°	da	_	_	_	_	_	linguistic	_	_	Volume=Low	_	1x1	_	_	_
 176-10	BOR021	176	10	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1543,7 +1543,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 261-12	BOI070	261	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 261-13	BOI070	261	13	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 261-14	BOI070	261	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
-261-15	BOI070	261	15	università<	università	_	_	_	_	_	linguistic	_	_	_	End=531.389	_	Fast=0-9(0)	_	_
+261-15	BOI070	261	15	università<	università	_	_	_	_	_	linguistic	_	_	_	End=531.389	_	Fast=0-10(0)	_	_
 262-0	BOI070	262	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=532.035	_	_	_	_
 262-1	BOI070	262	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 262-2	BOI070	262	2	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2157,8 +2157,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 361-8	BOI071	361	8	lungo:::	lungo	_	_	_	_	_	linguistic	_	_	_	_	4x3	_	_	_
 361-9	BOI071	361	9	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 361-10	BOI071	361	10	italia	italia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-361-11	BOI071	361	11	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(81)
-361-12	BOI071	361	12	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=722.66	_	_	_	0-1(81)
+361-11	BOI071	361	11	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+361-12	BOI071	361	12	[xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=722.66	_	_	_	0-2(81)
 362-0	BOR021	362	0	[forse	forse	_	_	_	_	_	linguistic	_	_	_	Begin=722.406	_	_	_	0-5(81)
 362-1	BOR021	362	1	s]ì	sì	_	_	_	_	_	linguistic	_	_	_	End=722.83	_	_	_	0-1(81)
 363-0	BOR021	363	0	[forse	forse	_	_	_	_	_	linguistic	_	_	_	Begin=723.305	_	_	_	0-5(82)
@@ -2382,7 +2382,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 405-16	BOI070	405	16	porto	porto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 405-17	BOI070	405	17	sui	sui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 405-18	BOI070	405	18	colli	colli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-405-19	BOI070	405	19	bologne[si]	bolognesi	_	_	_	_	_	linguistic	_	_	_	End=783.906	_	_	_	6-9(89)
+405-19	BOI070	405	19	bologne[si]	bolognesi	_	_	_	_	_	linguistic	_	_	_	End=783.906	_	_	_	7-9(89)
 406-0	BOR021	406	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=783.86	_	_	_	0-2(89)
 406-1	BOR021	406	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 406-2	BOR021	406	2	vecchia	vecchia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2591,7 +2591,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 436-12	BOI070	436	12	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 436-13	BOI070	436	13	>anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 436-14	BOI070	436	14	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-436-15	BOI070	436	15	università<	università	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
+436-15	BOI070	436	15	università<	università	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
 436-16	BOI070	436	16	non:	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
 436-17	BOI070	436	17	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 436-18	BOI070	436	18	abituati	abituati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3050,8 +3050,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 518-2	BOI071	518	2	ANCH'	anch'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=High	_	_	_	_	_
 518-3	BOI071	518	3	IO	io	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
 518-4	BOI071	518	4	NE	ne	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
-518-5	BOI071	518	5	FACCIO	faccio	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	5-6(119)
-518-6	BOI071	518	6	[PARTE]	parte	_	_	_	_	_	linguistic	_	_	Volume=High	End=977.198	_	_	_	0-4(119)
+518-5	BOI071	518	5	FACCIO	faccio	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
+518-6	BOI071	518	6	[PARTE]	parte	_	_	_	_	_	linguistic	_	_	Volume=High	End=977.198	_	_	_	0-5(119)
 519-0	BOR021	519	0	[EH	eh	_	_	_	_	_	linguistic	_	_	Volume=High	Begin=976.911	_	_	_	0-2(119)
 519-1	BOR021	519	1	INFA]TTI	infatti	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	0-4(119)
 519-2	BOR021	519	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=977.548	_	_	_	_
@@ -3268,7 +3268,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 563-2	BOR021	563	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 563-3	BOR021	563	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 563-4	BOR021	563	4	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-563-5	BOR021	563	5	ge:nt[e::],	gente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1062.575	1x1,4x2	_	_	3-5(124)
+563-5	BOR021	563	5	ge:nt[e::],	gente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1062.575	1x1,4x2	_	_	4-5(124)
 564-0	BOI071	564	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1062.176	_	_	_	0-1(124)
 564-1	BOI071	564	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(124)
 564-2	BOI071	564	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(124)
@@ -5719,7 +5719,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 959-2	BOR021	959	2	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(225)
 959-3	BOR021	959	3	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(225)
 959-4	BOR021	959	4	obie]ttivo	obiettivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(225)
-959-5	BOR021	959	5	spe[sso]	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(226)
+959-5	BOR021	959	5	spe[sso]	spesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(226)
 959-6	BOR021	959	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1763.592	_	_	_	_
 960-0	BOI070	960	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1763.337	_	_	_	0-1(226)
 960-1	BOI070	960	1	dis]truzione	distruzione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(226)
@@ -5788,7 +5788,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 967-7	BOI071	967	7	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 967-8	BOI071	967	8	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 967-9	BOI071	967	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-967-10	BOI071	967	10	conosce[vo	conoscevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-9(228)
+967-10	BOI071	967	10	conosce[vo	conoscevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-9(228)
 967-11	BOI071	967	11	xx]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=1779.035	_	_	_	0-2(228)
 968-0	BOR021	968	0	[te	te	_	_	_	_	_	linguistic	_	_	_	Begin=1778.636	_	_	_	0-2(228)
 968-1	BOR021	968	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(228)
@@ -6001,7 +6001,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1004-3	BOI070	1004	3	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1004-4	BOI070	1004	4	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
 1004-5	BOI070	1004	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1004-6	BOI070	1004	6	agitazione	agitazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(244)
+1004-6	BOI070	1004	6	agitazione	agitazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1004-7	BOI070	1004	7	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(244)
 1004-8	BOI070	1004	8	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(244)
 1004-9	BOI070	1004	9	PRO:VI	provi	_	_	_	_	_	linguistic	_	_	Volume=High	_	2x1	_	_	0-5(244)
@@ -6009,7 +6009,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1004-11	BOI070	1004	11	FARE	fare	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	0-4(244)
 1004-12	BOI070	1004	12	QUES~	ques~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes|Volume=High	_	_	_	_	0-5(244)
 1004-13	BOI070	1004	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(244)
-1004-14	BOI070	1004	14	esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	End=1837.094	_	_	_	0-5(244)
+1004-14	BOI070	1004	14	esatto]	esatto	_	_	_	_	_	linguistic	_	_	_	End=1837.094	_	_	_	0-6(244)
 1005-0	BOR021	1005	0	[anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=1834.957	_	_	_	0-5(244)
 1005-1	BOR021	1005	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(244)
 1005-2	BOR021	1005	2	laurea	laurea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(244)
@@ -6568,7 +6568,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1086-15	BOI070	1086	15	fai	fai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1086-16	BOI070	1086	16	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1086-17	BOI070	1086	17	cazzo	cazzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1086-18	BOI070	1086	18	qui[ndi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1998.359	_	_	_	2-6(24)
+1086-18	BOI070	1086	18	qui[ndi]	quindi	_	_	_	_	_	linguistic	_	_	_	End=1998.359	_	_	_	3-6(24)
 1087-0	BOR021	1087	0	[BEH]	beh	_	_	_	_	_	linguistic	_	_	Volume=High	Begin=1998.118	_	_	_	0-3(24)
 1087-1	BOR021	1087	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1087-2	BOR021	1087	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -1070,7 +1070,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 168-13	BOI082	168	13	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 168-14	BOI082	168	14	giro,	giro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=421.091	_	_	_	_
 169-0	BOI082	169	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=421.546	_	_	_	_
-169-1	BOI082	169	1	>avevo<	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=4-5(0)|Fast=0-5(0)	_	_
+169-1	BOI082	169	1	>avevo<	avevo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 169-2	BOI082	169	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
 169-3	BOI082	169	3	flash,	flash	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Slow=0-5(0)	_	_
 169-4	BOI082	169	4	(ti)po	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	0-2(0)	_
@@ -2924,7 +2924,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 479-2	BOI082	479	2	altro<,	altro	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	Fast=0-5(0)	_	_
 479-3	BOI082	479	3	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 479-4	BOI082	479	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-479-5	BOI082	479	5	andat(o)	andato	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-6(0)	_
+479-5	BOI082	479	5	andat(o)	andato	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-6(0)	_
 479-6	BOI082	479	6	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 479-7	BOI082	479	7	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 479-8	BOI082	479	8	sua	sua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4028,7 +4028,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 661-2	BOI082	661	2	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 661-3	BOI082	661	3	stra~	stra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 661-4	BOI082	661	4	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-661-5	BOI082	661	5	s[ens]o	senso	_	_	_	_	_	linguistic	_	_	_	End=1566.489	_	_	_	0-4(37)
+661-5	BOI082	661	5	s[ens]o	senso	_	_	_	_	_	linguistic	_	_	_	End=1566.489	_	_	_	1-4(37)
 662-0	BOR022	662	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1566.123|End=1566.33	_	_	_	0-2(37)
 663-0	BOI082	663	0	qualsiasi	qualsiasi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1566.654	_	_	_	_
 663-1	BOI082	663	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

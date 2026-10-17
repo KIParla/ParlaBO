@@ -172,7 +172,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 33-1	BOI063	33	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 33-2	BOI063	33	2	sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 33-3	BOI063	33	3	aspetto	aspetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-33-4	BOI063	33	4	d(el)la	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-3(0)	_
+33-4	BOI063	33	4	d(el)la	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	_
 33-5	BOI063	33	5	tranquillità	tranquillità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-6	BOI063	33	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 33-7	BOI063	33	7	provincia	provincia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2701,7 +2701,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 330-12	BOI063	330	12	lunga	lunga	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 330-13	BOI063	330	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 330-14	BOI063	330	14	può:	può	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
-330-15	BOI063	330	15	causar(e)	causare	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-7(0)	_
+330-15	BOI063	330	15	causar(e)	causare	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-7(0)	_
 330-16	BOI063	330	16	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 330-17	BOI063	330	17	tumori	tumori	_	_	_	_	_	linguistic	_	_	_	End=1124.352	_	_	_	_
 331-0	BOI063	331	0	o	o	_	_	_	_	_	linguistic	_	_	_	Begin=1124.786	_	_	_	_
@@ -3062,7 +3062,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 370-5	BOI063	370	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 370-6	BOI063	370	6	stazione	stazione	_	_	_	_	_	linguistic	_	_	_	End=1271.485	_	_	_	_
 371-0	BOI063	371	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1271.544	_	_	_	_
-371-1	BOI063	371	1	eran(o)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-5(0)	_
+371-1	BOI063	371	1	eran(o)	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-5(0)	_
 371-2	BOI063	371	2	tre	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 371-3	BOI063	371	3	stazioni	stazioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 371-4	BOI063	371	4	diverse	diverse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4436,7 +4436,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 534-1	BOI063	534	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(6)
 534-2	BOI063	534	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(6)
 534-3	BOI063	534	3	u]nica	unica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(6)
-534-4	BOI063	534	4	manifes(ta)zione	manifestazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-9(0)	_
+534-4	BOI063	534	4	manifes(ta)zione	manifestazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	7-9(0)	_
 534-5	BOI063	534	5	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-6	BOI063	534	6	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 534-7	BOI063	534	7	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4797,7 +4797,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 570-18	BOI063	570	18	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 570-19	BOI063	570	19	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 570-20	BOI063	570	20	programma	programma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-570-21	BOI063	570	21	sinceramen[te]	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=1975.769	_	_	_	9-12(15)
+570-21	BOI063	570	21	sinceramen[te]	sinceramente	_	_	_	_	_	linguistic	_	_	_	End=1975.769	_	_	_	10-12(15)
 571-0	BOR019	571	0	[o]kay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1975.692	_	_	_	0-1(15)
 571-1	BOR019	571	1	okay	okay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 571-2	BOR019	571	2	va	va	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

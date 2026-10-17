@@ -1830,7 +1830,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 180-2	BOI047	180	2	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 180-3	BOI047	180	3	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 180-4	BOI047	180	4	avevi	avevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-180-5	BOI047	180	5	det[to	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(33)
+180-5	BOI047	180	5	det[to	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(33)
 180-6	BOI047	180	6	se]ttantasette	settantasette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(33)
 180-7	BOI047	180	7	>no	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 180-8	BOI047	180	8	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
@@ -2309,7 +2309,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 225-33	BOI047	225	33	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 225-34	BOI047	225	34	centro	centro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 225-35	BOI047	225	35	nord	nord	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-225-36	BOI047	225	36	in[somma	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(40)
+225-36	BOI047	225	36	in[somma	insomma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(40)
 225-37	BOI047	225	37	(ecco)]	ecco	_	_	_	_	_	linguistic	_	_	_	End=1076.48	_	_	0-4(0)	0-4(40)
 226-0	BOR006	226	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1076.129|End=1076.499	_	_	_	0-4(40)
 227-0	BOI047	227	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1077.11	_	_	_	_
@@ -3105,7 +3105,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 288-5	BOI048	288	5	programmati	programmati	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 288-6	BOI048	288	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 288-7	BOI048	288	7	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-288-8	BOI048	288	8	amministrazio(ne)	amministrazione	_	_	_	_	_	linguistic	_	_	_	End=1418.419	_	_	12-15(0)	_
+288-8	BOI048	288	8	amministrazio(ne)	amministrazione	_	_	_	_	_	linguistic	_	_	_	End=1418.419	_	_	13-15(0)	_
 289-0	BOI048	289	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=1419.345	_	_	_	_
 289-1	BOI048	289	1	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-2	BOI048	289	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3370,7 +3370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 309-5	BOR006	309	5	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes|PauseAfter=Yes	_	_	_	_	_
 309-6	BOR006	309	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 309-7	BOR006	309	7	m:h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
-309-8	BOR006	309	8	ess[endo]	essendo	_	_	_	_	_	linguistic	_	_	_	End=1530.577	_	_	_	2-7(48)
+309-8	BOR006	309	8	ess[endo]	essendo	_	_	_	_	_	linguistic	_	_	_	End=1530.577	_	_	_	3-7(48)
 310-0	BOI048	310	0	[questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=1530.035	_	_	_	0-6(48)
 310-1	BOI048	310	1	vale]	vale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(48)
 310-2	BOI048	310	2	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4585,7 +4585,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 410-17	BOI047	410	17	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 410-18	BOI047	410	18	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 410-19	BOI047	410	19	amministrazione	amministrazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-410-20	BOI047	410	20	comunal[e	comunale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(59)
+410-20	BOI047	410	20	comunal[e	comunale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-8(59)
 410-21	BOI047	410	21	qui]ndi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(59)
 410-22	BOI047	410	22	è	è	_	_	_	_	_	linguistic	_	_	_	End=2085.8	_	_	_	_
 411-0	BOR006	411	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2084.955|End=2085.181	_	_	_	0-2(59)
@@ -6080,7 +6080,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 535-13	BOI048	535	13	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 535-14	BOI048	535	14	vien	vien	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 535-15	BOI048	535	15	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-535-16	BOI048	535	16	di[re]	dire	_	_	_	_	_	linguistic	_	_	_	End=2694.676	_	_	_	1-4(6)
+535-16	BOI048	535	16	di[re]	dire	_	_	_	_	_	linguistic	_	_	_	End=2694.676	_	_	_	2-4(6)
 536-0	BOR006	536	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2694.521|End=2694.665	_	_	_	0-2(6)
 537-0	BOI048	537	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2695.32	_	_	_	_
 537-1	BOI048	537	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

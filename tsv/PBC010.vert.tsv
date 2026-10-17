@@ -194,8 +194,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 13-14	BOI029	13	14	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 13-15	BOI029	13	15	performance	performance	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 13-16	BOI029	13	16	neanche	neanche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-13-17	BOI029	13	17	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(0)
-13-18	BOI029	13	18	[spetta]colo	spettacolo	_	_	_	_	_	linguistic	_	_	_	End=80.56	_	_	_	0-5(0)
+13-17	BOI029	13	17	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+13-18	BOI029	13	18	[spetta]colo	spettacolo	_	_	_	_	_	linguistic	_	_	_	End=80.56	_	_	_	0-6(0)
 14-0	BOR001	14	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=79.97|End=80.39	_	_	_	0-4(0)
 15-0	BOI029	15	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=80.6	_	_	_	_
 15-1	BOI029	15	1	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -239,10 +239,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 17-10	BOR001	17	10	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 17-11	BOR001	17	11	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 17-12	BOR001	17	12	avete	avete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-17-13	BOR001	17	13	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=6-7(0)|Fast=0-7(0)	_	_
+17-13	BOR001	17	13	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	_
 17-14	BOR001	17	14	cambiato:	cambiato	_	_	_	_	_	linguistic	_	_	_	_	7x1	Slow=0-8(0)	_	_
 17-15	BOR001	17	15	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
-17-16	BOR001	17	16	approccio	approccio	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)|Fast=8-9(1)	_	_
+17-16	BOR001	17	16	approccio	approccio	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)	_	_
 17-17	BOR001	17	17	>°diciamo°<	diciamo	_	_	_	_	_	linguistic	_	_	Volume=Low	End=97.68	_	Fast=0-7(1)	_	_
 18-0	BOR001	18	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	Begin=97.81	_	_	_	_
 18-1	BOR001	18	1	e:h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
@@ -651,10 +651,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 55-3	BOI029	55	3	scorso	scorso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-4	BOI029	55	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 55-5	BOI029	55	5	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-55-6	BOI029	55	6	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=4-5(0)	_	_
+55-6	BOI029	55	6	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-7	BOI029	55	7	<con	con	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 55-8	BOI029	55	8	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
-55-9	BOI029	55	9	classi>	classi	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
+55-9	BOI029	55	9	classi>	classi	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 55-10	BOI029	55	10	terze	terze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-11	BOI029	55	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-12	BOI029	55	12	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1306,7 +1306,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 112-15	BOI029	112	15	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 112-16	BOI029	112	16	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-6(0)	_	_
 112-17	BOI029	112	17	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
-112-18	BOI029	112	18	tornava<	tornava	_	_	_	_	_	linguistic	_	_	_	End=519.808	_	Fast=0-4(0)	_	_
+112-18	BOI029	112	18	tornava<	tornava	_	_	_	_	_	linguistic	_	_	_	End=519.808	_	Fast=0-7(0)	_	_
 113-0	BOR001	113	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=517.169	_	_	_	0-2(23)
 113-1	BOR001	113	1	(no)]	no	_	_	_	_	_	linguistic	_	_	_	End=517.85	_	_	0-2(0)	0-2(23)
 114-0	BOI029	114	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=520.179	_	_	_	_
@@ -4842,9 +4842,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 470-4	BOI029	470	4	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 470-5	BOI029	470	5	santo	santo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 470-6	BOI029	470	6	eccetera	eccetera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-470-7	BOI029	470	7	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=5-6(0)	_	_
+470-7	BOI029	470	7	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 470-8	BOI029	470	8	>ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-470-9	BOI029	470	9	detto<	detto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
+470-9	BOI029	470	9	detto<	detto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 470-10	BOI029	470	10	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 470-11	BOI029	470	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 470-12	BOI029	470	12	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -5824,7 +5824,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 583-19	BOI029	583	19	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 583-20	BOI029	583	20	compito	compito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 583-21	BOI029	583	21	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-583-22	BOI029	583	22	coor[dinamento]	coordinamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-13(113)
+583-22	BOI029	583	22	coor[dinamento]	coordinamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-13(113)
 583-23	BOI029	583	23	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	End=2294.899	_	_	_	_
 584-0	BOR001	584	0	[°oka:y°]	okay	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2293.92|End=2294.55	2x1	_	_	0-4(113)
 585-0	BOR001	585	0	°ok[ay°]	okay	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2295.0|End=2295.311	_	_	_	2-4(114)
@@ -6396,7 +6396,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 647-12	BOR001	647	12	>questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 647-13	BOR001	647	13	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 647-14	BOR001	647	14	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-6(0)	_	_
-647-15	BOR001	647	15	altro<	altro	_	_	_	_	_	linguistic	_	_	_	End=2508.075	_	Fast=0-4(0)	_	_
+647-15	BOR001	647	15	altro<	altro	_	_	_	_	_	linguistic	_	_	_	End=2508.075	_	Fast=0-5(0)	_	_
 648-0	BOR001	648	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2508.33	_	_	_	_
 648-1	BOR001	648	1	tu	tu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-2	BOR001	648	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6461,7 +6461,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 653-9	BOR001	653	9	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 653-10	BOR001	653	10	vai	vai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 653-11	BOR001	653	11	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-653-12	BOR001	653	12	universi[tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-10(133)
+653-12	BOR001	653	12	universi[tà	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-10(133)
 653-13	BOR001	653	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(133)
 653-14	BOR001	653	14	vedi	vedi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(133)
 653-15	BOR001	653	15	che:]	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(133)

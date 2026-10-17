@@ -369,7 +369,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 57-8	BOR018	57	8	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 57-9	BOR018	57	9	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 57-10	BOR018	57	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-57-11	BOR018	57	11	sem[brata]	sembrata	_	_	_	_	_	linguistic	_	_	_	End=128.538	_	_	_	2-8(17)
+57-11	BOR018	57	11	sem[brata]	sembrata	_	_	_	_	_	linguistic	_	_	_	End=128.538	_	_	_	3-8(17)
 58-0	BOI073	58	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=128.19	_	_	_	0-2(17)
 58-1	BOI073	58	1	eh]	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(17)
 58-2	BOI073	58	2	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1639,11 +1639,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 235-24	BOR018	235	24	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 235-25	BOR018	235	25	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 235-26	BOR018	235	26	potremmo	potremmo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-235-27	BOR018	235	27	girar[e:	girare	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	3-6(76)
+235-27	BOR018	235	27	girar[e:	girare	_	_	_	_	_	linguistic	_	_	_	_	5x1	_	_	5-6(76)
 235-28	BOR018	235	28	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(76)
 235-29	BOR018	235	29	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(76)
 235-30	BOR018	235	30	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(76)
-235-31	BOR018	235	31	più]	più	_	_	_	_	_	linguistic	_	_	_	End=572.93	_	_	_	0-2(76)
+235-31	BOR018	235	31	più]	più	_	_	_	_	_	linguistic	_	_	_	End=572.93	_	_	_	0-3(76)
 236-0	BOI073	236	0	[e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=572.1	0x1	_	_	0-2(76)
 236-1	BOI073	236	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(76)
 236-2	BOI073	236	2	me]:	me	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(76)
@@ -2438,12 +2438,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 362-7	BOI073	362	7	teoria	teoria	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 362-8	BOI073	362	8	secondo	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	_
 362-9	BOI073	362	9	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
-362-10	BOI073	362	10	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=3-4(1)|Fast=0-4(1)	_	_
+362-10	BOI073	362	10	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(1)	_	_
 362-11	BOI073	362	11	certe	certe	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(1)	_	_
 362-12	BOI073	362	12	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(1)	_	_
 362-13	BOI073	362	13	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(1)	_	_
-362-14	BOI073	362	14	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(1)|Fast=4-5(2)	_	_
-362-15	BOI073	362	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(2)	_	_
+362-14	BOI073	362	14	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(1)	_	_
+362-15	BOI073	362	15	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(2)	_	_
 362-16	BOI073	362	16	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 362-17	BOI073	362	17	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 362-18	BOI073	362	18	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5345,7 +5345,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 836-8	BOI072	836	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 836-9	BOI072	836	9	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 836-10	BOI072	836	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-836-11	BOI072	836	11	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	End=1800.8	_	_	_	0-3(209)
+836-11	BOI072	836	11	co[sì]	così	_	_	_	_	_	linguistic	_	_	_	End=1800.8	_	_	_	2-4(209)
 837-0	BOR018	837	0	[ve]ro	vero	_	_	_	_	_	linguistic	_	_	_	Begin=1800.64	_	_	_	0-2(209)
 837-1	BOR018	837	1	vero	vero	_	_	_	_	_	linguistic	_	_	_	End=1801.36	_	_	_	_
 838-0	BOR018	838	0	e:hm:	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=1802.53|End=1803.88	0x1,2x1	_	_	_

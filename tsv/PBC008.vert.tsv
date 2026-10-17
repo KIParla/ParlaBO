@@ -842,7 +842,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 136-6	BOI021	136	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
 136-7	BOI021	136	7	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 136-8	BOI021	136	8	passata	passata	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	_
-136-9	BOI021	136	9	qua>	qua	_	_	_	_	_	linguistic	_	_	_	End=371.77	_	Slow=0-2(0)	_	_
+136-9	BOI021	136	9	qua>	qua	_	_	_	_	_	linguistic	_	_	_	End=371.77	_	Slow=0-3(0)	_	_
 137-0	BOI021	137	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=371.94	_	_	_	_
 137-1	BOI021	137	1	ero	ero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 137-2	BOI021	137	2	già:	già	_	_	_	_	_	linguistic	_	_	_	End=372.68	2x1	_	_	_
@@ -1516,7 +1516,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 282-4	BOI021	282	4	<il	il	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
 282-5	BOI021	282	5	calendario	calendario	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-10(0)	_	_
 282-6	BOI021	282	6	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-5(0)	_	_
-282-7	BOI021	282	7	attesa>	attesa	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
+282-7	BOI021	282	7	attesa>	attesa	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 282-8	BOI021	282	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 282-9	BOI021	282	9	attesa	attesa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 282-10	BOI021	282	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3099,7 +3099,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 587-9	BOI021	587	9	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 587-10	BOI021	587	10	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 587-11	BOI021	587	11	i:	i	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
-587-12	BOI021	587	12	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	End=1421.125	_	Fast=0-3(0)	_	_
+587-12	BOI021	587	12	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	End=1421.125	_	Fast=0-4(0)	_	_
 588-0	BOR002	588	0	[mh:]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1417.57|End=1417.93	1x1	_	_	0-2(21)
 589-0	BOI021	589	0	gli	gli	_	_	_	_	_	linguistic	_	_	_	Begin=1421.724	_	_	_	_
 589-1	BOI021	589	1	ultimi	ultimi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3207,7 +3207,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 603-5	BOI021	603	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 603-6	BOI021	603	6	succede	succede	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 603-7	BOI021	603	7	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-603-8	BOI021	603	8	or(to)	orto	_	_	_	_	_	linguistic	_	_	_	End=1465.731	_	_	1-4(0)	_
+603-8	BOI021	603	8	or(to)	orto	_	_	_	_	_	linguistic	_	_	_	End=1465.731	_	_	2-4(0)	_
 604-0	BOI021	604	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1467.957	_	_	_	_
 604-1	BOI021	604	1	cui	cui	_	_	_	_	_	linguistic	_	_	_	End=1468.451	_	_	_	_
 605-0	BOI021	605	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1468.818|End=1469.167	0x1	_	_	_
@@ -4143,7 +4143,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 770-13	??	770	13	gente	gente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 770-14	??	770	14	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 770-15	??	770	15	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-770-16	??	770	16	riu[scita	riuscita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-8(63)
+770-16	??	770	16	riu[scita	riuscita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-8(63)
 770-17	??	770	17	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(63)
 770-18	??	770	18	con]cludere	concludere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(63)
 770-19	??	770	19	[secondo]	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(64)
@@ -7043,7 +7043,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1347-5	BOR005	1347	5	diventati	diventati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1347-6	BOR005	1347	6	patrimonio:	patrimonio	_	_	_	_	_	linguistic	_	_	_	_	9x1	_	_	_
 1347-7	BOR005	1347	7	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1347-8	BOR005	1347	8	un[esco],	unesco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3223.235	_	_	_	1-6(77)
+1347-8	BOR005	1347	8	un[esco],	unesco	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3223.235	_	_	_	2-6(77)
 1348-0	BOI021	1348	0	[certo]	certo	_	_	_	_	_	linguistic	_	_	_	Begin=3222.606|End=3223.19	_	_	_	0-5(77)
 1349-0	BOR005	1349	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=3224.342	_	_	_	_
 1349-1	BOR005	1349	1	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7359,7 +7359,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1409-3	??	1409	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1409-4	??	1409	4	è?	è	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
 1409-5	??	1409	5	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1409-6	??	1409	6	bar[ista]?	barista	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3355.644	_	_	_	2-7(92)
+1409-6	??	1409	6	bar[ista]?	barista	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3355.644	_	_	_	3-7(92)
 1410-0	BOI021	1410	0	[al	al	_	_	_	_	_	linguistic	_	_	_	Begin=3355.12	_	_	_	0-2(92)
 1410-1	BOI021	1410	1	bar]	bar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(92)
 1410-2	BOI021	1410	2	°sì	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_

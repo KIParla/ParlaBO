@@ -1193,13 +1193,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 204-6	BOI056	204	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 204-7	BOI056	204	7	autunno	autunno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 204-8	BOI056	204	8	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-204-9	BOI056	204	9	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=1-2(0)	_	_
+204-9	BOI056	204	9	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 204-10	BOI056	204	10	<molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
-204-11	BOI056	204	11	freddo>	freddo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)|Fast=4-6(0)	_	_
+204-11	BOI056	204	11	freddo>	freddo	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
 204-12	BOI056	204	12	ed	ed	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-204-13	BOI056	204	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(1)|Fast=0-1(0)	_	_
+204-13	BOI056	204	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 204-14	BOI056	204	14	<molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(1)	_	_
-204-15	BOI056	204	15	umido>	umido	_	_	_	_	_	linguistic	_	_	_	End=652.805	_	Slow=0-4(1)	_	_
+204-15	BOI056	204	15	umido>	umido	_	_	_	_	_	linguistic	_	_	_	End=652.805	_	Slow=0-5(1)	_	_
 205-0	BOI056	205	0	[e::]	e	_	_	_	_	_	linguistic	_	_	_	Begin=653.137|End=654.11	0x2	_	_	0-1(31)
 206-0	BOR015	206	0	[la	la	_	_	_	_	_	linguistic	_	_	_	Begin=653.137	_	_	_	0-2(31)
 206-1	BOR015	206	1	nebbia].	nebbia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=654.11	_	_	_	0-6(31)
@@ -1923,7 +1923,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 319-9	BOI056	319	9	e:	e	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 319-10	BOI056	319	10	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 319-11	BOI056	319	11	lavoro	lavoro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-319-12	BOI056	319	12	pratica[mente]	praticamente	_	_	_	_	_	linguistic	_	_	_	End=1042.54	_	_	_	6-12(47)
+319-12	BOI056	319	12	pratica[mente]	praticamente	_	_	_	_	_	linguistic	_	_	_	End=1042.54	_	_	_	7-12(47)
 320-0	BOR015	320	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1038.631|End=1039.355	_	_	_	_
 321-0	BOR015	321	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1041.239|End=1041.877	_	_	_	0-4(48)
 322-0	BOI056	322	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=1042.896	0x1	_	_	_
@@ -3216,7 +3216,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 505-2	BOR015	505	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 505-3	BOR015	505	3	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 505-4	BOR015	505	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-505-5	BOR015	505	5	impazziment[o:]	impazzimento	_	_	_	_	_	linguistic	_	_	_	End=1629.935	11x1	_	_	10-12(92)
+505-5	BOR015	505	5	impazziment[o:]	impazzimento	_	_	_	_	_	linguistic	_	_	_	End=1629.935	11x1	_	_	11-12(92)
 506-0	BOI056	506	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1629.515	_	_	_	0-2(92)
 506-1	BOI056	506	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 506-2	BOI056	506	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

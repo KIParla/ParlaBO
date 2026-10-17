@@ -69,7 +69,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 11-8	BOI032	11	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(2)
 11-9	BOI032	11	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(2)
 11-10	BOI032	11	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(2)
-11-11	BOI032	11	11	a]ffezione	affezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+11-11	BOI032	11	11	a]ffezione	affezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(2)
 11-12	BOI032	11	12	da:	da	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 11-13	BOI032	11	13	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 11-14	BOI032	11	14	ero	ero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -356,7 +356,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 45-11	BOI032	45	11	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-12	BOI032	45	12	avevamo	avevamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 45-13	BOI032	45	13	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-45-14	BOI032	45	14	a[cqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(10)
+45-14	BOI032	45	14	a[cqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(10)
 45-15	BOI032	45	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(10)
 45-16	BOI032	45	16	ca:]sa	casa	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	0-2(10)
 45-17	BOI032	45	17	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -393,7 +393,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 48-25	BOI032	48	25	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 48-26	BOI032	48	26	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 48-27	BOI032	48	27	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-48-28	BOI032	48	28	eccetera<	eccetera	_	_	_	_	_	linguistic	_	_	_	End=142.51	_	Fast=0-7(0)	_	_
+48-28	BOI032	48	28	eccetera<	eccetera	_	_	_	_	_	linguistic	_	_	_	End=142.51	_	Fast=0-8(0)	_	_
 49-0	BOI032	49	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=143.02	_	_	_	_
 49-1	BOI032	49	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 49-2	BOI032	49	2	ce	ce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1862,7 +1862,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 207-8	BOI032	207	8	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 207-9	BOI032	207	9	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 207-10	BOI032	207	10	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-207-11	BOI032	207	11	universi[tà]	università	_	_	_	_	_	linguistic	_	_	_	End=630.809	_	_	_	7-10(71)
+207-11	BOI032	207	11	universi[tà]	università	_	_	_	_	_	linguistic	_	_	_	End=630.809	_	_	_	8-10(71)
 208-0	BOR008	208	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=630.497|End=631.073	_	_	_	0-4(71)
 209-0	BOI032	209	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=631.152	_	_	_	_
 209-1	BOI032	209	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2299,7 +2299,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 257-4	BOI032	257	4	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 257-5	BOI032	257	5	freddo	freddo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 257-6	BOI032	257	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-257-7	BOI032	257	7	bolo[gna]	bologna	_	_	_	_	_	linguistic	_	_	_	End=782.362	_	_	_	3-7(98)
+257-7	BOI032	257	7	bolo[gna]	bologna	_	_	_	_	_	linguistic	_	_	_	End=782.362	_	_	_	4-7(98)
 258-0	BOR008	258	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=782.091|End=782.43	_	_	_	0-2(98)
 259-0	BOI032	259	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=783.031	_	_	_	_
 259-1	BOI032	259	1	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2901,8 +2901,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 329-15	BOI032	329	15	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 329-16	BOI032	329	16	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 329-17	BOI032	329	17	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-329-18	BOI032	329	18	camminava	camminava	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	8-9(0)	_
-329-19	BOI032	329	19	(sempre)<	sempre	_	_	_	_	_	linguistic	_	_	_	End=975.878	_	Fast=0-6(0)	0-5(0)	_
+329-18	BOI032	329	18	camminava	camminava	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-9(0)	_	_
+329-19	BOI032	329	19	(sempre)<	sempre	_	_	_	_	_	linguistic	_	_	_	End=975.878	_	Fast=0-6(0)	0-6(0)	_
 330-0	BOI032	330	0	avevamo	avevamo	_	_	_	_	_	linguistic	_	_	_	Begin=976.005	_	_	_	_
 330-1	BOI032	330	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 330-2	BOI032	330	2	sportina	sportina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3105,9 +3105,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 349-6	BOI032	349	6	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 349-7	BOI032	349	7	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 349-8	BOI032	349	8	chiama	chiama	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-349-9	BOI032	349	9	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-6(133)
+349-9	BOI032	349	9	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 349-10	BOI032	349	10	[non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(133)
-349-11	BOI032	349	11	so]	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(133)
+349-11	BOI032	349	11	so]	so	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(133)
 349-12	BOI032	349	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1034.808	_	_	_	_
 350-0	BOR008	350	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1033.794	_	_	_	0-2(134)
 350-1	BOR008	350	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(134)
@@ -3674,9 +3674,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 418-13	BOI032	418	13	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-14	BOI032	418	14	festa	festa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-15	BOI032	418	15	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-418-16	BOI032	418	16	unità	unità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(159)
+418-16	BOI032	418	16	unità	unità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-17	BOI032	418	17	[che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(159)
-418-18	BOI032	418	18	fossi]	fossi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(159)
+418-18	BOI032	418	18	fossi]	fossi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(159)
 418-19	BOI032	418	19	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-20	BOI032	418	20	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 418-21	BOI032	418	21	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4545,7 +4545,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 500-1	BOI032	500	1	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-2	BOI032	500	2	dato	dato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-3	BOI032	500	3	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-500-4	BOI032	500	4	possibili[tà]	possibilità	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	8-11(190)
+500-4	BOI032	500	4	possibili[tà]	possibilità	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	9-11(190)
 500-5	BOI032	500	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 500-6	BOI032	500	6	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 500-7	BOI032	500	7	cui	cui	_	_	_	_	_	linguistic	_	_	_	End=1544.738	_	_	_	_
@@ -4649,7 +4649,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 513-0	BOI032	513	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1580.723	_	_	_	_
 513-1	BOI032	513	1	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 513-2	BOI032	513	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-513-3	BOI032	513	3	<pescatori>	pescatori	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)|Fast=8-9(0)	_	_
+513-3	BOI032	513	3	<pescatori>	pescatori	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-9(0)	_	_
 513-4	BOI032	513	4	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
 513-5	BOI032	513	5	dietro	dietro	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 513-6	BOI032	513	6	avevamo:	avevamo	_	_	_	_	_	linguistic	_	_	_	_	6x1	Fast=0-7(0)	_	_
@@ -4938,7 +4938,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 544-21	BOI032	544	21	odore	odore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 544-22	BOI032	544	22	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 544-23	BOI032	544	23	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-544-24	BOI032	544	24	veniva(no)	venivano	_	_	_	_	_	linguistic	_	_	_	End=1676.087	_	_	4-7(0)	_
+544-24	BOI032	544	24	veniva(no)	venivano	_	_	_	_	_	linguistic	_	_	_	End=1676.087	_	_	6-8(0)	_
 545-0	BOI032	545	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=1676.397	_	_	_	_
 545-1	BOI032	545	1	es~	es~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 545-2	BOI032	545	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -5016,7 +5016,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 550-10	BOI032	550	10	altri	altri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 550-11	BOI032	550	11	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 550-12	BOI032	550	12	quel	quel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-550-13	BOI032	550	13	mome[nto]	momento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(205)
+550-13	BOI032	550	13	mome[nto]	momento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(205)
 550-14	BOI032	550	14	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 550-15	BOI032	550	15	cui	cui	_	_	_	_	_	linguistic	_	_	_	End=1700.125	_	_	_	_
 551-0	BOR008	551	0	[okay]	okay	_	_	_	_	_	linguistic	_	_	_	Begin=1695.326|End=1695.703	_	_	_	0-4(206)
@@ -7210,8 +7210,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 812-18	BOI032	812	18	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 812-19	BOI032	812	19	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 812-20	BOI032	812	20	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-812-21	BOI032	812	21	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(248)
-812-22	BOI032	812	22	[è]	è	_	_	_	_	_	linguistic	_	_	_	End=2490.641	_	_	_	_
+812-21	BOI032	812	21	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+812-22	BOI032	812	22	[è]	è	_	_	_	_	_	linguistic	_	_	_	End=2490.641	_	_	_	0-1(248)
 813-0	BOR008	813	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2490.579|End=2491.006	_	_	_	0-2(248)
 814-0	BOI032	814	0	noi	noi	_	_	_	_	_	linguistic	_	_	_	Begin=2491.303	_	_	_	_
 814-1	BOI032	814	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -9040,7 +9040,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1021-6	BOI032	1021	6	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1021-7	BOI032	1021	7	eroe	eroe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1021-8	BOI032	1021	8	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1021-9	BOI032	1021	9	virgo[lette]	virgolette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-10(266)
+1021-9	BOI032	1021	9	virgo[lette]	virgolette	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-10(266)
 1021-10	BOI032	1021	10	morto	morto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1021-11	BOI032	1021	11	giovane	giovane	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1021-12	BOI032	1021	12	°eccetera°	eccetera	_	_	_	_	_	linguistic	_	_	Volume=Low	End=3123.607	_	_	_	_
@@ -10001,7 +10001,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1119-8	BOI032	1119	8	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1119-9	BOI032	1119	9	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1119-10	BOI032	1119	10	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(21)
-1119-11	BOI032	1119	11	unico]	unico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(21)
+1119-11	BOI032	1119	11	unico]	unico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(21)
 1119-12	BOI032	1119	12	posto	posto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1119-13	BOI032	1119	13	dove	dove	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1119-14	BOI032	1119	14	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -10513,7 +10513,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1170-4	BOI032	1170	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
 1170-5	BOI032	1170	5	unità	unità	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-5(0)	_	_
 1170-6	BOI032	1170	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-2(0)	_	_
-1170-7	BOI032	1170	7	vuole>?	vuole	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3619.147	_	Slow=0-4(0)	_	_
+1170-7	BOI032	1170	7	vuole>?	vuole	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3619.147	_	Slow=0-5(0)	_	_
 1171-0	BOI032	1171	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3619.434	_	_	_	_
 1171-1	BOI032	1171	1	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1171-2	BOI032	1171	2	diceva	diceva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -11866,9 +11866,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1342-12	BOI032	1342	12	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-13	BOI032	1342	13	fonta:na	fontana	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
 1342-14	BOI032	1342	14	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1342-15	BOI032	1342	15	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-3(120)
+1342-15	BOI032	1342	15	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-16	BOI032	1342	16	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(120)
-1342-17	BOI032	1342	17	era]	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(120)
+1342-17	BOI032	1342	17	era]	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(120)
 1342-18	BOI032	1342	18	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-19	BOI032	1342	19	secchio	secchio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1342-20	BOI032	1342	20	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -11949,11 +11949,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1350-14	BOI032	1350	14	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1350-15	BOI032	1350	15	m:h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 1350-16	BOI032	1350	16	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1350-17	BOI032	1350	17	fari:na	farina	_	_	_	_	_	linguistic	_	_	_	_	3x1	Fast=5-6(0)	_	_
+1350-17	BOI032	1350	17	fari:na	farina	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 1350-18	BOI032	1350	18	>tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
 1350-19	BOI032	1350	19	quelle	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
 1350-20	BOI032	1350	20	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
-1350-21	BOI032	1350	21	lì<	lì	_	_	_	_	_	linguistic	_	_	_	End=4105.823	_	Fast=0-1(0)	_	_
+1350-21	BOI032	1350	21	lì<	lì	_	_	_	_	_	linguistic	_	_	_	End=4105.823	_	Fast=0-2(0)	_	_
 1351-0	BOI032	1351	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=4106.198	_	_	_	_
 1351-1	BOI032	1351	1	noi	noi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1351-2	BOI032	1351	2	chiamavamo	chiamavamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_

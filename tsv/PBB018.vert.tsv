@@ -3887,7 +3887,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 606-4	BOI052	606	4	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-5	BOI052	606	5	ferrara	ferrara	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 606-6	BOI052	606	6	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-606-7	BOI052	606	7	universit[à	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	8-10(91)
+606-7	BOI052	606	7	universit[à	università	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	9-10(91)
 606-8	BOI052	606	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(91)
 606-9	BOI052	606	9	ferra]ra	ferrara	_	_	_	_	_	linguistic	_	_	_	End=1543.31	_	_	_	0-5(91)
 607-0	BOR013	607	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1542.39|End=1542.84	_	_	_	0-2(91)
@@ -4134,7 +4134,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 645-2	BOI052	645	2	<l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
 645-3	BOI052	645	3	old	old	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-3(0)	_	_
 645-4	BOI052	645	4	bridge	bridge	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
-645-5	BOI052	645	5	pub>	pub	_	_	_	_	_	linguistic	_	_	_	End=1640.564	_	Slow=0-2(0)	_	_
+645-5	BOI052	645	5	pub>	pub	_	_	_	_	_	linguistic	_	_	_	End=1640.564	_	Slow=0-3(0)	_	_
 646-0	BOI052	646	0	[la	la	_	_	_	_	_	linguistic	_	_	_	Begin=1641.124	_	_	_	0-2(96)
 646-1	BOI052	646	1	<vi]ctoria	victoria	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-8(0)	_	0-2(96)
 646-2	BOI052	646	2	station>	station	_	_	_	_	_	linguistic	_	_	_	End=1642.674	_	Slow=0-7(0)	_	_
@@ -4151,7 +4151,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 648-9	BOI052	648	9	quasi	quasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-10	BOI052	648	10	e:hm	ehm	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
 648-11	BOI052	648	11	ingelse	ingelse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-648-12	BOI052	648	12	irlan[des]e	irlandese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(97)
+648-12	BOI052	648	12	irlan[des]e	irlandese	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	5-8(97)
 648-13	BOI052	648	13	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 648-14	BOI052	648	14	dove:	dove	_	_	_	_	_	linguistic	_	_	_	_	3x1	_	_	_
 648-15	BOI052	648	15	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1650.77	_	_	_	_
@@ -6226,7 +6226,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1011-10	BOI052	1011	10	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1011-11	BOI052	1011	11	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1011-12	BOI052	1011	12	parliamo	parliamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1011-13	BOI052	1011	13	pi[ù]	più	_	_	_	_	_	linguistic	_	_	_	End=2473.835	_	_	_	1-3(135)
+1011-13	BOI052	1011	13	pi[ù]	più	_	_	_	_	_	linguistic	_	_	_	End=2473.835	_	_	_	2-3(135)
 1012-0	BOR013	1012	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2473.525|End=2473.835	_	_	_	0-2(135)
 1013-0	BOI052	1013	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=2474.625	_	_	_	_
 1013-1	BOI052	1013	1	bisognerebbe:	bisognerebbe	_	_	_	_	_	linguistic	_	_	_	_	11x1	_	_	_
