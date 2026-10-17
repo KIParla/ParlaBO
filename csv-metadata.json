@@ -234,7 +234,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -367,7 +367,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -500,7 +500,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -633,7 +633,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -766,7 +766,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -899,7 +899,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1032,7 +1032,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1165,7 +1165,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1298,7 +1298,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1431,7 +1431,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1564,7 +1564,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1697,7 +1697,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1830,7 +1830,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -1963,7 +1963,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2096,7 +2096,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2229,7 +2229,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2362,7 +2362,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2495,7 +2495,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2628,7 +2628,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2761,7 +2761,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -2894,7 +2894,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3027,7 +3027,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3160,7 +3160,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3293,7 +3293,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3426,7 +3426,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3559,7 +3559,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3692,7 +3692,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3825,7 +3825,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -3958,7 +3958,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4091,7 +4091,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4224,7 +4224,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4357,7 +4357,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4490,7 +4490,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4623,7 +4623,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4756,7 +4756,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -4889,7 +4889,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5022,7 +5022,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5155,7 +5155,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5288,7 +5288,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5421,7 +5421,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5554,7 +5554,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5687,7 +5687,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5820,7 +5820,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -5953,7 +5953,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6086,7 +6086,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6219,7 +6219,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6352,7 +6352,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6485,7 +6485,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6618,7 +6618,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6751,7 +6751,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -6884,7 +6884,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7017,7 +7017,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7150,7 +7150,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7283,7 +7283,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7416,7 +7416,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7549,7 +7549,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7682,7 +7682,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7815,7 +7815,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -7948,7 +7948,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8081,7 +8081,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8214,7 +8214,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8347,7 +8347,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8480,7 +8480,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8613,7 +8613,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8746,7 +8746,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -8879,7 +8879,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9012,7 +9012,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9145,7 +9145,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9278,7 +9278,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9411,7 +9411,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9544,7 +9544,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9677,7 +9677,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9810,7 +9810,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -9943,7 +9943,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10076,7 +10076,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10209,7 +10209,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10342,7 +10342,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10475,7 +10475,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10608,7 +10608,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10741,7 +10741,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -10874,7 +10874,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -11007,7 +11007,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -11140,7 +11140,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -11273,7 +11273,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
@@ -11406,7 +11406,7 @@
             "name": "code_variation",
             "titles": "code_variation",
             "null": "_",
-            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes|No` (unit level, repeated on every token row of the unit; always present), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
+            "dc:description": "All variation features of the token, pipe-separated Key=Value: `ContainsVariation=Yes` (unit level, repeated on every token row of a unit with a `Code`; absent otherwise; an ordinary token has `_`), `Code=Other|Unsure|Underspecified`, `Language=<ISO code|NO_ISO_CODE>`, `Nonce=Yes`. Replaces the old `variation` column (a single label none|yes|unspecified|all|some, later a feature list with `Variety=Other|Unassignable|Unsure`); the current tools refuse to read the old format."
           },
           {
             "name": "jefferson_feats",
