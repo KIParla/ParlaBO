@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:33+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-17T14:59:46+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="PBC007.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="PBC007.mp3" />
     </HEADER>
@@ -3317,7 +3317,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>ad esempio quali (.) questi artigiani che mestieri facevano cioè magari falgnami, [arrotini]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ad esempio quali (.) questi artigiani che mestieri facevano cioè magari falegnami, [arrotini]?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3647,7 +3647,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1014" ANNOTATION_REF="a1013">
-                <ANNOTATION_VALUE>qualche ricordo ha di loro, cosa le è rimasto in presso</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>qualche ricordo ha di loro, cosa le è rimasto impresso</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3677,7 +3677,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1260" ANNOTATION_REF="a1259">
-                <ANNOTATION_VALUE>il saita?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>il sidecar?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10001,7 +10001,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>questo quartiere è diventato ancora più gra:nde credo che abbia più di sessanta mila persone</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>questo quartiere è diventato ancora più gra:nde credo che abbia più di sessantamila persone</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10111,7 +10111,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a79">
-                <ANNOTATION_VALUE>e poi da: da: da oltre deci anni dieci anni</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e poi da: da: da oltre dieci anni dieci anni</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10191,7 +10191,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a131">
-                <ANNOTATION_VALUE>con la città: da da dal dal dal centro</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>con la città: dal dal dal dal centro</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11081,7 +11081,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a546" ANNOTATION_REF="a545">
-                <ANNOTATION_VALUE>amava molt~ moltissimo guarda</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>amava molto moltissimo guarda</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11521,7 +11521,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a746" ANNOTATION_REF="a745">
-                <ANNOTATION_VALUE>xxncendo per esempio</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>convincendo per esempio</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11731,7 +11731,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a838" ANNOTATION_REF="a837">
-                <ANNOTATION_VALUE>la nuova sede della biblioeca è villa spada</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>la nuova sede della biblioteca è villa spada</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11841,7 +11841,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a888" ANNOTATION_REF="a887">
-                <ANNOTATION_VALUE>milenovecentoquarantacinque come la via</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>millenovecentoquarantacinque come la via</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12241,7 +12241,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1062" ANNOTATION_REF="a1061">
-                <ANNOTATION_VALUE>nella mi pare si chiamasse</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Nella mi pare si chiamasse</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12276,7 +12276,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1084" ANNOTATION_REF="a1083">
-                <ANNOTATION_VALUE>non ancora diec'anni quando:: c'è stata</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>non ancora diecianni quando:: c'è stata</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12296,7 +12296,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1094" ANNOTATION_REF="a1093">
-                <ANNOTATION_VALUE>era un paese apppunto di romania ameldola forlì</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>era un paese appunto di Romagna meldola forlì</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12786,7 +12786,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1292" ANNOTATION_REF="a1291">
-                <ANNOTATION_VALUE>un lascia passare, un nulla osta di</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>un lasciapassare passare, un nullaosta osta di</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12831,7 +12831,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1310" ANNOTATION_REF="a1309">
-                <ANNOTATION_VALUE>perche nella seconda parte della guerra, più avanti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>perchè nella seconda parte della guerra, più avanti</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12936,7 +12936,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1352" ANNOTATION_REF="a1351">
-                <ANNOTATION_VALUE>perché meldola eh a pochi chilometri dal dalle dal dal dal coso di aviazion dal campo di aviazione</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>perché meldola eh a pochi chilometri dal dalle dal dal dal coso di aviazione dal campo di aviazione</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13006,7 +13006,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1380" ANNOTATION_REF="a1379">
-                <ANNOTATION_VALUE>mesi e mesi utti in comunità</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mesi e mesi tutti in comunità</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13076,12 +13076,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1416" ANNOTATION_REF="a1415">
-                <ANNOTATION_VALUE>ch~ che erano turbolenti era una cosa proprio che</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>che che erano turbolenti era una cosa proprio che</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1418" ANNOTATION_REF="a1417">
-                <ANNOTATION_VALUE>ch~ che non si tenevano</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>che che non si tenevano</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15851,7 +15851,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2568" ANNOTATION_REF="a2567">
-                <ANNOTATION_VALUE>la la croce rossala, croce anche internazionale comunque (.) la croce rossa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>la la croce rossa la croce anche internazionale comunque (.) la croce rossa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

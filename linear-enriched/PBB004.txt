@@ -62,7 +62,7 @@ BOI012	[°sì°]
 BOI012	nelle vicinanze ma::: necessita l'automobile comunque
 BOR005	a::h
 BOI013	o la corriera
-BOR005	e (.) voi principalmente cove come mi vi muovete in città
+BOR005	e (.) voi principalmente come come mi vi muovete in città
 BOI012	in auto
 BOI013	autobus
 BOR005	e >qua però< ne passano pochi
@@ -83,9 +83,9 @@ BOR005	invece (.) parlando di bologna in generale
 BOR005	pensate che la <città> sia cambiata molto negli ul[timi an]ni?
 BOI013	[sì]
 BOI012	[mah] (.) non so::
-BOI013	[sì]
 BOI013	sì
-BOI013	>cioè< per me sì
+BOI013	sì
+BOI013	sì >cioè< per me sì
 BOR005	per te no ((ride))
 BOI012	sì e no: (in)somma: dipende dai punti di vista
 BOR005	a~
@@ -104,17 +104,17 @@ BOI013	usciva di più::
 BOI013	in strada a[desso no]
 BOI012	[ma: e dopo] due anni di covid non è che >tutti vanno all'este~< e la gen[te che esce cioè: >gina<]
 BOI013	[°m:h°]
-BOI013	# [°ma° non] c'entra u covid
+BOI013	#[°ma° non] c'entra u covid
 BOI012	ah eh
-BOI013	[non centra]
-BOI012	[ah centra] (.) c'entra
+BOI013	[non c'entra]
+BOI012	[ah c'entra (.) c'entra
 BOI013	no: la: gente ha più paura di uscire (.) di sera
 BOR005	mh
 BOI013	ha più paura
 BOI012	ah io tutta sta paura non °m:::h°
 BOR005	>e quindi tu non lo noti< ques[to cambiam]ento in p[eggio]
 BOI012	[no]
-BOI012	[no]
+BOI012	no
 BOI013	[°ah°] io m:h
 BOI013	io abitavo in stazione centrale,
 BOI012	xxx (.) traffico, magari c'è più [traffico],
@@ -130,10 +130,9 @@ BOR005	((ride))
 BOI013	°che cavolo dici°
 BOI012	ah che ca[volo dici]
 BOI013	[non è la] bomba enrico
-BOI013	>prima si u~ si<
 BOI013	c'è troppa:: delinquenza in giro
 BOI013	troppe persone, troppo spac[cio],
-BOI012	[ma] quando vai tu in centro (lascia [sta~) (m]a quando) ci vai
+BOI012	[ma] quando vai tu in centro (lascia [sta) (m]a quando) ci vai
 BOI013	[eh]?
 BOI012	[quando sei s]tata
 BOI013	[enrico:]
@@ -141,15 +140,15 @@ BOI012	l'ultima volta in centro
 BOI013	>perché non vado< in cen[tro io]?
 BOI012	[vabbè] (dire::) in [questo]
 BOI013	[non vado] in piazzola? non vado in monta[gnola]?
-BOI012	[beh va b]eh oh (.) punti di vista io non m:h
+BOI012	[beh va oh (.) punti di vista io non m:h
 BOI013	>[cioè] vai sa~< vai:: sotto il sottopassaggio della:: all'autostazione,
 BOI012	[mh]
 BOI013	[che]::
 BOI013	che trovi sempre spacciatori >che ti ve~<
 BOI013	che ti danno della
 BOI013	u:h vuole QUALCOSA signora?
-BOI013	# ne vuole? >ma ma< sa vut (.) dalla vita
-BOI013	[>cioè] cio~ enrico< tu: il problema >è che tu prendi< là:: la macchina e non gir~
+BOI013	ne vuole ma ma sa vut (.) dalla vita
+BOI013	[>cioè] cio~ enrico< tu: il problema >è che tu prendi< la:: la macchina e non gir~
 BOI012	[mh]
 BOI013	IO prendo la corriera, l'autostazione,
 BOI013	è PIENA PIENA PIENA
@@ -201,7 +200,7 @@ BOI013	[bologna] è::
 BOR005	[mh]
 BOI013	è una città più piccola:::
 BOI013	di n~ proprio::: in[contri]
-BOI012	[beh] (.) ma: [(è) l'id]ea gina ma
+BOI012	[beh (.) ma: [(è) l'id]ea gina ma
 BOI013	[sempre]
 BOI013	è l'ambi[ente]
 BOI012	[non hai un t]ermine di confronto >perché non ci sei< non ci sei [mai abit]ata di fatto,
@@ -216,7 +215,7 @@ BOI013	io preferisco bologna
 BOI013	boh
 BOI012	non [lo so °non] lo so° poi [magari]
 BOR005	[xxx]
-BOI013	xxx ((ride))
+BOI013	x ((ride))
 BOI012	non lo so non ho mai abitato da: altre parti [quindi]
 BOR005	[mh]
 BOR005	vabbè tu vieni da fuori bologna
@@ -370,7 +369,7 @@ BOI012	bene::
 BOI013	no qualcosa c[i doveva essere]
 BOI012	[contezza del t]empo ma:: quello è
 BOR005	ma: questa funivia cioè da: m:h da dove partiva
-BOI012	partiva (.) da::::: da:: >come si chiama< via (.) porrettana? [>mi sembra<]?
+BOI012	partiva (.) da::::: da:: >come si chiama< via (.) porrettana? [>mi sembra<?]
 BOR005	[mhmh]
 BOI012	di: dopo lo stadio no
 BOR005	okay?
@@ -379,8 +378,8 @@ BOI012	>c'era la stazione della funivia e andava su< f[ino a san l]uca
 BOR005	[mhmh]
 BOR005	>e anche< (.) tu l'hai [presa mai]?
 BOI013	[>no no no °no°<]
-BOR005	>però sapevi dell'esistenza della f[univia<]?
-BOI013	[sì] (.) >sì sì sì<
+BOR005	>però sapevi dell'esistenza della f[univia<?]
+BOI013	[sì (.) >sì sì sì<
 BOI013	>vabbè< sempre a piedi °sono andata°
 BOR005	((ride))
 BOI012	ma:: sì ma è:: °s~°
@@ -426,10 +425,10 @@ BOI012	((ride))
 BOI013	°perché sei ciuccio°
 BOI012	((ride))
 BOI013	oh ((ride))
-BOI013	# eh beh che bo'
+BOI013	eh beh che bo'
 BOI012	(°>tu hai visto<°)
-BOR005	# che bo'
-BOI013	# >ch[e bo']<
+BOR005	che bo'
+BOI013	che bo'
 BOI012	[>sto<] sto ridendo::
 BOR005	quindi
 BOR005	>quindi< (.) cioè soprattutto tu a san luca ci sei andato parecchie volte
@@ -477,8 +476,8 @@ BOI013	[(levi)] ambula~ ((ride))
 BOR005	>e poi da lì c'è: anche<
 BOR005	da (.) diciamo dal (.) di lato:: c'è anche tutta la vista, su:: [tutta <bologna>]
 BOI013	[>no è bella<]
-BOI012	[sì] (.) sì sì
-BOR005	>che si vede anche l'aeropor[to<],
+BOI012	[sì (.) sì sì
+BOR005	>che si vede anche l'aeropor[to<,]
 BOI013	[sì]
 BOI012	[anche] lo sta~ lo::: lo stadio, vedi sì
 BOR005	e::
@@ -526,7 +525,7 @@ BOI013	[che poi]
 BOI013	[da]lla pa~ da::: da san luca non vie~ viene giù anche la madonna,
 BOI013	perciò tutti:: i negozianti
 BOI013	ci tengono a [tenere in ordine]
-BOI012	[sì:: sì sì °vabbè°] ((borbotta))
+BOI012	[sì:: sì sì °vabbè°] eh ((borbotta))
 BOI013	perché la madonna viene da ma~ quando a maggio?
 BOI012	°m:h° un bel portico quello lì s[ì]
 BOI013	[ch]e poi dicono che quando viene GIÙ
@@ -547,7 +546,7 @@ BOI013	a maggio
 BOR005	inizio fine me[tà]
 BOI013	[è l]a madonna scura poi
 BOI012	sì
-BOI013	>se tu vedi la madonna di san lu[ca<],
+BOI013	>se tu vedi la madonna di san lu[ca<,]
 BOR005	[m]hmh
 BOI013	è scura in faccia
 BOI012	sì l'icona è scura (.) la ritrae °come::°
@@ -557,13 +556,13 @@ BOR005	pensandoci a >cioè< a bologna (.) i portici sono dappertutto
 BOI012	sì
 BOR005	e (.) quando: (.) vi capita di andare (.) in altre città,
 BOR005	che effetto fa non vederli
-BOI012	beh è: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh
+BOI012	beh eh: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh
 BOI012	non come bologna ma tutte le città li hanno
 BOR005	sì?
 BOI013	>beh ci[oè enr~<] siamo andati a roma i portici non c'erano
 BOI012	[sì:]
 BOI012	roma
-BOI012	io sto parlando d[ell'emilia romagna] (.) le città qua attorno
+BOI012	io sto parlando d[ell'emilia romagna (.) le città qua attorno
 BOI013	[xxx]
 BOI012	a ferrara i >portici ci sono<, a
 BOI012	a parma i >portici ci sono<,
@@ -613,7 +612,7 @@ BOI012	milletrecento,
 BOR005	((ride))
 BOI013	penso di sì
 BOR005	((ride))
-BOI013	°>ma questo mo c'ho me~<° sì >i portici sono i più<
+BOI013	°>ma questo non c'ho me~<° sì >i portici sono i più<
 BOI013	è come l'università che sono::
 BOI013	è l'unis~ ~versità più:::
 BOI013	più vecchia del e:::h de:::: [non è la:]
@@ -654,8 +653,8 @@ BOI012	è già da un po' di tempo >°che faccio questo lavoro°<
 BOI012	comunque sì monto: monto macchine:: agricole per °e:h°
 BOI012	per la raccolta: delle olive, per la potatura: degli alberi, >quelle cose lì<
 BOR005	invece (.) il tuo lavoro [gina]?
-BOI013	[io] (.) aiuto infermiera
-BOI013	in una rsa
+BOI013	[io (.) aiuto infermiera
+BOI013	in una erressea
 BOR005	e
 BOR005	tu hai sempre fatto questo la[voro]?
 BOI013	[sì]
@@ -676,10 +675,9 @@ BOI013	[largo ai gio]vani::: lasciamo largo ai [giovani]
 BOI012	[ci vuole il t]urn around >come lo chiamano< i:: [in inglese]
 BOI013	[ma (.) ma i]l mio lav[oro dopo:]
 BOI012	[<ci vuol del ri]cambio:>
-BOI013	dopo i cinquantanni non è più possibile farlo
+BOI013	dopo i cinquantannianni non è più possibile farlo
 BOR005	mh
 BOI013	non ci sei con la testa
-BOI013	m::h
 BOR005	quindi rispetto al >passato< provi tanta fatica in più n[el fa]re il tuo lavo[ro]
 BOI013	[sì]
 BOI012	[si invecchia, (.) sì: si invecchia]
@@ -710,8 +708,8 @@ BOI012	((ride))
 BOI013	e noi [siamo::]
 BOR005	[a::h]
 BOR005	[>e quindi<]
-BOI013	[>noi dobbiam<] (.) prendere tutto
-BOI013	che essendo un'rsa noi dobbiamo prendere tutto
+BOI013	[>noi dobbiam< (.) prendere tutto
+BOI013	che essendo un'erressea noi dobbiamo prendere tutto
 BOI013	quello che passa il convento
 BOI013	essendo una struttura
 BOI013	non pro~ non e::h
@@ -720,7 +718,7 @@ BOI013	non possiamo far la scelta
 BOI012	siete lì per quello gina eh
 BOI012	°eh [e::h°]
 BOI013	[no (.) ci sono] i privati che fanno le scelte
-BOI012	beh ma i privati non sono lì per quello
+BOI012	eh beh ma i privati non sono lì per quello
 BOI013	eh
 BOI012	((ride))
 BOR005	ma poi in base
@@ -739,11 +737,11 @@ BOI013	((ride))
 BOR005	((ride))
 BOI013	((ride))
 BOI013	non me li ricordo più
-BOI013	no: no °basta° (.) dopo i cinquantanni bisogna stare a <casa>
+BOI013	no: no °basta° (.) dopo i cinquantannianni bisogna stare a <casa>
 BOI013	e farsi la pensione
 BOI013	però questo non si può
 BOR005	e anche tu provi questa fatica nell'andare al lavoro >come dice lei<?
-BOI012	[avoglia] (.) sì eh
+BOI012	[avoglia (.) sì eh
 BOR005	mh
 BOI013	>[però] quando lavorano sti gio°vani°<
 BOR005	[e]
@@ -819,7 +817,7 @@ BOI012	vicini a:: alla tua idea di::
 BOI012	di lavoro, e:: via discorrendo
 BOI012	cioè
 BOI012	se mi devo laureare
-BOI012	i: in in meccanica >poi dopo<
+BOI012	i~ in in meccanica >poi dopo<
 BOI012	stare a lavorare, a bologna, come netturbino >come ho conosciuto io::< della gente
 BOI012	non so se sia il caso >hai capito<
 BOI012	voglio dire
@@ -891,7 +889,7 @@ BOI013	>perché è la mia città< (.) è la nostra regione,
 BOI013	guardo molto queste queste cose qui poi:: °le teleno:: le telenovelas°
 BOI013	e poi alle otto son >già a letto che dormo<
 BOR005	((ride))
-BOR005	e nel pomeriggio quando sei a casa: >che: quindi non lavori< ti capita di guardare la tv?
+BOR005	e nel pomeriggio quando sei a casa: >che: quindi non lavori< ti capita di guardare la tivu?
 BOI013	SÌ
 BOI012	sei sempre dalla (tata a [xx)]
 BOI013	[>sì v]abbè poi vado anche da mia sorella io eh<
@@ -908,12 +906,12 @@ BOI013	doppia mascherina,
 BOI013	camice, no >°cioè no°<
 BOI012	poi lei dedica molto tempo anche a sua sorella
 BOR005	[[m:h]
-BOI013	[po]i chiu:: chiu[si dentro:]
+BOI013	[po]i chiu~ chiu[si dentro:]
 BOI012	[all'antone]lla
 BOI013	chiusi dentro n[ei reparti],
 BOI012	[che ha l'alzheimer]
 BOI012	((ride))
-BOR005	>e tu la tv la guardi<?
+BOR005	>e tu la tivu la guardi<?
 BOI012	sì
 BOI012	sì
 BOR005	e che (.) programmi guardi d[i solito]
@@ -941,18 +939,18 @@ BOR005	[mh]
 BOI013	mercoledì mi devo guardare chi l'ha visto,
 BOI012	((ride))
 BOI013	martedì carta bianca, io c'ho i miei::°:[:°]
-BOI012	[m]artedì ci sei te in tv ti dobbiamo vedere,
+BOI012	[m]artedì ci sei te in tivu ti dobbiamo vedere,
 BOR005	((ride))
 BOI013	((ride))
 BOI012	((ride))
 BOR005	che scherzi
 BOI012	((ride))
-BOI013	°e:h° mica mo è da tutti avere il cugino in tv
+BOI013	°e:h° mica mo è da tutti avere il cugino in tivu
 BOI013	posso dirlo
 BOR005	eh
 BOI013	eh
 BOR005	e invece di sport >visto che< a bologna ci sono parecchie squadre, fra basket, calcio seguite qualcuna?
-BOI012	no (.) se: (.) no
+BOI012	no (.) sì: (.) no
 BOI012	allo stadio c'andavo da ragazzino, poi:: mi sono allon°t[anato°]
 BOR005	[per il c]alcio o per il bask[et]
 BOI012	[c]alcio il bas~ il basket non mi son mai interessato
@@ -982,11 +980,11 @@ BOI013	[no n]o (.) la poltrona
 BOR005	((ride))
 BOI012	>figurati che ho vinto< anche una gara >non son passato neanche dal podio perché<
 BOI012	dovevo andare
-BOI012	mi ha telefonato LEI (a dirmi) che c'era il compleanno di:: michela (.) mi [sembra]
+BOI012	mi ha telefonato LEI (a dirmi) vieni che c'era il compleanno di:: michela (.) mi [sembra]
 BOR005	((ride))
 BOI013	[vero]nica
 BOI012	o veronica,
-BOI012	e::: in fretta e furia >son scappato via non ho fatto::< non ho visto neanche
+BOI012	e::: in fretta e furia >son scappato via non ho fatto::< non ho han visto neanche
 BOI012	sul podio
 BOR005	((ride))
 BOI012	pure ho vinto: ha: vinto eh
@@ -997,8 +995,8 @@ BOR005	((ride))
 BOI013	((ride))
 BOI012	grazie a:::
 BOR005	((ride))
-BOI013	era >beh oh< c'era la torta
-BOI012	a ro~ a rompi: a rompiscatole q[ua]
+BOI013	e >vabbè oh< c'era la torta
+BOI012	a ro~ a rompi~ a rompiscatole q[ua]
 BOI013	[>eh] c'era la torta<
 BOR005	((ride))
 BOR005	invece parlando di musica
@@ -1024,10 +1022,10 @@ BOR005	mhmh,
 BOI012	e::h °li° >lo conosco è un mio amico<
 BOR005	mhmh
 BOI012	poi altri, cioè:: michael (.) brusha:, >cioè tutta::<
-BOI012	# la balotta dei musicisti jazz di bologna [li con]osco (.) tutti
+BOI012	#la balotta dei musicisti jazz di bologna [li con]osco (.) tutti
 BOI013	[mhmh]
 BOI012	°praticamen~°
-BOR005	°e di:° di solito che m~ che (.) tipo di musica ascoltate: >qualche volta [vi capita<]?
+BOR005	°e di:° di solito che m~ che (.) tipo di musica ascoltate: >qualche volta [vi capita<?]
 BOI013	[ITALIANA]
 BOI012	io tutta (.) tutta (.) [mh non ho:::]
 BOI013	[>no no< io ital]iana (.) io voglio capire quando cantano
@@ -1043,7 +1041,7 @@ BOI013	gli ottanta,
 BOI013	>no gli ultimi no< non non non mi interessa
 BOI013	>io a me piacciono< i cantautori, gianni::
 BOI013	[>che c'erano prima<]
-BOI012	[xx]x ti piacciono i (.) qu[elli n]uovi
+BOI012	[xx]x ti piacciono (.) qu[elli n]uovi
 BOI013	[sì]
 BOI013	sì ma m:h qualcosa >non n[on<]
 BOI012	[f]edez, e::h
@@ -1054,7 +1052,7 @@ BOI013	non tanto
 BOI013	mi piace:::: i vecchi
 BOI012	mh
 BOI013	>cioè io devo capire la musica< se no
-BOI013	cosa la ascolto a fa~ [la canz]
+BOI013	cosa la ascolto a fa~ [la canz~]
 BOI012	[l'unica:]
 BOI013	la canzone che io >non la capisco che mi parlano inglese<
 BOI012	>sta parlando di musica< non di <canzoni> g[ina: eh ades~]
@@ -1077,9 +1075,8 @@ BOI012	>°cioè ma non esi~°<
 BOI013	((ride))
 BOI013	((ride))
 BOI012	((ride))
-BOR005	che poi
-BOI013	[bel]
-BOR005	[parlan]do di musica (.) quando eravate giovani vi capitava di andare a ballare in discoteca?
+BOI013	[bel] bel
+BOR005	(.)
 BOI013	((ride))
 BOI013	[living]
 BOI012	[mi capita]va prima che conoscessi lei mi capitava dopo
@@ -1095,7 +1092,7 @@ BOI012	centro commerciale
 BOR005	((ride))
 BOI013	centro commer[ciale]
 BOI012	[lo sp]ort di gina è il <centro commercia[le>]
-BOI013	[un p]o':
+BOI013	[un p]o'
 BOR005	e quando andavi a ballare dove andavi d[i solito]
 BOI012	[ovun]que (.) ovunque
 BOI013	IO AL LIVING
@@ -1113,7 +1110,7 @@ BOI013	no
 BOI012	>il living non c'è più<
 BOI012	>poi c'era una sala< bingo,
 BOI013	a [corticella]
-BOI012	[poi dopo] (.) credo che sia chiuso anche quello >adesso gi[usto<]
+BOI012	[poi dopo (.) credo che sia chiuso anche quello >adesso gi[usto<]
 BOI013	[sì]
 BOI013	(basta)
 BOI012	°c'è più niente°
@@ -1137,9 +1134,8 @@ BOR005	[ihih]
 BOI013	[sì] con i miei colleghi,
 BOR005	mh
 BOI013	ma poca roba col covid ancora peggio
-BOI013	evitiamo
-BOI013	evitare è meglio che::
-BOI013	((ride)) curare ((ride))
+BOI013	evitiamo evitiamo
+BOI013	((ride)) ((ride))
 BOI012	°prevenire era poi°
 BOR005	((ride))
 BOI013	però è meglio curare

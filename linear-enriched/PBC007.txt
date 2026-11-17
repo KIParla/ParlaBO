@@ -2,7 +2,7 @@ BOR005	allora
 BOR005	inizio subito chiedendole (.) in che quartiere di bologna vive?
 BOI019	quartiere saragozza
 BOI019	attualmente si dice saragozza porto perché
-BOI019	questo quartiere è diventato ancora più gra:nde credo che abbia più di sessanta mila persone
+BOI019	questo quartiere è diventato ancora più gra:nde credo che abbia più di sessantamila persone
 BOR005	ah mo:lte quind[i]
 BOI019	[s]ì
 BOR005	e [si trova bene qua]?
@@ -33,11 +33,11 @@ BOI019	abitati da da: calzolai e::h sarti?
 BOI019	e::h
 BOI019	queste queste figure sono sparite (.) gli artigiani non esistono più
 BOI019	ma negli anni sessanta c'erano ancora
-BOR005	ad esempio quali (.) questi artigiani che mestieri facevano cioè magari falgnami, [arrotini]?
+BOR005	ad esempio quali (.) questi artigiani che mestieri facevano cioè magari falegnami, [arrotini]?
 BOI019	[sì sì sì] sì c'erano c'erano
 BOR005	ah okay e:h
 BOI019	sono partita sono sono
-BOI019	e poi da: da: da oltre deci anni dieci anni
+BOI019	e poi da: da: da oltre dieci anni dieci anni
 BOI019	sono sparite anche le piccole botteghe
 BOR005	mh
 BOI019	le piccole b~ il lattaio,
@@ -63,7 +63,7 @@ BOI019	diventa una una congiunzione
 BOR005	mhmh
 BOI019	con con la città
 BOR005	anche xx
-BOI019	con la città: da da dal dal dal centro
+BOI019	con la città: dal dal dal dal centro
 BOI019	alla periferia
 BOI019	dal centro abitato
 BOI019	alla::
@@ -270,7 +270,7 @@ BOI019	e vi~ ha la fortuna anche con mio marito che eh
 BOI019	venivamo appunto da da da due
 BOI019	due realtà diverse era proprio questo::
 BOI019	questa forma di di di legame perché anche mio marito
-BOI019	amava molt~ moltissimo guarda
+BOI019	amava molto moltissimo guarda
 BOI019	conoscere conoscere anche i nostri viaggi
 BOI019	erano viaggi di conoscenza insomma siamo andati alle maldive
 BOI019	eh in crociera mai
@@ -370,7 +370,7 @@ BOI019	la parte nuova però noi partimmo
 BOI019	addirittura dalle parti più
 BOI019	lontane
 BOI019	coinvolgendo ragazzi
-BOI019	xxncendo per esempio
+BOI019	convincendo per esempio
 BOI019	dall'archeologia
 BOI019	co~
 BOI019	coinvolgendo i ragazzi dell'università
@@ -416,7 +416,7 @@ BOI019	a cielo aperto
 BOI019	collegato
 BOI019	con la nuova sede della biblioteca
 BOR005	qual'è la nuova sede?
-BOI019	la nuova sede della biblioeca è villa spada
+BOI019	la nuova sede della biblioteca è villa spada
 BOR005	ah okay okay
 BOI019	perché prima
 BOI019	la la biblioteca è nata in via paolo:
@@ -441,7 +441,7 @@ BOI019	nella seconda guerra mondiale, alla fine della seconda guerra mondiale
 BOI019	tutti insediamenti
 BOI019	con la scuola che (.) prende il nome via (.) scuol~ scuola
 BOI019	ehm eh ventuno aprile
-BOI019	milenovecentoquarantacinque come la via
+BOI019	millenovecentoquarantacinque come la via
 BOI019	com'è ventuno aprile e cos'è ventuno aprile
 BOI019	per i ragazzi imparare
 BOI019	che tu vivi in mezzo alla storia
@@ -504,7 +504,7 @@ BOR005	tutte figure molto importanti c'è magari una che le è rimasta particola
 BOR005	di queste donne? (.) di quelle che magari ha anche avuto la fortuna di conoscere
 BOI019	sì sì sì sì
 BOI019	soprattutto ehm sono morte tutte però
-BOR005	qualche ricordo ha di loro, cosa le è rimasto in presso
+BOR005	qualche ricordo ha di loro, cosa le è rimasto impresso
 BOI019	a::h di di di di donne di donne solari, buone
 BOI019	buone, solari, semplici, laboriose
 BOI019	proprio m::::h
@@ -528,7 +528,7 @@ BOI019	alla:: a una partigiana che ha voluto questo monumento
 BOI019	comunque letizia manzuccato è stata l'architetto
 BOI019	e::h
 BOI019	sono non non mi sovviene il nome del~ della partigiana
-BOI019	nella mi pare si chiamasse
+BOI019	Nella mi pare si chiamasse
 BOI019	comunque questo lo troviamo
 BOI019	il [nome lo trovia]mo
 BOR005	[sì:sì:]
@@ -539,12 +539,12 @@ BOR005	[mhmh]
 BOI019	ma eh dei ricordi della mia guerra sì ((ride))
 BOI019	io ero una bambina che avevo:
 BOI019	avevo dieci anni quando::
-BOI019	non ancora diec'anni quando:: c'è stata
+BOI019	non ancora diecianni quando:: c'è stata
 BOI019	il discorso il dieci giugno del quaranta
 BOR005	mh
 BOI019	me lo ricordo molto bene
 BOI019	perché nel mio paese
-BOI019	era un paese apppunto di romania ameldola forlì
+BOI019	era un paese appunto di Romagna meldola forlì
 BOI019	eh furono mh::
 BOI019	instaurati diciamo se così si può dire furono messi
 BOI019	degli autoparlanti dalla piazza
@@ -627,7 +627,7 @@ BOI019	il comandante forse
 BOI019	proprio immediatamente davanti al carrarmato
 BOI019	nella motocicletta (.) con
 BOI019	col seggiolino lì come si chiama il:
-BOR005	il saita?
+BOR005	il sidecar?
 BOI019	quindi c'era colui che guidava e colui che comandava che avevano già il mitra
 BOI019	poi subito dietro i carrarmati
 BOI019	questi carrarmati che spianavano proprio la strada spianavano
@@ -643,7 +643,7 @@ BOI019	e presero tutto il grano che c'era dentro
 BOI019	e poi cominciarono i rastrellamenti
 BOI019	a mio padre fu lasciato un:: un::
 BOI019	un::
-BOI019	un lascia passare, un nulla osta di
+BOI019	un lasciapassare passare, un nullaosta osta di
 BOI019	di di:: m:h
 BOI019	di di di di di
 BOI019	di di di non allontanamento
@@ -652,7 +652,7 @@ BOI019	utilizzavano
 BOI019	anche il suo lavoro
 BOI019	per sistemare
 BOI019	carri per sistemare robe del genere
-BOI019	perche nella seconda parte della guerra, più avanti
+BOI019	perchè nella seconda parte della guerra, più avanti
 BOI019	abbiamo visto anche che utilizzavano cavalli
 BOI019	anche io li ho visti perfino con le bestie
 BOI019	che portavano (.) coi carri
@@ -673,7 +673,7 @@ BOI019	che quella villetta è stata rasa al suolo
 BOI019	e sotto ci son stati cinque morti
 BOI019	e noi (.) eravamo dall'altra parte (.) proprio in confine lì attaccati
 BOI019	perché c'era questa croce rossa perché noi avevamo i bombardamenti
-BOI019	perché meldola eh a pochi chilometri dal dalle dal dal dal coso di aviazion dal campo di aviazione
+BOI019	perché meldola eh a pochi chilometri dal dalle dal dal dal coso di aviazione dal campo di aviazione
 BOI019	ma poi noi avevamo una fabbrica
 BOI019	dove venivano
 BOI019	revisionati i motori degli aerei
@@ -687,7 +687,7 @@ BOI019	ancora:
 BOI019	qualco~ a botte così s~
 BOI019	sembravano abbastanza sicure
 BOI019	e quindi lì abbiamo vissuto
-BOI019	mesi e mesi utti in comunità
+BOI019	mesi e mesi tutti in comunità
 BOI019	con poco da mangiare con così
 BOR005	e (.) adesso
 BOR005	cioè lei
@@ -705,8 +705,8 @@ BOI019	e::h o::h non so se cinquantacinque sì mhmhmh non lo s~
 BOI019	comunque
 BOI019	una supplenza e tutti mi dicevano che c'era molti bam~ molt~ molti ragazzini che venivano dal meridione
 BOI019	grandi
-BOI019	ch~ che erano turbolenti era una cosa proprio che
-BOI019	ch~ che non si tenevano
+BOI019	che che erano turbolenti era una cosa proprio che
+BOI019	che che non si tenevano
 BOI019	((sospira)) e allora arrivo io piccolina, giovanissima
 BOI019	m::h e::h dice ma
 BOI019	come fai a tenerli
@@ -1281,7 +1281,7 @@ BOI019	come trattavano bene
 BOI019	trattavano bene
 BOI019	i loro prigionieri
 BOI019	doveva farlo vedere alla croce rossa
-BOI019	la la croce rossala, croce anche internazionale comunque (.) la croce rossa
+BOI019	la la croce rossa la croce anche internazionale comunque (.) la croce rossa
 BOI019	dovevano andar a vedere com'erano trattati bene
 BOI019	da hitler i prigionieri
 BOI019	che poi
