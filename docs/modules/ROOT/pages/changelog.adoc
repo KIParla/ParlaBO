@@ -1,5 +1,13 @@
 = Changelog
 
+== v3.0.1 (2026-11-27)
+
+=== What's Changed
+* Release 3.0.1: age range over 85 -> over85 by @ellepannitto in https://github.com/KIParla/ParlaBO/pull/19
+
+
+link:https://github.com/KIParla/ParlaBO/compare/v3.0.0...v3.0.1[Full Changelog]
+
 == v3.0.0 (2026-10-18)
 
 === What's changed in 3.0.0
